@@ -1,0 +1,754 @@
+[Event "Nottingham"]
+[Site "?"]
+[Date "1936.08.10"]
+[Round "1"]
+[White "Alekhine, Alexander"]
+[Black "Flohr, Salo"]
+[Result "1-0"]
+[ECO "C15"]
+[Annotator "JvR"]
+[PlyCount "113"]
+[EventDate "1936.??.??"]
+[Source "ChessBase"]
+[SourceDate "2004.03.11"]
+
+{The games between the eight strongest players have been analysed again.  Jan
+van Reek} 1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. Bd2 dxe4 5. Nxe4 $2 ({Right is} 5.
+Qg4 Qxd4 6. O-O-O {(Marshall-Chigorin, Monte Carlo 1900).}) 5... Qxd4 6. Bd3
+Bxd2+ 7. Qxd2 Qd8 $2 {Flohr trembles.} ({Alekhine gives} 7... Qxb2 8. Rd1 Nd7 {
+(Davis-Allain, corr. 1962).}) 8. O-O-O Qe7 9. Nf3 Nf6 10. Rhe1 Nxe4 11. Rxe4 $5
+Nd7 $2 {Black allows a 'petite combinaison'.} 12. Rg4 $2 ({Better is} 12. Qc3
+$1 O-O (12... Nf6 13. Rc4 c6 14. Rxc6 $1) 13. Qxc7 Qc5 14. Qg3 $1) 12... f5 $5
+13. Rf4 Nf6 14. Re1 Bd7 $2 (14... g6 {keeps the extra pawn (Alekhine).}) 15.
+Rxf5 $5 O-O-O 16. Ra5 Kb8 17. Ne5 Be8 18. g3 Nd5 19. Re4 Nb6 $5 20. Qe3 Rd5 21.
+Ra3 Qc5 $6 {A poor endgame follows.} 22. Qxc5 Rxc5 23. f4 Rd5 24. Nf3 Bd7 25.
+Ng5 Re8 26. c4 Rf5 27. Rd4 Rff8 28. c5 Nd5 29. Bxh7 Bc6 30. Bg6 Re7 31. Nf3 Nf6
+32. Ne5 Bd5 33. Re3 Rh8 34. h4 c6 35. Bc2 Rd8 36. Bb3 Rc7 37. Nf3 Re8 38. Ne5
+Rec8 39. Bc4 Ka8 40. b4 Rb8 41. g4 b6 42. g5 bxc5 43. bxc5 Nd7 44. Nxd7 Rxd7
+45. h5 Rf7 46. Rxe6 $5 (46. Bxd5 exd5 47. Rh3 {wins more easily.}) 46... Bxe6
+47. Bxe6 Rfb7 48. Bb3 Rh8 49. h6 $1 gxh6 50. g6 Rg7 51. f5 Rf8 52. Bc2 h5 53.
+Rd6 Re7 54. f6 Re1+ 55. Kd2 Rf1 56. f7 h4 57. Rd7 1-0
+
+[Event "Nottingham"]
+[Site "?"]
+[Date "1936.08.10"]
+[Round "1"]
+[White "Euwe, Max"]
+[Black "Reshevsky, Samuel"]
+[Result "1-0"]
+[ECO "E16"]
+[Annotator "JvR"]
+[PlyCount "97"]
+[EventDate "1936.??.??"]
+[Source "ChessBase"]
+[SourceDate "2004.03.11"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Bb7 5. Bg2 Bb4+ 6. Bd2 Bxd2+ 7. Qxd2 O-O 8.
+Nc3 d6 9. Qc2 Qe7 10. O-O c5 11. Rad1 cxd4 12. Nxd4 Bxg2 13. Kxg2 Rc8 14. Qd3
+Nbd7 15. Nf3 Ne5 $5 16. Nxe5 dxe5 17. Qf3 Rab8 18. b3 a6 19. Ne4 Nxe4 20. Qxe4
+b5 21. cxb5 Rxb5 22. Rc1 Rbc5 23. Rxc5 Qxc5 24. Rd1 Qb5 $2 (24... Qc7 25. Kg1
+h6 {takes no risk.}) 25. Rc1 $1 Rd8 26. Rc7 g6 27. Qf3 Rf8 28. Ra7 a5 29. Qd3
+Qc5 30. Ra6 Qb4 31. Ra7 Qc5 32. Qe3 Qd5+ 33. Kh3 $6 ({Better is} 33. f3 {
+(Euwe).}) 33... h5 34. Qc3 Qd1 $6 (34... Qh1 {forces a draw (Euwe).}) 35. Kg2
+Qxe2 36. Rxa5 Qe4+ 37. Qf3 Qc2 38. h4 $6 Rc8 $2 ({Correct is} 38... e4 $1 39.
+Qe3 Rd8) 39. Ra7 $1 Rc7 40. Rxc7 Qxc7 {
+The exchange of rook has a fatal effect, because Black cannot stop the a-pawn.}
+41. Qa8+ $1 Kg7 42. a4 Qb6 (42... Qc3 43. Qb7 $1 e4 44. Qxe4 Qxb3 45. a5 {
+and White wins.}) 43. a5 Qxb3 44. a6 Qa3 45. a7 e4 46. Qb8 Qf3+ 47. Kg1 Qd1+
+48. Kh2 Qe2 49. Qe5+ ({The pointe is} 49. Qe5+ Kh7 50. Qf6 $1) 1-0
+
+[Event "Nottingham"]
+[Site "?"]
+[Date "1936.08.10"]
+[Round "1"]
+[White "Fine, Reuben"]
+[Black "Lasker, Emanuel"]
+[Result "1-0"]
+[ECO "D37"]
+[Annotator "JvR"]
+[PlyCount "65"]
+[EventDate "1936.??.??"]
+[Source "ChessBase"]
+[SourceDate "2004.03.11"]
+
+1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. Nc3 Be7 5. e3 O-O 6. Bd3 dxc4 7. Bxc4 c5 8. O-O
+a6 9. Qe2 b5 10. Bd3 Bb7 11. dxc5 Bxc5 12. e4 Nbd7 13. Bg5 h6 14. Bh4 b4 15.
+Na4 Be7 16. Rfd1 Nh5 $5 17. Bxe7 Qxe7 18. Rac1 Ndf6 $4 {
+Lasker makes a grave positional error.} ({Correct is} 18... Nf4 19. Qe3 Nxd3
+20. Rc7 $1 Bc6 $1 21. Rxc6 N7e5 22. Nxe5 Nxe5 {(Alekhine).}) 19. g3 $1 a5 20.
+Nc5 Rfc8 21. Nxb7 Qxb7 22. Ne5 Rxc1 23. Rxc1 Rc8 24. Rxc8+ Qxc8 25. Qc2 Qb7 26.
+Qc6 Qa7 27. Qc8+ Kh7 28. Nc6 Qc5 29. e5+ g6 30. exf6 Nxf6 31. Qb7 Kg8 32. Be2
+Nd5 33. Ne5 1-0
+
+[Event "Nottingham"]
+[Site "?"]
+[Date "1936.08.11"]
+[Round "2"]
+[White "Botvinnik, Mikhail"]
+[Black "Fine, Reuben"]
+[Result "1/2-1/2"]
+[ECO "A09"]
+[Annotator "JvR"]
+[PlyCount "72"]
+[EventDate "1936.??.??"]
+[Source "ChessBase"]
+[SourceDate "2004.03.11"]
+
+1. Nf3 d5 2. c4 dxc4 3. Na3 c5 4. Nxc4 Nc6 5. b3 f6 6. Bb2 e5 7. g3 Nge7 8. Bg2
+Nd5 9. O-O Be7 10. Nh4 O-O 11. Qb1 Rf7 12. Nf5 Be6 13. f4 exf4 14. gxf4 Nb6 15.
+Be4 $6 {Botvinnik overestimates his chances.} 15... Bxc4 $6 ({Better is} 15...
+Nxc4 16. bxc4 {(Alekhine), and now} 16... Qxd2 $1 {
+ruins the white pawn structure.}) 16. bxc4 Nxc4 17. Bc3 Nd4 18. Nxd4 cxd4 19.
+Bxh7+ Kf8 20. Bb4 d3 21. Bxe7+ Rxe7 22. Qxd3 Qxd3 23. exd3 Nb6 24. Be4 Rd8 25.
+Rac1 Nd5 26. a3 Red7 27. Kg2 b6 28. Kf3 Nc7 29. Ke3 Na6 30. Rc3 Nc5 31. Rf2 Rd4
+32. f5 Ra4 33. Rg2 Rad4 34. Rf2 Ra4 35. Rg2 Rad4 36. Rc4 R4d6 1/2-1/2
+
+[Event "Nottingham"]
+[Site "?"]
+[Date "1936.08.11"]
+[Round "2"]
+[White "Capablanca, Jose"]
+[Black "Alekhine, Alexander"]
+[Result "1-0"]
+[ECO "A92"]
+[Annotator "JvR"]
+[PlyCount "75"]
+[EventDate "1936.??.??"]
+[Source "ChessBase"]
+[SourceDate "2004.03.11"]
+
+{The opponents had played for the last time in 1927. They met again as enemies.
+} 1. d4 e6 2. Nf3 f5 3. g3 Nf6 4. Bg2 Be7 5. O-O O-O 6. c4 Ne4 7. Qb3 {
+Capa has a new answer to a pet idea of Alekhine.} 7... Bf6 8. Rd1 Qe8 9. Nc3
+Nc6 $6 10. Nb5 Bd8 11. Qc2 $6 {White loses time.} ({The immediate} 11. d5 $1 {
+gains a plus (Capablanca).}) 11... d6 12. d5 $5 Nb4 $1 13. Qb3 Na6 14. dxe6
+Nac5 15. Qc2 Nxe6 16. Nfd4 Nxd4 17. Nxd4 Bf6 18. Nb5 $6 Qe7 19. Be3 a6 20. Nd4
+Bd7 21. Rac1 Rae8 22. b4 b6 23. Nf3 $6 Nc3 $1 24. Rd3 $6 f4 $5 {
+Black wants to win an exchange.} ({The alternative} 24... Ba4 25. Qb2 $1 Nd1
+26. Qd2 Nxe3 27. Rxe3 {leads to equality.}) 25. gxf4 Bf5 26. Qd2 Bxd3 27. exd3
+c5 $2 ({Correct is} 27... Na4 $1 28. Ng5 $1 Bxg5 29. fxg5 Qd7 30. d4 b5) 28.
+Rxc3 $1 Bxc3 29. Qxc3 Qf6 $6 {Black has no counteraction in the endgame.} 30.
+Qxf6 gxf6 31. Nd2 f5 32. b5 a5 33. Nf1 Kf7 34. Ng3 Kg6 35. Bf3 Re7 36. Kf1 Kf6
+37. Bd2 Kg6 38. a4 {Slight incidents took place at this stage.} ({
+Later Capa gave the win} 38. a4 Rc7 39. h4 h6 40. h5+ Kh7 41. Bc3 Re7 42. Bg2
+Rd7 43. Bh3 Rdf7 44. Ke2 Re8+ 45. Kf3 Ref8 46. Nf1 Kg8 47. Ne3 Kh7 48. Nd5 Rb8
+49. Nf6+ $1 {(I added the moves for Black).}) 1-0
+
+[Event "Nottingham"]
+[Site "?"]
+[Date "1936.08.12"]
+[Round "3"]
+[White "Flohr, Salo"]
+[Black "Capablanca, Jose"]
+[Result "1-0"]
+[ECO "D59"]
+[Annotator "JvR"]
+[PlyCount "127"]
+[EventDate "1936.??.??"]
+[Source "ChessBase"]
+[SourceDate "2004.03.11"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. Bg5 Be7 5. e3 O-O 6. Nf3 h6 7. Bh4 b6 8. cxd5
+Nxd5 9. Bxe7 Nxe7 10. Be2 Bb7 11. O-O Nd7 12. Qa4 a6 13. Rfd1 Nd5 14. Rac1 Rc8
+15. Nxd5 exd5 16. Bd3 c5 17. dxc5 Nxc5 18. Qd4 Re8 19. Bf5 Rc7 20. Qf4 Rce7 21.
+Nd4 a5 22. Bd3 Re5 23. Bb5 R8e7 24. Qf3 Rg5 25. Qe2 Rg6 26. Bd3 Rf6 27. Bb1 Ba6
+28. Qh5 Bb7 29. a3 a4 30. Qg4 Re5 31. Nf3 Re7 32. Nd4 Re5 33. Nf3 Re7 34. Qg3
+Ba6 35. Nd4 Rd7 36. Bf5 Rc7 37. Bb1 {The players have to carry out 36 moves in
+the afternoon. So they have reached the first time limit. Euwe informs them.}
+37... Qc8 $4 {
+Capa thinks that he has to make four more moves, gets confused and blunders.}
+38. Nf5 $1 Rg6 39. Nd6 Rxg3 40. Nxc8 Rxg2+ 41. Kxg2 Rxc8 42. Ba2 Rc6 43. Bxd5
+Rg6+ 44. Kh1 Nd3 45. Rc2 Rd6 46. Bf3 Rf6 47. Be4 Rd6 48. Bxd3 Bxd3 49. f3 Bxc2
+50. Rxd6 b5 51. Kg2 Bb3 52. Rb6 Bc4 53. Kg3 Kf8 54. Kf4 Ke7 55. Ke5 Be2 56. f4
+Bc4 57. Rb7+ Kf8 58. f5 f6+ 59. Kf4 h5 60. e4 Be2 61. e5 fxe5+ 62. Kxe5 Bc4 63.
+Kf4 h4 64. Kg5 1-0
+
+[Event "Nottingham"]
+[Site "?"]
+[Date "1936.08.13"]
+[Round "4"]
+[White "Lasker, Emanuel"]
+[Black "Alekhine, Alexander"]
+[Result "1/2-1/2"]
+[ECO "E33"]
+[PlyCount "35"]
+[EventDate "1936.??.??"]
+[Source "ChessBase"]
+[SourceDate "2004.03.11"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 Nc6 5. Nf3 d6 6. a3 Bxc3+ 7. Qxc3 a5 8.
+Bg5 h6 9. Bxf6 Qxf6 10. e3 O-O 11. Be2 e5 12. dxe5 dxe5 13. O-O Bg4 14. h3 Bh5
+15. Rfd1 Rfe8 16. Rd5 Bg6 17. Rad1 Bf5 18. R5d2 1/2-1/2
+
+[Event "Nottingham"]
+[Site "?"]
+[Date "1936.08.13"]
+[Round "4"]
+[White "Reshevsky, Samuel"]
+[Black "Fine, Reuben"]
+[Result "1/2-1/2"]
+[ECO "E03"]
+[Annotator "JvR"]
+[PlyCount "118"]
+[EventDate "1936.??.??"]
+[Source "ChessBase"]
+[SourceDate "2004.03.11"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 dxc4 5. Qa4+ Nbd7 6. Qxc4 a6 7. g3 b5 8.
+Qd3 Bb7 9. Bg2 c5 10. O-O c4 11. Qc2 b4 12. Nd1 Rc8 13. Bg5 Qa5 14. Bxf6 Nxf6
+15. Ne3 c3 16. Ne5 Bxg2 17. Kxg2 Qb5 18. bxc3 Rxc3 19. Qb2 Be7 20. Rfc1 Rxc1
+21. Rxc1 O-O 22. f3 Bd6 23. N5c4 Bb8 24. a3 Nd5 25. axb4 Nxe3+ 26. Nxe3 Bd6 27.
+Rb1 $6 (27. d5 $1 {(Alekhine)} 27... Bxb4 28. dxe6 fxe6 29. Rc7 Rf7 30. Rc8+ {
+draws.}) 27... Rb8 28. Qa2 a5 $2 (28... Bxb4 {draws (Alekhine).}) 29. Nc4 Bxb4
+30. Nxa5 Qa6 ({Or} 30... Rc8 31. Nc6 $1 Qxc6 32. Rxb4) 31. Kf1 Rb6 32. Ra1 Bc3
+33. Rc1 Bb2 34. Rc2 g6 $6 (34... h6 {
+prevents the potential exchange of queens (Alekhine).}) 35. Rxb2 Rxb2 36. Qxb2
+Qxa5 37. Qb8+ Kg7 38. Kf2 $6 (38. Qe5+ $1 Qxe5 39. dxe5 {
+leads to a won pawn ending (Alekhine).}) 38... Qa1 39. Qe5+ Kg8 40. Kg2 Qe1 41.
+Qb8+ Kg7 42. Qb2 Kg8 43. Qc2 Qb4 44. Qd3 Kf8 45. Kh3 Qa5 46. e4 Qh5+ 47. Kg2
+Qa5 48. d5 Ke7 49. Qd4 exd5 50. exd5 Kd6 51. Qf6+ Kxd5 52. Qxf7+ Kd4 53. Qxh7
+$2 {This pawn capture allows a successful counteraction.} (53. Qd7+ $1 Ke3 54.
+Qe6+ Kd3 55. h4 {plays for a win.}) 53... Qa2+ 54. Kh3 Qe6+ 55. g4 Ke3 56. Qb7
+Kf2 $1 57. Qb8 Kxf3 58. Qf8+ Ke2 59. Qf4 Qd5 1/2-1/2
+
+[Event "Nottingham"]
+[Site "?"]
+[Date "1936.08.14"]
+[Round "5"]
+[White "Alekhine, Alexander"]
+[Black "Botvinnik, Mikhail"]
+[Result "1/2-1/2"]
+[ECO "B72"]
+[Annotator "JvR"]
+[PlyCount "40"]
+[EventDate "1936.??.??"]
+[Source "ChessBase"]
+[SourceDate "2004.03.11"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be2 Bg7 7. Be3 Nc6 8.
+Nb3 Be6 9. f4 O-O 10. g4 d5 $5 11. f5 (11. e5 d4 $1 12. Nxd4 Nxd4 13. Bxd4 Nxg4
+{stems from Levenfish-Botvinnik, Moscow 1936.}) 11... Bc8 12. exd5 Nb4 13. d6
+$5 {Alekhine plays a novelty.} ({Usual will become} 13. Bf3 $1 {
+(Bondarevsky-Alatortsev, Tbilisi 1937).}) 13... Qxd6 {Botvinnik found the
+following perpetual check after a thought of twenty minutes.} ({He mentions} 
+13... exd6 14. a3 $1 ({White should not play} 14. g5 $2 Bxf5 15. gxf6 Nxc2+ 16.
+Kf2 Qxf6 {(Polugaevsky)}) 14... Re8 {as a sound alternative.}) 14. Bc5 Qf4 $1
+15. Rf1 Qxh2 16. Bxb4 Nxg4 17. Bxg4 Qg3+ 18. Rf2 ({White has to avoid} 18. Kd2
+$4 Bh6+) ({and} 18. Ke2 $4 Qxg4+ 19. Rf3 Qxb4) 18... Qg1+ 19. Rf1 Qg3+ 20. Rf2
+Qg1+ 1/2-1/2
+
+[Event "Nottingham"]
+[Site "?"]
+[Date "1936.08.14"]
+[Round "5"]
+[White "Flohr, Salo"]
+[Black "Lasker, Emanuel"]
+[Result "1-0"]
+[ECO "D38"]
+[Annotator "JvR"]
+[PlyCount "75"]
+[EventDate "1936.??.??"]
+[Source "ChessBase"]
+[SourceDate "2004.03.11"]
+
+1. Nf3 d5 2. d4 Nf6 3. c4 e6 4. Nc3 Bb4 5. cxd5 exd5 6. Bg5 Qd6 7. Bxf6 gxf6 $4
+8. Qc2 Nc6 9. e3 Ne7 10. a3 Bxc3+ 11. Qxc3 f5 $2 12. g3 Bd7 13. Ne5 Be6 14. Nd3
+O-O 15. Be2 Rad8 16. O-O Bc8 17. Rac1 c6 18. Qc5 Qxc5 19. Rxc5 Kg7 20. b4 a6
+21. a4 Kf6 22. Rc2 Ke6 23. b5 axb5 24. axb5 Kd6 25. bxc6 bxc6 26. Nc5 Rde8 27.
+Ra1 Be6 28. Rca2 Rb8 29. Ra7 Rb6 30. Bh5 Rfb8 $2 {
+Lasker's mistakes are easy to understand.} 31. Bxf7 $1 Rb1+ 32. Rxb1 Rxb1+ 33.
+Kg2 Nc8 34. Rb7 Rxb7 35. Nxb7+ Ke7 36. Bxe6 Kxe6 37. Kf3 Ne7 38. Nc5+ 1-0
+
+[Event "Nottingham"]
+[Site "?"]
+[Date "1936.08.15"]
+[Round "6"]
+[White "Botvinnik, Mikhail"]
+[Black "Flohr, Salo"]
+[Result "1/2-1/2"]
+[ECO "B05"]
+[PlyCount "72"]
+[EventDate "1936.??.??"]
+[Source "ChessBase"]
+[SourceDate "2004.03.11"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. Nf3 Bg4 5. Be2 c6 6. O-O Bxf3 7. Bxf3 dxe5 8.
+dxe5 e6 9. Qe2 Qc7 10. c4 Ne7 11. Bg4 Nd7 12. f4 h5 13. Bh3 O-O-O 14. Be3 Nf5
+15. Bxf5 exf5 16. Qf2 Qa5 17. Nd2 Nb6 18. a3 Rd3 19. Rfd1 Be7 20. c5 Nd5 21.
+Nc4 Rxd1+ 22. Rxd1 Qa4 23. Rc1 h4 24. b4 h3 25. g3 Rd8 26. Qc2 Qxc2 27. Rxc2
+Kd7 28. Kf2 Ke6 29. Bc1 g6 30. Bb2 Ra8 31. Na5 Rb8 32. Kf3 Bd8 33. Nb3 Kd7 34.
+Nd4 Ra8 35. Re2 Be7 36. Nb3 Bf8 1/2-1/2
+
+[Event "Nottingham"]
+[Site "?"]
+[Date "1936.08.15"]
+[Round "6"]
+[White "Euwe, Max"]
+[Black "Fine, Reuben"]
+[Result "1/2-1/2"]
+[ECO "D67"]
+[PlyCount "38"]
+[EventDate "1936.??.??"]
+[Source "ChessBase"]
+[SourceDate "2004.03.11"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Be7 5. Bg5 Nbd7 6. e3 O-O 7. Rc1 c6 8. Bd3
+dxc4 9. Bxc4 Nd5 10. Bxe7 Qxe7 11. Ne4 N5f6 12. Ng3 c5 13. O-O a6 14. Ne5 cxd4
+15. exd4 Qd6 16. Qe2 b5 17. Bb3 Bb7 18. Rfd1 Rac8 19. Rxc8 Rxc8 1/2-1/2
+
+[Event "Nottingham"]
+[Site "?"]
+[Date "1936.08.15"]
+[Round "6"]
+[White "Lasker, Emanuel"]
+[Black "Capablanca, Jose"]
+[Result "1/2-1/2"]
+[ECO "D19"]
+[PlyCount "38"]
+[EventDate "1936.??.??"]
+[Source "ChessBase"]
+[SourceDate "2004.03.11"]
+
+1. d4 Nf6 2. c4 c6 3. Nf3 d5 4. Nc3 dxc4 5. a4 Bf5 6. e3 e6 7. Bxc4 Bb4 8. O-O
+O-O 9. Qe2 Ne4 10. Nxe4 Bxe4 11. Rd1 Nd7 12. Bd3 Nf6 13. Ne5 Qc7 14. Bxe4 Nxe4
+15. Qc2 Nf6 16. e4 h6 17. Nd3 Be7 18. f3 Rfd8 19. Be3 a5 1/2-1/2
+
+[Event "Nottingham"]
+[Site "?"]
+[Date "1936.08.17"]
+[Round "7"]
+[White "Alekhine, Alexander"]
+[Black "Reshevsky, Samuel"]
+[Result "0-1"]
+[ECO "D04"]
+[Annotator "JvR"]
+[PlyCount "122"]
+[EventDate "1936.??.??"]
+[Source "ChessBase"]
+[SourceDate "2004.03.11"]
+
+1. Nf3 d5 2. d4 Nf6 3. e3 c5 4. c3 Nbd7 5. Nbd2 Qc7 6. Qa4 g6 7. c4 Bg7 8. cxd5
+Nxd5 9. Qb3 N5b6 10. a4 cxd4 11. exd4 a5 12. Bb5 O-O 13. O-O Nf6 14. Re1 Bf5
+15. Nf1 Qd6 16. Qa3 Qxa3 17. Rxa3 Nfd5 18. Ng3 Bd7 19. Rb3 Rfd8 20. Bd2 Nxa4
+21. Ra1 Nab6 22. Rxa5 Bxb5 23. Rbxb5 e6 24. b3 Rd7 25. Ne4 Rxa5 26. Bxa5 Nc8
+27. Ne5 Bxe5 28. dxe5 Nc7 29. Nf6+ Kg7 30. Nxd7 Nxb5 31. Bd2 Ne7 32. Kf1 Nd4
+33. b4 Nd5 34. Nc5 b5 35. Nd3 f6 36. Bc1 $2 (36. f3 $1 {does not lose a pawn.})
+36... fxe5 37. Nxe5 Nc2 38. Bb2 Ncxb4 39. Ke2 Kg8 40. g3 Ne7 41. Nf3 Ned5 42.
+Ng5 Nc7 43. Ke3 Nc6 44. f4 h6 45. Nf3 Kf7 46. Kd3 Nd5 47. Bc1 Nf6 48. Bb2 Nd7
+49. Ba3 $6 ({More solid is} 49. Bd4 $1 {(Alekhine).}) 49... e5 $1 {Botvinnik go
+ssips: Alekhine lost because he drank a bottle of wine before the evening
+session.} 50. Ke3 $2 ({The exchanges by} 50. fxe5 Ndxe5+ 51. Nxe5+ Nxe5+ 52.
+Ke4 Ke6 53. h3 {lead to good drawing chances for White.}) 50... Ke6 51. Bb2 Kd5
+52. Nh4 Nb6 53. Bc1 Nc4+ 54. Kf2 Nb4 55. Ke2 Na2 56. Bd2 b4 $1 57. fxe5 b3 58.
+Kd1 Nxe5 $1 59. Ng2 ({The kamikaze} 59. Nxg6 Nxg6 60. Bxh6 {
+(Alekhine) has no effect due to} 60... Nc3+ $1 61. Kc1 Ne5 62. Bg7 Nd3+) 59...
+Ke4 60. h4 Nd3 61. Ba5 Nb2+ 0-1
+
+[Event "Nottingham"]
+[Site "?"]
+[Date "1936.08.17"]
+[Round "7"]
+[White "Capablanca, Jose"]
+[Black "Botvinnik, Mikhail"]
+[Result "1/2-1/2"]
+[ECO "A30"]
+[PlyCount "58"]
+[EventDate "1936.??.??"]
+[Source "ChessBase"]
+[SourceDate "2004.03.11"]
+
+1. Nf3 Nf6 2. d4 b6 3. g3 Bb7 4. Bg2 c5 5. O-O cxd4 6. Nxd4 Bxg2 7. Kxg2 g6 8.
+c4 Bg7 9. Nc3 Qc8 10. b3 Qb7+ 11. f3 d5 12. cxd5 Nxd5 13. Nxd5 Qxd5 14. Bb2 O-O
+15. Qd3 Rd8 16. Rfd1 Nd7 17. Rac1 Nc5 18. Qb1 Qb7 19. Nc2 Qa6 20. Kf1 Bh6 21.
+Nb4 Qb7 22. Rxd8+ Rxd8 23. Rd1 Rd7 24. Nd3 Nxd3 25. Rxd3 Bg7 26. Bxg7 Rxd3 27.
+Qxd3 Kxg7 28. Qd8 b5 29. b4 a6 1/2-1/2
+
+[Event "Nottingham"]
+[Site "?"]
+[Date "1936.08.18"]
+[Round "8"]
+[White "Reshevsky, Samuel"]
+[Black "Flohr, Salo"]
+[Result "1/2-1/2"]
+[ECO "D28"]
+[PlyCount "45"]
+[EventDate "1936.??.??"]
+[Source "ChessBase"]
+[SourceDate "2004.03.11"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 Nf6 4. e3 c5 5. Bxc4 e6 6. O-O Nc6 7. Qe2 a6 8. Rd1
+b5 9. Bb3 c4 10. Bc2 Nb4 11. Nc3 Nxc2 12. Qxc2 Bb7 13. d5 Qc7 14. e4 e5 15. Bg5
+Nd7 16. Be3 Bc5 17. Bxc5 Qxc5 18. b3 O-O 19. bxc4 Qxc4 20. Nd2 Qc7 21. Qb2 Rfc8
+22. Rac1 Nc5 23. Nb3 1/2-1/2
+
+[Event "Nottingham"]
+[Site "?"]
+[Date "1936.08.20"]
+[Round "9"]
+[White "Alekhine, Alexander"]
+[Black "Euwe, Max"]
+[Result "1-0"]
+[ECO "C02"]
+[Annotator "JvR"]
+[PlyCount "161"]
+[EventDate "1936.??.??"]
+[Source "ChessBase"]
+[SourceDate "2004.03.11"]
+
+{Nearly 300 guests had visited the party garden at the home of Derbyshire on
+the previous day. Euwe led with 6/7 halfway the tournament. Alekhine had only
+scored 4 1/2 / 8. Now, the challenger had to prove himself against the world
+champion.} 1. e4 e6 2. d4 d5 3. e5 c5 4. Nf3 Nc6 5. Bd3 $5 cxd4 6. O-O f6 $5 {
+The attack on the centre seems to be premature.} 7. Bb5 $1 Bd7 8. Bxc6 bxc6 9.
+Qxd4 fxe5 10. Qxe5 Nf6 11. Bf4 Bc5 12. Nc3 O-O {But Black has developed well.}
+13. Bg3 Qe7 14. a3 a5 15. Rfe1 Ra7 $5 16. Na4 Rb7 17. Qc3 Ba7 $1 {
+Euwe gives a pawn for active play.} 18. Qxa5 Ne4 19. Qa6 $6 Be8 $6 ({
+Black misses the counteraction} 19... Bc8 20. Qxc6 Nxg3 21. hxg3 Rc7) 20. b4 g5
+$6 {Euwe weakens the kingside.} ({Better is} 20... Bh5 $1 {(Alekhine).}) 21.
+Nc5 $1 Bxc5 22. bxc5 Nxc5 23. Qe2 $6 Ne4 $6 ({Again} 23... Bh5 $1 {is better.})
+24. Qe3 Bg6 25. Ne5 $1 c5 $5 26. Nxg6 hxg6 27. f3 Nxg3 28. hxg3 Kf7 29. a4 Ra8
+30. Kf2 Rb2 31. Re2 c4 32. Rh1 $1 Kg8 $2 {Euwe blunders in a sharp position.} (
+{Correct is} 32... Qf6 $1 33. Qc5 Kg8 34. Rhe1 Re8 {Alekhine regards} 35. a5 {
+as winning for White, but} 35... g4 {gives a proper answer.}) 33. Qe5 $1 Qa7+
+$1 34. Kf1 Rb1+ 35. Re1 Rxe1+ 36. Kxe1 Qg7 37. Qxe6+ Kf8 38. Qxd5 $1 Qc3+ 39.
+Kf2 $1 Re8 40. g4 $1 Qe3+ 41. Kg3 Qf4+ 42. Kh3 Re7 $1 43. Qc5 Qf6 44. g3 $1 (
+44. Re1 $4 Qh8+ 45. Kg3 Qh4#) 44... Qh8+ 45. Kg2 Qc3 46. Rh7 $1 Qxc2+ 47. Kh3
+Qe2 48. Rxe7 Qxe7 49. Qxc4 Qe1 50. Qc5+ Kf7 51. Kg2 Qa1 52. Qc2 Kf6 53. Qb3 Ke5
+54. Kf2 Kf6 55. Qb6+ Kg7 56. Qb4 Qh1 57. Qe1 Qh2+ 58. Ke3 Kh7 59. a5 Qa2 60.
+Qd2 Qa1 61. Ke2 Kh6 62. f4 gxf4 63. gxf4 Qa4 64. Kf2 Kh7 65. g5 Qa3 66. Qd7+
+Kh8 67. Qc8+ Kh7 68. Qc7+ Kh8 69. Ke2 Qa2+ 70. Ke3 Qb3+ 71. Kd4 Qb4+ 72. Kd5
+Qb5+ 73. Kd4 Qa6 74. Qb6 Qc8 75. Qd6 Qc2 76. a6 Qd2+ 77. Ke5 Qc3+ 78. Ke6 Qc8+
+79. Ke7 Kh7 80. Qd7 Qc3 81. Ke6+ 1-0
+
+[Event "Nottingham"]
+[Site "?"]
+[Date "1936.08.20"]
+[Round "9"]
+[White "Capablanca, Jose"]
+[Black "Reshevsky, Samuel"]
+[Result "1-0"]
+[ECO "E03"]
+[Annotator "JvR"]
+[PlyCount "115"]
+[EventDate "1936.??.??"]
+[Source "ChessBase"]
+[SourceDate "2004.03.11"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 dxc4 4. Qa4+ Nbd7 5. Qxc4 e6 6. g3 a6 7. Bg2 b5 8.
+Qc6 Ra7 9. Bf4 Bb7 10. Qc1 c5 11. dxc5 Bxc5 12. O-O O-O 13. Nbd2 Qe7 14. Nb3
+Bb6 15. Be3 Rc8 16. Qd2 Ne4 17. Qd3 Nec5 18. Nxc5 Nxc5 19. Qd1 Ba8 20. Rc1 Rac7
+21. b3 Nd7 22. Rxc7 Rxc7 23. Bxb6 Nxb6 24. Qd4 Nd5 25. Rd1 f6 26. Ne1 Bb7 27.
+Bxd5 exd5 $5 28. e3 Qe4 29. h4 a5 30. f3 Qxd4 31. Rxd4 Rc1 $4 32. Kf2 Ra1 33.
+Rd2 a4 $2 {Sammy plays poorly in time trouble.} 34. Nd3 Rb1 35. Rb2 Rxb2+ 36.
+Nxb2 Bc6 37. Nd3 g5 $2 ({Better is} 37... Kf7 $1 38. Nb4 Bb7 39. Nc2 Bc6 40.
+Nd4 Bd7 41. Ke2 Ke7 42. Kd3 axb3 43. axb3 {(Fine). A draw is forced by} 43...
+b4 $1 44. Nc2 Bf5+ 45. e4 dxe4+ 46. fxe4 Be6) 38. hxg5 fxg5 39. Nb4 $6 (39. Ne5
+$1 Be8 40. f4 {has been suggested by Timman to me. White wins a pawn by} 40...
+axb3 41. axb3 h6 $5 42. Ke2 Kf8 43. Kd3 Ke7 44. Kd4 Kd6 45. Ng4 $1 h5 46. Nf6
+Bf7 47. fxg5 b4 48. g6 Bxg6 49. Nxd5 Bc2 50. Nxb4 Bxb3) 39... axb3 40. axb3 Bb7
+41. g4 Kg7 42. Ke2 Kg6 $2 ({Bondarevsky gives} 42... Kf6 43. Kd3 Ke5 44. Nc2
+Bc6 45. Nd4 Be8 46. Kc3 h5 47. gxh5 Bxh5 48. Kb4 g4 49. fxg4 Bxg4 50. Kxb5 Ke4
+{drawn.}) 43. Kd3 h5 44. gxh5+ Kxh5 45. Kd4 Kh4 46. Nxd5 Kg3 47. f4 g4 48. f5
+Bc8 49. Ke5 Bd7 50. e4 Be8 {White has many advantages.} 51. Kd4 $2 ({Right is} 
+51. f6 $1 Kf3 {(Capablanca)} 52. Nf4 g3 $1 53. Kf5 Bd7+ 54. Kg5 Be6 $1 55. Nxe6
+g2 56. f7 g1=Q+ 57. Kf6 Kxe4 58. f8=Q Qf2+ 59. Ke7 Qa7+ 60. Kd6 Qb6+ 61. Kd7
+Qb7+ 62. Nc7 {and White wins.}) 51... Kf3 52. e5 g3 53. Ne3 Kf4 $2 ({
+Bondarevsky finds the great escape} 53... Bf7 54. e6 Bg8 55. b4 Kf4 {drawn.})
+54. e6 g2 55. Nxg2+ Kxf5 56. Kd5 Kg4 57. Ne3+ Kf4 58. Kd4 {
+Capablanca showed his great ability in the endgame.} 1-0
+
+[Event "Nottingham"]
+[Site "?"]
+[Date "1936.08.20"]
+[Round "9"]
+[White "Lasker, Emanuel"]
+[Black "Botvinnik, Mikhail"]
+[Result "1/2-1/2"]
+[ECO "D91"]
+[PlyCount "87"]
+[EventDate "1936.??.??"]
+[Source "ChessBase"]
+[SourceDate "2004.03.11"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. Bg5 Ne4 6. cxd5 Nxg5 7. Nxg5 e6 8.
+Nf3 exd5 9. e3 O-O 10. Be2 c6 11. O-O Qe7 12. a3 Be6 13. Rc1 Nd7 14. Ne1 Nb6
+15. Nd3 Rad8 16. Nc5 Bc8 17. b4 Nc4 18. Nb1 b6 19. Nb3 Ba6 20. Re1 Rfe8 21.
+N1d2 b5 22. Ra1 Bc8 23. Bf1 Qd6 24. Nc5 Re7 25. Ndb3 Rde8 26. Qc1 f5 27. Nd3 g5
+28. Qc3 f4 29. exf4 gxf4 30. Rxe7 Rxe7 31. a4 a6 32. axb5 axb5 33. Ra8 Re8 34.
+Qc1 Rf8 35. Qd1 Bf5 36. Rxf8+ Bxf8 37. Qh5 Qg6 38. Qxg6+ hxg6 39. Nxf4 Bxb4 40.
+Bd3 Nd2 41. Nxd2 Bxd2 42. Bxf5 gxf5 43. Ne6 Bc3 44. Kf1 1/2-1/2
+
+[Event "Nottingham"]
+[Site "?"]
+[Date "1936.08.21"]
+[Round "10"]
+[White "Euwe, Max"]
+[Black "Flohr, Salo"]
+[Result "1/2-1/2"]
+[ECO "D67"]
+[PlyCount "37"]
+[EventDate "1936.??.??"]
+[Source "ChessBase"]
+[SourceDate "2004.03.11"]
+
+1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. Bg5 Be7 5. e3 O-O 6. Nc3 Nbd7 7. Rc1 c6 8. Bd3
+dxc4 9. Bxc4 Nd5 10. Bxe7 Qxe7 11. Ne4 N5f6 12. Ng3 e5 13. O-O exd4 14. Nf5 Qd8
+15. N3xd4 Ne5 16. Bb3 Bxf5 17. Nxf5 g6 18. Qd4 Qxd4 19. Nxd4 1/2-1/2
+
+[Event "Nottingham"]
+[Site "?"]
+[Date "1936.08.22"]
+[Round "11"]
+[White "Capablanca, Jose"]
+[Black "Euwe, Max"]
+[Result "1/2-1/2"]
+[ECO "D18"]
+[PlyCount "43"]
+[EventDate "1936.??.??"]
+[Source "ChessBase"]
+[SourceDate "2004.03.11"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4 5. a4 Bf5 6. e3 e6 7. Bxc4 Bb4 8. O-O
+O-O 9. Ne5 c5 10. Na2 Ba5 11. dxc5 Qxd1 12. Rxd1 Bc2 13. Rd4 Bc7 14. Nf3 Nc6
+15. Rd2 Bg6 16. b4 a5 17. b5 Ne5 18. Nxe5 Bxe5 19. Bb2 Ne4 20. Re2 Bxb2 21.
+Rxb2 Nxc5 22. Nc1 1/2-1/2
+
+[Event "Nottingham"]
+[Site "?"]
+[Date "1936.08.22"]
+[Round "11"]
+[White "Lasker, Emanuel"]
+[Black "Reshevsky, Samuel"]
+[Result "0-1"]
+[ECO "D27"]
+[Annotator "JvR"]
+[PlyCount "44"]
+[EventDate "1936.??.??"]
+[Source "ChessBase"]
+[SourceDate "2004.03.11"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 Nf6 4. e3 e6 5. Bxc4 c5 6. Nc3 a6 7. O-O b5 8. Bd3
+cxd4 9. exd4 Bb7 10. Bg5 Be7 11. Qe2 O-O 12. Rad1 Nbd7 13. Ne5 Nd5 14. Bc1 $6
+Nxc3 15. bxc3 Nf6 $1 16. a4 Qd5 17. Nf3 $6 Rfc8 18. Bb2 Ne4 19. Rc1 $2 ({
+Better is} 19. Qe3 Ng5 20. Ne1) 19... Ng5 $1 20. axb5 axb5 21. Bxb5 $2 ({
+Reshevsky analyses} 21. Ne1 Nh3+ $1 22. Kh1 Nf4 23. Qg4 Bg5 24. Rd1 h5 25. Qg3
+h4 26. Qg4 h3 $1) 21... Nxf3+ 22. gxf3 Qg5+ {
+The old Lasker has been crushed by a young man.} (22... Qg5+ 23. Kh1 Qg4 $1 {
+is horrible.}) 0-1
+
+[Event "Nottingham"]
+[Site "?"]
+[Date "1936.08.24"]
+[Round "12"]
+[White "Fine, Reuben"]
+[Black "Alekhine, Alexander"]
+[Result "1/2-1/2"]
+[ECO "D53"]
+[Annotator "JvR"]
+[PlyCount "132"]
+[EventDate "1936.??.??"]
+[Source "ChessBase"]
+[SourceDate "2004.03.11"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. Nf3 Be7 5. Bg5 h6 6. Bxf6 Bxf6 7. e4 dxe4 8.
+Nxe4 Nc6 9. Nxf6+ Qxf6 10. Qd2 O-O 11. Qe3 Rd8 12. O-O-O Ne7 13. Bd3 Nf5 $6 ({
+Better is} 13... Rb8 $1 14. Qe5 Qxe5 15. dxe5 Bd7 16. Be4 Bc6) 14. Qe5 $1 Qxe5
+15. dxe5 Bd7 16. Be4 c6 ({Now} 16... Bc6 $2 {gives a poor defence.}) 17. Rd3
+Be8 18. Rhd1 Rxd3 19. Rxd3 Kf8 20. Kc2 h5 21. Bxf5 exf5 22. Ng5 $6 (22. c5 $1
+b6 23. b4 {continues the restraint.}) 22... Ke7 23. b3 c5 24. h4 Bc6 25. f3 f4
+26. Kc3 Re8 27. Rd6 Kf8 28. e6 f6 29. Nh3 Ke7 30. Rd2 Kxe6 31. Nxf4+ Kf7 32.
+Nxh5 Rh8 33. Nf4 Rxh4 34. Nd5 Rh5 35. Nf4 Re5 36. a4 $6 g5 37. Nd3 Re3 38. Ra2
+g4 $1 39. Kd2 Re7 40. fxg4 Bxg2 41. Nxc5 Bf3 42. Kc3 Bxg4 {
+White has to stop the passed pawn.} 43. Rf2 f5 44. a5 Kf6 45. b4 Kg5 46. Nd3
+Kh4 47. Rf4 Kg3 48. Rd4 Bf3 49. Rd8 Be2 50. Rg8+ Kf3 51. Rf8 Ke3 52. Ne1 Ke4
+53. Ng2 Bh5 $1 54. Rd8 (54. Nh4 $1 Bf7 55. Rd8 {takes less risk.}) 54... Kf3
+55. Nh4+ Kg4 56. Rd4+ {Does Black have a winning advantage?} 56... Kg5 ({
+Critical is} 56... f4 $1 57. Ng2 Rf7 58. a6 $1 {(Alekhine)} 58... bxa6 59. b5
+axb5 60. Nxf4 $1 Rxf4 61. Rxf4+ Kxf4 62. cxb5 {
+Black has the bishop of the wrong colour.}) 57. Ng2 Bf3 58. Nf4 Be4 59. Nd5 Re5
+60. Rd1 Bf3 61. Rg1+ Bg4 62. Kd4 Re4+ 63. Kd3 Re6 64. Ne3 Rd6+ 65. Kc3 Rd8 66.
+b5 Re8 1/2-1/2
+
+[Event "Nottingham"]
+[Site "?"]
+[Date "1936.08.24"]
+[Round "12"]
+[White "Reshevsky, Samuel"]
+[Black "Botvinnik, Mikhail"]
+[Result "1/2-1/2"]
+[ECO "A95"]
+[Annotator "JvR"]
+[PlyCount "81"]
+[EventDate "1936.??.??"]
+[Source "ChessBase"]
+[SourceDate "2004.03.11"]
+
+1. d4 e6 2. Nf3 f5 3. g3 Nf6 4. Bg2 Be7 5. O-O O-O 6. c4 d5 7. Nc3 c6 8. Rb1
+Qe8 9. c5 Qh5 10. b4 Ne4 11. Qc2 Nd7 12. b5 Bf6 13. Bf4 Qe8 $6 ({
+More natural is} 13... Re8 $1 14. Rfd1 e5) 14. Bc7 Rf7 15. Ba5 e5 16. e3 Nxc3
+17. Bxc3 e4 18. Nd2 Nf8 19. f3 $1 cxb5 20. fxe4 $1 dxe4 $5 ({
+Black accepts the pawn sacrifice and avoids} 20... fxe4 21. Qb3 {(Alekhine).})
+21. d5 $1 Bxc3 22. Qxc3 Bd7 23. Nb3 $6 (23. g4 $1 {continues the attack.})
+23... Rc8 24. g4 g6 25. Qd4 Qe7 26. Rbc1 Be8 27. Rf4 Rd8 28. Rcf1 Qd7 $6 (28...
+Bc6 $1 29. Bxe4 $1 Ne6 $1 30. dxe6 Rg7 $1 31. Qe5 Bxe4 {defends ingeniously.})
+29. gxf5 gxf5 30. Bh3 Qxd5 31. Rxf5 $6 ({Better is} 31. Bxf5 {(Reshevsky).})
+31... Qxd4 32. Nxd4 Rg7+ 33. Kh1 Bd7 34. Rh5 Bxh3 35. Rxh3 Rg5 36. Nf5 Rd7 37.
+Rh4 Rc7 $1 38. Nh6+ Kg7 39. Nf5+ Kg8 40. Nh6+ (40. Rxe4 Rxc5 41. Ne7+ Kg7 42.
+Ref4 Ng6 {brings no advantage (Reshevsky).}) 40... Kg7 41. Nf5+ {The sealed
+e leads to perpetual check.  Botvinnik, Capablanca and Euwe share the first
+place with 8/11.} 1/2-1/2
+
+[Event "Nottingham"]
+[Site "?"]
+[Date "1936.08.25"]
+[Round "13"]
+[White "Flohr, Salo"]
+[Black "Fine, Reuben"]
+[Result "1/2-1/2"]
+[ECO "A28"]
+[PlyCount "37"]
+[EventDate "1936.??.??"]
+[Source "ChessBase"]
+[SourceDate "2004.03.11"]
+
+1. c4 Nf6 2. Nc3 e5 3. Nf3 Nc6 4. e3 Bb4 5. Qc2 O-O 6. Be2 Re8 7. O-O d6 8. Ne1
+Be6 9. a3 Bxc3 10. Qxc3 a5 11. b3 Qd7 12. d3 d5 13. Qc2 Rad8 14. Bb2 Bg4 15.
+cxd5 Qxd5 16. Nf3 Bxf3 17. gxf3 Nd7 18. Rac1 Nf8 19. Qc4 1/2-1/2
+
+[Event "Nottingham"]
+[Site "?"]
+[Date "1936.08.25"]
+[Round "13"]
+[White "Lasker, Emanuel"]
+[Black "Euwe, Max"]
+[Result "1-0"]
+[ECO "D12"]
+[Annotator "JvR"]
+[PlyCount "65"]
+[EventDate "1936.??.??"]
+[Source "ChessBase"]
+[SourceDate "2004.03.11"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. e3 Bf5 5. Bd3 e6 6. cxd5 Bxd3 7. Qxd3 exd5 8.
+Nc3 Bd6 9. O-O O-O 10. Re1 Nbd7 11. e4 dxe4 12. Nxe4 Nxe4 13. Qxe4 Re8 14.
+Qxe8+ Qxe8 15. Rxe8+ Rxe8 16. Kf1 Nb6 17. Bd2 f6 18. Re1 Rxe1+ 19. Nxe1 {
+Nobody offers a draw. The play becomes lighthearted.} 19... Kf7 20. Ke2 Ke6 21.
+h3 Nc4 22. Bc1 Bc7 23. Kd3 Ba5 $4 24. b4 $1 Bxb4 25. Nc2 Bd2 26. Bxd2 Nb2+ 27.
+Ke2 Kd5 28. Bc1 Nc4 29. Kd3 Nb6 30. Ne3+ Ke6 31. Nc4 Nc8 32. Na5 Nd6 33. Bf4 {
+Euwe played three games against Lasker in his life and lost them all.} 1-0
+
+[Event "Nottingham"]
+[Site "?"]
+[Date "1936.08.27"]
+[Round "14"]
+[White "Euwe, Max"]
+[Black "Botvinnik, Mikhail"]
+[Result "1/2-1/2"]
+[ECO "E34"]
+[Annotator "JvR"]
+[PlyCount "112"]
+[EventDate "1936.??.??"]
+[Source "ChessBase"]
+[SourceDate "2004.03.11"]
+
+1. d4 e6 2. c4 Nf6 3. Nc3 Bb4 4. Qc2 d5 5. cxd5 Qxd5 6. e3 c5 7. a3 Bxc3+ 8.
+bxc3 Nbd7 9. Nf3 b6 10. c4 Qd6 11. Bb2 Bb7 12. Be2 Rc8 13. O-O Be4 14. Qc3 O-O
+15. Rad1 Rfd8 16. d5 $1 Qf8 $6 {Euwe gets a chance.} ({Better is} 16... exd5
+17. cxd5 c4 $1 18. Rd4 Bxf3 19. Bxf3 b5) 17. dxe6 fxe6 18. Ne5 $6 ({
+The opportunity was} 18. Ng5 $1 {(Alekhine)} 18... Bf5 19. f3 $1 (19. g4 Ne4)
+19... h6 $1 20. e4 $1 hxg5 21. exf5 exf5 22. Bd3 {
+and White has a strong attack.}) 18... Qe7 19. Nxd7 Nxd7 20. Rd2 Bc6 21. Bg4
+Nf6 22. Rxd8+ Rxd8 23. Rd1 Rxd1+ 24. Bxd1 Qd6 25. Be2 Kf7 26. f3 Ba4 27. Bd3 h6
+28. g3 Bc6 29. Kf2 e5 30. Be2 Nd7 31. Qd3 Qxd3 32. Bxd3 e4 $5 33. Bxe4 Bxe4 34.
+fxe4 Nb8 35. Kf3 Nc6 36. Bc3 g6 37. Kf4 a6 38. a4 Ke6 39. h4 Nb4 40. Kf3 Nd3
+41. Bg7 Ne5+ $1 42. Ke2 $5 {Euwe wants to win.} (42. Bxe5 Kxe5 43. g4 a5 {
+costs a pawn (Alekhine), but} 44. h5 $1 g5 45. Kf2 $1 Kxe4 46. Ke2 {
+draws elementary.}) 42... Nxc4 43. Bxh6 Nb2 44. Bg7 Nxa4 45. g4 b5 46. h5 gxh5
+47. gxh5 Kf7 48. Ba1 Nb6 49. Kf3 $6 (49. Kd3 $1 b4 50. Kc2 {defends properly.})
+49... b4 $6 (49... a5 $1 50. e5 Nd7 51. h6 Nf8 52. Ke4 Ke6 53. Bb2 a4 54. Kd3 {
+White holds the hard position.}) 50. e5 Nd7 51. Ke4 Ke6 52. h6 Nf8 53. Kd3 Kd5
+$6 (53... Kf5 {uses the king for the defence.}) 54. e4+ Kc6 55. Kc4 a5 $2 ({
+Right is} 55... Nh7 $1 56. e6 Kd6) 56. e6 $2 {The tables could have turned.} ({
+Later Euwe finds the win} 56. Kb3 $1 Kb5 57. e6 $1 a4+ 58. Ka2 Ng6 59. h7 Kc6
+60. Bf6 Kd6 61. e7 Kd7 62. e5 c4 63. e6+ Ke8 64. Kb1 c3 65. Kc2 a3 66. Kb3 {
+The connected pawns are stopped. Black loses due to zugzwang.}) 56... Kd6 ({
+The obvious} 56... Kd6 57. Bg7 Nh7 58. e7 Kxe7 59. Kxc5 Kf7 60. Kb5 Kg6 61.
+Kxa5 b3 62. Ka4 b2 {draws (Euwe).}) 1/2-1/2
+
+[Event "Nottingham"]
+[Site "?"]
+[Date "1936.08.27"]
+[Round "14"]
+[White "Fine, Reuben"]
+[Black "Capablanca, Jose"]
+[Result "1/2-1/2"]
+[ECO "D19"]
+[PlyCount "40"]
+[EventDate "1936.??.??"]
+[Source "ChessBase"]
+[SourceDate "2004.03.11"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4 5. a4 Bf5 6. e3 e6 7. Bxc4 Bb4 8. O-O
+O-O 9. Qe2 Ne4 10. Nxe4 Bxe4 11. Rd1 Nd7 12. Bd2 Bxf3 13. Qxf3 Qa5 14. Qe2 Bxd2
+15. Qxd2 Qxd2 16. Rxd2 a5 17. g3 Nb6 18. Bb3 Rfd8 19. Rc2 Nd5 20. Bxd5 Rxd5
+1/2-1/2
+
+[Event "Nottingham+"]
+[Site "?"]
+[Date "1936.??.??"]
+[Round "15"]
+[White "Botvinnik, Mikhail"]
+[Black "Winter, William"]
+[Result "1/2-1/2"]
+[ECO "D95"]
+[Annotator "JvR"]
+[PlyCount "75"]
+[EventDate "1936.??.??"]
+
+{Two extra games of the decisive round have been included.} 1. Nf3 Nf6 2. c4 c6
+3. Nc3 d5 4. e3 g6 5. d4 Bg7 6. Qb3 O-O 7. Bd2 b6 8. cxd5 cxd5 9. Ne5 Bb7 10.
+Bb5 a6 11. Be2 Nbd7 12. Nxd7 Nxd7 13. f4 e6 14. O-O f5 15. Bf3 Rb8 16. Rac1 b5
+17. Ne2 Re8 18. Qa3 Bf8 19. Bb4 Bxb4 20. Qxb4 Qb6 21. Rc2 Kf7 22. Nc1 Rbc8 23.
+Rff2 Rc4 24. Qe1 Rec8 25. Bd1 Rxc2 26. Bxc2 a5 27. Nd3 Ba6 28. b4 axb4 29. Nxb4
+Qa5 30. Bb3 Nf6 31. Rf1 $6 (31. Rb2 {avoids difficulties.}) 31... Ne4 $1 32.
+Nxa6 Qxa6 33. Qb4 Rc3 34. Re1 Qc6 35. h3 Rc1 36. Kh2 Qc3 37. Qxc3 Rxc3 38. Re2
+{Botvinnik offers a draw. Winter accepts because he is a communist, the story
+goes. But let's analyse.} (38. Re2 {Best is} 38... Ke7 $1 39. g4 $1 (39. Bc2 $2
+{(Alekhine)} 39... Nd6 $1 40. Bb3 Nc4 41. Bxc4 dxc4 42. Rb2 Rxe3 43. Rxb5 Re4 {
+Black is going to win, because his king is near the centre.}) 39... h6 40. Kg2
+Nd6 41. Kf3 fxg4+ 42. hxg4 h5 43. Bc2 Nc4 44. gxh5 gxh5 45. f5 h4 46. fxe6 Nxe3
+$1 47. Rxe3 Rxc2 48. Kf4 $1 Rxa2 49. Ke5 {
+So the winner of the Soviet 'Mark of Honour' had a draw.}) 1/2-1/2
+
+[Event "Nottingham+"]
+[Site "?"]
+[Date "1936.??.??"]
+[Round "15"]
+[White "Capablanca, Jose"]
+[Black "Bogoljubow, Efim"]
+[Result "1/2-1/2"]
+[ECO "A26"]
+[Annotator "JvR"]
+[PlyCount "91"]
+[EventDate "1936.??.??"]
+[Source "ChessBase"]
+[SourceDate "2004.03.11"]
+
+1. c4 e5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 d6 6. Bd2 f5 7. Rb1 Nf6 8. b4 O-O
+9. b5 Ne7 10. Qc2 h6 11. e3 a6 12. a4 c5 13. bxa6 Rxa6 14. Nge2 ({Not} 14. Bxb7
+$2 Bxb7 15. Rxb7 Qa8 $1) 14... Nc6 15. Nd5 Nxd5 16. Bxd5+ Kh7 17. h4 Qe8 18.
+Kf1 $2 Ne7 $1 19. a5 ({Avoids} 19. Bxb7 $2 Bxb7 20. Rxb7 Qc6 $1) 19... Nxd5 20.
+cxd5 Qf7 21. Qc4 f4 $1 22. gxf4 Bg4 23. Rg1 Bf3 24. e4 exf4 $6 (24... Qe7 $1 {
+keeps the initiative.}) 25. Nxf4 Be5 $2 26. Ne6 $1 Raa8 ({The point is} 26...
+Rfa8 $2 27. Bxh6 $1 Kxh6 28. Qc1+ Kh7 29. Ng5+) 27. Nxf8+ Rxf8 28. Qb5 $2 (28.
+Be3 {protects pawn f2 (Alekhine).}) 28... Bxe4 $1 29. Qxb7 Bxd3+ 30. Kg2 Be4+
+31. f3 $6 Bxf3+ 32. Kh3 Bxd5 33. Qxf7+ Rxf7 34. Rgf1 Be6+ 35. Kg2 Bf5 36. a6
+Be4+ 37. Kh3 Rg7 {About this time Botvinnik's game has ended. Mikhail watches
+the diagrams and expects a win for Capablanca due to the extra exchange.} ({
+Actually Bogoljubow can play for a win with} 37... Ra7 $1 {Then} 38. Rb7+ $1
+Bxb7 39. Rf7+ Kg8 40. axb7 $1 Ra3+ 41. Kg2 Rg3+ 42. Kf1 Rb3 43. Re7 Kf8 44. Rc7
+d5 45. Bxh6+ Ke8 46. Rxc5 Rxb7 47. Rxd5 {draws.}) 38. Rb6 Bf5+ 39. Kg2 Be4+ 40.
+Kh3 Re7 41. Bf4 Rf7 42. Bxe5 Rxf1 43. Bxd6 Rf3+ 44. Kh2 g5 45. hxg5 hxg5 46.
+Bxc5 {Capablanca and Botvinnik have won the tournament, half-a-point before
+Euwe, Fine and Reshevsky.} 1/2-1/2
+

@@ -1,0 +1,1238 @@
+[Event "Man Machine Match"]
+[Site "Maastricht"]
+[Date "2001.01.02"]
+[Round "1"]
+[White "Rebel Century 3.0"]
+[Black "Van der Wiel, John"]
+[Result "1/2-1/2"]
+[ECO "B08"]
+[Annotator "Jan van Reek"]
+[PlyCount "180"]
+[EventDate "2001.??.??"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 c6 4. Nf3 d6 5. Be2 Nf6 6. O-O O-O 7. Re1 Nbd7 8. Bf4
+Qa5 9. Qd2 e5 10. Bh6 $6 ({This position is known from Sokolov-Van der Wiel,
+Biel 1985 (interzonal). Sokolov played} 10. Bg5 {in the Pirc and lost.}) ({
+White exchanges the strong bishop. Wiser would have been 10. dxe5 dxe5 11. Bg5.
+} 10. dxe5 dxe5 11. Bg5) 10... Re8 11. Bxg7 Kxg7 12. Rad1 Qb6 13. Qc1 Nf8 $1 {
+A diagonal is opened for the bishop. The knight is on its way to d4.} 14. dxe5
+dxe5 {Black has the better pawn structure.} 15. Rd2 $2 ({Correct prophylaxis is
+} 15. h3 {Now Black conquers square d4.}) 15... Bg4 {
+Black exchanges his bishop. White's passive bishop becomes a disadvantage.} 16.
+Red1 Bxf3 17. Bxf3 Ne6 18. b3 Rad8 19. a3 Rxd2 20. Rxd2 Nd4 {The knight as
+reached its destination. Now Black's positional advantage has become obvious.}
+21. Rd3 Rd8 22. b4 a5 23. Na4 Qb5 24. Nc3 Qb6 25. Na4 Qb5 26. Nc3 Qc4 $1 {
+Black is not satisfied with a draw and avoids a repetition of moves.} 27. bxa5
+Ra8 28. Bd1 Rxa5 29. Rh3 $5 {White begins a counterattack.} Ne6 30. Qh6+ Kg8
+31. Qh4 Nf4 $1 {The counter has been parried.} 32. Re3 $5 ({Slightly better is
+} 32. Rf3 Kg7 33. g3 Rxa3) 32... Rxa3 $1 33. Qxf6 Rxc3 $2 ({Black has a win by
+} 33... Qd4 34. g3 Rxc3) 34. Qxe5 Rxe3 35. fxe3 Ne6 {
+Now Black has a big positional advantage.} 36. Bg4 Qc5 37. Qxc5 Nxc5 38. e5 Kf8
+39. Kf2 Ke7 40. Kg3 h5 $6 ({
+This weakening of the king's side makes the win difficult. More pressure offers
+} 40... h6 $1 41. Bf3 $1 Ke6 42. Kf4 g5+ 43. Kg4 Nd7 44. Kh5 Nxe5 45. Kxh6 f6)
+41. Be2 Ne4+ 42. Kf4 Nc3 43. Bf3 $1 {
+Utilization of the majority on the queen's side becomes difficult.} Ke6 44. g3
+Nd5+ 45. Ke4 c5 $5 {The last try for victory.} 46. c4 $1 Nb6 47. Kd3 Nd7 48.
+Bd5+ $1 ({Avoids} 48. Bxb7 $2 Nxe5+ 49. Kc3 Ng4 {
+White defends superbly in the endgame.}) 48... Kf5 49. e4+ Kg5 50. e6 Ne5+ 51.
+Ke2 fxe6 52. Bxe6 h4 53. gxh4+ Kxh4 54. Kf2 Kg5 55. Kg3 Kf6 56. Bd5 g5 57. Kg2
+b6 58. Kg3 Ke7 59. h3 Kf6 60. Kf2 Nd3+ 61. Kf3 Ke5 62. Kg3 Kf6 63. Kg4 Kg6 64.
+Kf3 Ne5+ 65. Ke2 g4 66. hxg4 Nxg4 {At last Black can manoeuvre freely.} 67. Be6
+Ne5 68. Kf2 Kf6 69. Bd5 Ng6 70. Kf3 Ke5 71. Ke3 Ne7 72. Bb7 Ng8 73. Bc8 Nf6 74.
+Bf5 Ne8 75. Kd3 Kf4 ({Or} 75... Nd6 {The aim is a blockade by the knight on e5.
+} 76. Bh7 Kf4 77. Bg6 Nb7 78. Bf7 Na5 79. Bd5 Nb3 80. Be6 Nd4 81. Bd5 Nf3 82.
+Ke2 Ne5 83. Kf2 {Knight and king are ideally placed for the blockade, but
+Black has achieved anything but the win.}) 76. Be6 Nf6 77. Bf5 Ng8 78. Bd7 Ne7
+79. Be8 Ng8 80. Bg6 Nf6 81. Bf5 Nh5 82. Bh3 Ng3 83. Bg2 $1 {
+No progress can be made.} Ke5 84. Ke3 Nh5 85. Bh1 Nf6 86. Bf3 Ne8 87. Be2 Nd6
+88. Bd3 Nb7 89. Bc2 Na5 90. Bd3 Nc6 {In a long and high level struggle, Rebel
+made a grave prophylactic error during the middlegame. When John missed a
+tactical win, a great positional advantage remained. Probably it was
+insuffficient for a win in the endgame. The defence by Rebel was stubborn and
+effective.} 1/2-1/2
+
+[Event "Man Machine Match"]
+[Site "Maastricht"]
+[Date "2001.01.03"]
+[Round "2"]
+[White "Van der Wiel, John"]
+[Black "Rebel Century 3.0"]
+[Result "1/2-1/2"]
+[ECO "D10"]
+[Annotator "Jan van Reek"]
+[PlyCount "147"]
+[EventDate "2001.??.??"]
+
+1. c3 c5 2. d4 cxd4 3. cxd4 d5 {
+The Exchange Variation of the Slav Defense has been reached in a strange way.}
+4. Nc3 Nf6 5. Bf4 Nc6 6. e3 a6 7. Bd3 Bg4 8. Nge2 e6 9. Rc1 Bd6 10. Bxd6 {
+A new move is made. White gets a small advantage.} Qxd6 11. Qd2 Nb4 12. Ng3
+Nxd3+ 13. Qxd3 O-O 14. O-O {
+The two knights are slightly stronger than knight and bishop.} Rfc8 $6 ({
+Black could have played} 14... Bh5 15. Na4 Qb4 {The text move is very risky.})
+15. e4 $1 {White takes the initiative in the center.} Qb4 $5 {
+Black counters immediately.} 16. h3 Bh5 17. Nxh5 Nxh5 18. exd5 Nf4 19. Qe4 Nxd5
+20. Nxd5 exd5 21. Rxc8+ Rxc8 22. Qxd5 Qxb2 23. Qd7 Rf8 {
+The passed pawn in the center looks strong.} 24. d5 b5 25. Re1 Qd2 26. Re3 Qxa2
+$6 ({Rebel becomes greedy. Black does not play} 26... Qd1+ 27. Kh2 Qd2 {
+John suggested} 28. Rf3 {Now Black has time for} Qxa2 {
+The heavy battle continues with} 29. d6 Qe6 30. Qc7 Qe5+ 31. g3 b4 {
+Probably the result is a draw.}) 27. d6 Qa1+ 28. Kh2 Qf6 29. Qc7 Qf4+ ({
+Black has noticed} 29... Qxf2 $2 30. d7 Qxe3 31. d8=Q) 30. Kg1 g6 31. g3 ({
+An immediate win seems to be} 31. Qc6 $1 Qf6 32. Re8 $1 {
+but Black has the narrow escape} Rxe8 $1 33. Qxe8+ Kg7 34. d7 Qa1+ 35. Kh2 Qd4
+36. d8=Q Qf4+ {and a perpetual check}) 31... Qd4 32. Qe7 ({John suggested} 32.
+d7 {after the game. His idea is} Qd1+ 33. Kg2 Qd5+ 34. Kf1 $1 {
+Black can draw by} Qh1+ 35. Ke2 Qa8 36. Re7 a5 37. Rxf7 Qe4+ {
+and a repetition of moves.}) 32... Rc8 33. Rf3 {
+John offers a draw, but Rebel refuses.} Qd1+ 34. Kg2 Qd5 {
+White seems to be in difficulties, but he frees his position.} 35. d7 Rf8 36.
+g4 a5 $2 ({A draw forces} 36... f5 37. Kg3 Qd4) 37. Kg3 Kg7 38. Rc3 $6 ({
+The immediate win is} 38. Re3 $1) 38... Qa8 {John refuses the offer of a draw.}
+39. Qe5+ Kg8 40. Qxb5 Rd8 41. Re3 $1 Kf8 42. Qc5+ Kg8 43. Qc7 $1 {
+White threatens 44. Qxd8+. His attack has an enormous strength.} Kf8 44. Qd6+
+Kg8 45. Re7 Rf8 46. Qe5 $6 ({White misses the immediate win} 46. Qc7 $1 a4 {
+Black has no defense against the beautiful} 47. Rxf7 $1) 46... Qh1 47. Qd4 Qa8
+48. h4 Qd8 49. Qe5 h6 50. Qd6 a4 51. f4 $2 ({This move looked great during the
+game, but it jeopardizes the protection of White's king. Correct is} 51. h5
+gxh5 52. gxh5 {Notice} Kg7 53. Qg6+) 51... a3 $1 {
+Otherwise White's attack decides the game.} 52. Qxa3 Qb8 $6 {
+The queen should go to b6.} 53. Qe3 $6 ({White misses the chance} 53. Qd3 $1
+Qb6 54. Re8 Qg1+ 55. Kf3 Qh1+ 56. Ke2 Qg2+ 57. Ke1 Qh1+ 58. Qf1 Qxh4+ 59. Kd2
+Qf6 60. d8=Q Qxd8+ 61. Rxd8 Rxd8+ 62. Ke3 {Maybe Black can hold the fortress.})
+53... Qd6 54. Kh3 Qd5 55. h5 gxh5 56. gxh5 Kh7 $1 {Again Black finds an
+excellent defense. He threatens 58. .. Rg8 and his centralized queen becomes
+highly effective.} 57. Qe4+ Qxe4 58. Rxe4 Rd8 59. Rd4 Kg7 60. Kg4 {
+White lacks one tempo in the rook endgame.} Kf6 61. Rd6+ Ke7 62. Rxh6 Rxd7 63.
+Ra6 Kf8 64. Kg5 Kg7 65. h6+ Kh7 66. Ra8 Rd6 67. Rf8 Rg6+ 68. Kf5 Rxh6 69. Rxf7+
+Kg8 70. Rb7 Kf8 {A theoretical draw results.} 71. Kg5 Ra6 72. f5 Rd6 73. Ra7
+Rc6 74. Ra8+ {Drawn. The game started as a dull exchange variation. John
+managed to take the initiative in the center and Rebel defended well. The high
+level dropped, when Rebel grabbed a poisoned pawn. A passed pawn in the center
+became too strong. Tactical errors were made by both players. John missed
+several winning combinations. My opinion about move 51 had to be revised after
+the game from good move to mistake.} 1/2-1/2
+
+[Event "Man Machine Match"]
+[Site "Maastricht"]
+[Date "2001.01.04"]
+[Round "3"]
+[White "Rebel Century 3.0"]
+[Black "Van der Wiel, John"]
+[Result "0-1"]
+[ECO "B15"]
+[Annotator "Jan van Reek"]
+[PlyCount "118"]
+[EventDate "2001.??.??"]
+
+1. e4 c6 2. d4 d5 3. Nc3 a6 $5 {
+John continues in an unusual way in the Caro Kann. Rebel has to start thinking.
+} 4. Be2 b5 5. a3 e6 6. Nf3 Nf6 7. e5 Nfd7 8. Bg5 Be7 9. Bxe7 Qxe7 {Black has a
+chieved a closed position at the cost of a slight positional disadvantage.
+This is a standard procedure in the battle against computers. Van der Wiel and
+Kramnik have expressed ideas about this approach last year.} 10. b4 {
+Black's initiative on the queen's side is stopped.} a5 11. Na2 axb4 12. axb4
+O-O 13. Bd3 f6 14. exf6 gxf6 {Both sides play for a win.} 15. O-O Rf7 16. Re1
+Nf8 17. Nh4 {White threatens 18. Nf5 and 19. Nh6+.} Qd8 18. Re3 Rg7 19. Rg3 Qe7
+20. Qf3 Rxg3 21. Qxg3+ Qg7 22. Qd6 Qd7 23. Qf4 Qg7 {Black has a bad bishop.
+The pin of the knight gives compensation. White decides to continue with his
+play for a win.} 24. Nf3 Bd7 25. Qc7 Be8 26. Qd8 Bg6 $1 {
+The exchange of bishops is a success for Black.} 27. h3 $6 ({The alternative} 
+27. Ne1 $5 Bxd3 28. Nxd3 Qg4 $1 29. f4 {seems to be slightly better for White.}
+) 27... Qf7 28. Bxg6 hxg6 29. Nh2 Kg7 30. Ng4 Nfd7 31. Qc7 e5 $1 ({This freeing
+move leads to an advantage for Black. Geurt Gijssen suggests the great
+surprise} 31... Ne5 $6 {The wonderful riposte is} 32. Nxf6 $3 Qxc7 $6 33. Ne8+)
+32. Qb7 $2 ({John hoped for this opportunistic move. A subtle defense gives} 
+32. Qd6 Qf8 33. dxe5 fxe5 34. Qc7) 32... Ra3 33. dxe5 fxe5 34. Nxe5 Nxe5 35.
+Qxb8 Qf6 36. Re1 ({John has calculated} 36. c3 $2 Nd3 37. Qg3 Nxb4 $1 {
+The pins are used at an optimum.}) 36... Rxa2 {
+The sacrificed pawn has been regained immediately.} 37. Qxe5 Qxe5 38. Rxe5 Rxc2
+{Black's advantage on the queen's side is obvious.} 39. Re1 $2 ({
+A tempo is lost in a crucial position. John suggests} 39. Re6 {
+Acceptable moves are} Rc1+ 40. Kh2 Rc4 41. Kg3 Kf7 42. Rd6 g5 43. Kf3 Ke7 44.
+Rg6 Kd7 {Black has an advantage in time, but the result remains unclear.})
+39... Kf6 40. Kf1 d4 41. Re8 Rc4 42. Rc8 Ke7 43. Ke2 Kd6 44. Rd8+ Kc7 45. Rg8
+Rxb4 46. Kd3 $1 {White utilizes his last chance.} c5 47. Rg7+ Kb6 48. Rxg6+ {
+The pawn is regained with check. Black's king has to move to the side of the
+board.} Ka5 49. h4 Rb3+ 50. Ke4 d3 51. Rd6 c4 52. g4 Rb2 53. g5 {
+An obvious move is the capture on f2, but Black finds a great win.} Re2+ $1 54.
+Kf3 Re8 55. Rd4 b4 $1 {White is humiliated at the end.} 56. Rxc4 b3 57. Rc1 b2
+58. Rd1 Kb4 59. Kf4 Kc3 {White resigned. John gained a great victory. At last
+John had the 'ideal' closed position against the computer. Nevertheless, Rebel
+played very well. John defended accurately and managed to exchange his bad
+colored bishop. When Rebel took a pawn, a pin became nasty. The pawn was
+regained quickly. John had a big positional advantage and won the rook endgame
+beautifully.} 0-1
+
+[Event "Man Machine Match"]
+[Site "Maastricht"]
+[Date "2001.01.09"]
+[Round "4"]
+[White "Van der Wiel, John"]
+[Black "Rebel Century 3.0"]
+[Result "0-1"]
+[ECO "A34"]
+[Annotator "Jan van Reek"]
+[PlyCount "92"]
+[EventDate "2001.??.??"]
+
+1. c4 c5 2. g3 Nf6 3. Bg2 d5 4. cxd5 Nxd5 {
+So far the opening is a quiet English variation.} 5. Nc3 Nc7 6. Qa4+ Bd7 ({
+This leads to the positional sacrifice of a pawn. The violent confrontation in
+the Symmetrical English canbeavoidedby} 6... Qd7 7. Qxd7+ Nxd7) 7. Qb3 Bc6 8.
+Bxc6+ Nxc6 9. Qxb7 Nd4 {A great tactical fight has started.} 10. Nf3 $1 {
+A wonderful new move is made.} Rb8 $1 ({Rebel wisely avoids the luring trap} 
+10... Nc2+ $2 11. Kd1 Nxa1 12. Ne5 $1 e6 13. Qc6+ Ke7 14. Qxc5+ Ke8 15. Qc6+
+Ke7 16. b3 $1 {
+White has a great positional advantage and sufficient material compensation.})
+11. Qe4 $6 ({John original intention is} 11. Qxa7 $1 Nc2+ 12. Kd1 Nxa1 13. Ne5
+{White threatens Qa4+.} Rb4 14. Nc6 Qd6 15. Nxb4 cxb4 {Black has to fight for
+a draw despite his material advantage. A great line seems to me} 16. Qb8+ Kd7
+17. Nb5 Nxb5 18. Qxb5+ Kd8 19. b3 Qd4 20. Qc4 Qa7 21. Bb2 Qxa2 {
+White has to be satisfied with a draw by perpetual check.}) 11... f5 12. Qd3 g6
+13. O-O Bg7 14. Qc4 $5 ({The consequent} 14. b3 $6 e5 15. Qc4 e4 {
+would give Black a strong initiative.}) 14... Nxf3+ 15. exf3 Qd4 16. Qa4+ $6 ({
+The more solid} 16. d3 {
+keeps the equality. John and I agreed about the superiority of} Qxc4 17. dxc4
+Rb4 {Black regains the pawn, but White is able to defend himself. John's
+attempt to win backfires.}) 16... Qxa4 17. Nxa4 Ne6 18. Rb1 c4 $1 {
+The isolated c-pawn has become strong.} 19. b3 $5 {White plays an active move.
+Otherwise the restriction will become unpleasant. Rebel refuses the offer of a
+draw.} cxb3 20. Rxb3 Rxb3 21. axb3 Kf7 22. Bb2 Bxb2 23. Nxb2 Nd4 {
+Black regains the pawn in an active position.} 24. Ra1 $1 {
+White sacrifices a pawn for a positional advantage on the queen's side.} Nxf3+
+25. Kg2 Nxd2 26. b4 Rb8 27. Nd3 Rb7 28. Ra6 {
+The White rook restricts Black's mobility.} Nc4 29. h4 $2 ({
+In cooperation with Minze bij de Weg, I analyzed the exchanges} 29. Rc6 $1 Rd7
+30. Rxc4 Rxd3 31. Rc7 Rb3 32. Rxa7 Rxb4 33. h4 $1 {and a theoretical draw.})
+29... e5 30. Rc6 e4 31. Rxc4 exd3 32. Rd4 Ke6 33. Kf3 $2 ({
+A stubborn defense offers} 33. Rxd3 $1 Rxb4 34. Rd8 a5 35. Ra8 a4 36. Ra5 $1)
+33... d2 34. Ke2 Rd7 $1 {The pawn ending offers excellent winning chances.} 35.
+Rxd7 Kxd7 36. Kxd2 Kd6 37. Kc3 Kd5 38. f3 h6 {White lacks one tempo.} 39. Kb3
+$5 ({The point is} 39. Kd3 g5 $1 40. h5 g4 $1 41. f4 a6 {
+and zugzwang decides the game.}) 39... Kd4 40. Ka4 Ke3 41. f4 Kf3 42. Ka5 Kxg3
+43. Ka6 Kxh4 44. Kxa7 g5 45. fxg5 hxg5 46. b5 g4 {White resigned. The g-pawn
+promotes with check. Queens are exchanged and the last Black pawn decides the
+game. Rebel made a positional pawn sacrifice in the opening. When John avoided
+the sharpest variation, he got a slight disadvantage. Thereafter he made
+errors in the endgame. The pawn ending was lost. Rebel played a courageous and
+accurate game. This game is the first loss of John van der Wiel in a serious
+game against the computer. Chess history has been written.} 0-1
+
+[Event "Man Machine Match"]
+[Site "Maastricht"]
+[Date "2001.01.10"]
+[Round "5"]
+[White "Rebel Century 3.0"]
+[Black "Van der Wiel, John"]
+[Result "1-0"]
+[ECO "C10"]
+[Annotator "Jan van Reek"]
+[PlyCount "89"]
+[EventDate "2001.??.??"]
+
+1. e4 e6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Bd7 5. Nf3 Bc6 6. Bd3 Nd7 7. O-O Be7 $5 {
+Black chooses a sharp line of the Rubinstein variation of the French opening.}
+8. Re1 Ngf6 9. Neg5 $5 {White selects the violent answer. This move is known
+from Sakaev-Tseshkovsky, St. Petersburg 1993.} h6 10. Nxe6 $5 {
+Again Rebel plays very aggressive.} fxe6 11. Bg6+ Kf8 12. Qe2 Bxf3 13. Qxf3 Kg8
+$2 ({Black played the active} 13... Nb6 14. Qxb7 Qxd4 {in the mentioned game.})
+14. Rxe6 c6 15. Qb3 Nd5 {The piece sacrifice has led to a strong attack.} 16.
+Qxb7 $6 ({Even stronger seems to be} 16. c4 $1 Nc7 17. c5 Nd5 18. Qxb7 {
+White has gained two tempi.}) 16... Nf8 17. Rxc6 Nb4 $2 ({
+The last chance offers} 17... Nxg6 18. Rxg6 Bf6 $1 {threatens .. Qe8} 19. Rg4
+Rc8 20. c3 Kh7 {Black has reorganized his defense.}) 18. Bf4 $1 Qd5 19. Qxa8
+Qxc6 20. Qxc6 Nxc6 21. Bd3 Nxd4 22. Be3 Bc5 23. Bc4+ Kh7 24. Rd1 Nde6 25. Rd5
+Bxe3 26. fxe3 Ng6 27. Bd3 $1 Rd8 28. Rxd8 Nxd8 29. g4 $1 {
+The pinned knight is lost.} Nc6 30. h4 Nce5 31. h5 Nxg4 32. Bxg6+ Kg8 33. e4
+Kf8 34. b3 Ke7 35. c3 Ne3 36. c4 Nd1 37. Kf1 Nc3 38. a3 Kd6 39. Kf2 Kc5 40. Ke3
+Nb1 41. Kd3 Nxa3 42. e5 a5 43. Bf5 a4 44. e6 axb3 45. e7 {Black resigned. Van
+der Wiel exchanged the moves 7 and 8 during the opening. As a result Rebel
+could choose a sharp variation from the opening book. John did not know the
+theory, and the result was a disaster. The internet connection collapsed after
+John blundered for the second time. A hacker had paralyzed the server.} 1-0
+
+[Event "Man Machine Match"]
+[Site "Maastricht"]
+[Date "2001.01.11"]
+[Round "6"]
+[White "Van der Wiel, John"]
+[Black "Rebel Century 3.0"]
+[Result "1/2-1/2"]
+[ECO "A47"]
+[Annotator "Jan van Reek"]
+[PlyCount "63"]
+[EventDate "2001.??.??"]
+
+1. d4 Nf6 2. c3 e6 3. Bg5 h6 4. Bh4 b6 5. Nd2 Bb7 6. e3 Be7 7. Ngf3 c5 8. Bd3
+O-O 9. Qe2 d5 ({Black played} 9... cxd4 10. exd4 d6 {
+in Nikolic-Horvath, Smederevsky Palanka 1984.}) 10. Ne5 ({White chose the quiet
+} 10. O-O {in Tal-Kliavinsh, Riga 1954.}) 10... Nc6 11. f4 Ne4 12. Bxe7 Nxe7
+13. O-O f6 14. Ng4 Nxd2 15. Qxd2 Nf5 {The game started with the Colle System.
+Two exchanges have led to an equal position.} 16. Rf3 Rc8 17. Raf1 Qd7 18. Qe2
+Rc7 19. Rh3 Rfc8 {Black starts to remove defenders from the king's side.} 20.
+Nf2 $1 {
+John prepares an attack on the king's side. He wants to equalise the match.}
+Nd6 21. Qh5 Qe8 $2 {Greed is the basis of this error.} 22. Bg6 $1 Qa4 23. g4 $2
+{A loss of tempi has helped the attack on the king.} ({The best move is} 23.
+Ng4 {After} Qd7 {White plays} ({or} 23... Nf7) 24. f5 {
+with a probably decisive attack as Rebel finds.}) 23... Ba6 ({The variation} 
+23... Qxa2 24. g5 $1 {looks horrible for Black.}) 24. Re1 Qxa2 25. g5 $1 fxg5
+$2 ({John expects the unlikely variation} 25... Qxb2 26. gxh6 Qd2 {
+There might follow} 27. Rd1 Qe2 28. Qh4 Nf5 29. Bxf5 exf5 {
+with chances for both sides.}) 26. Ng4 $5 ({The prosaic alternative was} 26.
+fxg5 $1 {John looked at} Qxb2 {A fine answer is} ({The alternative is} 26...
+Nf5 27. gxh6 Nxh6 28. Ng4) 27. gxh6 {White threatens Bh7+!} Qxc3 28. Rd1 {
+and White's attack is stronger than John expected.}) 26... Qxb2 $1 ({
+Black is crushed in} 26... Nf5 27. Bxf5 exf5 28. Nxh6+) 27. Nxh6+ $1 Kf8 {
+Black's king escapes from mate.} 28. Ng4 Nf7 29. Bxf7 Qxc3 {John rejects the
+offer of a draw. His won position becomes lost after his next move.} 30. Rd1 $2
+({Correct is} 30. Rb1 $1 {Now} Qc2 ({The obvious} 30... Rxf7 31. Ne5 Rfc7 32.
+Qxg5 Kg8 33. Qg6 Kf8 34. Rh8+ Ke7 35. Qg5+ Kd6 36. Rd8+ {leads to mate in two.}
+) ({Black's last straw is} 30... Bd3 $1 31. Bxe6 $1 Bxb1 32. Qh8+ Ke7 33. Qxg7+
+Kd6 34. Qe5+ Kc6) 31. Bg6 Bd3 32. Qh8+ {fails completely.}) 30... Qc2 31. Ra1
+Qb2 32. Re1 $2 {Drawn. Ed is happy with the offer of a draw by John, but 32. ..
+Qd2 24.Ra1 cxd4! wins for Black. The game ended with human errors. John van
+der Wiel wanted to equalise the match and started a great fight. In a closed
+position, he moved his pieces to the king's side, while some defenders moved
+away. The attack could have become decisive, but the game ended in confusion.
+A draw was the result.} ({After the game, the players analysed} 32. Rxa6 cxd4
+33. Nf2 Rc1+ 34. Kg2 R1c2 35. Rf3 dxe3 {and Black wins.}) ({After} 32. Rd1 {
+we expected} Qc2 {and a repetition of moves.} ({However,} 32... Qe2 $1 33. Ne5
+g4 $1 34. Qh8+ Ke7 35. Qh4+ Kd6 {is won for Black as well!})) 1/2-1/2
+
+[Event "Man Machine Match"]
+[Site "Maastricht"]
+[Date "2002.02.19"]
+[Round "1"]
+[White "Rebel Century 4"]
+[Black "Van Wely, Loek"]
+[Result "1-0"]
+[ECO "C10"]
+[Annotator "Jan van Reek"]
+[PlyCount "209"]
+[EventDate "2002.??.??"]
+
+1. e4 e6 2. d4 d5 3. Nc3 a6 {Van Wely chooses for an anti-computer strategy:
+He leaves the openingsbook quickly and keeps the position closed. Actually,
+this move was played for the first time in Anderssen - Pitschel, Krefeld 1871.}
+4. Bd3 Nf6 5. Nf3 Be7 6. O-O c6 7. Re1 b5 8. Ne5 $1 ({
+Rebel attacks in the centre immediately. The expected positional choice is} 8.
+e5 Nfd7) 8... Bb7 9. Qf3 O-O $6 {Does Loek commits suicide ? The white pieces
+are aimed at the kingside dangerously.} 10. exd5 cxd5 11. Qh3 Nc6 12. Bg5 $1 g6
+$1 ({The pointe of the attack is} 12... h6 13. Bxh6 gxh6 14. Qxh6 Nxd4 15. Re3
+{and White wins.}) 13. Bh6 Nxd4 ({Black has to sacrifice the exchange due to} 
+13... Re8 $2 14. Nxf7 Kxf7 $4 15. Qxe6#) 14. Bxf8 Bxf8 15. a4 $6 ({
+More solid is} 15. Rad1 {White should consolidate his control over the centre.}
+) 15... b4 16. Ne2 Nxe2+ 17. Rxe2 Ne4 18. Rd1 Qc7 19. Bxe4 dxe4 20. Ng4 Bg7 21.
+Red2 Bd5 22. Ne3 Bc6 23. Qh4 $5 ({White plays for a win,} 23. b3 Bc3 24. Rd6
+Be5 25. R6d2 Bc3 {draws.}) 23... Bxb2 24. Rd8+ Rxd8 25. Rxd8+ Kg7 26. Ng4 {
+The threats look terrible.} Qf4 $1 {Black answers with a queen sacrifice.} 27.
+Rg8+ $1 Kxg8 28. Nh6+ Qxh6 29. Qxh6 Bxa4 30. Qf4 Bxc2 31. Qb8+ Kg7 32. Qxb4 {
+Ed Schroeder offers a draw, Loek continues.} Bf6 33. Qd6 Bd3 34. f3 h5 35. Kf2
+a5 36. Qd7 a4 $5 {
+Black exchanges his passed pawn, both sides have built a fortress.} 37. Qxa4
+exf3 38. gxf3 g5 39. Qb4 Bf5 40. Kg2 g4 41. f4 h4 42. Kf2 h3 43. Ke2 Kg6 44.
+Qf8 Bg7 45. Qd8 Bf6 46. Qg8+ Bg7 47. Ke3 Kf6 48. Qd8+ Kg6 49. Kf2 Bf6 50. Qg8+
+Bg7 51. Kg3 Kf6 52. Kh4 Kg6 53. Qc8 e5 54. Qc6+ Bf6+ 55. Kg3 exf4+ 56. Kxf4 Be6
+57. Qe4+ Kh6 58. Qd3 Bg5+ 59. Ke5 Kg7 60. Qe4 Bd8 61. Kd6 Bf6 62. Kc7 Kh6 63.
+Kc6 Kg5 64. Kd6 Bf5 65. Qc6 Be6 66. Qc2 Bf5 67. Qe2 Kg6 68. Kc5 Bg7 69. Qa6+
+Be6 70. Qd6 Bb2 71. Kc6 Bg7 72. Kc7 Kf5 73. Qd3+ Kf4 74. Qd2+ Kf3 $5 {
+Both kings have left their fortresses.} 75. Kd6 Bf8+ 76. Kc6 Be7 77. Qd3+ Kg2
+78. Qg3+ Kf1 79. Kb6 Bf8 80. Qc3 Kg2 81. Qd2+ Kg1 82. Qf4 Be7 83. Qg3+ Kf1 84.
+Kc6 Bf8 85. Qf4+ Kg2 86. Kb5 Kg1 87. Qe5 Kg2 88. Qg3+ Kf1 89. Qc7 Bh6 90. Qc3
+Ke2 91. Qc2+ Bd2 92. Kc6 Ke1 93. Qd3 Bh6 94. Kc5 Kf2 95. Qg3+ Ke2 96. Kd4 Bg7+
+97. Ke4 Bh6 98. Qe5 $1 {
+The queen creates an ambush, a favourite idea of the Dutch composer Carel Mann.
+} Bd2 $2 ({Correct is the flegmatic} 98... Bf8 99. Kd4+ Kf1 100. Kd3 Kf2 101.
+Qf6+ Kg2 102. Qb2+ Kg1 {and White has no decisive attack. If no captures or
+pawn moves are made, Black can claim a draw on move 106, based on the
+fifty-moves-rule.}) 99. Kd4+ Kf1 100. Kd3 $1 {White wins a bishop.} Bh6 101.
+Qf6+ Kg2 102. Qxh6 Kxh2 103. Qd2+ $1 {A mate attack decides the game.} Kg1 104.
+Ke3 g3 105. Kf3 {Black resigns.} 1-0
+
+[Event "Man Machine Match"]
+[Site "Maastricht"]
+[Date "2002.02.20"]
+[Round "2"]
+[White "Van Wely, Loek"]
+[Black "Rebel Century 4"]
+[Result "1-0"]
+[ECO "A47"]
+[Annotator "Jan van Reek"]
+[PlyCount "95"]
+[EventDate "2002.??.??"]
+
+1. d4 Nf6 2. c3 {Does Loek want to play an anti-computer system ?} e6 3. Bg5 h6
+4. Bh4 b6 5. Nd2 Bb7 6. e3 Be7 7. Ngf3 c5 8. Bd3 O-O 9. Qe2 d5 {White plays
+the Colle. Black answers quitly. The position is known from Tal - Kliavinsh,
+Riga 1954.} 10. Ne5 Nc6 11. f4 Ne4 12. Bg3 $5 {Van Wely invites Black to
+exchange unfavourably. Later he called it a "casino-move".} Nxg3 $6 ({
+Black opens the h-file. Rebel considers his bischop pair and Whites doubled
+pawns as favourable. Moreprudentis} 12... Nxe5 13. dxe5 Nxd2 14. Qxd2 c4 15.
+Bc2 f5) 13. hxg3 Rc8 $6 ({An important attacker is exchanged by} 13... Nxe5 14.
+dxe5 {Thereafter} d4 15. exd4 cxd4 {starts the l counter-attack in the centre.
+At the last moment Rebel chose the wrong move. Ed was very sad!}) 14. Ndf3 Bd6
+$2 ({Necessary is} 14... Nxe5) 15. g4 $1 f6 16. Ng6 Rf7 17. g5 Rcc7 $5 18. gxh6
+gxh6 19. Rxh6 ({A nice alternative is} 19. Rh5 {
+White postpones the capture and continues the attack on the king.}) 19... Rh7
+20. Rxh7 Rxh7 21. O-O-O c4 22. Bc2 Qe8 $5 23. g4 ({Even worse for Black is} 23.
+e4 $1 Qxg6 24. e5 $1) 23... Rh6 24. Nfh4 Rh7 25. Qg2 Nd8 26. Rh1 b5 27. Nf3
+Rxh1+ 28. Qxh1 Nf7 29. Qh5 Qd7 30. Ngh4 ({Loek advances calmly. Quickly decides
+} 30. Nge5 fxe5 31. Qh7+ Kf8 32. g5 e4 33. g6) 30... Nh8 31. g5 f5 32. Ne5 Bxe5
+33. dxe5 Bc8 34. Nf3 Qf7 35. Qh6 Qg6 36. Qxg6+ {
+White chooses for a won endgame.} Nxg6 37. Nd4 Bd7 38. b3 Kg7 39. Bd1 Ne7 40.
+Kb2 Kg6 41. Be2 Nc8 42. a4 a6 43. axb5 axb5 44. Ka3 Ne7 45. Kb4 Nc6+ 46. Nxc6
+Bxc6 47. Kc5 Be8 48. b4 {Black resigns.} 1-0
+
+[Event "Man Machine Match"]
+[Site "Maastricht"]
+[Date "2002.02.21"]
+[Round "3"]
+[White "Rebel Century 4"]
+[Black "Van Wely, Loek"]
+[Result "1-0"]
+[ECO "C04"]
+[Annotator "Jan van Reek"]
+[PlyCount "67"]
+[EventDate "2002.??.??"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nc6 4. Ngf3 Nf6 5. e5 Nd7 6. Nb3 Be7 7. Bb5 Ncb8 $1 {
+Black can play a prophylactic move in a closed position.} 8. O-O b6 9. Qe2 a5
+10. Be3 Ba6 ({Janosevic - Suetin, Titovo 1966 and Nicevski - Sofresvski,
+Skopje 1967 continued with the immediate} 10... O-O) 11. a4 c6 12. Bxa6 Nxa6
+13. Rfc1 {White takes the initiative on the queenside.} O-O 14. c4 dxc4 15.
+Rxc4 Ndb8 16. Nbd2 Nb4 17. Ne4 N8a6 18. Nfd2 Nc7 19. Qg4 $1 {
+The computer changes its strategy ! It plans an attack on the kingside.} Kh8
+20. Ra3 Nbd5 $1 {
+The blockader in the centre assist in the defence of the kingside.} 21. Bg5 f6
+22. exf6 gxf6 23. Rh3 $1 Qe8 ({Avoids} 23... fxg5 $4 24. Qh5) 24. Qh4 Rf7 25.
+Bh6 {White has a slight advantage, but his bishop allows little progress.
+Black gets time for a counter-attack.} b5 26. axb5 cxb5 27. Rc1 a4 28. Rg3 $5 (
+{Rebel keeps the pressure on the kingside. Better use of the mobility of
+white's pieces makes} 28. Nc5 $1) 28... a3 $6 ({More solid is} 28... Rc8 29.
+Nf3 Bf8) 29. bxa3 Rxa3 30. Nf3 $5 ({The expected move is} 30. Nb3 {
+but Rebel further increases the pressure.}) 30... b4 ({Correct is} 30... Bf8 $1
+{followed by exchange.}) 31. Qh5 $1 Rxf3 $5 ({
+Desperation. Black has lost a pawn after} 31... Bf8 32. Ne5 Re7 33. Nxf6 Nxf6
+34. Qxe8 Ncxe8 (34... Rxe8 35. Nf7#) 35. Bxf8) ({A great variation is} 31...
+Ra7 32. Ne5 $1 fxe5 33. Ng5 Bxg5 34. Qxg5 {Threatens Bg7+} Nb5 {
+The opening of the c-file allows the combination} 35. Qg8+ ({Stronger than} 35.
+Qxe5+ Rf6) 35... Qxg8 36. Rxg8+ Kxg8 37. Rc8+ Rf8 38. Rxf8#) 32. gxf3 $1 Bf8
+33. Kh1 $1 Re7 34. Rcg1 {Black resigns.} 1-0
+
+[Event "Man Machine Match"]
+[Site "Maastricht"]
+[Date "2002.02.22"]
+[Round "4"]
+[White "Van Wely, Loek"]
+[Black "Rebel Century 4"]
+[Result "1-0"]
+[ECO "A36"]
+[Annotator "Jan van Reek"]
+[PlyCount "109"]
+[EventDate "2002.??.??"]
+
+1. c4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. a3 Nf6 6. Rb1 a5 7. e3 d6 8. Nge2 {
+Loek wants to advance quietly in the centre and on the queenside.} Bf5 9. d3
+Ne5 $5 ({The quiet} 9... O-O {stams from Sanguinetti - Byrne, Mar del Plata
+1962. Rebel wants an immediate counter-attack in the centre.}) 10. e4 Bg4 11.
+h3 Bf3 12. O-O Bxg2 13. Kxg2 {The menacing bishop on g2 has been exchanged.}
+O-O 14. g4 $5 {
+White changes his strategy. He takes the initiative on the kingside.} e6 15.
+Ng3 Ne8 16. f4 Nc6 17. f5 Qh4 $5 18. Be3 ({If White imprisons the queen by} 18.
+g5 $5 Be5 19. Nce2 $5 {Black liberates himself by} exf5 20. exf5 f6 $1) 18...
+Be5 19. Nce2 exf5 $2 20. exf5 {
+The exchange has opened square e4 for a White knight.} Ng7 21. Ne4 Qd8 22. f6
+$1 {Van Wely wants to equalise the match.} Ne6 23. N2c3 Re8 24. Qd2 Kh8 25. b3
+Rb8 26. Bg1 Rg8 27. a4 $6 ({The attack continues} 27. Nd5 b5 28. h4) 27... g5
+$5 28. Be3 Nb4 29. Nd5 Nxd5 30. cxd5 Nf4+ 31. Bxf4 Bxf4 32. Rxf4 gxf4 33. Qxf4
+b6 34. Qxd6 Qxd6 35. Nxd6 Rgf8 36. Ne4 ({White has partly lost his advantage,
+but the endgame offers new chances. More solid is} 36. Nf5 Rbd8 37. d6 Rfe8 38.
+Kf3) 36... Rbe8 $2 ({Black chooses the wrong strategy. Instead of a
+counteraction, he should move his pieces to the right defensive squares in} 
+36... Rbd8 37. d6 Rfe8 38. Kf3 Re5 39. Rc1 Rd5 40. Rc3 Kg8) 37. Kf3 Re5 38. Nc3
+$5 {White grabs his last opportunity for a win.} Rfe8 39. Kf4 Re3 40. Rd1 $1
+Rxh3 41. Ne4 Rh2 $5 ({Rebel loses control. A proper defensive move is} 41...
+Kg8 {However,} 42. d6 h5 $1 (42... Rd8 43. Ke5 $1 Kf8 44. Kd5) 43. d4 $1 Rh4 $1
+44. Nf2 $1 hxg4 45. dxc5 bxc5 46. d7 Rd8 47. Nxg4 {will win for White.}) 42. d4
+cxd4 43. d6 Rd8 44. Rxd4 Rc2 45. Rc4 $1 {
+Van Wely took his time for the calculation of the winning move.} Rxc4 46. bxc4
+Kg8 47. Ke5 Kf8 48. c5 bxc5 49. Nxc5 Ke8 50. Kd5 $1 ({
+This move wins easier than} 50. d7+ {, Loek's original plan.}) 50... Rb8 51.
+d7+ Kd8 52. Kc6 Rb2 ({Desperation would be} 52... h5 53. g5 ({Avoids} 53. gxh5
+$4 Rb6+ 54. Kxb6 {Stalemate!})) 53. Nb7+ Rxb7 54. Kxb7 Kxd7 55. Kb6 {
+Black resigns.} 1-0
+
+[Event "Match Evgeni Bareev vs HiarcsX"]
+[Site "Maastricht"]
+[Date "2003.01.28"]
+[Round "1"]
+[White "HiarcsX"]
+[Black "Bareev, Evgeny"]
+[Result "1/2-1/2"]
+[ECO "C01"]
+[Annotator "Jan van Reek"]
+[PlyCount "84"]
+[EventDate "2003.??.??"]
+
+1. e4 e6 2. d4 d5 3. exd5 exd5 {The opening is solid indeed.} 4. Nf3 Nf6 5. c4
+Bb4+ 6. Nc3 O-O 7. Be2 dxc4 8. Bxc4 Re8+ 9. Be3 Be6 10. Qb3 Bxc4 (10... Nc6 11.
+Bxe6 Rxe6 {was played in Santos - Thallinger, Sas van Gent NL 1992.}) 11. Qxc4
+Nc6 12. O-O Bxc3 13. bxc3 Qd5 14. Qd3 $5 {
+Hiarcs avoids the exchange of queens. He seeks his chances in the middle game.}
+Na5 $1 {The battle for square c4 begins.} 15. Nd2 b5 $1 16. a4 a6 17. axb5 axb5
+18. Rfb1 c6 19. f3 h5 {A prophylactic struggle develops. White wants to occupy
+the centre. Black approaches the centre from the flanks.} 20. Re1 Nc4 21. Nxc4
+bxc4 22. Qd1 Qf5 $1 {An exchange of blockaders is staged for square d5.} 23.
+Bd2 Rxe1+ 24. Bxe1 Rxa1 25. Qxa1 {The exchanges of rooks have led to a
+slightly better position for black. The difficulty for White will become his
+passivity.} Kh7 26. Qa2 Qd3 27. Kf2 Nd5 28. Qd2 Qxd2+ 29. Bxd2 Kg6 {Bareev want
+s to utilise his distinct advantage in the endgame. His knight blockades the
+centre. Hiarcs8 misjudges the position. He gives White a plus.} 30. g4 $1 f5
+31. Kg3 Nf6 ({Bareev preferred after the game} 31... hxg4 $1 32. fxg4 Nf6 33.
+gxf5+ Kxf5 34. Kf3 Ng4 35. Bf4 g5 36. Bc7 {It seems to draw.}) 32. gxh5+ Nxh5+
+33. Kf2 Kf6 34. Kf1 Ke6 35. Kg2 Nf6 36. Kg3 Nd5 37. h4 g6 38. h5 f4+ 39. Kg4
+gxh5+ 40. Kxh5 Kf5 {Hiarcs has used 1.45 hours and Bareev 2.00 hours.} 41. Kh4
+Nc7 42. Kh3 Ne6 {Black has no entry to the White position.} 1/2-1/2
+
+[Event "Match Evgeni Bareev vs HiarcsX"]
+[Site "Maastricht"]
+[Date "2003.01.29"]
+[Round "2"]
+[White "Bareev, Evgeny"]
+[Black "HiarcsX"]
+[Result "1/2-1/2"]
+[ECO "A25"]
+[Annotator "Jan van Reek"]
+[PlyCount "100"]
+[EventDate "2003.??.??"]
+
+1. c4 e5 {Bareev and his second Igor Glek talked about the English Defence
+before the game.} 2. g3 Nc6 3. Nc3 g6 4. Bg2 Bg7 5. Rb1 a5 6. a3 d6 7. b4 axb4
+8. axb4 f5 9. b5 Nce7 10. e3 Nf6 11. Nge2 {The moves are identical to Portisch
+- Hort, Skara 1980. Bishop g2 has a hypermodern influence on the center.} Be6
+$5 ({The mentioned game continued with} 11... O-O 12. O-O Be6 13. d3 {
+Portisch avoids the capture of pawn b7.}) 12. Bxb7 {
+Bareev accepts the challenge.} Ra7 13. Bg2 Bxc4 14. d3 Be6 {
+The position is about equal. Strategic manoeuvres might begin.} 15. Bd2 h5 16.
+h4 Qd7 17. Qc2 O-O 18. O-O Rb8 19. Rfc1 {
+White moves his pieces to the queenside.} Bf7 20. Rb4 d5 21. d4 e4 {
+Hiarcs has closed the centre. Bareev has the initiative.} 22. Nf4 Ng4 $2 {
+Black moves a knight away from the battlefield.} (22... Nc8 $1 {
+and the knight jumps to b6 or d6.}) 23. Bf1 $1 Rba8 24. Ra4 Bh6 25. Rca1 Rxa4
+26. Rxa4 Rb8 27. Ra6 $1 {White enters the hostile position easily.} Bxf4 28.
+exf4 Nc8 {Blacks hopes to survive by a passive defence.} 29. Bc1 Nb6 30. Be2
+Kg7 $1 {The king overprotects weaknesses.} 31. Qa2 Nf6 {
+The idle knight returns.} 32. Ba3 Ne8 33. Bc5 Nd6 34. Qa1 Qd8 {Hiarcs has
+d his position. The knights establish strongholds in the bastion.} 35. Qa3 Nbc4
+36. Qb4 e3 37. f3 {White keeps the position closed.} ({The error} 37. fxe3 $2
+Qe8 $1 {allows a counterattack.}) 37... Nxb5 $5 {Black opens the game.} 38.
+Nxb5 Qd7 39. Ra5 Be8 40. Bxc4 dxc4 {
+Black will gain back the piece, but White has tactical chances in the meantime.
+} 41. Qc3 Rxb5 42. Rxb5 ({A trap sets} 42. d5+ Kh7 43. Qe5 $1 Qg7 ({avoids} 
+43... Rxa5 $4 44. Bd4 Kg8 45. Qh8+ Kf7 46. Qg7#)) 42... Qxb5 43. d5+ Kg8 44.
+Qxe3 Bf7 45. Qe7 Qb8 46. Bd4 Qe8 47. Qf6 Qe1+ 48. Kg2 Qe2+ 49. Bf2 {
+Bareev does not accept perpetual check.} Be8 50. Qe5 Qxe5 1/2-1/2
+
+[Event "Match Evgeni Bareev vs HiarcsX"]
+[Site "Maastricht"]
+[Date "2003.01.30"]
+[Round "3"]
+[White "HiarcsX"]
+[Black "Bareev, Evgeny"]
+[Result "1/2-1/2"]
+[ECO "C11"]
+[Annotator "Jan van Reek"]
+[PlyCount "72"]
+[EventDate "2003.??.??"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 dxe4 5. Nxe4 Be7 6. Bxf6 Bxf6 7. Nf3 O-O 8.
+Bc4 Nd7 9. Qe2 a6 10. O-O {
+Hiarcs has left his book. He continues in his quiet style.} ({
+The more aggressive} 10. O-O-O b5 11. Bb3 {
+was played in Kindermann - Roth, Vienna 1996 and anand - Radjabov, FIDE 2002.})
+10... b5 11. Bd3 Bb7 12. c3 Be7 13. b4 {
+White takes the initiative on the queenside.} Bd5 14. a4 c6 15. Ra3 a5 $1 {
+Bareev solves the slight positional problems.} 16. axb5 cxb5 17. Rxa5 Rxa5 18.
+bxa5 Qxa5 19. Bxb5 Nf6 (19... Bxe4 $5 20. Bxd7 Qd5 $1 21. Ne5 Bxg2 22. Ra1 Bh3
+23. Bc6 Qb3 {
+leads to great complications. Bareev did not like this tactical variation.})
+20. Nxf6+ Bxf6 {Black has made a positional sacrifice of a pawn.} 21. Qd3 $5 {
+Hiarcs keeps the pawn.} (21. Ne5 Bxe5 22. dxe5 Qxc3 {draws.}) 21... Bxf3 22.
+gxf3 Rc8 23. c4 Rd8 24. d5 exd5 25. cxd5 Qb4 26. Bc4 {
+White plays for a win. He evaluates his position as favourable.} Be5 27. Qe4
+Qd6 28. h3 Qf6 {Black stages an attack on the kingside with few means.} 29. Rb1
+h5 30. Kg2 Bd6 31. Bd3 g6 32. h4 Kf8 33. Re1 {
+Hiarcs can not do anything with his extra pawn, due to the blockade.} Rb8 34.
+Bc2 Kg7 35. Rb1 {White counters the threat 35...Rb4.} Rc8 36. Rb7 Rc7 {
+Both sides can not make any progress.} 1/2-1/2
+
+[Event "Match Evgeni Bareev vs HiarcsX"]
+[Site "Maastricht"]
+[Date "2003.01.31"]
+[Round "4"]
+[White "Bareev, Evgeny"]
+[Black "HiarcsX"]
+[Result "1/2-1/2"]
+[ECO "A20"]
+[Annotator "Jan van Reek"]
+[PlyCount "90"]
+[EventDate "2003.??.??"]
+
+1. c4 e5 2. g3 Nf6 3. Bg2 c6 4. d4 exd4 5. Qxd4 d5 6. Nf3 Be7 7. cxd5 cxd5 8.
+O-O Nc6 9. Qa4 O-O 10. Be3 Be6 11. Nc3 Qd7 12. Rfd1 h6 13. Rac1 Rfd8 (13... a6
+{was played in Kasparov - Hjartarson, Belfort 1988.}) 14. Nd4 {The opening was
+English again. Positional play is similar to the Tarrash Defence, as Eric van
+Reem noted.} Bh3 15. Bh1 a6 16. Nxc6 bxc6 {The position is nearly equal,
+although White has distant pressure on the central area.} 17. Nb1 $5 Rdc8 18.
+Nd2 Qb7 19. Nb3 {Bareev wants to control the strong squares c5 and d4.} Qb5 20.
+Qxb5 $5 axb5 21. a3 b4 {Black has a sufficient counteraction on the queenside.}
+22. axb4 Bxb4 23. Nc5 Bf5 24. Bg2 Ra2 25. Nd3 Bd6 ({A pawn seems to win} 25...
+Bxd3 26. exd3 {but} Rxb2 $6 27. Bd4 Rd2 28. Rxd2 Bxd2 29. Rc2 Bb4 30. Bxf6 gxf6
+31. Bxd5 {brings a plus for white.}) 26. Bd4 Ne4 27. g4 $1 {Subtle centralisati
+on?! The indirect approach gains control over the central area.} Bd7 28. f3 Ng5
+29. f4 $6 Ne6 30. Be3 ({Great risk takes} 30. Be5 $6 Bxe5 31. Nxe5 Nxf4 32.
+Nxd7 Nxe2+ 33. Kf1 Nxc1 34. Rxc1 Rxb2 35. Bxd5 Rxh2 36. Rxc6 Rxc6 37. Bxc6)
+30... Re8 31. Bf3 Ng5 $1 32. fxg5 Rxe3 33. gxh6 g5 $1 {
+Black has gained a positional advantage on the kingside.} 34. Ra1 Rxa1 35. Rxa1
+Re6 36. Ra8+ Kh7 37. b4 Kxh6 38. b5 $1 {Bareev finds a surprising defence.}
+cxb5 39. Bxd5 Rf6 ({The first pointe is} 39... Rxe2 $4 40. Ra6) 40. e4 Be6 ({
+The second point is} 40... Bxg4 $4 41. e5) 41. Kg2 Kg7 42. h3 Bf8 $5 43. Rb8
+Bxd5 44. exd5 b4 45. Rb7 Bd6 (45... Bd6 46. Nxb4 Bxb4 47. Rxb4 Rd6 48. Rd4 Kf6
+49. Kf3 Ke5 {draws.}) 1/2-1/2
+
+[Event "Complete Chess"]
+[Site "Maastricht"]
+[Date "2004.02.10"]
+[Round "1"]
+[White "Baramidze, David"]
+[Black "Stellwagen, Daniel"]
+[Result "1-0"]
+[ECO "B76"]
+[Annotator "Jan van Reek"]
+[PlyCount "87"]
+[EventDate "2004.??.??"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 Nc6 8. Qd2
+O-O 9. O-O-O Bd7 10. g4 Ne5 11. h4 Rc8 12. h5 Qa5 13. hxg6 ({An interesting
+variation of the Sicilian Defence has arisen. White attacks on the kingside.
+Black defends with his minor pieces and counterattacks with two heavy pieces.
+Baramidze diverts from the variation} 13. Kb1 Rxc3 14. Qxc3 Qxc3 15. bxc3 Nxf3
+16. Nxf3 Bxg4 {Sandor - Aagaard, Hamburg 1993.}) 13... fxg6 14. Kb1 b5 $1 {
+Black sacrifices a pawn.} 15. Bxb5 Bxb5 16. Ncxb5 Qxd2 17. Bxd2 {
+A forced simplification has occurred.} Rb8 18. Nc3 Nc4 $1 {
+The critical position! Does Black have sufficient compensation for the pawn?}
+19. b3 Nxg4 20. fxg4 Bxd4 21. Nd5 Nxd2+ $6 ({
+Slightly better seems to be the immediate} 21... Bf6) 22. Rxd2 Bf6 23. Nxf6+
+Rxf6 24. e5 Re6 25. exd6 exd6 {Although Black has won back the pawn, he still
+suffers due to weaknesses in the double rook ending.} 26. c4 Rb6 27. Kc2 Re4
+28. Rg2 a5 29. Kd3 Re5 30. Rf2 a4 31. Rb1 axb3 32. axb3 h5 33. gxh5 Rxh5 34. b4
+Rh3+ 35. Ke4 Rh4+ 36. Rf4 Rxf4+ 37. Kxf4 Kf7 {
+The Exchange has led to a defendable rook ending.} 38. Ke4 Ke6 39. b5 Rb8 40.
+Rh1 Rg8 $6 ({Daniel does not play a forced draw} 40... d5+ $1 41. cxd5+ Kd6 42.
+Rb1 ({David had calculated} 42. Rh6 Rxb5 43. Rxg6+ Kd7 {
+but then the theoretical draw arises.}) 42... Re8+ 43. Kd4 Re5) 41. Rh6 $1 (41.
+Rh7 g5 42. b6 Rc8 $1 43. Kd4 Rc6 44. b7 Rb6 {draws quickly.}) 41... Kd7 $6 (
+41... Re8 $1 {defends elegantly.}) 42. Rh7+ $5 ({Baramidze had evaluated} 42.
+Kd5 Rg7 43. Rh8 Re7 44. Rg8 Re5+ {as drawn.}) 42... Kc8 $4 ({Correct is} 42...
+Ke6 $1 43. b6 Rc8 $1 44. Kd4 Rc6 45. b7 Rb6 46. Rg7 $1 g5 $1 ({
+Baramidze had noticed the trap} 46... Kf6 $4 47. c5 $1)) 43. Kd5 g5 44. b6 {
+The opening led to an attack by White. An elegant counteraction simplified the
+position. Baramidze had a slightly better rook ending. Errors madebyStellwagen
+ended the game. Both players used Fritz8 and the Megadatabase2004.} 1-0
+
+[Event "Complete Chess"]
+[Site "Maastricht"]
+[Date "2004.02.11"]
+[Round "2"]
+[White "Stellwagen, Daniel"]
+[Black "Baramidze, David"]
+[Result "1-0"]
+[ECO "B31"]
+[Annotator "Jan van Reek"]
+[PlyCount "81"]
+[EventDate "2004.??.??"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. O-O Bg7 5. c3 Nf6 6. Re1 O-O 7. h3 $5 {
+Daniel chooses a quiet variation of the Sicilian Defence.} e5 8. d4 cxd4 9.
+cxd4 Nxd4 10. Nxd4 exd4 $5 (10... Qb6 $5 {
+drew in Shapshnikov - Bu Xiangzhi, Petroff Memorial 2000.}) 11. Qxd4 a6 12. Ba4
+d5 $1 {Baramidze diverts from Kazhgalayev - Kozul, Luzern 1997.} 13. e5 Ne4 14.
+Nd2 Qa5 15. Nf3 Be6 16. Bb3 Rac8 17. Bf4 Nc5 $1 {
+Black equalises in the middle game.} 18. Bg5 Qb5 $6 ({
+Wild complications result from} 18... Nxb3 $5 19. axb3 Qb5 20. Bf6 $1 Qxb3 21.
+Bxg7 Kxg7 22. Qf4 $1) 19. Re3 Nxb3 20. axb3 $5 {
+White weakens his pawn structure in order to control square c4.} Bf5 21. Bf6
+Bxf6 22. exf6 {Daniel would like to move his queen to h6.} Rfe8 23. Ne5 {
+The manoeuvres in the centre remind of Spassky.} Qc5 24. Qf4 d4 $1 {
+A counteraction in the centre prevents an attack on the king.} 25. Ree1 Rcd8
+26. g4 ({The alternative is} 26. Nf3 d3 27. Re7 Rxe7 28. Qh6 Re1+ 29. Rxe1 Qf8
+{does not lead to mate.}) 26... Be6 27. Re4 Qf8 28. Rxd4 Rxd4 29. Qxd4 Bxb3 30.
+Re1 Be6 31. Rd1 Qh6 32. Qd8 $5 {"A real Stellwagen move".} Rxd8 33. Rxd8+ Qf8
+34. Rxf8+ Kxf8 35. f4 {White has transferred his plus to the endgame.} Ke8 36.
+Kf2 b6 $6 ({A fine alternative seems to be} 36... Kd8 $5 37. Kg3 a5 38. Kh4 Ke8
+$1) 37. Ke3 a5 38. Kd4 Bb3 $2 ({Correct is} 38... Kd8 39. Nf3 Ba2 $1 40. Ke5
+Kd7 41. Ng5 $5 h6 42. Ne4 b5 $1 {Black seems to have sufficient counter-play.})
+39. Kc3 Bd5 40. Kd4 Be6 41. Nc4 $3 {
+The decisive move has been postponed for two moves.} (41. Nc4 Bxc4 ({
+Ree mentions the alternative} 41... Kd7 $1 42. Nxb6+ Kc6 43. Nc4 a4 {
+A proper answer seems to give} 44. Nd2 $1 Kb5 45. Ne4 Kb4 46. Nc5) 42. Kxc4 Kd7
+43. Kb5 Kc7 44. g5 Kb7 45. h4 Kc7 46. b3 $1 {Zugzwang.} Kb7 47. h5 $1 gxh5 48.
+f5 h4 49. g6 hxg6 50. fxg6 {The breakthrough wins for White.}) 1-0
+
+[Event "Complete Chess"]
+[Site "Maastricht"]
+[Date "2004.02.12"]
+[Round "3"]
+[White "Baramidze, David"]
+[Black "Stellwagen, Daniel"]
+[Result "1/2-1/2"]
+[ECO "B49"]
+[Annotator "Jan van Reek"]
+[PlyCount "70"]
+[EventDate "2004.??.??"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 Qc7 6. Be2 a6 7. O-O Nf6 8.
+Be3 Bb4 9. Na4 Be7 10. Nxc6 bxc6 11. Nb6 Rb8 12. Nxc8 Qxc8 13. Bd4 c5 14. Be5
+Rb6 15. Qd3 d6 16. Bc3 O-O 17. b3 d5 18. e5 Nd7 19. f4 c4 20. bxc4 Rc6 21. Qh3
+Nb6 22. Bd3 g6 23. Rf3 Re8 24. Rg3 ({The dangerous alternative} 24. cxd5 $5
+Rxc3 25. d6 Bxd6 26. exd6 {[Lobron - Stellwagen, Wijk aan Zee 2004]} Nd5 $1 27.
+d7 $2 Qxd7 28. Bxg6 $2 hxg6 29. Rxc3 {is refuted by} Qa7+ $1 30. Kf1 Qd4) 24...
+Qc7 $1 {Stellwagen plays the right move after 45 minutes.} ({
+"Theory" from a rapid game is} 24... Rxc4 $2 25. Bxc4 Qxc4 26. f5 $2 {
+[Lutz - Jiangchuan, Europe-Asia 2001]}) ({Black avoids} 24... Nxc4 $6 25. f5 $1
+exf5 $2 26. e6 $1 fxe6 (26... Rxe6 27. Qxh7+ Kxh7 28. Rh3+ Kg8 29. Rh8#) 27.
+Rxg6+ hxg6 28. Qh8+ Kf7 29. Qg7#) 25. Bd4 ({After the game Stellwagen mentioned
+} 25. Kh1 Nxc4 26. f5 exf5 27. e6 Ne5 $1 28. Bxf5 Bf6 {
+and Black holds the game.}) ({Daniel also showed the moves} 25. Rf1 $1 Nxc4 ({
+He intended to play} 25... Rxc4 26. Bxc4 Qxc4 27. Rd3 Qxa2 {
+but this loses material.}) 26. f5 $1 exf5 $1 27. e6 $1 Bc5+ $1 28. Kh1 Bf8 $1
+29. exf7+ Qxf7 30. Rxf5 Qe7 31. Rf1 Bg7) 25... Nxc4 26. c3 Nb2 27. f5 Nxd3 28.
+fxg6 hxg6 29. Rxd3 Bc5 30. Bxc5 Rxc5 31. Rf1 $1 {
+Baramidze plays an exciting move. The game revives.} Qxe5 32. Rxf7 Kxf7 33.
+Qh7+ Kf6 34. Rf3+ Qf5 35. Qh4+ Kf7 ({
+Black accept the repetition of moves because} 35... Kf7 36. Qh7+ Kf8 $6 37.
+Qxg6 $1 Qxf3 38. gxf3 Ke7 39. Qg7+ Kd6 40. f4 {looks suspicious.}) 1/2-1/2
+
+[Event "Complete Chess"]
+[Site "Maastricht"]
+[Date "2004.02.13"]
+[Round "4"]
+[White "Stellwagen, Daniel"]
+[Black "Baramidze, David"]
+[Result "1-0"]
+[ECO "C42"]
+[Annotator "Jan van Reek"]
+[PlyCount "97"]
+[EventDate "2004.??.??"]
+
+1. e4 e5 2. Nf3 Nf6 {Baramidze's choice of the opening surprises.} 3. Nxe5 d6
+4. Nf3 Nxe4 5. Nc3 $5 {White avoids sharp variations.} Nxc3 6. dxc3 Be7 7. Bf4
+O-O 8. Qd2 Nd7 9. O-O-O Re8 10. Kb1 (10. Bd3 {
+was played in Zapata - Morovic, Mario Covas 2003.}) 10... Nc5 11. Be3 c6 12.
+Nd4 $5 ({The exchange} 12. Bxc5 dxc5 13. Bd3 {keeps an even game.}) 12... d5
+13. f3 Qb6 14. h4 $5 {Stellwagen plays a couragious move. Both players plan an
+attack on the hostile king.} Bd6 15. Bf4 Qc7 $2 {
+Black plays a passive move. He loses the initiative on the queenside.} 16. Bxd6
+Qxd6 17. g4 Ne6 18. Nxe6 Qxe6 19. Bd3 Qf6 ({
+Baramidze has chosen for the defence. He avoids} 19... Qe3 $4 20. Rhe1 $1) 20.
+Rdf1 Bd7 21. g5 Qe5 22. f4 Qd6 23. f5 $2 {Fritz and Shredder prefer this move.}
+({Correct is} 23. h5 $1 {(Brorens)} f5 {
+(the only defence against the threat 24.h6).} 24. gxf6 Qxf6 ({if Black plays} 
+24... gxf6 {as in the game} 25. Qg2+ Kh8 26. Bxh7 $1 {
+gives a tactical refutation}) 25. f5 $1 {
+and Black has no appropriate defence against the threat 26.h6).}) 23... f6 $1
+24. gxf6 gxf6 $1 {Pawn f5 blocks the attack of the white bishop on h7.} 25. c4
+$5 ({Obvious moves are} 25. Rhg1+ Kh8 26. Qh6 Rg8 27. Rg6 Raf8 28. Re1 {
+but the attack is not decisive as Stellwagen and Kuijf notice.}) 25... Kh8 26.
+cxd5 cxd5 27. Rhg1 Rg8 28. a3 Rxg1 29. Rxg1 Rg8 30. Rxg8+ Kxg8 31. Be4 Kg7 $1
+32. h5 ({The pointe is} 32. Qxd5 Qxd5 33. Bxd5 b6 $1 {
+and Black regains the pawn.}) 32... b6 33. h6+ Kf8 34. Bd3 Qg3 35. Qb4+ Kf7 36.
+Ka2 Qg5 $2 ({Black can force a draw by} 36... Qf3 $1 37. Qd6 Bxf5 38. Qc7+ Kg6
+39. Qg7+ Kh5 40. Qxf6 Be4 41. Qxf3+ Bxf3 42. Bxh7 Kxh6) 37. Qd6 Bxf5 38. Qc7+
+Kg6 39. Qg7+ Kh5 40. Qxa7 Bxd3 41. cxd3 Kxh6 42. Qxb6 {
+White has a better pawn structure after the exchanges.} Qf5 $5 ({
+Baramidze does not trust} 42... Kg6 43. a4 h5 44. a5) 43. a4 Qxd3 44. Qxf6+ Kh5
+45. Qc6 Qd2 46. Qb5 Kg5 47. a5 Qd4 48. a6 h5 49. Qa5 $1 {White wins the queen
+ending. Baramidze played a timid game. A quick draw was expected after the
+opening, but David gave the initiative to his opponent. Stellwagen won after
+great complications.} 1-0
+
+[Event "Complete Chess"]
+[Site "Maastricht"]
+[Date "2005.05.10"]
+[Round "1"]
+[White "Van Wely, Loek"]
+[Black "Stellwagen, Daniel"]
+[Result "0-1"]
+[ECO "E97"]
+[Annotator "Jan van Reek"]
+[PlyCount "82"]
+[EventDate "2005.??.??"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. O-O Nc6 8. d5
+Ne7 9. b4 $5 {Loek plays his favourite bayonet line} Nh5 10. Re1 f5 11. Ng5 Nf6
+12. f3 $5 Nh5 $5 {This time consuming manoevre still belongs to the theory.}
+13. c5 Nf4 14. Bc4 Kh8 15. Rb1 {Bareev played this move against Radjabov in
+Wijk aan Zee 2003. Tsesarsky called it a strong novelty. White postpones the
+jump Ne6.} dxc5 {Stellwagen makes a new move.} 16. bxc5 ({
+The players looked at the complications of} 16. d6 $5 cxd6 17. Nf7+ Rxf7 18.
+Bxf7 cxb4) 16... Nexd5 $1 {
+A tactical turmoil begins. black wins a pawn but white keeps a plus.} 17. Nxd5
+({More active is} 17. Bxf4 $1 exf4 18. Nb5 Qxg5 ({or} 18... c6 19. Nd6 $1 Qxg5
+20. exd5 Qf6 21. Kh1 h5 22. Bb3) 19. exd5 Qd8 20. d6 cxd6 21. Nxd6 {
+White has conquered the central area.}) 17... Qxg5 18. Nxf4 exf4 19. e5 Qe7 20.
+Qb3 Re8 21. Bxf4 b6 22. Qe3 Be6 23. Bb5 Rec8 24. Bc6 Rab8 25. Rbc1 Bf8 $1 {
+This move saves the defence. Fritz and Hiarcs evaluates the position as equal.
+Shredder and Junior give White a plus for the initiative on the queenside.} 26.
+Bg5 $2 ({Correct is} 26. cxb6 {(Hans Ree)} cxb6 27. Bh6 Bxh6 28. Qxh6 Rc7 (
+28... Bxa2 29. e6) 29. Bb5 Rxc1 30. Qxc1) 26... Qxc5 $1 27. Rxc5 {
+Van Wely makes a highly surprising move. The rest is easy.} Bxc5 28. Kf2 Bxe3+
+29. Kxe3 b5 30. Kd4 b4 31. Kc5 b3 32. axb3 Rxb3 33. Bd5 Bxd5 34. Kxd5 Kg7 35.
+Ke6 c5 36. Bf6+ Kf8 37. Kd7 Re8 38. Bg7+ Kf7 39. e6+ Rxe6 40. Rxe6 Kxg7 41. h4
+Kh6 0-1
+
+[Event "Complete Chess"]
+[Site "Maastricht"]
+[Date "2005.05.11"]
+[Round "2"]
+[White "Stellwagen, Daniel"]
+[Black "Van Wely, Loek"]
+[Result "1/2-1/2"]
+[ECO "B31"]
+[Annotator "Jan van Reek"]
+[PlyCount "72"]
+[EventDate "2005.??.??"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. O-O Bg7 5. Re1 e5 6. Bxc6 dxc6 7. d3 Qe7 8.
+Nbd2 Nf6 9. Nc4 Nd7 10. Bd2 O-O 11. a3 Rd8 12. Bc3 $5 ({
+White gained the initiative on the queenside by} 12. b4 b6 13. Qc1 {in Speelman
+- David, Mondariz 2000. Stellwagen aims another piece on the centre.}) 12... f6
+13. Qc1 Nf8 14. b4 $6 {
+Daniel plays the thematic move of this position rather late.} Be6 15. Na5 cxb4
+16. axb4 Bf7 17. Qb2 Ne6 18. Bd2 $1 {
+The white bishop is needed on another diagonal.} Rac8 19. Be3 b6 $1 {
+Black takes the initiative.} 20. Nc4 c5 21. bxc5 Nxc5 22. Bxc5 (22. Nfd2 {
+brings a serious alternative but Stellwagen wants to play more actively.})
+22... Rxc5 23. Ne3 Rd7 24. Ra3 Qd8 ({Black has no time to play} 24... f5 {
+due to the fine answer} 25. c4 $1 fxe4 26. dxe4 Bxc4 $5 27. Nxc4 Rxc4 28. Qa2 {
+with equality.}) 25. c4 $1 {
+This move can be played because pawn a7 misses protection.} b5 26. cxb5 Qb8 27.
+Rb1 Rb7 28. Ra5 a6 $1 {Black creates a passed pawn.} 29. Qa1 Rcxb5 30. Rbxb5
+Rxb5 31. Nd2 $1 Rxa5 32. Qxa5 Qb5 33. Qd8+ Qe8 34. Qa5 Qb5 35. Qd8+ Qe8 36. Qa5
+Qb5 1/2-1/2
+
+[Event "Complete Chess"]
+[Site "Maastricht"]
+[Date "2005.05.12"]
+[Round "3"]
+[White "Van Wely, Loek"]
+[Black "Stellwagen, Daniel"]
+[Result "1/2-1/2"]
+[Annotator "Jan van Reek"]
+[SetUp "1"]
+[FEN "nrnbqrbk/pppppppp/8/8/8/8/PPPPPPPP/NRNBQRBK w - - 0 1"]
+[PlyCount "96"]
+[EventDate "2005.??.??"]
+
+1. f4 f5 2. Nab3 Nab6 {Two useful moves open the game.} 3. Nd3 d6 $1 {
+Stellwagen starts the fight for the central area.} 4. Qg3 c5 5. Ne1 $1 {
+Van Wely steers his pieces towards the kingside.} Nd5 6. d3 Nf6 {
+Black protects the kingside before he advances on the other flank.} 7. e3 a5 8.
+a3 b5 9. Nd2 Nb6 10. Nef3 a4 11. Ng5 h6 12. Qh3 Qd7 13. Ndf3 {
+Knights gallop towards the hostile king.} Bd5 $1 14. Nh4 Kg8 (14... hxg5 $4 15.
+Ng6+ Kg8 16. Qh8+ Kf7 17. Nxf8 Qe8 18. fxg5 $18 {is simple for computers.}) 15.
+Ng6 Re8 16. Bf3 $5 {
+Van Wely accepts the consequences of his sharp moves and offers a knight.} e6
+$5 {Stellwagen refuses the sacrifice.} ({Why not} 16... hxg5 17. fxg5 Nh7 18.
+Bxd5+ Nxd5 19. e4 Nb6 {. Junior regards} 20. Qh5 e6 21. h4 {
+as about equal. Other programs make a completely different evaluation.}) 17. e4
+Bb7 18. e5 Nfd5 19. Bxd5 Nxd5 20. exd6 Nxf4 $5 {Black gives a lively responce.}
+({He does not play} 20... hxg5 {of course.}) 21. Nxf4 Bxg5 {
+Black keeps the kingside closed.} 22. Bxc5 Rbc8 23. d4 e5 $1 24. Nd3 exd4 25.
+Rbe1 ({White has to oppose on the open file, because} 25. Qxf5 Qxf5 26. Rxf5
+Re2 $1 {leads to problems for White.}) 25... Be4 26. Bxd4 Qxd6 27. c3 {
+Loek closes his defence line.} Bf6 28. Rd1 Bxd4 29. Nf4 Qc6 ({
+A sharp alternative gives} 29... Qa6 30. Rxd4 b4 $1 {
+Black has a positional advantage anyway.} 31. Nh5) 30. Rxd4 Rcd8 31. Qg3 Rxd4
+32. cxd4 Rd8 {Daniel continues to play solid moves.} (32... Qc4 $1 {
+makes a sharper and better choice. The players analysed} 33. Qf2 (33. Rd1 Bc2
+34. Re1 Re4) 33... g5 34. Nh5 Re6 {after the game.}) 33. Nh5 Rd7 34. Kg1 Kh7
+35. Qf2 Qc2 36. Qxc2 Bxc2 37. Rf2 $1 Bd3 38. Rd2 Rxd4 39. Kf2 g5 40. Ke3 Rh4 {
+White's active king gives suuficient compensation for the loss of a pawn.} 41.
+Rxd3 Rxh5 42. h3 g4 43. Kf4 gxh3 44. gxh3 Kg6 45. Rd6+ Kg7 46. Rd7+ Kf6 47.
+Rd6+ Ke7 48. Rb6 Rxh3 {
+The debut of complete random chess has led to a fascinating game.} 1/2-1/2
+
+[Event "Complete Chess"]
+[Site "Maastricht"]
+[Date "2005.05.13"]
+[Round "4"]
+[White "Stellwagen, Daniel"]
+[Black "Van Wely, Loek"]
+[Result "1-0"]
+[Annotator "Jan van Reek"]
+[SetUp "1"]
+[FEN "nrnbqrbk/pppppppp/8/8/8/8/PPPPPPPP/NRNBQRBK w - - 0 1"]
+[PlyCount "83"]
+[EventDate "2005.??.??"]
+
+1. e4 e5 2. Nab3 Nab6 3. d4 exd4 4. Nxd4 {The openin shows simularity to the
+Scotch Game, one of the oldest starts of the game. Theory is lacking in this
+case naturally.} Nd6 5. f3 f5 6. e5 Ndc4 7. f4 d6 8. Nd3 Nd7 $6 (8... Bd5 $1 9.
+Bf3 Be4 $1 {gives Black sufficient counter-play.}) 9. Nf3 $1 {The battle for
+the central area rages. Known positional features and strategic plans apply,
+despite the different initial position.} Ncb6 $6 10. b3 Bd5 11. Qg3 Be4 {
+Black tries to regain the territory that he has lost in the opening.} 12. Be2
+d5 $5 13. Rbd1 Rg8 14. c4 $5 {
+Van wely strives for a closed game. Stellwagen opens the game.} c6 15. cxd5
+Nxd5 $1 (15... cxd5 $2 16. Nd4 {leads to a blockade.}) 16. Bd4 Bb6 17. Bxb6
+Bxf3 18. Bxf3 N7xb6 19. Qf2 $1 {White has to protect square e3.} Qe7 20. g3
+Rbd8 21. Qc5 Qf7 {Black avoids a poor endgame.} 22. Rfe1 Rge8 {
+The thread was 23. e6.} 23. a4 Nc7 24. a5 Ne6 25. Qf2 Nd5 ({Insufficient is} 
+25... Nc8 26. a6 Qc7 27. Nc5 $1) 26. Nb2 $1 Nb4 (26... Nc3 27. Rxd8 Rxd8 28.
+Qxa7 {White has won a pawn.}) 27. Rf1 c5 28. Nc4 Qc7 29. Nd6 $1 {A wonderful
+knight manouevre has decided the game. Van Wely starts a desperate action, but
+the answer is easy if you use a computer.} Rf8 30. Qe2 Nd4 31. Qc4 Rxd6 32.
+exd6 Qxd6 33. Bxb7 Nbc6 34. Qa6 Qd5+ 35. Kg1 Nf3+ 36. Kf2 Qxb3 37. Bxc6 Nxh2
+38. Rfe1 Ng4+ 39. Kg2 Ne3+ 40. Rxe3 Qxe3 41. Rd7 Rb8 42. Bf3 1-0
+
+[Event "Complete Chess"]
+[Site "Maastricht"]
+[Date "2006.01.31"]
+[Round "1"]
+[White "Peng, Zhaoqin"]
+[Black "Lanchava, Tea"]
+[Result "0-1"]
+[ECO "C47"]
+[Annotator "Jan van Reek"]
+[PlyCount "114"]
+[EventDate "2006.??.??"]
+
+1. e4 e5 2. d4 exd4 3. Nf3 {Lanchava has the choise betweenthe Scotch Gambit
+and the Goering Gambit. She chooses the main line of the Scotch Game.} Nc6 4.
+Nxd4 Nf6 5. Nc3 Bb4 6. Nxc6 bxc6 7. Bd3 d5 8. exd5 cxd5 9. O-O O-O 10. Bg5 c6
+11. Qf3 Rb8 12. Na4 Bd6 13. c4 Re8 $5 ({Tea makes a new move.} 13... Be6 {
+is known from Sutovsky - Gabriel, Holon 1995}) 14. Bxf6 Qxf6 15. Qxf6 gxf6 16.
+cxd5 cxd5 {Exchanges have led to an equal position. White has only two pawn
+islands. Black has two bisschops and five isolated pawns. A strategic battle
+in the endgame might begin.} 17. Rac1 Rb4 18. b3 Rd4 19. Rcd1 Rh4 20. g3 Rh5 {
+The counteraction by Lanchava is met by Peng. White has achieved a minimal
+advantage.} 21. Rfe1 Rxe1+ 22. Rxe1 Re5 23. Rc1 Bh3 24. f4 Re7 ({
+The more active} 24... Re3 {is answered by} 25. Bf1 Bg4 26. Kf2 Rf3+ 27. Kg2
+Re3 {and the game continues.} 28. Rc6 Bb4 29. Nc3 Be6) 25. Bf1 Bg4 26. Rc6 Bb4
+27. Nc3 Be6 28. Nb5 {White has taken over the iniative.} Kg7 29. Rc1 Bd2 30.
+Rd1 Be3+ 31. Kg2 Bb6 32. Nd4 $1 Bg4 33. Rd2 {White has retreated the rook and
+knight. It has led to a solid blockading position.} h5 $5 {
+Black strives for containment on the kingside.} 34. Ba6 Re3 35. h3 Be6 36. Nc2
+Rc3 37. Bd3 Bd7 38. Rd1 {
+The white pieces have moved to lower ranks. It has led to equality.} Bc5 39.
+Rd2 a5 40. Rd1 {Peng has repeated moves under slight time pressure.} Bc6 41.
+Rd2 $2 ({Right is} 41. Ne1 $1 d4+ 42. Kf2 {
+and black can not advance the f-pawn.}) 41... d4+ 42. Kf2 f5 $1 {
+The pawn can not be captured!} 43. Ne1 h4 $1 {
+The inactivity by White has allowed a black attack.} 44. gxh4 Bd6 $1 45. Rc2
+Be4 46. Rxc3 dxc3 47. Bxe4 {Peng makes another exchange.} (47. Ke3 Bc5+ 48. Ke2
+Kg6 {favours White as well.}) 47... fxe4 48. Ke3 f5 49. Kd4 Kg6 $1 {
+The c-pawn enjoys indirect protection.} 50. Nc2 Bxf4 51. Kxc3 {
+Might it be possible for White to give his knight for three pawns?} Kh5 52. b4
+$6 ({The critical line is} 52. Kc4 $1 Bc1 $1 {
+Black has to control the central area.} (52... Bg3 53. a3 $1) 53. Kd5 Kxh4 54.
+Nd4 Kg5 55. Ne6+ Kf6 56. Nd4 Kg6 $1 {and White experiences great difficulties.}
+) 52... axb4+ 53. Nxb4 Kxh4 54. Kd4 Kxh3 55. Nd5 Kg4 56. a4 Bd2 57. Ne3+ Bxe3+
+{Black wins the pawn ending easily.} 0-1
+
+[Event "Complete Chess"]
+[Site "Maastricht"]
+[Date "2006.02.01"]
+[Round "2"]
+[White "Lanchava, Tea"]
+[Black "Peng, Zhaoqin"]
+[Result "1-0"]
+[ECO "C21"]
+[Annotator "Jan van Reek"]
+[PlyCount "111"]
+[EventDate "2006.??.??"]
+
+1. e4 e5 2. d4 exd4 3. Nf3 {The obligated moves have been played.} Bb4+ {
+It's a gambit!} 4. c3 dxc3 5. bxc3 $5 (5. Nxc3 {leads to a line of the Goering
+Gambit. White plays another rare line: the Scotch Gambit. Similar moves were
+played in the correspondence match London - Edinburgh 1824-1828.}) 5... Be7 6.
+Bc4 d5 $1 {
+This countergambit stems from the game Sveshnikov-Chekhov, Minsk 1976.} 7. exd5
+Nf6 8. O-O O-O 9. Bg5 $1 {Lanchava plays a novelty.} Bg4 10. Nbd2 Nbd7 11. Rb1
+Rb8 12. Re1 Nxd5 $1 {Black eliminates a hindrance by a "petite combination".}
+13. Bxd5 Bxg5 14. Rxb7 Rxb7 15. Bxb7 Nc5 $1 16. Ne4 $1 {Tactics continue.} Qxd1
+17. Rxd1 Bxf3 18. gxf3 Nxb7 19. Nxg5 {
+Many exchanges have led to a positional plus for Black.} Rd8 20. Rb1 Nd6 21.
+Ne4 Kf8 22. Rb4 Ke7 23. Ra4 Nc8 24. Ra5 Rd1+ 25. Kg2 f6 26. h4 Rb1 27. a4 c6
+28. h5 Rb7 29. f4 {It is hard for Black to utilise the advantage, because the
+White kingside pawns can not be attacked directly.} Kf7 30. h6 $1 {
+Tea likes to play aggressive moves.} Re7 31. Kf3 gxh6 $2 {
+Peng plays a doubtful move.} 32. Rc5 $1 {White takes over the attack.} Re6 33.
+f5 $1 Re5 34. Rxc6 Rxf5+ 35. Ke3 Ne7 36. Ra6 Nc8 37. c4 h5 38. f4 Kg6 39. a5 h4
+40. Rc6 h3 $2 (40... Ne7 41. Rc7 Ng8 42. Rxa7 h3 43. Ng3 Nh6 $1 {
+makes more sense. The pointe is} 44. Nxf5 h2 45. Ng3 Nf5+ $1 46. Nxf5 h1=Q $11)
+41. Rxc8 h2 42. Nf2 Rxa5 43. Rg8+ Kf7 (43... Kf5 $5 44. Rg2 Ra3+ 45. Kd4 Rh3 $1
+46. Nh1 Rh4 47. c5 Ke6 {gives fighting chances.}) 44. Rg2 Rh5 45. Nh1 Ke6 46.
+Kf3 a5 47. Kg4 Rc5 48. Rxh2 h5+ 49. Kf3 $1 (49. Rxh5 $2 Rxh5 $1 50. Kxh5 a4 {
+jeopardises the White win.}) 49... f5 50. Rxh5 Rxc4 51. Ng3 Rc3+ 52. Kf2 Rc5
+53. Ne2 a4 54. Rh6+ Kd5 55. Ra6 Rc4 56. Rxa4 1-0
+
+[Event "Complete Chess"]
+[Site "Maastricht"]
+[Date "2006.02.02"]
+[Round "3"]
+[White "Peng, Zhaoqin"]
+[Black "Lanchava, Tea"]
+[Result "1-0"]
+[Annotator "Jan van Reek"]
+[SetUp "1"]
+[FEN "krqbrnbn/pppppppp/8/8/8/8/PPPPPPPP/KRQBRNBN w - - 0 1"]
+[PlyCount "113"]
+[EventDate "2006.??.??"]
+
+1. e4 Nhg6 2. f3 c5 3. Ne3 {The players do not have to worry about the safety
+of the kings, because the monarchs start in the left corner. An extra tempo is
+needed for the development of the knight in the right corner.} Qc6 4. c3 f6 {
+Both players have made openings for their bishops.} 5. Nf2 Qa6 $5 6. b3 Bc7 7.
+g3 e6 $6 {Black blocks a bishop.} ({More solid is} 7... e5 8. Nf5 Ne6) 8. Be2
+$1 Qc6 {Lanchava had a short dream about an attack on the king.} 9. b4 $1 {
+Peng wants to win today.} cxb4 10. Rxb4 b5 $6 {
+Tea is not a shy player, but she takes a great risk this time.} 11. Nd3 $1 Bd6
+12. Rb1 Rec8 13. Nb4 Qb7 14. Qa3 {White wants to involve all pieces in the
+attack. Black misses the light pieces as protectors of the king. Notice the
+lack of involvement by Nf8 and Bg8.} Ne5 $1 15. Qa6 Nc6 16. Nec2 e5 17. Qxb7+
+Rxb7 18. Nd5 Rcb8 19. Nce3 Ne6 {Lanchava has been able to lift the pressure
+partly but Peng has kept a positional advantage by the control over the strong
+squares d5 and f5.} 20. Nf5 Bf8 21. f4 a6 22. a4 $1 {
+White charges over the whole board.} Nc7 $1 {
+Lanchava sacrifices a pawn for a liberation.} (22... bxa4 23. Nb6+ $1 {
+looks very risky for Black.}) 23. Nxc7+ Rxc7 24. axb5 axb5 25. Kb2 $6 {
+Peng refuses the offer.} ({A pawn is gained by} 25. Rxb5 Rxb5 26. Bxb5) 25...
+d5 $2 {The opening of the centre creates new chances for White.} 26. exd5 Bxd5
+27. Ne3 Be6 28. Bf3 $1 {White renews the attack by a pin.} Rd8 29. fxe5 $1 fxe5
+30. Kc1 $1 b4 31. Nc2 $1 Bd5 32. Bb6 Rf7 33. Bh5 Rc8 34. Ne3 Be6 35. Bxf7 {
+Peng captures the exchange at last.} Bxf7 36. Rf1 Bg6 37. Nf5 Bh5 38. Rf2 Kb7
+39. Be3 e4 40. Rf4 Be2 41. Nd4 Bc4 42. Nxc6 Kxc6 43. Rxe4 $5 {
+White returns the exchange.} Bd3 44. Rbxb4 Bxb4 45. Rxb4 Rc7 46. Kb2 Rb7 47.
+Rxb7 Kxb7 {Peng has two extra pawns. Lanchava has limited chances due to the
+bishops of a different colour.} 48. Kb3 Kc6 49. c4 Kd6 50. Kc3 Bf1 51. d4 Ke6
+52. d5+ Kd6 53. Kd4 Kd7 54. c5 Kc7 55. Bf4+ Kb7 56. Ke5 Bh3 57. Kd6 1-0
+
+[Event "Complete Chess"]
+[Site "Maastricht"]
+[Date "2006.02.03"]
+[Round "4"]
+[White "Lanchava, Tea"]
+[Black "Peng, Zhaoqin"]
+[Result "0-1"]
+[Annotator "Jan van Reek"]
+[SetUp "1"]
+[FEN "krqbrnbn/pppppppp/8/8/8/8/PPPPPPPP/KRQBRNBN w - - 0 1"]
+[PlyCount "92"]
+[EventDate "2006.??.??"]
+
+1. Nhg3 e5 2. e4 Ne6 3. Ne3 f6 4. Be2 Nf7 5. Bc4 b5 6. Bb3 {
+The development of the king's bishop goes strange ways.} Nd4 7. f3 c6 8. Ne2
+Nxb3+ 9. cxb3 {
+Black threatened to start an attack on the king, but White defends solidly.}
+Bb6 10. Qc2 Nd6 11. Red1 Bd4 $5 {Peng takes the initiative.} 12. Rbc1 c5 13. d3
+Qa6 14. Kb1 {Lanchava continues to make prophylactic moves.} Rbc8 15. Nc3 Be6
+16. g4 b4 17. Na4 $2 {Tea tries to play it safe, after her collapse in the
+previous game, but the knight moves offside.} ({Right is} 17. Ncd5 $1) 17...
+Nb5 18. Qd2 d6 19. Rf1 g6 20. h4 Rf8 21. h5 gxh5 {
+The position opens up at last.} 22. gxh5 f5 23. Nc2 f4 24. Bf2 Bxf2 25. Rxf2
+Rg8 26. Rg2 Rxg2 27. Qxg2 Rg8 28. Qf2 Nd4 29. Nxd4 cxd4 {
+The knight is placed horribly.} 30. Qe2 h6 31. Rd1 Qb7 32. Qh2 Qc6 33. Rc1 Qb5
+34. Rd1 Rf8 35. Qd2 Bf7 36. Rh1 Rg8 37. Qc2 Qb7 38. Qh2 Qa6 39. Qc2 Be8 40. Ka1
+Bb5 $1 ({This move is even stronger than} 40... Bxh5 {
+because the restraint continues.}) 41. Rd1 Rc8 42. Qb1 Rc7 $1 43. Rd2 Qc8 44.
+Rd1 Qh3 $1 45. Rf1 Qg2 46. Qd1 Qc2 0-1
+
+[Event "Man Machine Match"]
+[Site "Maastricht"]
+[Date "2007.03.06"]
+[Round "1"]
+[White "Zappa Reykjavik"]
+[Black "L'Ami, Erwin"]
+[Result "1/2-1/2"]
+[ECO "C45"]
+[Annotator "Jan van Reek"]
+[PlyCount "136"]
+[EventDate "2007.??.??"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nxd4 5. Qxd4 Qf6 6. e5 Qb6 7. Be3 (7.
+Qxb6 $1 axb6 8. Nc3 {gains a plus. (Hebert-Chaivicit, Malta 1980)}) 7... Qxd4
+8. Bxd4 Ne7 9. Nc3 Nf5 $5 {
+L'Ami has selected a quiet opening.He diverts from the known moves.} (9... Nc6
+{was played in Nygaard-Bjelke Norway 1992.}) 10. O-O-O Nxd4 {
+We return to the mentioned game.} 11. Rxd4 Bc5 12. Rd2 $5 ({Nygaard played} 12.
+Rf4) 12... Bb4 $1 13. Bc4 Bxc3 14. bxc3 Ke7 {Black opens the eighth rank for
+the rooks and keeps his king in the central area.} 15. Rd3 Rb8 16. a4 a6 17.
+Rhd1 b5 18. axb5 axb5 19. Bd5 {Erwin has slight problems with the development.}
+Rd8 20. Rg3 g6 21. Rh3 h5 22. Rf3 Rf8 {Black parries all threads.} 23. Kd2 Bb7
+24. Rd3 Rfd8 25. Ke3 Bxd5 26. Rxd5 {
+Fritz9, Hiarcs10 and Shredder9 evaluate the position as equal.} b4 27. Kd4 bxc3
+28. Kxc3 Rb6 29. Kc4 Rc6+ 30. Rc5 Rxc5+ 31. Kxc5 Ke6 32. f4 Ra8 $1 33. Kb4 Ra6
+34. g3 Rb6+ 35. Kc4 Rc6+ 36. Kd3 d6 $1 37. Re1 $1 (37. exd6 $4 Rxd6+ 38. Ke2
+Rxd1 39. Kxd1 Kf5 $1 {leads to a won pawn ending for Black.}) 37... Kf5 38. c4
+dxe5 39. Rxe5+ Kg4 40. f5 $6 (40. Re7 Kh3 41. Rxf7 Kxh2 42. f5 $1 Kxg3 43. Rg7
+$1 Kf4 44. Rxg6 {draws.}) 40... g5 41. Kd4 Rd6+ 42. Ke3 Kh3 $5 {Black attacks.}
+({The Sharpest winning attempt gives} 42... f6 43. Re7 Kh3) 43. f6 Kg4 44. Re4+
+Kh3 45. Re5 Kg4 46. Re4+ Kf5 47. Re7 Rxf6 48. Rxc7 Kg4 49. Re7 Kh3 50. Re5 Rg6
+51. Rf5 (51. c5 $1 Kxh2 52. c6 {draws.}) 51... Kxh2 52. Kf2 h4 53. g4 ({
+The pointe is} 53. gxh4 g4 $1) 53... Kh3 $2 ({Right is} 53... h3 $1 54. Rxf7 $1
+Ra6 $1 55. Rf5 $1 Ra2+ {Erwin l'Ami, Jaap van den Herik and I regarded this
+position as drawn. The correct analyses is} 56. Kf3 $1 (56. Ke3 Kg2 $1 57. Rxg5
+h2 58. Rh5 Ra3+ 59. Ke4 Rh3) 56... Kg1 $1 57. Rxg5 h2 58. Rh5 Rc2 $3 59. c5 $5
+Rxc5 60. Rxc5 h1=Q+ {and Black has reached a theoretical win.}) 54. Kf3 Rc6 55.
+Rxg5 Rxc4 56. Rf5 Rc3+ 57. Kf2 Rc7 58. Kf3 Kh2 59. Rd5 Rc3+ 60. Kf4 Rc2 61. Kf3
+h3 62. g5 Rg2 63. Re5 Kh1 64. Rd5 Rg1 65. Kf2 h2 66. Rf5 Rg2+ 67. Kf1 Rg1+ 68.
+Kf2 Rg2+ {Zappa played doubtful moves in the rook ending but survived.} 1/2-1/2
+
+[Event "Man Machine Match"]
+[Site "Maastricht"]
+[Date "2007.03.07"]
+[Round "2"]
+[White "L'Ami, Erwin"]
+[Black "Zappa Reykjavik"]
+[Result "1/2-1/2"]
+[ECO "D36"]
+[Annotator "Jan van Reek"]
+[PlyCount "83"]
+[EventDate "2007.??.??"]
+
+1. c4 Nf6 2. Nc3 e6 3. Nf3 d5 4. cxd5 exd5 5. d4 c6 6. Bg5 Be7 7. e3 Nbd7 8.
+Bd3 O-O 9. O-O Re8 10. Qc2 Nf8 11. h3 g6 12. Rab1 Ne6 13. Bh6 Ng7 14. b4 a6 15.
+a4 Bf5 16. Bxg7 Bxd3 17. Qxd3 Kxg7 18. b5 cxb5 $5 ({
+The theoretical move in the Queens Gambit would have been} 18... axb5 {
+(Van Wely - Hjartarson, Akureyri 1995)}) 19. axb5 a5 {These moves have been
+mentioned as an alternative in the analyses of the game above.} 20. Na4 Rc8 21.
+Rfc1 Bb4 22. b6 $1 {
+Erwin plays an unexpected move. Exchange on the c-file would be solid.} Qd7 23.
+Nc5 Qc6 24. Qb3 Qxb6 25. Nd3 $1 {White regains the pawn.} Ne4 26. Rxc8 Rxc8 27.
+Nxb4 Qxb4 28. Qxb4 axb4 29. Rxb4 {Exchanges have led to an equal engame.} Rc1+
+30. Kh2 Nxf2 31. Rxb7 h6 {Black hopes to create a mating net.} 32. Rd7 g5 {
+Zappa threatens 33. .. Rh1+ 34. Kg3 Ne4+ 35. Kg4 Nf6+ and he wins a rook.} 33.
+g4 $5 {
+Erwin does not play the strongest move, but it will be sufficient for a draw.}
+Rc2 34. Ne5 Nxg4+ 35. Kg3 Nxe3 36. Rxf7+ Kg8 37. Rf6 Rc1 38. Kh2 Rd1 39. Rxh6
+Rd2+ 40. Kh1 Rxd4 41. Rg6+ Kf8 42. Rxg5 {
+Erwin l'Ami played well and deserved another draw.} 1/2-1/2
+
+[Event "Complete Chess"]
+[Site "Maastricht"]
+[Date "2008.03.03"]
+[Round "1"]
+[White "Stellwagen, Daniel"]
+[Black "L'Ami, Erwin"]
+[Result "1/2-1/2"]
+[ECO "C56"]
+[Annotator "Jan van Reek"]
+[PlyCount "85"]
+[EventDate "2008.??.??"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d4 exd4 5. e5 d5 6. Bb5 Ne4 7. Nxd4 Bd7 8.
+Bxc6 bxc6 9. O-O Bc5 10. Be3 Qe7 11. Re1 O-O 12. f3 Ng5 13. f4 Ne6 14. c3 Rab8
+15. b3 g6 16. Nd2 Bb6 17. N2f3 c5 18. Ne2 Bc6 19. Bf2 d4 20. Qd3 Qd7 21. Rad1
+f5 22. cxd4 Bxf3 23. gxf3 cxd4 24. Nxd4 Bxd4 25. Bxd4 Rfd8 26. Qc4 Kf7 27. Kg2
+Qb5 28. Qxb5 Rxb5 29. Be3 Rbd5 30. Rxd5 Rxd5 31. Rc1 h6 32. Rc6 g5 33. fxg5
+hxg5 34. Ra6 Rxe5 35. Kf2 f4 36. Bxa7 Rd5 37. b4 Rd2+ 38. Kg1 Rb2 39. a3 Ke7
+40. Bf2 Rb1+ 41. Kg2 Rb2 42. Kf1 Rb1+ 43. Kg2 1/2-1/2
+
+[Event "Complete Chess"]
+[Site "Maastricht"]
+[Date "2008.03.04"]
+[Round "2"]
+[White "L'Ami, Erwin"]
+[Black "Stellwagen, Daniel"]
+[Result "1/2-1/2"]
+[ECO "C56"]
+[Annotator "Jan van Reek"]
+[PlyCount "80"]
+[EventDate "2008.??.??"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d4 exd4 5. e5 d5 6. Bb5 Ne4 7. Nxd4 Bc5 {
+The Euwe Gambit has led to a quiet version of the Max Lange Attack, Black
+slightly diverts from the previous game.} 8. Be3 O-O 9. Nxc6 bxc6 10. Bxc5 Nxc5
+11. Bxc6 Rb8 12. Qxd5 Qe7 13. O-O (13. b3 $4 Rd8 14. Qf3 Qxe5+ {costs a rook.})
+13... Rxb2 14. Nc3 Ba6 15. Rfd1 (15. Rfc1 Rd8 16. Qf3 Qxe5 {
+also brings a material equality. (Ye Jiangchuan - Svidler, Shanghai 2001)})
+15... Rxc2 16. Qd4 Ne6 17. Nd5 Qa3 18. Qa4 Qc5 19. Ne3 Rc3 20. Qxa6 Qxc6 21.
+Qxc6 Rxc6 {The players have exchanged towards the endgame.} 22. Rab1 Ra6 23.
+Rb2 Ra5 24. Rd5 Rxd5 25. Nxd5 Rd8 26. Ne3 Kf8 27. g3 Rd3 28. Kf1 Ra3 29. Kg2 h5
+30. h4 Ra5 31. f4 Nd4 32. Kf2 Ke7 33. Rd2 c5 34. Nc4 Ra4 35. Nd6 Ke6 36. Ne4
+Rc4 37. Nxc5+ Rxc5 38. Rxd4 Rc2+ 39. Kf3 Rxa2 40. Rd6+ Kf5 1/2-1/2
+
+[Event "Complete Chess"]
+[Site "Maastricht"]
+[Date "2008.03.05"]
+[Round "3"]
+[White "L'Ami, Erwin"]
+[Black "Stellwagen, Daniel"]
+[Result "1/2-1/2"]
+[ECO "C59"]
+[Annotator "Jan van Reek"]
+[PlyCount "105"]
+[EventDate "2008.??.??"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 {
+This time they have to play a "beginner's move", according to Tarrasch.} d5 {
+Black gives the classical answer.} 5. exd5 Na5 6. Bb5+ c6 7. dxc6 bxc6 8. Be2
+h6 9. Nf3 e4 10. Ne5 Bc5 {Daniel has active piece play for a pawn.} 11. c3 Bd6
+{Black has provoked c3.} 12. d4 exd3 13. Nxd3 O-O 14. O-O Re8 $5 ({
+The alternative is} 14... Qc7 {(Usino - Everett, Ann Arbor 1983).}) 15. b4 Nc4
+16. Nc5 Ne5 17. Nd2 Nd5 18. Nce4 Bc7 19. Re1 Bf5 $1 20. g3 $6 a5 $1 21. bxa5 $6
+{White weakens his pawn structure on two places.} Bxa5 {
+Black takes the initiative on both flanks.} 22. Bb2 Rb8 23. Qc1 (23. Rb1 $4
+Rxb2 24. Rxb2 Nxc3 25. Nxc3 Bxc3 {leads to a collapse of the white position.})
+23... Nf6 $1 (23... Rxb2 $6 24. Qxb2 Bxe4 25. Nxe4 f5 26. Nd2 Bxc3 {equalises.}
+) 24. Nxf6+ Qxf6 25. Nb3 Bd3 $1 {Now Daniel goes forwards in the centre.} 26.
+Qf4 Qxf4 27. gxf4 Bxe2 28. Rxe2 Nf3+ 29. Kf1 Nxh2+ 30. Ke1 Nf3+ 31. Kf1 Nh2+
+32. Ke1 Bc7 33. Bc1 h5 34. Nd4 {Erwin tries to reorganise his defence.} c5 35.
+Nc6 Rxe2+ 36. Kxe2 Re8+ 37. Be3 $5 (37. Kd3 $5 Re1 $5 {also favours Black.})
+37... Bxf4 38. a4 Ng4 39. a5 Nxe3 40. fxe3 Rxe3+ 41. Kf1 Re6 42. a6 Rxc6 43. a7
+Rc8 44. a8=Q Rxa8 45. Rxa8+ Kh7 {
+Daniel has a bischop and three pawns for a rook.} 46. Rc8 g5 ({Or} 46... Bd6
+47. Rd8 $1 {and Black does not save his c-pawn.}) 47. Rxc5 h4 48. c4 h3 49. Rb5
+Kg6 50. c5 {Erwin has sharp centre-play at last.} f5 51. Rb6+ $1 Kf7 ({
+The pointe is} 51... Kh5 52. Rf6 Kg4 53. c6 Kf3 54. Kg1 $1) 52. Rb7+ Ke6 53. c6
+1/2-1/2
+
+[Event "Complete Chess"]
+[Site "Maastricht"]
+[Date "2008.03.06"]
+[Round "4"]
+[White "Stellwagen, Daniel"]
+[Black "L'Ami, Erwin"]
+[Result "1/2-1/2"]
+[ECO "C58"]
+[Annotator "Jan van Reek"]
+[PlyCount "71"]
+[EventDate "2008.??.??"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 d5 5. exd5 Na5 6. Bb5+ c6 7. dxc6 bxc6 8.
+Bd3 {Daniel avoids his novelty of yesterday by choosing Bird's move.} Ng4 {
+This move stems from Bird, Lasker, Newcastle on Tyne 1892.} ({Keres played} 
+8... Nd5 {in 1937.}) 9. Ne4 f5 10. Be2 $1 h5 11. h3 fxe4 12. hxg4 Bc5 13. b4 $5
+({The expected line is} 13. Nc3 Qd4 14. O-O {
+but Daniel continues in a gambit style.}) 13... Qd4 14. bxc5 O-O $1 {
+Threatens mate in one.} 15. O-O Qxa1 16. Nc3 e3 $5 (16... hxg4 17. Bxg4 e3 18.
+Bxc8 exf2+ {leads to a turmoil as well.}) 17. gxh5 exf2+ 18. Rxf2 Rxf2 19. Kxf2
+{Material equality has arisen in a coffeehouse game. Black has the
+disadvantage of an imprisoned queen.} Be6 $1 20. Bf3 $5 (20. Ba3 Rf8+ 21. Ke1
+Qxd1+ 22. Bxd1 {brings a White plus.}) 20... Rf8 21. Kg3 Bxa2 {
+Three Black pieces stand offside.} 22. Qe1 Be6 {
+White can move few pieces too. It's a sort of mutual stalemate.} 23. d4 $5 ({
+The quiet move is} 23. d3) 23... Nc4 $5 {
+Black gives up the protection of pawn c6.} 24. Kh2 (24. Bxc6 $5 Qa5 25. d5 Qxc5
+{gives a great fight.}) 24... Rxf3 $5 25. gxf3 Bf7 26. h6 gxh6 {
+The material has become identical for both sides.} 27. Ne4 Bg6 28. Qf1 $1 Kh8 (
+28... Bxe4 $2 29. fxe4 $1 Qxd4 30. Bxh6 Kh7 31. Bg5 {brings a White win.}) 29.
+Qxc4 Qxc1 30. Qe6 Qf4+ {Black activates his queen at last.} 31. Ng3 Bh5 32.
+Qc8+ Kh7 33. Qc7+ Kg8 34. Qb8+ Kf7 35. Qc7+ (35. Qxa7+ Ke6 $1 {draws.}) 35...
+Kg8 36. Qb8+ 1/2-1/2
+

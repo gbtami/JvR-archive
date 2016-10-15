@@ -1,0 +1,1833 @@
+[Event "Wien"]
+[Site "?"]
+[Date "1873.??.??"]
+[Round "2.1"]
+[White "Blackburne, Joseph"]
+[Black "Steinitz, William"]
+[Result "1-0"]
+[ECO "C60"]
+[Annotator "JvR"]
+[PlyCount "53"]
+[EventDate "1873.??.??"]
+
+{A world fair conincided with a tournament again.} 1. e4 e5 2. Nf3 Nc6 3. Bb5
+Nge7 $5 4. d4 exd4 5. Nxd4 Nxd4 6. Qxd4 Nc6 7. Qd5 Be7 8. Nc3 Bf6 9. Bd2 O-O
+10. O-O-O a6 11. Be2 d6 12. f4 g6 $2 13. Qd3 Bg7 $6 {
+Steinitz loses time in his favourite opening.} 14. h4 $1 h5 $6 15. g4 $1 hxg4
+16. h5 Be6 17. hxg6 fxg6 {Blackburne ends the game with great force.} 18. e5 $1
+Qe8 19. Nd5 Qf7 20. Nf6+ Bxf6 21. exf6 Bf5 22. Qg3 Qxa2 23. Bc3 Kf7 ({
+Better seems to be} 23... Qa1+ 24. Kd2 Qa4 {but} 25. b3 Qe4 26. Bd3 Qd5 27.
+Rde1 {takes over the attack.}) 24. Rh7+ Ke8 25. Bxg4 Be4 26. Qe3 d5 27. Qc5 1-0
+
+[Event "Wien"]
+[Site "?"]
+[Date "1873.??.??"]
+[Round "2.3"]
+[White "Blackburne, Joseph"]
+[Black "Steinitz, William"]
+[Result "1-0"]
+[ECO "C60"]
+[Annotator "JvR"]
+[PlyCount "55"]
+[EventDate "1873.??.??"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nge7 4. d4 exd4 5. Nxd4 Nxd4 6. Qxd4 Nc6 7. Bxc6
+bxc6 $6 ({Equality keeps} 7... dxc6 8. Qxd8+ Kxd8 {but Steinitz needs to win.})
+8. O-O f6 $6 {Risk has to be taken again.} 9. e5 d5 10. exd6 cxd6 11. Re1+ Be7
+12. Bf4 Kf8 $5 13. Nc3 d5 14. Re2 Kf7 15. Rae1 Re8 16. Qd3 g6 17. Qg3 Bf5 18.
+Bh6 Qb6 19. b3 Qa5 20. Bd2 g5 $2 {Steinitz breaks down in a difficult position.
+} ({Correct is} 20... Qd8 21. Qh4 g5) 21. Qf3 $1 Bxc2 ({
+The tournament book suggests} 21... d4 {This move is refuted by} 22. Qxc6 $1
+dxc3 23. Bxc3) 22. Bxg5 $1 Be4 23. Nxe4 dxe4 24. Qxe4 Qxg5 25. Qxh7+ Kf8 (25...
+Qg7 26. Rxe7+) 26. Rxe7 Rxe7 27. Qxe7+ Kg8 28. Re3 {
+Blackburne won an important round} 1-0
+
+[Event "Wien"]
+[Site "?"]
+[Date "1873.??.??"]
+[Round "4.2"]
+[White "Paulsen, Louis"]
+[Black "Rosenthal, Samuel"]
+[Result "1-0"]
+[ECO "C26"]
+[Annotator "JvR"]
+[PlyCount "61"]
+[EventDate "1873.??.??"]
+
+1. e4 e5 2. Nc3 Nc6 3. g3 $5 {Paulsen opens prophylactic.} 3... Bc5 4. Bg2 d6
+5. d3 Nf6 6. Nge2 Bg4 7. h3 Bd7 8. Na4 Bb6 9. Nxb6 axb6 10. f4 exf4 $5 (10...
+Qe7 {defends the centre.}) 11. Nxf4 Qe7 12. c4 $6 Qe5 $1 13. O-O O-O-O $2 {
+Black castles on the wrong side.} 14. Ne2 Nd4 $6 15. Bf4 Nxe2+ 16. Qxe2 Qh5 17.
+g4 Qg6 18. a4 h5 19. g5 Nh7 20. Qe3 f6 21. a5 Nxg5 22. Kh2 $1 ({
+The cautious Paulsen dislikes} 22. axb6 Bxh3 {and prepares the attack.}) 22...
+bxa5 23. Rxa5 b6 24. Ra7 ({A subtle win brings} 24. e5 bxa5 25. Qa7 Bxh3 26.
+Bxh3+ Nxh3 27. e6 c6 28. Be3 c5 29. Bd2) 24... Bc6 25. c5 $1 {White strikes.}
+25... bxc5 26. Qxc5 $1 Qe8 (26... dxc5 27. Rxc7+ Kb8 28. Rxg7+) 27. Qa5 Ne6 28.
+Rc1 g5 29. Qa6+ Kd7 30. Rxc6 gxf4 31. Rxd6+ {Paulsen had a disappointing
+result in the tournament, but played one wonderful game.} 1-0
+
+[Event "Wien"]
+[Site "?"]
+[Date "1873.??.??"]
+[Round "5.2"]
+[White "Anderssen, Adolf"]
+[Black "Paulsen, Louis"]
+[Result "1-0"]
+[ECO "C48"]
+[Annotator "JvR"]
+[PlyCount "107"]
+[EventDate "1873.??.??"]
+
+1. e4 e5 2. Nf3 d6 3. d4 exd4 4. Qxd4 Nc6 5. Bb5 Bd7 6. Bxc6 Bxc6 7. Bg5 Nf6 8.
+Nc3 Be7 9. O-O-O O-O 10. Rhe1 Re8 11. Kb1 Bd7 $2 ({Exciting is} 11... h6 12.
+Bh4 Nxe4 $5 13. Rxe4 Bxe4 14. Qxe4 Bxh4 15. Qxh4 Qxh4 16. Nxh4 Rad8) 12. Bxf6
+Bxf6 13. e5 $1 Be7 14. Nd5 Bf8 15. exd6 cxd6 ({Avoids} 15... Bxd6 $2 16. Nxc7
+$1) 16. Rxe8 Bxe8 17. Nd2 Bc6 18. Ne4 f5 19. Nec3 Qd7 20. a3 Qf7 21. h3 a6 22.
+g4 Re8 23. f4 Re6 24. g5 b5 25. h4 Re8 26. Qd3 Rb8 27. h5 $1 a5 28. b4 $1 axb4
+29. axb4 Qxh5 30. Qxf5 Qf7 31. Qd3 Bd7 32. Ne4 Qf5 $1 33. Rh1 {
+Black worries about the blockade of the centre.} 33... Re8 $2 ({
+A disaster avoids} 33... Kh8 $1 34. Ne3 Qg6 35. Qd4 Rc8) 34. Nef6+ $1 gxf6 35.
+Nxf6+ Kf7 36. Rxh7+ Bg7 37. Rxg7+ Kxg7 38. Nxe8+ Kf8 39. Qxf5+ Bxf5 40. Nxd6
+Bd7 41. Ne4 Kg7 42. Ng3 Kf7 43. f5 Ke7 44. Kc1 Kd6 45. g6 Be8 46. Kd2 Kd5 47.
+Kd3 Ke5 48. Ke3 Kd5 49. Kf4 Kc4 50. Ne4 Kxb4 51. Nd6 Bc6 52. f6 Kc3 53. Nxb5+
+Bxb5 54. f7 {Anderssen won the first six rounds.} 1-0
+
+[Event "Wien"]
+[Site "?"]
+[Date "1873.??.??"]
+[Round "7.1"]
+[White "Steinitz, William"]
+[Black "Anderssen, Adolf"]
+[Result "1-0"]
+[ECO "D55"]
+[Annotator "JvR"]
+[PlyCount "51"]
+[EventDate "1873.??.??"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Be7 5. e3 O-O 6. Nf3 b6 7. Bd3 Bb7 8. O-O
+Nbd7 9. cxd5 exd5 10. Rc1 c5 11. dxc5 bxc5 {Steinitz has chosen an opening
+that leads to a positional battle for the centre. He learned this approach
+from the games of Morphy and Paulsen and the theory of Cluley.} 12. Qa4 $5 Ne4
+$2 {Anderssen finds no proper defence.} ({Better is the active} 12... d4 $1 13.
+exd4 Bxf3 14. gxf3 Nb6 15. Qb5 cxd4 16. Ne2 Re8) 13. Bxe4 dxe4 14. Rfd1 $1 Bxg5
+15. Nxg5 Qxg5 16. Rxd7 Rfb8 17. Qb3 Bc6 18. Qxf7+ Kh8 19. h4 Qg4 20. Rxa7 Rxa7
+21. Qxa7 Rxb2 22. Qxc5 Qe6 23. Rd1 h6 24. Rd6 Qf7 25. Nd1 Re2 26. Kf1 {
+Anderssen was also defeated by means of a positional approach in the second
+game.} 1-0
+
+[Event "Wien"]
+[Site "?"]
+[Date "1873.??.??"]
+[Round "8.3"]
+[White "Anderssen, Adolf"]
+[Black "Blackburne, Joseph"]
+[Result "0-1"]
+[ECO "C61"]
+[Annotator "JvR"]
+[PlyCount "62"]
+[EventDate "1873.??.??"]
+
+{Both players have won a game in the short match.} 1. e4 e5 2. Nf3 Nc6 3. Bb5
+Nd4 4. Nxd4 exd4 5. d3 c6 6. Bc4 Nf6 7. O-O d5 8. exd5 Nxd5 9. Nd2 $6 ({
+The initiative takes} 9. Re1+ Be6 10. Qh5 Qd6 11. Bg5) 9... Be6 10. Ne4 Be7 11.
+Qe2 O-O 12. Bd2 Qd7 13. Rae1 Rae8 14. f4 $2 {The weakness e3 is created.} ({
+Better is} 14. Qf3) 14... f5 15. Ng3 Bc5 $1 16. Qf3 Ne3 17. Bxe3 dxe3 18. Qe2
+$2 {Anderssen misses the appropriate prophylaxis again.} (18. Bxe6+ Qxe6 19.
+Re2 $1 Qxa2 20. c3 Bd6 21. d4 Qe6 22. Rfe1 {White eliminates the e-pawn.})
+18... Bxc4 19. dxc4 Rf6 20. Rd1 Rd6 21. Rxd6 Qxd6 22. Nxf5 Qf6 23. g4 Rd8 24.
+Re1 Qxb2 25. g5 Qc3 26. Kh1 Qd2 27. Qxd2 exd2 28. Rd1 Bb4 29. Kg2 Re8 30. c3
+Bxc3 31. Kf2 c5 {Anderssen has lost another round. He ended at the third place.
+} 0-1
+
+[Event "Wien"]
+[Site "?"]
+[Date "1873.??.??"]
+[Round "11.3"]
+[White "Blackburne, Joseph"]
+[Black "Rosenthal, Samuel"]
+[Result "0-1"]
+[ECO "C39"]
+[Annotator "JvR"]
+[PlyCount "52"]
+[EventDate "1873.??.??"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 g5 4. h4 g4 5. Ne5 Qe7 {Only one game is played on
+the last day of the last round. Blackburne has to win in order to triumph in
+the tournament.} 6. Nxg4 $2 ({Theory is} 6. d4 d6 7. Nxg4 Qxe4+ 8. Qe2 {
+(Steinitz-Churchill, 1870).}) 6... f5 $1 (6... Qxe4+ {gains no advantage.}) 7.
+Nf2 fxe4 8. Nc3 $2 ({A counteraction starts} 8. Qh5+ Kd8 9. Nc3 Nf6 10. Qg5)
+8... Nf6 9. Ng4 ({No use has} 9. Qe2 f3 $1 10. gxf3 exf3) 9... Nh5 10. Ne3 Ng3
+11. Qg4 $5 {A desperate action begins.} 11... Nxh1 12. Qxf4 c6 13. Nf5 Qe6 14.
+Be2 d5 15. Bg4 Qf6 16. d4 Bxf5 17. Bxf5 Bd6 18. Qg4 Rf8 19. Qh5+ Qf7 20. Bg4
+Qxh5 21. Bxh5+ Kd7 22. Bh6 Na6 23. Bg4+ Kc7 24. Bxf8 Rxf8 25. Ne2 Ng3 26. Kd2
+Nf1+ {Blackburne has lost the last round. A playoff mini-match was needed.} 0-1
+
+[Event "Wien playoff"]
+[Site "?"]
+[Date "1873.??.??"]
+[Round "1"]
+[White "Blackburne, Joseph"]
+[Black "Steinitz, William"]
+[Result "0-1"]
+[ECO "C77"]
+[Annotator "JvR"]
+[PlyCount "66"]
+[EventDate "1873.??.??"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. Qe2 b5 6. Bb3 Bb7 7. d3 Bc5 8. c3
+O-O 9. Bg5 h6 10. Bh4 Be7 $5 11. Nbd2 Kh8 $5 {Steinitz plays passively.} 12.
+Nf1 a5 13. a4 bxa4 $6 ({Better is} 13... b4) 14. Bxa4 d5 15. Qc2 dxe4 16. dxe4
+Nd7 17. Bg3 $6 {This move is criticised in the tournament book .} (17. Bxe7
+Qxe7 18. Ne3 Nc5 19. O-O {keeps an advantage.}) 17... Nc5 18. Rd1 Qe8 19. Ne3
+Ba6 20. Nd5 Bd6 21. Nh4 $6 ({A great adventure starts} 21. Bxe5 Nxe5 $5 22.
+Bxe8 Ned3+ 23. Rxd3 Nxd3+ 24. Kd1 Rfxe8 25. Ne1 Ne5 26. f3) 21... Rb8 22. Nf6
+$2 {Blackburne wants to attack!} ({He should play} 22. Rd2 {
+and suffer, because he cannot castle.}) 22... Qe6 $1 {
+Steinitz counterattacks brilliantly.} (22... gxf6 $2 23. Qc1 Bc8 24. Qxh6+ Kg8
+25. Nf3 Nxa4 26. Ng5 fxg5 27. Qxg5+ {leads to perpetual check.}) 23. Bxc6 Qxf6
+24. f3 Rb6 25. Bd5 Rfb8 26. b3 Nxb3 27. Nf5 Nc5 28. c4 Rb2 29. Nxd6 cxd6 30.
+Qc3 R8b3 31. Qxa5 Re3+ 32. Kf1 Rxf3+ 33. Kg1 Rxg3 0-1
+
+[Event "Wien playoff"]
+[Site "?"]
+[Date "1873.??.??"]
+[Round "2"]
+[White "Steinitz, William"]
+[Black "Blackburne, Joseph"]
+[Result "1-0"]
+[ECO "A00"]
+[Annotator "JvR"]
+[PlyCount "77"]
+[EventDate "1873.??.??"]
+
+1. a3 $5 g6 2. d4 Bg7 3. e4 c5 $2 {The odd opening causes confusion.} 4. dxc5
+Qc7 5. Bd3 Qxc5 6. Ne2 Nc6 7. Be3 Qa5+ 8. Nbc3 d6 9. O-O Bd7 10. b4 Qd8 11. Rb1
+b6 12. Nd5 Nf6 13. Nxf6+ Bxf6 14. Bh6 Ne5 15. h3 Rg8 16. f4 Nc6 $2 ({Right is} 
+16... Nxd3 17. cxd3 Rc8) 17. Qd2 Qc7 18. c4 Nd8 19. Rfc1 Ne6 20. Nc3 Qb7 21.
+Nd5 Bh8 22. Kh1 Rc8 23. Qf2 Bc6 24. Qh4 Nd4 25. Bg5 Bxd5 26. cxd5 Kd7 (26... h5
+27. Bxe7 $1 Rxc1+ 28. Rxc1 Qxe7 29. Rc8+ Kd7 30. Rc7+) 27. Bxe7 Rxc1+ 28. Rxc1
+Rc8 29. Rd1 Rc3 30. Bf6 Qc8 31. Qg4+ Nf5 32. Bb5+ Kc7 33. Bxc3 h5 34. Qf3 Nh4
+35. Bxh8 Qxh8 36. Rc1+ Kb7 37. Qc3 Qd8 38. Qc6+ Kb8 39. Ba6 {The attacker
+Blackburne had no answer to solid positional play again. A third game was
+unneeded. Steinitz had won the tournament.} 1-0
+
+[Event "Wien"]
+[Site "?"]
+[Date "1882.05.14"]
+[Round "1"]
+[White "Bird, Henry"]
+[Black "Chigorin, Mikhail"]
+[Result "0-1"]
+[ECO "C59"]
+[Annotator "JvR"]
+[PlyCount "66"]
+[EventDate "1882.??.10"]
+
+{A game has been selected for each round. Jan van Reek.  This game had to be
+postponed on 10 v 1882, because Chigorin had not arrived.} 1. e4 e5 2. Nf3 Nc6
+3. Bc4 Nf6 4. Ng5 d5 5. exd5 Na5 6. Bb5+ c6 7. dxc6 bxc6 8. Be2 h6 9. Nf3 e4
+10. Ne5 Qc7 $5 11. Ng4 $5 Bxg4 12. Bxg4 Bd6 ({Theory will become} 12... Bc5 $1)
+13. h3 O-O 14. Nc3 Nc4 $5 15. b3 $2 ({Right is} 15. Qe2 $1 Nb6 (15... Ne5 $6
+16. Bf5) 16. O-O) 15... Ne5 16. Bb2 Rfe8 17. O-O (17. Be2 Nf3+ $1 18. Kf1 Nh4 {
+is awful too (Vasiukov and Nikitin).}) 17... Nexg4 18. hxg4 Qd7 19. Qe2 Nxg4
+20. g3 Qf5 21. Kg2 Re6 22. Rae1 Rae8 23. Rh1 h5 (23... Qf3+ $1 {
+wins the exchange.}) 24. Ref1 Qg6 25. Nd1 $2 (25. Rh3 $1 {
+protects pawn g3 (Zukertort).}) 25... e3 $1 {
+Chigorin decides the game unexpectedly.} 26. Bd4 ({Or} 26. Nxe3 Nxe3+ 27. dxe3
+Rxe3 $1) 26... Nxf2 27. Rxf2 Qxg3+ 28. Kf1 exf2 29. Ne3 c5 30. Bc3 Rxe3 31.
+dxe3 Rxe3 32. Qd1 h4 33. Bd2 h3 0-1
+
+[Event "Wien"]
+[Site "?"]
+[Date "1882.05.11"]
+[Round "2"]
+[White "Steinitz, William"]
+[Black "Noa, Josef"]
+[Result "1-0"]
+[ECO "C30"]
+[Annotator "JvR"]
+[PlyCount "99"]
+[EventDate "1882.??.10"]
+
+1. e4 e5 2. f4 Bc5 3. Nf3 d6 4. c3 Bg4 5. Bc4 $5 Nc6 6. h3 Bxf3 7. Qxf3 Qe7 $5
+({More active is} 7... Nf6) 8. f5 O-O-O 9. d3 Nf6 10. Bg5 Bb6 $2 (10... Na5 11.
+Nd2 Nxc4 12. Nxc4 h6 {seeks counteraction.}) 11. Nd2 $1 {The rest of the game
+shows Steinitz as a superior positional player. His opponent will lose
+territory gradually.} 11... Rhf8 12. Rf1 Nb8 13. Bb3 c6 14. O-O-O Nbd7 15. Nc4
+Bc7 16. Ne3 Rde8 17. g4 Nc5 18. Bc2 Bd8 19. Nc4 Qc7 20. Be3 Nfd7 21. g5 b5 $5
+22. Nd2 Nb6 23. h4 Rh8 24. Kb1 Ncd7 25. Bb3 Ref8 26. d4 a5 27. Qh5 h6 28. Qe2
+a4 29. Bc2 Kb7 30. c4 hxg5 31. hxg5 Rh3 32. cxb5 cxb5 33. Rc1 exd4 34. Bxd4
+Bxg5 35. e5 d5 36. Bxa4 Nc4 37. Nxc4 bxc4 38. Qg2 Bxc1 39. Rxc1 Qa5 40. Bxd7
+Rd3 41. Bc3 Qd8 42. e6 fxe6 43. Bxe6 Re8 44. Qxg7+ Re7 45. Qe5 Rh7 46. Bd4 Kc6
+47. Rxc4+ $1 Kb5 ({Or} 47... dxc4 48. Qc5+ Kb7 49. Qa7+) 48. Rc5+ Ka4 49. b3+
+Ka3 50. Qe1 {Steinitz had won his last sixteen games in Vienna 1873, the seven
+games against Blackburne in 1876 and the first two games in this tournament, a
+grand total of twenty-five games in a row!} 1-0
+
+[Event "Wien"]
+[Site "?"]
+[Date "1882.05.12"]
+[Round "3"]
+[White "Paulsen, Louis"]
+[Black "Mason, James"]
+[Result "0-1"]
+[ECO "C02"]
+[Annotator "JvR"]
+[PlyCount "98"]
+[EventDate "1882.??.10"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Bd7 6. Bd3 Qb6 7. dxc5 Bxc5 8. O-O
+{This position is known from Lowe-Kennedy, London 1849.} 8... Qc7 9. Bf4 Nge7
+10. b4 Bb6 11. a4 a6 12. Re1 Ng6 13. Bg3 Nce7 $5 14. h4 $1 {
+Paulsen takes the initiative.} 14... h6 15. Qb3 Rc8 16. Ra2 Ba7 17. h5 Nf8 18.
+Rc2 b5 19. axb5 Bxb5 20. Bxb5+ axb5 21. Na3 Qb7 22. Nd4 Bxd4 23. cxd4 Nd7 24.
+Rxc8+ Nxc8 25. Qd3 Na7 26. Rc1 O-O 27. Bf4 Rb8 {Mason has defended accurately.}
+28. Bd2 Nc6 29. g4 Ne7 30. Kh2 f6 31. f4 fxe5 32. fxe5 Nc6 33. Kh3 Qb6 34. Nc2
+Nf8 35. Rf1 Qc7 36. Na3 Qd7 37. Rc1 Na7 38. Rc5 Qf7 39. Kg3 Nh7 40. Nxb5 $4 {
+White captures the weak pawn at last.} (40. Qg6 $1 Qxg6 41. hxg6 Nf8 42. Rc7
+Ra8 43. g5 hxg5 44. Kg4 Nxg6 45. Bxg5 {gives excellent winning chances.}) 40...
+Nxb5 41. Rxb5 Rf8 $1 42. Qe2 Ng5 43. Bxg5 hxg5 44. Qe3 Qf1 45. Rb7 Rf4 46. h6
+gxh6 47. Rb8+ Kg7 48. Rb7+ Kg6 49. Re7 Rxg4+ $1 {Mason started with three wins.
+} (49... Rxg4+ 50. Kxg4 Qg2+ 51. Qg3 h5#) 0-1
+
+[Event "Wien"]
+[Site "?"]
+[Date "1882.05.13"]
+[Round "4"]
+[White "Steinitz, William"]
+[Black "Zukertort, Johannes"]
+[Result "0-1"]
+[ECO "C39"]
+[Annotator "JvR"]
+[PlyCount "66"]
+[EventDate "1882.??.10"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 g5 4. h4 g4 5. Ne5 Nf6 6. Bc4 d5 7. exd5 Bg7 8. Nc3
+O-O 9. d4 Nh5 10. Ne2 c5 {Kasparov portrays Steinitz as 'a true child of his
+materialistic time', but Wilhelm plays the chancy Salvio-Gambit, however.} 11.
+c3 $2 (11. Nxf4 $2 Ng3 $1 {also favours Black (Blackburne-Paulsen, Wien 1873).}
+) ({Best is} 11. dxc6 Nxc6 12. Nxc6 bxc6) 11... cxd4 12. cxd4 Nd7 13. Nxd7 Bxd7
+14. Qd3 Rc8 15. Nxf4 Re8+ 16. Kd1 b5 $1 17. Nxh5 ({The pointe is} 17. Bxb5
+Rxc1+ $1 18. Rxc1 Nxf4 {(Zukertort).}) 17... bxc4 18. Qa3 Bxd4 19. Bd2 Qb6 20.
+Bc3 Re3 21. Re1 Bxc3 22. Rxe3 Qxe3 23. bxc3 Qg1+ 24. Kd2 Qxg2+ 25. Ke3 Re8+ 26.
+Kd4 Qe4+ 27. Kc5 Qe7+ 28. d6 Qe5+ 29. Kxc4 Qe4+ 30. Kb3 Rb8+ 31. Qb4 Rxb4+ 32.
+cxb4 Qd3+ 33. Kb2 Qd4+ {The string of twenty-five wins had ended by a draw in
+the previous round. Steinitz even lost this time.} 0-1
+
+[Event "Wien"]
+[Site "?"]
+[Date "1882.05.15"]
+[Round "5"]
+[White "Fleissig, Bernhard"]
+[Black "Weiss, Miksa"]
+[Result "0-1"]
+[ECO "C26"]
+[Annotator "JvR"]
+[PlyCount "94"]
+[EventDate "1882.??.10"]
+
+1. e4 e5 2. Nc3 Nc6 3. g3 Bc5 4. Bg2 Nf6 5. d3 a6 6. Bg5 h6 7. Bxf6 Qxf6 8. Qd2
+Ne7 9. Nd1 d6 10. Ne3 Be6 11. Ne2 c6 12. f4 $4 exf4 13. Nxf4 Qxb2 {
+White has blundered a pawn.} 14. O-O Qd4 15. Kf2 O-O 16. c3 Qxe3+ 17. Qxe3
+Bxe3+ 18. Kxe3 Bd7 19. Rab1 Rab8 20. Rf2 b5 21. Rfb2 f5 22. a4 fxe4 23. dxe4 g5
+24. Ne2 Ng6 25. axb5 axb5 26. Nd4 Ne5 27. Ra2 Ng4+ 28. Kd3 c5 29. Nf3 d5 30.
+Nd2 Rf2 31. Bf3 dxe4+ 32. Bxe4 Be6 33. Ra8 Rxa8 34. Bxa8 Bf5+ 35. Ne4 Rf3+ 36.
+Kd2 Re3 $1 37. h3 $1 Bxe4 38. hxg4 Bxb1 39. Kxe3 Ba2 $1 {
+Pawn b5 needs indirect protection by the bishop.} 40. Ke4 Kg7 41. Ke5 b4 42.
+cxb4 cxb4 43. Be4 Bf7 44. Kd4 Kf6 45. Bf5 Be6 46. Bb1 $6 ({Black also wins by} 
+46. Be4 Bxg4 47. Kc4 Ke5 48. Bc6 h5 49. Kxb4 Kd4) 46... Bxg4 47. Kc4 Bf5 $1 {
+Weiss showed his ability in the endgame.} 0-1
+
+[Event "Wien"]
+[Site "?"]
+[Date "1882.05.16"]
+[Round "6"]
+[White "Winawer, Szymon"]
+[Black "Meitner, Philipp"]
+[Result "1-0"]
+[ECO "C13"]
+[Annotator "JvR"]
+[PlyCount "69"]
+[EventDate "1882.??.10"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Be7 5. Bxf6 Bxf6 6. exd5 exd5 7. Qe2+ Be7 (
+7... Be6 $1 8. Qb5+ Nc6 $1 {gains a plus.}) 8. O-O-O Nc6 9. Qh5 a6 $4 10. Qxd5
+O-O 11. Bc4 Bf6 12. Nge2 Be6 13. Qxd8 Raxd8 14. d5 Na5 $2 {
+Meitner fumbles again.} ({Correct is} 14... Ne5 $1 15. Bxa6 bxa6 16. dxe6 fxe6)
+15. Bd3 $1 Bxd5 16. Nxd5 Rxd5 17. Bxh7+ $1 Kxh7 18. Rxd5 Nc4 19. b3 Nd6 20. c4
+Re8 21. Ng3 Re6 22. Kc2 Be7 23. Rhd1 b6 24. R1d3 g6 25. Re3 Kg7 26. c5 bxc5 27.
+Rxe6 fxe6 28. Rxc5 Nb5 29. Re5 Kf6 30. Re4 a5 31. Kd3 Nd6 32. Ra4 Nb7 33. Ne4+
+Kf7 34. Rc4 c5 35. f4 {
+This encounter demonstrates the simple level of many games.} 1-0
+
+[Event "Wien"]
+[Site "?"]
+[Date "1882.05.17"]
+[Round "7"]
+[White "Steinitz, William"]
+[Black "Fleissig, Bernhard"]
+[Result "1-0"]
+[ECO "C00"]
+[Annotator "JvR"]
+[PlyCount "77"]
+[EventDate "1882.??.10"]
+
+1. e4 e6 2. e5 d5 3. exd6 $5 Bxd6 4. d4 Ne7 $5 5. Bd3 Ng6 6. Nf3 Nc6 7. Nc3 Nb4
+8. Bc4 c6 $6 {Black develops too slow. Steinitz starts to collect advantages.}
+9. Ne4 Bc7 10. O-O O-O 11. Re1 Nd5 12. Nc5 Nh4 13. Ne5 $1 Nf5 14. c3 Bxe5 15.
+Rxe5 Nf6 16. Re1 h6 $2 {He weakens the kingside.} ({Better is} 16... b6 17. Nd3
+Nd6 18. Bb3 Bb7) 17. Qf3 Nd5 18. Bb3 b6 19. Nd3 Ba6 $6 ({More active is} 19...
+Bb7 20. Ne5 c5) 20. Ne5 Rc8 21. Bc2 {
+White controls more territory and has the two bishops.} 21... Nfe7 $2 {
+Black allows an attack on the king.} ({Right is} 21... Re8 22. Bd2 Qf6) 22. Qg3
+$1 Kh8 23. Qh4 Kg8 24. Qg3 Kh8 25. Qh3 $1 Ng8 26. Qh5 Rc7 27. Bd2 Ndf6 28. Qh3
+Nd5 $6 29. c4 Ndf6 30. Rad1 Qe8 31. Bf4 Rc8 $2 32. Qa3 $1 Bb7 33. Qxa7 Ba8 34.
+Qxb6 g5 35. Bg3 Nd7 36. Qb3 f5 37. f3 Kg7 38. c5 Ndf6 39. Nc4 {Steinitz had
+lost in the three previous rounds. A solid positional win levelled his score.}
+1-0
+
+[Event "Wien"]
+[Site "?"]
+[Date "1882.05.19"]
+[Round "8"]
+[White "Fleissig, Bernhard"]
+[Black "Mackenzie, George"]
+[Result "0-1"]
+[ECO "C82"]
+[Annotator "JvR"]
+[PlyCount "78"]
+[EventDate "1882.??.10"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5
+Be6 9. c3 {These moves were played in Wemmers-Schottlaender, Leipzig 1879.}
+9... Bc5 10. Nbd2 O-O 11. Bc2 f5 12. Nb3 Bb6 13. Nbd4 Nxd4 14. Nxd4 Qe7 {
+If you wish to play the 'grande variante', this move loses a tempo.} ({
+In that case} 14... Bxd4 {
+has to be played immediately (Jacob-Cohn, Muenchen 1900).}) 15. Bb3 Bxd4 16.
+cxd4 f4 17. f3 Ng3 $5 18. hxg3 fxg3 19. Re1 Qh4 20. Be3 {
+A famous idea has been applied for the first time.} 20... Qh2+ $2 ({Better is} 
+20... c6 21. Rc1 $2 Bg4 $1 22. Rc2 $2 Qh2+ 23. Kf1 Rxf3+ $1 24. Qxf3 Qh1+ 25.
+Ke2 Qxg2+ {(Bogoljubow-Euwe, Karlsbad 1941).}) 21. Kf1 Qh1+ 22. Bg1 h5 23. Re3
+h4 24. Qe1 g5 25. Rc1 g4 26. Bd1 gxf3 27. Bxf3 $2 ({White wins by} 27. Rxf3 Bg4
+28. Rf6) 27... Bg4 28. Rcc3 b4 29. Rb3 Rae8 30. a3 Re6 31. axb4 Bh5 32. Qe2 Rc6
+33. Qd1 Bg4 34. Rbc3 $4 Rxc3 35. Rxc3 h3 $1 36. Qd2 Rf5 37. gxh3 Bxf3 38. Qe3
+Qg2+ 39. Ke1 Bg4 {Mackenzie led with 6 1/2 points.} 0-1
+
+[Event "Wien"]
+[Site "?"]
+[Date "1882.05.20"]
+[Round "9"]
+[White "Paulsen, Louis"]
+[Black "Hruby, Vincenz"]
+[Result "1/2-1/2"]
+[ECO "C49"]
+[Annotator "JvR"]
+[PlyCount "62"]
+[EventDate "1882.??.10"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. Bb5 Bb4 5. O-O O-O 6. d3 d6 7. Bg5 Bxc3 8.
+bxc3 Ne7 9. Bxf6 gxf6 10. Nh4 Ng6 $5 {
+Paulsen threatens to apply restriction but Black reacts at once.} 11. Nf5 d5
+12. Qh5 c6 13. Ba4 Bxf5 14. Qxf5 Kg7 15. Rae1 Qa5 $2 {
+The queen goes to the wrong flank.} 16. Bb3 dxe4 17. Rxe4 Rad8 18. h4 $2 {
+Paulsen has difficulties with tactics.} ({The way to victory is found in} 18.
+f4 $1 Qb6+ 19. Kh1 exf4 20. Rexf4 $1 Nxf4 21. Rxf4) 18... h5 $1 19. Qxh5 Rh8
+20. Qf5 Rxh4 21. Bxf7 $1 Kxf7 22. Rxh4 Nxh4 23. Qh7+ Ke6 24. Qxh4 Qxc3 25. Qg4+
+Kf7 26. Rb1 b5 27. Qh5+ Ke6 28. Qg4+ Kf7 29. Qh5+ Ke6 30. Qg4+ Kf7 31. Qh5+ Ke6
+{Paulsen played great positional chess but diabetes plagued him badly.} 1/2-1/2
+
+[Event "Wien"]
+[Site "?"]
+[Date "1882.05.22"]
+[Round "10"]
+[White "Steinitz, William"]
+[Black "Chigorin, Mikhail"]
+[Result "1-0"]
+[ECO "C37"]
+[Annotator "JvR"]
+[PlyCount "63"]
+[EventDate "1882.??.10"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 g5 4. Bc4 g4 5. Ne5 Qh4+ 6. Kf1 Nh6 7. d4 f3 8. Nc3
+Nc6 9. Bf4 {Steinitz plays his favourite Salvio-Gambit. They have followed
+Schiffers-Chigorin, St. Petersburg 1878).} 9... d6 10. Nxc6 fxg2+ 11. Kxg2 bxc6
+12. Rf1 Bd7 13. Qd2 Bg7 14. Rae1 O-O 15. Re3 $6 Kh8 16. Ne2 d5 $6 (16... Be6 {
+gains a plus.}) 17. exd5 Nf5 18. Rd3 Qh5 19. Kg1 Nh4 20. Ng3 Qg6 21. Qa5 Nf3+
+22. Kh1 h5 $2 ({Correct is} 22... cxd5 $1 23. Bxd5 Bc6) 23. d6 $4 {
+The calculations are too complicated.} (23. Qxc7 Bf5 24. dxc6 $1 {is okay.})
+23... f5 $4 (23... cxd6 $1 24. Qxh5+ Qxh5 25. Nxh5 d5 {gains a big advantage.})
+24. Qxc7 Rad8 25. Re3 h4 26. Ne2 Nxd4 27. Re7 Nxe2 28. Bxe2 g3 29. Bf3 Rg8 30.
+hxg3 hxg3 31. Kg2 $1 Bh6 32. Be5+ 1-0
+
+[Event "Wien"]
+[Site "?"]
+[Date "1882.05.23"]
+[Round "11"]
+[White "Noa, Josef"]
+[Black "Winawer, Szymon"]
+[Result "0-1"]
+[ECO "C67"]
+[Annotator "JvR"]
+[PlyCount "118"]
+[EventDate "1882.??.10"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. Qe2 Nf6 6. Nxe5 Nxe5 7. Qxe5+ Be7
+8. Re1 c6 9. Ba4 d5 10. f4 a5 11. c3 b5 12. Bc2 Ra7 13. Qe3 Rb7 14. d4 O-O 15.
+Nd2 Ng4 16. Qd3 g6 17. Nf3 Bd6 18. h3 Nh6 19. g4 f6 20. f5 g5 21. Bd2 Bb8 22.
+Be3 Rg7 23. Re2 Nf7 24. Rae1 h5 25. Rg2 Nd6 26. Qd1 hxg4 27. hxg4 Re8 28. Nd2
+Rge7 29. Qf3 a4 30. Qh3 $2 Rh7 $1 31. Qf3 Kf7 32. Rge2 Reh8 33. Bf2 Rh3 34. Qg2
+Ne4 $4 (34... Rh2 $1 35. Qxh2 Rxh2 36. Kxh2 Nxf5+ {wins for Black (Rosenthal).}
+) 35. Nxe4 $2 (35. Bxe4 $1 {gains a plus (Rosenthal).}) 35... Rh1+ 36. Qxh1
+Rxh1+ 37. Kxh1 Qh8+ 38. Kg2 Qh2+ 39. Kf3 dxe4+ $6 (39... Qf4+ 40. Kg2 Qh2+ {
+draws.}) 40. Rxe4 Qh3+ 41. Ke2 Bf4 42. Rg1 Bb7 43. Re6 $4 (43. a3 $1 {
+keeps a plus.}) 43... c5 $1 44. dxc5 Qf3+ 45. Ke1 Bd5 46. Bd4 Bxe6 47. fxe6+
+Ke7 48. Bd1 Qe4+ 49. Be2 Qb1+ 50. Kf2 Qxb2 51. Rh1 Kxe6 52. a3 Be5 53. Rd1 Qxa3
+54. Bxb5 Qb2+ 55. Be2 a3 56. Kf3 a2 57. Bc4+ Ke7 58. Bxa2 Qxa2 59. Bxe5 fxe5
+0-1
+
+[Event "Wien"]
+[Site "?"]
+[Date "1882.05.24"]
+[Round "12"]
+[White "Steinitz, William"]
+[Black "Winawer, Szymon"]
+[Result "1-0"]
+[ECO "C00"]
+[Annotator "JvR"]
+[PlyCount "58"]
+[EventDate "1882.??.10"]
+
+1. e4 e6 2. e5 $5 c5 $5 3. f4 Nc6 4. Nf3 f6 5. exf6 Nxf6 6. g3 Be7 7. Bg2 Qc7
+8. O-O O-O 9. Nc3 a6 10. b3 b5 11. Bb2 Bb7 12. d3 Nd8 13. Qe2 Nf7 14. Nd1 Rae8
+15. Ne3 Bd8 16. c4 Bc6 17. cxb5 Bxb5 18. a4 Bc6 19. Rfc1 Qb7 20. Nc4 Bc7 21.
+Ba3 d6 22. Rab1 a5 23. d4 $2 cxd4 {Steinitz makes a nasty discovery.} 24. Kh1 (
+24. Nxd4 Bxg2 25. Qxg2 Qa7 26. Qf2 Ng4 $1 27. Qd2 e5 {is awful (Rosenthal).})
+24... d3 25. Qf1 Ne4 26. Nd4 Bd5 27. Rb2 e5 $2 (27... d2 $1 28. Nxd2 Bb6 {
+is advantageous (Rosenthal).}) 28. Nb5 Re6 $4 {Hereafter, Winawer even loses.}
+29. Qxd3 Nxg3+ {Black lost on time.
+Steinitz was catching up on the leaders.}
+1-0
+
+[Event "Wien"]
+[Site "?"]
+[Date "1882.05.25"]
+[Round "13"]
+[White "Bird, Henry"]
+[Black "Meitner, Philipp"]
+[Result "1-0"]
+[ECO "C53"]
+[Annotator "JvR"]
+[PlyCount "43"]
+[EventDate "1882.??.10"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Qe7 $6 5. b4 $5 Bb6 6. a4 a5 7. b5 Nd8 8.
+O-O d6 9. d4 Bg4 10. Be2 $6 ({Better is} 10. dxe5 dxe5 11. h3) 10... Nf6 11.
+Ba3 $5 exd4 12. e5 $1 Ne4 13. cxd4 Qd7 $2 {Black loses time.} (13... Ne6 $1 {
+develops a useful piece.}) 14. exd6 $1 Nxd6 15. Ne5 Bxe2 16. Nxd7 Bxd1 17. Nxb6
+cxb6 18. Rxd1 Kd7 19. Nc3 Nc4 20. Nd5 Rc8 21. Rac1 Ke6 22. Ne7 ({Notice} 22.
+Ne7 Rc7 23. d5+ Kd7 24. d6) 1-0
+
+[Event "Wien"]
+[Site "?"]
+[Date "1882.05.26"]
+[Round "14"]
+[White "Weiss, Miksa"]
+[Black "Zukertort, Johannes"]
+[Result "1-0"]
+[ECO "C49"]
+[Annotator "JvR"]
+[PlyCount "163"]
+[EventDate "1882.??.10"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. Bb5 Bb4 5. O-O O-O 6. d3 d6 7. Bxc6 bxc6 8.
+Ne2 Re8 9. Ng3 d5 10. c3 Bd6 11. Re1 c5 12. c4 c6 13. Qe2 h6 14. Kh1 a5 15. Nh4
+g6 16. Nf3 Kh7 17. Rb1 Nd7 18. Qd2 Bf8 19. Ng1 $6 {
+Weiss is going to play too passively in the middle game.} 19... Bg7 20. Qe2 Nf8
+21. Be3 Ne6 22. Qc2 Nd4 23. Qc1 f5 24. Bd2 Ra7 25. f3 Rd7 $2 26. cxd5 cxd5 27.
+Qxc5 {White has grabbed a pawn.} 27... dxe4 28. fxe4 Ne6 29. Qxa5 Rxd3 30. Qxd8
+Nxd8 31. Bc3 Nc6 32. Nf3 f4 33. Ne2 g5 34. Rbd1 Rxd1 35. Rxd1 g4 36. Ne1 Nd4
+37. Bxd4 exd4 38. Nxf4 Rxe4 39. Ned3 Ba6 40. Kg1 Re3 41. Nc5 Bc8 42. Kf2 Re5
+43. Ncd3 Rf5 44. Rc1 Ba6 45. Kg3 h5 46. Rc5 $2 ({Right is} 46. a4 $1) 46...
+Bxd3 47. Nxd3 Rxc5 48. Nxc5 Be5+ 49. Kf2 Kg6 $2 ({Zukertort expects} 49... Bxh2
+50. b4 h4 51. a4 Bc7 52. Ne6 {to win for White, but} 52... d3 $1 {draws.}) 50.
+h3 Kf5 51. Nd3 Bd6 52. a4 Ke4 53. Ke2 Kd5 54. b3 $1 Bc7 55. hxg4 hxg4 56. Nf2
+Kc5 57. Nd3+ Kd5 58. Kd2 $1 Bd8 59. Kc2 $1 Bc7 {
+White has achieved the ideal position. The subtle manoeuvres continue.} 60. Nf2
+$1 g3 61. Nd3 Ba5 62. Kd1 $1 Bc7 63. Ke2 $1 Ke4 64. Nc5+ Kd5 65. Na6 Be5 66.
+Kd3 Bd6 67. b4 Be5 68. Nc5 Bd6 69. a5 Bxc5 70. bxc5 Kxc5 71. a6 Kb6 72. Kxd4
+Kxa6 73. Ke4 Kb5 74. Kf4 Kc5 75. Kxg3 Kd5 76. Kg4 Ke6 77. Kg5 Kf7 78. Kh6 Kg8
+79. g4 Kf7 80. g5 Kg8 81. Kg6 Kh8 82. Kf7 {Zukertort scored poorly in the
+first cycle. The solidity of a local master was too much for him this time.}
+1-0
+
+[Event "Wien"]
+[Site "?"]
+[Date "1882.05.27"]
+[Round "15"]
+[White "Bird, Henry"]
+[Black "Weiss, Miksa"]
+[Result "1-0"]
+[ECO "C54"]
+[Annotator "JvR"]
+[PlyCount "55"]
+[EventDate "1882.??.10"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. b4 $5 Bb6 6. d3 d6 7. a4 a5 8. b5
+Ne7 {
+Horwitz played this line against Staunton in London 1846 during Bird's youth.}
+9. Na3 Ng6 10. Be3 {He diverts from the consultation game of Bird & Zukertort
+against Potter & Wisker in London 1874.} 10... Bxe3 11. fxe3 O-O 12. O-O d5 $6
+{A clumsy manoeuvre begins.} 13. exd5 Nxd5 14. Qd2 Qd6 15. Ng5 Be6 16. g3 h6 $2
+17. Nxe6 Qxe6 18. Rf2 Qd6 19. Raf1 Nf6 20. Nc2 Rad8 {
+Black seems to have consolidated.} 21. Rxf6 $1 gxf6 22. e4 Kg7 (22... Kh7 $2
+23. Ne3 Ne7 24. Ng4 $1 Ng8 25. Rxf6 $1 {crushes the defence line.}) 23. Ne3 Ne7
+24. Ng4 Rh8 $2 ({More resistance is offered by} 24... Ng8 $1 25. Rxf6 Qc5+ 26.
+Rf2 Rd6) 25. Rxf6 $1 Qc5+ 26. Ne3 $1 Nd5 ({A fine pointe is} 26... Kxf6 27.
+Qf2+) 27. Bxd5 Rxd5 28. Qf2 1-0
+
+[Event "Wien"]
+[Site "?"]
+[Date "1882.05.30"]
+[Round "16"]
+[White "Chigorin, Mikhail"]
+[Black "Paulsen, Louis"]
+[Result "0-1"]
+[ECO "B24"]
+[Annotator "JvR"]
+[PlyCount "76"]
+[EventDate "1882.??.10"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 e6 4. Bg2 Nge7 5. d3 Nd4 6. Nge2 Nec6 7. Be3 Be7 8.
+Nf4 O-O 9. O-O Rb8 10. Nh5 $6 f5 11. g4 $6 g6 12. Nf4 g5 13. gxf5 $2 gxf4 14.
+Bxf4 d6 15. Bh6 exf5 $2 {The mutual sacrifices have little quality.} 16. Bxf8
+Bxf8 17. Kh1 $2 (17. Nd5 {starts a counteraction.}) 17... Ne5 18. exf5 Bxf5 19.
+Rg1 Kh8 20. Bd5 Bg7 21. Qh5 Bg6 22. Qh3 Qd7 23. Qg3 Rf8 24. f4 Nec6 25. Raf1
+Ne7 26. Be4 d5 27. Bxg6 Nxg6 28. Rg2 Qf5 29. Nd1 Qh5 30. Qe3 Bh6 31. c3 Bxf4
+32. Qe1 {White's defence seems to lack any tactical counter-play.} 32... Nf5 $2
+{Tis move lessens the consolidation of square e5.} (32... Nh4 $1 {
+would have ended the game.}) 33. Rxf4 $1 Ng3+ 34. Rxg3 $2 ({Correct is} 34.
+Qxg3 Rxf4 35. Nf2) 34... Nxf4 35. Nf2 Re8 36. Qf1 Qe2 37. Kg1 Qd2 38. Rf3 Re1
+0-1
+
+[Event "Wien"]
+[Site "?"]
+[Date "1882.05.31"]
+[Round "17"]
+[White "Mackenzie, George"]
+[Black "Noa, Josef"]
+[Result "1-0"]
+[ECO "C01"]
+[Annotator "JvR"]
+[PlyCount "145"]
+[EventDate "1882.??.10"]
+
+1. e4 e6 2. d4 d5 3. exd5 exd5 4. Nf3 Nf6 5. Bd3 Bd6 6. Bg5 Qe7+ 7. Be2 h6 8.
+Bh4 Bg4 9. Nbd2 Nbd7 10. c3 O-O-O 11. O-O g5 12. Bg3 Bxg3 13. hxg3 Ne4 14. Nxe4
+dxe4 15. Nd2 h5 $1 16. Bxg4 hxg4 17. Qxg4 e3 18. Rfe1 f5 19. Qf3 $4 ({
+Correct is} 19. Qxf5 exf2+ 20. Kxf2 Qg7 21. Nf3) 19... Rh1+ $4 {
+This move has been regarded as a stroke of genius.} ({But} 19... Qh7 $1 20.
+fxe3 Ne5 $1 21. dxe5 Rxd2 {wins immediately.}) 20. Kxh1 Qh7+ 21. Kg1 exd2 22.
+Red1 Rh8 23. Kf1 Re8 24. Kg1 Rh8 25. Kf1 Re8 26. Kg1 Nf6 $1 {
+Noa refuses the offer of a draw.} 27. g4 $1 Nxg4 28. Qh3 Qe7 29. g3 $2 (29. Rf1
+Qg7 {continues the status quo.}) 29... Qe2 30. Qf1 Re3 $6 ({Better is} 30... f4
+$1 31. Qxe2 Rxe2 32. gxf4 gxf4 33. Rf1 f3 {The white pieces have become
+immobile and black's king marches to c2 (Rosenthal).}) 31. Qxe2 Rxe2 32. Rf1 {
+Noa still has the best chances.} 32... f4 $4 (32... Nf6 $1 33. Kg2 g4 $1 {
+leads to another terrible case of restriction.}) 33. gxf4 gxf4 34. Kg2 $1 d1=Q
+35. Raxd1 Rxb2 36. Kg1 Rxa2 37. Rd3 Ra6 38. Re1 Rg6 39. Kf1 f3 40. Re8+ Kd7 41.
+Rh8 Rf6 42. Rh3 a5 43. Kg1 Nh6 44. Rhxf3 Nf5 45. c4 Rg6+ 46. Kf1 Nd6 47. c5 Nb5
+48. d5 b6 49. Rf7+ Kc8 50. d6 cxd6 51. Rh3 Rg8 52. cxb6 d5 53. Rb3 Nd6 54. Ra7
+Kb8 55. Rxa5 Rg5 56. Rg3 Rf5 57. Ra7 Rf8 58. Rga3 Nc8 59. Rd7 Nxb6 60. Rb3 Rf6
+61. Rxd5 Kc7 62. Rc3+ Kb7 63. Rd4 Rf7 64. Ke2 Re7+ 65. Re3 Rh7 66. f4 Kc6 67.
+Rc3+ Kb5 68. Kf2 Rh5 69. Kg3 Nd5 70. Rc1 Nf6 71. Rd8 Ne4+ 72. Kf3 Nc5 73. Kg4 {
+Mackenzie led by 12 1/2 points at the end of the first cycle, half-a-point
+before Winawer and one point before Steinitz. The fighter Winawer had scored
+twelve wins and five losses.  The length of the tournament began to take its
+toll. Noa departed at the end of the first series. Fleissig withdrew after
+twenty rounds and Bird became ill during five rounds near the end of the
+tournament.} 1-0
+
+[Event "Wien"]
+[Site "?"]
+[Date "1882.06.01"]
+[Round "18"]
+[White "Hruby, Vincenz"]
+[Black "Zukertort, Johannes"]
+[Result "0-1"]
+[ECO "C80"]
+[Annotator "JvR"]
+[PlyCount "108"]
+[EventDate "1882.??.10"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5
+Ne7 $5 9. Re1 Bb7 10. Ng5 Nxg5 11. Bxg5 Qd7 12. a4 h6 13. Bxe7 (13. Be3 $1 {
+keeps a plus.}) 13... Bxe7 14. axb5 axb5 15. Rxa8+ Bxa8 16. Nc3 c6 17. e6 fxe6
+18. Qh5+ Kd8 19. Qh3 $6 ({Better is} 19. Ne2 Bf6 20. c3) 19... e5 20. Qxd7+ $2
+Kxd7 21. Rxe5 Bf6 22. Re1 Bxc3 23. bxc3 c5 $1 {
+The white bishop will be imprisoned.} 24. Kf1 c4 25. Ba2 Bc6 26. Ke2 Re8+ 27.
+Kd2 Rxe1 28. Kxe1 Kd6 29. Kd2 Ke5 30. Ke3 g5 31. f3 Be8 32. g3 Bg6 33. Bb1 Bh5
+34. Ba2 Bg6 35. Bb1 Bh7 36. Kd2 Kd6 37. Ba2 Ke5 38. Bb1 Kd6 39. Ke3 Ke5 40. Kd2
+h5 41. Ke3 Bg6 42. Kd2 g4 $1 43. f4+ Ke4 44. Ke2 Bf5 45. Kf2 Bc8 46. Ke2 Be6 $1
+{Black utilises zugzwang.} 47. Ba2 d4 $1 48. cxd4 Kxd4 49. Kd1 ({The pointe is
+} 49. Kd2 $2 c3+) 49... Kc3 50. Kc1 Bf5 51. Bb1 b4 52. Ba2 b3 53. Bb1 b2+ 54.
+Kd1 Be4 0-1
+
+[Event "Wien"]
+[Site "?"]
+[Date "1882.06.02"]
+[Round "19"]
+[White "Winawer, Szymon"]
+[Black "Blackburne, Joseph"]
+[Result "0-1"]
+[ECO "C41"]
+[Annotator "JvR"]
+[PlyCount "104"]
+[EventDate "1882.??.10"]
+
+1. e4 e5 2. Nc3 Nf6 3. Nf3 d6 4. d4 exd4 5. Qxd4 Be7 6. Bg5 O-O 7. O-O-O Nc6 8.
+Qd2 Be6 9. a3 $6 a6 10. h3 b5 11. Bxf6 Bxf6 12. Nd5 Bxd5 13. exd5 Ne7 14. g3
+Ng6 15. h4 Re8 16. h5 Ne5 17. Nd4 b4 $1 {
+An attack on the queenside begins with a surprising pawn sacrifice.} 18. Qxb4
+$6 (18. axb4 a5 $1 19. b5 (19. bxa5 $6 c5 $1 20. dxc6 Rxa5 {(Blackburne).})
+19... a4 20. Qb4 Qb8 {and Black charges.}) 18... Rb8 19. Qa4 Nf3 20. Nb3 Qe7
+21. Bd3 Rb6 $1 22. c3 Reb8 23. Bc2 Qe2 24. Rhf1 Bg5+ 25. Kb1 Nd2+ 26. Rxd2 Bxd2
+27. Rd1 Rxb3 $1 28. Bxb3 Bxc3 29. Bc2 Rxb2+ 30. Kc1 Rb8 31. Qe4 Rb1+ $1 {
+The 'Black Death' strikes elegantly.} 32. Kxb1 Qb5+ 33. Qb4 Bxb4 34. axb4 Qxb4+
+35. Kc1 a5 36. Rd2 a4 37. Bb1 a3 38. Ba2 f5 39. Kd1 Qg4+ 40. Ke1 Qxh5 41. Rc2
+Qh1+ 42. Kd2 Qf3 43. Ke1 Qe4+ 44. Kd1 f4 45. gxf4 Qxf4 46. Ke1 Qe4+ 47. Kd1 h5
+48. Rc4 Qh1+ 49. Ke2 Qa1 50. Rc2 h4 51. f4 h3 52. Ke3 Qg1+ {
+Blackburne scored better in the second cycle.} 0-1
+
+[Event "Wien"]
+[Site "?"]
+[Date "1882.06.03"]
+[Round "20"]
+[White "Weiss, Miksa"]
+[Black "Wittek, Alexander"]
+[Result "1-0"]
+[ECO "C77"]
+[Annotator "JvR"]
+[PlyCount "63"]
+[EventDate "1882.??.10"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. Nc3 d6 6. Bxc6+ bxc6 7. d4 exd4 8.
+Nxd4 Bd7 9. O-O Be7 10. f4 O-O 11. Qf3 c5 12. Nde2 Bc6 13. Ng3 Re8 14. b3 Bf8
+15. Bb2 {A standard position of the Ruy Lopez has arisen.} 15... Qc8 $2 ({
+Correct is} 15... Bb7 16. Rad1 Qd7) 16. Nd5 Bxd5 $6 {
+Black exchanges his strong bishop.} (16... Nxd5 17. exd5 Bb7 18. f5 f6) 17.
+exd5 Ng4 18. Rae1 Qd7 19. Ne4 Nh6 20. h3 f6 21. Re2 Re7 22. Rfe1 Rae8 23. c4
+Kh8 24. Kh2 Qf5 25. g4 Qd7 26. Ng3 Rxe2+ 27. Rxe2 Rxe2+ 28. Qxe2 c6 29. Qe6
+Qxe6 30. dxe6 Be7 31. f5 g6 $2 32. g5 $1 ({See} 32. g5 Ng8 33. fxg6 hxg6 34.
+gxf6 Nxf6 35. Ne4 Kg7 36. Nxf6 Bxf6 37. e7 $1) 1-0
+
+[Event "Wien"]
+[Site "?"]
+[Date "1882.06.05"]
+[Round "21"]
+[White "Zukertort, Johannes"]
+[Black "Steinitz, William"]
+[Result "1/2-1/2"]
+[ECO "C46"]
+[Annotator "JvR"]
+[PlyCount "71"]
+[EventDate "1882.??.10"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 g6 4. d4 exd4 5. Nxd4 Bg7 6. Be3 Nf6 7. f3 Ne7 $5 {
+Steinitz has played a remarkable move.} 8. Bc4 (8. Qd2 $1 d5 9. O-O-O {
+gains a plus.}) 8... d5 $1 9. exd5 Nfxd5 10. Nxd5 Nxd5 11. Bf2 Nf4 $1 12. O-O
+O-O 13. c3 Qg5 14. Bg3 Nh5 15. f4 $6 ({Correct is} 15. Be1 $1) 15... Qc5 16.
+Qb3 Nxg3 17. hxg3 Bxd4+ 18. cxd4 Qxd4+ 19. Kh2 Bg4 $6 ({Better is} 19... c6)
+20. Rae1 b5 21. Qxb5 Rab8 22. Qc6 $5 Bd7 23. Qd5 Qxd5 24. Bxd5 Rxb2 25. Re7 Bb5
+26. Rf3 c6 27. Bb3 a5 28. a4 Be2 29. Rc3 $2 (29. Rf2 $1 Rxb3 30. Rfxe2 Rb4 31.
+Rc7 Rxa4 32. Rxc6 {draws (Zukertort).}) 29... Bf1 30. Bc2 Rd8 31. Rxc6 Rd2 32.
+Be4 Bxg2 33. Bxg2 Rxg2+ 34. Kh3 {Black misses a sensational win.} 34... Rh2+ $4
+(34... h5 $1 35. Kh4 Kg7 $1 36. Rcc7 Kh6 $1) 35. Kg4 Rh5 36. Rf6 1/2-1/2
+
+[Event "Wien"]
+[Site "?"]
+[Date "1882.06.06"]
+[Round "22"]
+[White "Zukertort, Johannes"]
+[Black "Ware, Preston"]
+[Result "1-0"]
+[ECO "B01"]
+[Annotator "JvR"]
+[PlyCount "63"]
+[EventDate "1882.??.10"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qe5+ $5 4. Be2 c6 5. Nf3 Qc7 6. d4 e6 7. O-O h6 $6
+8. Ne5 Nf6 9. f4 b6 10. Bf3 Bb7 11. Qe1 Be7 12. a3 Nbd7 13. b4 Nd5 14. Ne4 Ba6
+15. Rf2 Rc8 16. Ng3 g6 17. Bb2 Nxe5 18. fxe5 Bg5 $6 {
+Two strange moves are played.} (18... Bh4 19. Ne4 Bxf2+ 20. Qxf2 {is okay.})
+19. Bc1 $6 (19. Ne4 $1 {can be played immediately.}) 19... Bh4 20. Ne4 $5 Bxf2+
+21. Qxf2 Rd8 22. Qh4 c5 23. bxc5 bxc5 24. Nxc5 Qb6 25. Bd2 Bc4 26. Rd1 Rc8 27.
+Qf2 Qb2 28. Ne4 Rc6 29. Nd6+ Rxd6 30. exd6 Qxa3 31. Bxd5 Qxd6 32. Bxc4 1-0
+
+[Event "Wien"]
+[Site "?"]
+[Date "1882.06.07"]
+[Round "23"]
+[White "Paulsen, Louis"]
+[Black "Zukertort, Johannes"]
+[Result "0-1"]
+[ECO "C47"]
+[Annotator "JvR"]
+[PlyCount "122"]
+[EventDate "1882.??.10"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nf6 5. Nc3 Bb4 6. Nxc6 bxc6 7. Qd4 $5
+Qe7 8. f3 d5 9. Bg5 c5 10. Bb5+ Kf8 $1 {A tactical turmoil begins.} 11. Qf2 $6
+({Paulsen will play} 11. Qd3 $1 {vs. Chigorin in round thirty-one.}) 11... d4
+12. O-O-O dxc3 13. e5 h6 14. exf6 gxf6 15. Bf4 Be6 16. Qe3 Rb8 17. a4 a6 18.
+Bxa6 $2 (18. Bxh6+ $1 Kg8 19. Rd7 cxb2+ 20. Kb1 Qe8 21. Rd5 Qe7 22. Rd7 {
+ends with a perpetual.}) 18... c4 $2 ({Violence by} 18... cxb2+ 19. Kb1 Qe8 $1
+20. Bxh6+ Rxh6 21. Qxh6+ Ke7 22. Bb5 Rxb5 $1 23. axb5 Qa8 {leads to mate.}) 19.
+Qa7 $2 Kg7 20. Qxc7 cxb2+ 21. Kb1 Qxc7 $2 ({The familiar} 21... Qe8 $1 22. Bb5
+Rxb5 23. axb5 Qa8 {wins for Black.}) 22. Bxc7 Ra8 23. Bxc4 $1 {
+White frees himself at a material cost. It will not be enough.} 23... Bxc4 24.
+Rd4 Rxa4 25. Rxc4 Ra1+ 26. Kxb2 Rxh1 27. Rxb4 Rc8 28. Bd6 Rc6 29. Rd4 f5 30. c4
+Rg1 31. g4 Rf1 32. gxf5 Rxf3 33. Be5+ f6 34. Bf4 Rc5 35. Bd6 Rcxf5 36. c5 Rg5
+37. Rd2 Kf7 38. c6 Rb5+ 39. Kc2 Rb6 40. c7 Rc6+ 41. Kd1 Rfc3 42. Bf4 Rc1+ 43.
+Ke2 R1c2 44. Rxc2 Rxc2+ 45. Kf3 h5 46. Kg3 Rc4 47. Kf3 Ke6 48. Ke3 h4 49. Kd3
+Kd5 50. Ke3 Re4+ 51. Kf3 Re8 52. Kg4 Ke4 53. Bd6 f5+ 54. Kxh4 f4 55. Kg5 f3 56.
+Bg3 Rc8 57. h4 Rxc7 58. Bxc7 f2 59. h5 f1=Q 60. Bd8 Qf5+ 61. Kh6 Kf3 {
+Zukertort has won the ending eventually. He did well in the second cycle but
+could not catch up with Steinitz and Winawer.} 0-1
+
+[Event "Wien"]
+[Site "?"]
+[Date "1882.06.09"]
+[Round "24"]
+[White "Mason, James"]
+[Black "Mackenzie, George"]
+[Result "1-0"]
+[ECO "C01"]
+[Annotator "JvR"]
+[PlyCount "219"]
+[EventDate "1882.??.10"]
+
+1. d4 e6 2. e4 d5 3. Bd3 c5 4. c3 Nc6 5. Nf3 dxe4 6. Bxe4 Nf6 7. Bxc6+ bxc6 8.
+O-O cxd4 9. cxd4 Bd6 10. Nc3 Qc7 11. Bg5 Nd5 12. Nxd5 cxd5 13. Qd2 h6 14. Rfc1
+Qb8 15. Be3 Bd7 16. a3 O-O 17. Rc3 f5 $6 18. Ne5 $1 Bxe5 19. dxe5 Qxe5 20. Bd4
+Qe4 $2 {Black will have to lose a pawn.} ({Correct is} 20... Qb8 $1) 21. f4 $1
+g5 $1 22. g3 e5 23. Bxe5 d4 24. Qxd4 Bc6 25. Qxe4 Bxe4 26. Rc7 Rf7 27. Rac1
+Raf8 28. h4 gxh4 29. gxh4 Rxc7 30. Rxc7 Rf7 31. Rc8+ Rf8 32. Rc3 Rf7 33. Rg3+
+Kf8 34. h5 Rh7 35. Rc3 Bb7 36. Kf2 Rd7 37. Ke3 Kf7 38. Rc1 Be4 39. Bd4 a6 40.
+Rg1 Rd6 41. Rg7+ Kf8 42. Rc7 Kg8 43. Ra7 Bc2 44. Rg7+ Kf8 45. Rg1 Re6+ 46. Be5
+Ba4 47. Kd4 Be8 48. Rh1 Ke7 49. b4 Rb6 50. Rh3 Re6 51. Kd5 Bf7 52. a4 Kd7 53.
+Kd4 Rc6 54. Rd3 Kc8 55. b5 axb5 56. axb5 Rc4+ 57. Ke3 Bxh5 58. Rd6 Re4+ 59. Kf2
+Rb4 60. Rxh6 Be8 61. b6 Kb7 62. Bc7 Bc6 63. Rf6 Be4 64. Kg3 Rb1 65. Rf7 Kc8 66.
+Kh4 Kb7 67. Kg5 Rb5 68. Re7 Kc6 69. Kf6 Rb1 70. Re6+ Kd7 71. Rd6+ Kc8 72. Rd8+
+Kb7 73. Re8 Kc6 74. Re5 Rb4 75. Re7 Rb1 76. Ke6 Kb7 77. Kd6 Rd1+ 78. Ke5 Rb1
+79. Rf7 Rb5+ 80. Kd4 Rb1 81. Re7 Rd1+ 82. Kc3 Kc6 83. Re6+ Kd7 84. Rf6 Ke7 85.
+Be5 Kd7 86. Rg6 Ke7 87. Rg7+ Ke6 88. Rh7 Rb1 89. Kc4 Bf3 90. Kc5 Be4 91. Rg7
+Bf3 92. Bc3 Rc1 93. Kc4 Bd5+ 94. Kb4 Kd6 95. Be5+ Ke6 96. Kb5 Rb1+ 97. Ka6 Rb3
+98. b7 Ra3+ 99. Kb6 Rb3+ 100. Ka7 Ra3+ 101. Kb8 Ra5 102. Kc8 Bxb7+ 103. Rxb7
+Rc5+ 104. Bc7 Kd5 105. Kd7 Ke4 106. Rb4+ Kf3 107. Be5 Kg4 108. Rb8 Ra5 109.
+Rg8+ Kf3 110. Ke6 {
+Mason achieved the best score in the second cycle. He played solid chess.} 1-0
+
+[Event "Wien"]
+[Site "?"]
+[Date "1882.06.10"]
+[Round "25"]
+[White "Bird, Henry"]
+[Black "Blackburne, Joseph"]
+[Result "1-0"]
+[ECO "A03"]
+[Annotator "JvR"]
+[PlyCount "45"]
+[EventDate "1882.??.10"]
+
+1. f4 d5 2. Nf3 Nf6 3. e3 Bf5 4. b3 {Bird plays the Bird Opening.} 4... e6 5.
+Bb2 Be7 6. Nc3 O-O 7. Bd3 $5 Ne4 $5 8. Bxe4 dxe4 9. Ne5 Nd7 10. Ng4 $5 Bg6 11.
+Nf2 f5 12. Qe2 Bf6 13. O-O-O e5 $6 (13... Qe7 {continues the slow operations.})
+14. g4 $1 exf4 15. gxf5 Bxf5 16. exf4 Re8 17. Rhg1 Nf8 18. Ng4 Kh8 $2 ({
+Correct is} 18... Ng6) 19. Nxf6 gxf6 20. Nd5 $1 {
+The knight is untouchable. Black will lose matter or be mated.} 20... Re6 21.
+Ne3 $1 Ng6 {The knight will be lost anyway.} 22. Nxf5 Nxf4 23. Qe3 1-0
+
+[Event "Wien"]
+[Site "?"]
+[Date "1882.06.12"]
+[Round "26"]
+[White "Blackburne, Joseph"]
+[Black "Chigorin, Mikhail"]
+[Result "1-0"]
+[ECO "C45"]
+[Annotator "JvR"]
+[PlyCount "65"]
+[EventDate "1882.??.10"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Bc5 5. Be3 Qf6 6. c3 Nge7 7. Qd2 Bxd4 $6
+({Better is} 7... d5 {(Paulsen-Zukertort, Berlin 1881).}) 8. cxd4 d5 9. Nc3 ({
+Schallopp played} 9. e5 {against Chigorin in Berlin 1881.}) 9... Be6 10. Bb5
+Qg6 11. f3 O-O 12. O-O $6 (12. Bxc6 bxc6 13. O-O {keeps the plus.}) 12... Rad8
+13. Qf2 f5 14. e5 f4 $1 15. Bd2 Qh6 $5 16. Rac1 Rf5 $5 {
+Chigorin wants to attack the hostile king.} 17. Ne2 Rdf8 18. g4 R5f7 19. h4 Qg6
+20. Qh2 Bxg4 $5 21. fxg4 Qxg4+ (21... f3 $1 22. Nc3 Qxg4+ 23. Kh1 Nxd4 {
+increases the strength of the assault.}) 22. Kh1 f3 23. Rg1 Qe4 24. Ng3 Qxd4 $2
+({Right is} 24... Qg4 {(Van Wijgerden).}) 25. e6 $1 {
+White takes over the attack.} 25... Rf4 26. Bc3 $1 Rxh4 27. Bxd4 Rxh2+ 28. Kxh2
+Nxd4 29. Rxc7 Rf4 30. Rgc1 Kf8 31. Rxb7 Nxe6 32. Rb8+ Kf7 33. Be8+ 1-0
+
+[Event "Wien"]
+[Site "?"]
+[Date "1882.06.13"]
+[Round "27"]
+[White "Chigorin, Mikhail"]
+[Black "Steinitz, William"]
+[Result "1-0"]
+[ECO "C51"]
+[Annotator "JvR"]
+[PlyCount "81"]
+[EventDate "1882.??.10"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. b4 {
+They play the first of their many games with the Evans Gambit.} 4... Bxb4 5. c3
+Bf8 $5 6. d4 Qe7 $5 7. O-O d6 8. Qb3 g6 9. dxe5 dxe5 10. Rd1 Bh6 11. Nbd2 Qf6
+$1 {Steinitz has his own solutions for the demands of the position.} 12. Ba3
+Nge7 13. Bd5 O-O 14. Bxc6 bxc6 15. Qb4 c5 $2 ({Right is} 15... Re8) 16. Qxc5
+Nc6 17. Nc4 Re8 {Chigorin strikes with a semi-sacrifice. It nets a pawn.} 18.
+Nd6 $1 cxd6 19. Qxc6 Bg4 20. Rxd6 Qg7 21. Rad1 Bg5 $2 22. Nxg5 $1 Bxd1 23. Rxd1
+Rac8 24. Qa4 Qf6 25. Nf3 Qe6 26. Rd5 Qb6 27. Bb4 Re6 28. Nxe5 Rce8 29. Rd6 Qb8
+30. Nd7 Qd8 31. e5 a5 32. Ba3 Rxd6 33. Bxd6 Re6 34. h3 Qg5 35. f4 Qg3 36. Nc5
+Rxd6 37. exd6 Qe3+ 38. Kh2 Qxc5 39. Qe8+ Kg7 40. Qe5+ Qxe5 41. fxe5 {
+Chigorin had scored a vengeance for the previous defeat.} 1-0
+
+[Event "Wien"]
+[Site "?"]
+[Date "1882.06.14"]
+[Round "28"]
+[White "Mackenzie, George"]
+[Black "Schwarz, Adolf"]
+[Result "1-0"]
+[ECO "A17"]
+[Annotator "JvR"]
+[PlyCount "65"]
+[EventDate "1882.??.10"]
+
+1. c4 e6 2. e3 {Mackenzie does not like the theory.} 2... d5 3. Nf3 Nf6 4. Nc3
+b6 5. cxd5 exd5 6. d4 a6 7. Bd3 Bd6 8. Bd2 O-O 9. Rc1 Re8 10. Ne2 Ne4 11. Ng3
+Kh8 $2 12. Qc2 $2 ({White misses his first chance:} 12. Nxe4 dxe4 13. Ne5 $1
+Bxe5 14. Bxe4 Bxd4 15. Bxa8 Bxb2 16. Rc2) 12... f5 13. O-O Be6 14. Ne5 Nd7 15.
+f4 Qe7 16. Be1 c5 17. Qe2 c4 $1 18. Bxe4 fxe4 19. f5 Bf7 $2 ({Correct is} 19...
+Bg8 {(Lehner).}) 20. f6 $1 {He grabs the second opportunity.} 20... gxf6 21.
+Nf5 {Black has to lose material.} 21... fxe5 22. Nxe7 Rxe7 23. Bh4 Bg6 24. Bxe7
+Bxe7 25. Qg4 Nf8 26. h4 exd4 27. h5 dxe3 28. hxg6 Nxg6 29. Rf7 Rf8 30. Rcf1 Bc5
+31. Rxf8+ Nxf8 32. Kh2 Ng6 33. Rf7 {Captain Mackenzie did not fare well in the
+second cycle, but he continued to defeat the weaker players.} 1-0
+
+[Event "Wien"]
+[Site "?"]
+[Date "1882.06.15"]
+[Round "29"]
+[White "Paulsen, Louis"]
+[Black "Weiss, Miksa"]
+[Result "1-0"]
+[ECO "C47"]
+[Annotator "JvR"]
+[PlyCount "70"]
+[EventDate "1882.??.10"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nc3 Nc6 4. d4 exd4 5. Nxd4 Bb4 6. Nxc6 bxc6 7. Qd4 $5
+Qe7 8. f3 Bc5 $1 9. Qd3 a5 $5 {Weiss continues with an ambitious move.} 10. Bg5
+Ba6 $6 {The exchange of bishops helps White.} ({Better is} 10... h6 11. Bh4 O-O
+) 11. Qd2 Bxf1 12. Kxf1 h6 13. Bh4 d6 14. Re1 O-O 15. Na4 Ba7 16. Qc3 g5 17.
+Bf2 Bxf2 18. Kxf2 Qe6 $5 19. b3 $5 {He does not capture pawn c6!} 19... c5 20.
+Nb2 Nd7 21. Nc4 a4 22. Ne3 Qe5 23. Qxe5 Nxe5 {White starts an attack on the
+kingside. The success comes quickly due to the weaknesses in the black pawn
+structure.} 24. h4 $1 axb3 25. axb3 Ra2 26. Kg3 $1 Ng6 27. hxg5 hxg5 28. Kg4 f6
+29. Rh6 $1 Nh4 30. Rh1 Rf7 31. f4 Kg7 32. fxg5 fxg5 33. Kxg5 Nxg2 34. Nf5+
+Rxf5+ 35. exf5 Rxc2 {Paulsen showed fine positional play.} 1-0
+
+[Event "Wien"]
+[Site "?"]
+[Date "1882.06.16"]
+[Round "30"]
+[White "Paulsen, Louis"]
+[Black "Meitner, Philipp"]
+[Result "1-0"]
+[ECO "C45"]
+[Annotator "JvR"]
+[PlyCount "51"]
+[EventDate "1882.??.10"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Qh4 $5 5. Nb5 $5 {
+Paulsen plays the Horwitz Attack.} 5... Qxe4+ $5 6. Be3 $5 Bb4+ $2 ({Right is} 
+6... Qe5) 7. c3 $2 ({Best is} 7. Nd2 $1 Bxd2+ 8. Qxd2 Kd8 9. O-O-O {
+(Grimshaw-Steinitz, London 1878).}) 7... Ba5 8. Nd2 Qg6 9. Nc4 a6 10. Nd4 Bb6
+11. Nxc6 Qxc6 $2 ({Better chances are offered by} 11... dxc6 12. Nxb6 cxb6 13.
+Bxb6 Be6) 12. Bxb6 cxb6 13. Qd4 Qf6 14. Qxb6 Qxb6 15. Nxb6 Rb8 {
+The escape to the endgame by Black will lead to an easy win for White.} 16.
+O-O-O $1 Nf6 17. Bc4 Rf8 18. Rd4 Kd8 19. a4 Ne8 20. a5 d6 21. Rf4 f5 22. Re1
+Bd7 23. g4 Nc7 24. Rd4 Rf6 25. g5 Rg6 26. h4 {
+Black suffered from a gruesome case of restriction.} 1-0
+
+[Event "Wien"]
+[Site "?"]
+[Date "1882.06.17"]
+[Round "31"]
+[White "Schwarz, Adolf"]
+[Black "Steinitz, William"]
+[Result "0-1"]
+[ECO "C46"]
+[Annotator "JvR"]
+[PlyCount "58"]
+[EventDate "1882.??.10"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 g6 $5 {Steinitz plays his own openings.} 4. Bc4 Bg7
+5. d3 d6 6. Be3 Nf6 7. Qe2 O-O 8. O-O-O $5 a6 $1 9. Kb1 b5 10. Bd5 Nxd5 11.
+Nxd5 Nd4 12. Bxd4 exd4 13. Qd2 c6 14. Nf4 Qf6 15. Ne2 {
+White makes a number of passive moves.} (15. Rdg1 $1 {
+prepares an attack on the kingside.}) 15... c5 16. h3 Bb7 17. Nc1 a5 18. Rde1
+Rfe8 19. Ne2 a4 20. Qf4 Qd8 21. g4 Qb6 22. Ng3 c4 23. Ne2 {
+He doesn't know what he is doing.} 23... Qc5 24. Qc1 c3 25. bxc3 dxc3 26. Ka1
+b4 27. Qe3 Qa5 28. Ned4 b3 29. Kb1 Qb4 {
+Steinitz, Winawer and Mackenzie shared the first place.} 0-1
+
+[Event "Wien"]
+[Site "?"]
+[Date "1882.06.19"]
+[Round "32"]
+[White "Ware, Preston"]
+[Black "Englisch, Berthold"]
+[Result "0-1"]
+[ECO "A03"]
+[Annotator "JvR"]
+[PlyCount "106"]
+[EventDate "1882.??.10"]
+
+1. d4 d5 2. f4 $5 {White constructs a Stonewall at once.} 2... Bf5 3. Nf3 e6 4.
+e3 c5 5. Bb5+ Nc6 6. O-O Qb6 7. Bxc6+ $6 (7. c4 {gives counter-play.}) 7...
+bxc6 8. c3 $6 {White plays another meek move.} 8... Nf6 9. Qa4 Bd3 10. Re1 Bd6
+11. dxc5 $6 (11. Ne5 {avoids a complete passivity.}) 11... Bxc5 12. b4 Bd6 13.
+Nd4 Rc8 14. Qd1 Bxb1 15. Rxb1 Ne4 16. Bd2 O-O 17. a4 Qa6 18. b5 $2 cxb5 19.
+Nxb5 Rc4 20. Ra1 Rfc8 21. Re2 Bc5 22. Be1 Qb6 23. Qd3 a6 24. Nd4 Be7 25. Rc2
+Qa5 26. Nb3 Qc7 27. Nd4 h6 28. g3 Bf6 29. Raa2 Bxd4 30. exd4 a5 31. Ra3 Qc6 {
+The beleaguer breaks the bastion. White has to lose his weak a- or c-pawn.} 32.
+Rca2 Nxc3 33. Bxc3 Rxc3 34. Rxc3 Qxc3 35. Qxc3 Rxc3 36. Kf2 Rd3 37. Ke2 Rxd4
+38. Ke3 Rc4 39. Kd3 Kf8 40. Ke3 Ke7 41. Kd3 Kf6 42. Ke3 h5 43. Ra3 Kf5 44. h3
+f6 45. Kf3 e5 46. g4+ hxg4+ 47. hxg4+ Kg6 48. fxe5 fxe5 49. Re3 Kf6 50. Ra3 Kg5
+51. Re3 e4+ 52. Kg3 Rxa4 53. Rc3 Rd4 {Englisch was a solid positional player.}
+0-1
+
+[Event "Wien"]
+[Site "?"]
+[Date "1882.06.20"]
+[Round "33"]
+[White "Paulsen, Louis"]
+[Black "Steinitz, William"]
+[Result "0-1"]
+[ECO "C45"]
+[Annotator "JvR"]
+[PlyCount "124"]
+[EventDate "1882.??.10"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Qh4 5. Nb5 Qxe4+ 6. Be3 $5 ({Best is} 6.
+Be2 $1 Kd8 7. O-O {(Rosenthal-Neumann, Paris 1867).}) 6... Qe5 $1 {
+Steinitz improves on Paulsen-Meitner (round 30).} 7. Nd2 Kd8 $5 {
+Steinitz wants to fight.} (7... d5 $1 8. Nf3 Qe7 9. Qxd5 Be6 {
+equalises (O'Hanlon-Mikenas, Buenos Aires 1939).}) 8. c3 Bc5 9. Nc4 Qe7 10. Be2
+Bxe3 11. Nxe3 Nf6 12. O-O d6 13. c4 a6 14. Nc3 Qe5 15. Re1 Re8 16. Rc1 Nd4 $5 {
+Steinitz provokes again.} (16... Bd7 {would complete the development.}) 17. b4
+a5 18. b5 c5 19. bxc6 bxc6 20. h3 Bd7 21. Bf1 Nf5 $2 {
+The turning point has been reached.} ({Right is} 21... c5) 22. Qd2 $2 ({
+A winning combination brings} 22. Nxf5 $1 Qxf5 (22... Qxe1 $2 23. Qb3 $1 Qxc1
+24. Qb6+ Kc8 25. Nxd6#) 23. Qxd6 {White has gained a pawn and the centre.})
+22... Qd4 23. Bd3 Nxe3 24. fxe3 Qe5 25. Na4 c5 26. Nb6 Ra6 27. Nxd7 Nxd7 $6 ({
+The advantage is kept by} 27... Kxd7) 28. Rb1 Kc7 29. Qf2 f6 30. Bxh7 Rb6 31.
+Rxb6 $6 (31. Qd2 $1 Rxb1 32. Bxb1 $1 Nb6 33. Bd3 {creates a new defence line.})
+31... Nxb6 32. Bd3 Qc3 33. Qf1 $2 ({A great chance brings} 33. Rd1 $1 Nxc4 34.
+Bxc4 Qxc4 35. Qg3 $1 Qe6 36. Qxg7+ Re7 37. Qf8 $1 Qxe3+ 38. Kh1) 33... Nd7 34.
+Kh1 Ne5 35. Rd1 Rb8 36. Qf5 Nxd3 37. Qxd3 Qxd3 38. Rxd3 Rb1+ 39. Kh2 Rc1 40.
+Ra3 Kb6 41. Rd3 Kc6 42. Ra3 Rxc4 43. Rxa5 Rc3 44. e4 g5 45. Ra6+ Kd7 $1 {
+Active black pieces decide the ending.} 46. Ra7+ (46. Ra4 Ke6 47. g3 f5 $1 48.
+exf5+ Kxf5 49. h4 gxh4 50. gxh4 d5 {and Black wins.}) 46... Ke6 $1 47. a4 Rc4
+48. Ra8 Rxe4 49. Re8+ Kd5 50. Rxe4 Kxe4 51. a5 Kd5 52. Kg1 f5 53. g3 c4 54. Kf2
+c3 55. a6 Kc6 56. a7 Kb7 57. a8=Q+ Kxa8 58. Ke1 f4 59. gxf4 gxf4 60. h4 f3 61.
+h5 c2 62. Kd2 f2 {Steinitz fought well for the first place.} 0-1
+
+[Event "Wien"]
+[Site "?"]
+[Date "1882.06.21"]
+[Round "34"]
+[White "Zukertort, Johannes"]
+[Black "Weiss, Miksa"]
+[Result "0-1"]
+[ECO "C00"]
+[Annotator "JvR"]
+[PlyCount "112"]
+[EventDate "1882.??.10"]
+
+1. e4 e6 2. e5 d5 3. exd6 Bxd6 4. d4 Nf6 5. Nf3 b6 6. Bd3 Bb7 7. O-O Nbd7 8.
+Nc3 a6 9. Re1 c5 10. Be3 Qc7 11. Qe2 b5 $6 12. Bxb5 $5 {
+White starts a chancy attack.} 12... axb5 13. Nxb5 Qc6 14. Nxd6+ Qxd6 15. dxc5
+Qc6 $2 (15... Qc7 $1 16. b4 Ra4 {stops the intended advance on the queenside.})
+16. b4 Ne5 $5 17. b5 $1 Nxf3+ 18. gxf3 Qxf3 19. Qxf3 Bxf3 20. a4 Kd7 21. a5 Bd5
+22. Red1 (22. Ra4 $1 Kc8 23. c4 {is even stronger.}) 22... Kc8 23. a6 Bc4 24.
+Rdb1 Nd5 25. a7 $2 (25. c6 $1 Nc3 26. b6 $1 {advances properly.}) 25... Nc3 26.
+b6 Bd5 ({Not} 26... Nxb1 $2 27. c6 $1 Nc3 28. b7+ Kc7 29. Bf4+ Kxc6 30. b8=Q)
+27. Rb4 Kb7 28. Ra3 Ne4 29. Rd3 Nf6 30. Rbd4 Bc6 31. c4 Rac8 32. Rd6 h6 33. Kf1
+Rhe8 34. Ke2 Re7 $2 {White gets a new opportunity.} 35. Rd8 $2 (35. Rxc6 $1
+Kxc6 36. Rd6+ Kb7 37. c6+ Ka8 38. f3 $1 {causes horror for Black.}) 35... Re8
+36. R8d6 Rg8 37. Kd1 Rge8 38. Kc1 $2 (38. Ke2 {repeats a position.}) 38... Ka8
+39. R3d4 Bb7 40. Rd1 Rf8 41. Kb2 Ng4 $1 42. Kb3 Nxe3 43. fxe3 Rxc5 44. Rd8+ Rc8
+45. Rxf8 Rxf8 46. Kb4 Bc6 47. Kc5 Rc8 48. Rd8 $5 ({Or} 48. Kb4 Kb7 49. c5 g5)
+48... Rxd8 49. Kxc6 Rc8+ 50. Kb5 Kb7 51. c5 g5 $1 52. c6+ Rxc6 53. a8=Q+ Kxa8
+54. Kxc6 Kb8 55. Kd6 f5 56. Ke5 Kb7 {Weiss had defeated Zukertort again.  The
+places at the top became clear after Winawer had ended his adjourned game on
+the next day. Steinitz and Winawer shared the first place. Mason won F 1200 as
+third prize. Zukertort and Mackenzie got F 700 each and Blackburne F 400.
+Zukertort earned a special prize of F 800 for the best result against the top
+three.} 0-1
+
+[Event "Wien playoff"]
+[Site "?"]
+[Date "1882.06.23"]
+[Round "1"]
+[White "Steinitz, William"]
+[Black "Winawer, Szymon"]
+[Result "0-1"]
+[ECO "C00"]
+[Annotator "JvR"]
+[PlyCount "54"]
+[EventDate "1882.??.10"]
+
+{Two additional games had to decide about the first place.} 1. e4 e6 2. e5 $6
+f6 $5 3. d4 c5 4. dxc5 Bxc5 5. Nc3 Qc7 6. Bf4 $5 {
+White starts a tactical turmoil.} 6... Qb6 $5 7. Qd2 $5 {
+Steinitz continues with a sacrifice festival.} ({More solid is} 7. Bd3 $1 Bxf2+
+8. Kf1 Bd4 9. Nb5 Bxe5 10. Bxe5 fxe5 11. Qh5+ Kf8 12. Qxe5 {
+White fights at a small cost.}) 7... Bxf2+ 8. Qxf2 Qxb2 9. Kd2 Qxa1 10. Nb5 Na6
+11. Nd6+ Kf8 12. Bxa6 bxa6 13. Qc5 Ne7 {Winawer counters a mean threat.} 14.
+Ne2 $1 ({The alternative} 14. exf6 gxf6 ({not} 14... Qxf6 $2 15. Bg5 Qf1 16.
+Ne2 $1 Qxh1 17. Ne8 $1) 15. Ne2 {leads to the game.}) 14... Qxh1 15. exf6 gxf6
+16. Bh6+ $5 (16. Qh5 $1 Ng6 17. Qh6+ Kg8 18. Ne8 Kf7 19. Nd6+ Kg8 {
+draws (Steinitz).}) 16... Kg8 17. Qd4 $2 {Steinitz makes a fatal blunder.} ({
+The fantastic line} 17. Ne4 $1 Qxh2 $5 (17... Kf7 18. Nd6+ Kg8) 18. Qxe7 Qxh6+
+19. Kd3 Qg6 20. Nf4 {(Steinitz)} 20... Bb7 $1 21. Nxg6 Bxe4+ 22. Kxe4 hxg6 23.
+Qxd7 {leads to equal chances.}) 17... Qxh2 $1 {
+Black threatens to capture the bishop with check.} 18. Bf4 ({Steinitz notices} 
+18. Qxf6 Qxd6+ {(captures a knight with check)} 19. Ke1 Nf5) 18... Qh5 19. Qxf6
+Nd5 20. Qd8+ Kg7 21. Qa5 Nxf4 22. Qc3+ e5 23. Nxf4 Qg5 24. g3 Rf8 25. Ne4 Qe7
+26. Nd5 Qe6 27. Nc7 Qh6+ {Winawer showed an outstanding tactical ability.} 0-1
+
+[Event "Wien playoff"]
+[Site "?"]
+[Date "1882.06.24"]
+[Round "2"]
+[White "Winawer, Szymon"]
+[Black "Steinitz, William"]
+[Result "0-1"]
+[ECO "C46"]
+[Annotator "JvR"]
+[PlyCount "132"]
+[EventDate "1882.??.10"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 g6 $5 4. d4 exd4 5. Nxd4 Bg7 6. Nxc6 bxc6 7. Bd3 Ne7
+8. O-O d6 (8... O-O {was played in Rosenthal-Wisker, London 1870.}) 9. Qe1 $5
+O-O 10. f3 h6 $5 11. Be3 Kh7 12. Qd2 f5 13. Rae1 fxe4 $5 {Steinitz plays
+provocative moves, because he has to win. Winawer reacts quietly.} 14. fxe4
+Rxf1+ 15. Rxf1 Be6 16. Ne2 c5 17. Nf4 Bg8 18. b3 Qd7 19. Rf3 (19. Nd5 $1 Nxd5
+20. exd5 {would bring Winawer closer to his goal.}) 19... Rf8 20. Rh3 ({
+Van Wijgerden regards} 20. e5 {as winning but} 20... Be6 $1 21. Rg3 $5 Bf5 22.
+e6 Qc8 $1 23. Bxf5 Nxf5 {gives a fine response.}) 20... Bf7 21. Nd5 h5 $6 22.
+Nxe7 $6 {Steinitz provokes. Winawer exchanges.} 22... Qxe7 23. Rf3 Kg8 24. Bg5
+Qe5 25. Bh6 Re8 26. Bxg7 Kxg7 27. Qf4 $2 Qxf4 28. Rxf4 {White wants to create
+an impregnable fortress by playing c4. Black prevents this move by making a
+temporary sacrifice.} 28... c4 $1 29. bxc4 (29. Bxc4 $2 Bxc4 30. bxc4 Re5 {
+leads to a hopeless rook ending.}) 29... Re5 30. Rf1 Rc5 $6 ({
+My preference goes to} 30... Ra5 $1 31. Kf2 $1 ({Zukertort gives} 31. Rb1 Kf6
+$1) 31... Rxa2 32. c5 dxc5 33. Ke3 $1 {(threatens Rxf7+)} 33... Ra3 $1 34. Kd2
+c4 35. Be2 Be6 36. h4 a5) 31. Kf2 Bxc4 32. Ke3 Be6 33. Rb1 Kf6 34. a3 $6 ({
+Best is} 34. Rb7 $1 a5 35. a3 Rc3 36. Kd4 Rxa3 37. Rxc7 Ra4+ 38. c4) 34... Ra5
+35. Ra1 Ke5 36. h3 Ra4 37. c3 Bc4 38. Bc2 Ra6 {
+Both sides have missed h4 several times.} 39. g4 $2 (39. h4 $1 Be6 40. Bd3 Ra5
+41. g3 Bc8 42. a4 $1 Rc5 43. Ra3 a5 44. Rb3 {might do.}) 39... h4 40. a4 Rb6 $1
+{The exchange of rooks wins due to the weakness h3.} 41. Rb1 Rxb1 42. Bxb1 Bf1
+43. Kf3 g5 44. Ba2 c6 45. Bf7 Bd3 46. Kf2 Kf4 47. a5 Bxe4 48. Bc4 d5 49. Ba6 c5
+50. Bc8 c4 51. a6 Ke5 52. Bd7 d4 53. cxd4+ Kxd4 54. Ke2 Bd3+ 55. Ke1 c3 56. Bc8
+Ke3 57. Kd1 Kf2 58. Bf5 Bxa6 59. Kc2 Bf1 60. Kxc3 Bxh3 61. Kd4 Bg2 62. Ke5 h3
+63. Kf6 h2 64. Kxg5 h1=Q 65. Kf6 Kf3 66. g5 Kf4 {Steinitz has equalised. The
+contestants shared the first and second prize. They got half of F 3500 and the
+'Kaiserpreis' of 2000 Austrian Gulden.} 0-1
+
+[Event "Wien playoff"]
+[Site "?"]
+[Date "1898.??.??"]
+[Round "1"]
+[White "Tarrasch, Siegbert"]
+[Black "Pillsbury, Harry"]
+[Result "1-0"]
+[ECO "C65"]
+[Annotator "JvR"]
+[PlyCount "89"]
+[EventDate "1898.??.??"]
+[Source "ChessBase"]
+[SourceDate "2004.03.11"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 Bc5 5. Be3 Bxe3 6. fxe3 Ne7 $5 7. O-O ({
+Not} 7. Nxe5 $2 c6 8. Bc4 Qa5+ {(TB).}) 7... c6 8. Bc4 d6 9. Bb3 Ng6 10. Nc3
+Qe7 11. Ne2 $5 d5 $5 12. exd5 Nxd5 13. Qd2 Be6 14. e4 Nc7 15. Ng5 Bxb3 16. axb3
+f6 17. Nh3 Ne6 18. Kh1 a6 19. Ng3 Qd7 20. Nf5 Nd4 21. Qf2 Nxf5 22. exf5 Ne7 23.
+Ng1 h5 $6 24. Ra4 $1 Rh6 $5 25. Ne2 Kf7 $6 ({Right is} 25... h4 $1 26. Rxh4
+Nxf5 $1) 26. d4 $1 {The defence is far from hopeless.} 26... e4 $2 ({
+An elegant answer gives} 26... Kg8 $1 27. dxe5 fxe5 28. Re4 Rf6 29. Rxe5 g6 30.
+Ng3 Raf8 $1) 27. Ng3 $1 h4 28. Nxe4 h3 29. g4 Re8 30. Qf3 Rh4 31. Raa1 Kg8 32.
+Rad1 b6 33. Rfe1 Kh8 34. Nf2 Nd5 35. Qg3 Rh6 36. Nxh3 Nb4 37. Rxe8+ Qxe8 38.
+Re1 Qd8 39. c3 Nd5 40. Kg1 g6 41. Nf4 gxf5 42. Nxd5 cxd5 43. gxf5 Rh7 44. Kh1
+b5 45. Qg6 1-0
+
+[Event "Wien playoff"]
+[Site "?"]
+[Date "1898.??.??"]
+[Round "2"]
+[White "Pillsbury, Harry"]
+[Black "Tarrasch, Siegbert"]
+[Result "1-0"]
+[ECO "C67"]
+[Annotator "JvR"]
+[PlyCount "81"]
+[EventDate "1898.??.??"]
+[Source "ChessBase"]
+[SourceDate "2004.03.11"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Be7 6. Qe2 Nd6 7. Bxc6 bxc6 8.
+dxe5 Nb7 9. Nc3 O-O 10. Re1 Nc5 11. Nd4 Ne6 12. Be3 Nxd4 13. Bxd4 d5 14. Na4 $1
+({Pillsbury diverts from} 14. exd6 Bxd6 {(Weiss-Albin, Wien 1890).}) 14... Bb4
+$6 ({More active is} 14... Bf5 15. Nc5 Re8) 15. c3 Ba5 16. Qh5 Bb6 17. Re3 Be6
+18. Rg3 Kh8 19. Rd1 Qe7 20. b4 Bxd4 $6 ({The immediate} 20... a5 {
+takes less risk.}) 21. Rxd4 {White has a dangerous attack.} 21... f6 $2 ({
+Right is} 21... a5 $1 22. Rh4 $1 (22. Nc5 axb4 23. cxb4 Rxa2) 22... Bf5 $1 (
+22... h6 $4 23. Qxh6+ $1) 23. Rgh3 $1 g5 $1 24. Qxh7+ $1 {(TB)} 24... Bxh7 25.
+Rxh7+ Kg8 26. Rh8+ Kg7 27. R8h7+ $1 Kg8 $1 {drawn.}) 22. Nc5 $1 fxe5 23. Qxe5
+Qf6 $6 24. Qxf6 Rxf6 25. Re3 Bg8 26. f3 g6 27. Re7 Rf7 28. Re6 a5 29. a4 Kg7
+30. Rxc6 Re7 31. Kf2 axb4 32. cxb4 Bf7 33. b5 Rb8 34. Na6 Rb7 35. Nb4 Ra7 36.
+Ra6 Rxa6 37. Nxa6 Kf6 38. Rd2 c6 39. b6 Be6 40. Nc5 Bc8 41. a5 {
+Tarrasch's agony preceeds the teachings about blockade by Nimzowitsch.} 1-0
+
+[Event "Wien playoff"]
+[Site "?"]
+[Date "1898.??.??"]
+[Round "3"]
+[White "Tarrasch, Siegbert"]
+[Black "Pillsbury, Harry"]
+[Result "1-0"]
+[ECO "C49"]
+[Annotator "JvR"]
+[PlyCount "91"]
+[EventDate "1898.??.??"]
+[Source "ChessBase"]
+[SourceDate "2004.03.11"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. Nc3 Bb4 5. O-O O-O 6. d3 d6 7. Bg5 Bxc3 8.
+bxc3 Ne7 9. Bc4 Be6 10. Bxf6 gxf6 11. Bxe6 fxe6 12. Nh4 Ng6 13. Nxg6 hxg6 14.
+f4 Kg7 15. f5 exf5 16. exf5 Rh8 17. fxg6 Rh6 18. Rb1 b6 19. Rb4 Qd7 $2 {
+Tarrasch becomes very excited when he notices the decisive combination.} ({
+Dull play in the Four Knights continues by} 19... Qe7 {(TB).}) 20. Rxf6 $1 Kxf6
+21. Qf3+ Kg7 22. Qxa8 c5 23. Rb1 Rxg6 24. Rf1 Qe7 25. c4 e4 26. Qxe4 Qxe4 27.
+dxe4 Rg4 28. Re1 Kf6 29. g3 Ke5 30. c3 Rg7 31. Kg2 Rb7 32. a4 a6 33. h4 b5 34.
+axb5 axb5 35. cxb5 Rxb5 36. Kh3 c4 37. Kg4 Rb2 38. h5 Rc2 39. Rh1 Ra2 40. h6
+Ra8 41. h7 Rh8 42. Kg5 Kxe4 43. Kg6 Kd3 44. Kg7 Rxh7+ 45. Kxh7 Kxc3 46. Rd1 {
+Tarrasch had taken the lead again.} 1-0
+
+[Event "Wien playoff"]
+[Site "?"]
+[Date "1898.??.??"]
+[Round "4"]
+[White "Pillsbury, Harry"]
+[Black "Tarrasch, Siegbert"]
+[Result "1/2-1/2"]
+[ECO "D31"]
+[Annotator "JvR"]
+[PlyCount "106"]
+[EventDate "1898.??.??"]
+[Source "ChessBase"]
+[SourceDate "2004.03.11"]
+
+{Many spectators visited the last round on Sunday 30 vii 1898. The previous
+five games between Tarrasch and Pillsbury were won by White in this event.
+Pillsbury needed a continuation of this trend.} 1. d4 d5 2. c4 e6 3. Nc3 b6 $5
+4. Nf3 Bb7 5. Bg5 Be7 6. Bxe7 Qxe7 7. e3 Nf6 8. cxd5 exd5 9. Bb5+ c6 10. Bd3
+Nbd7 11. O-O O-O 12. Nh4 g6 13. Qf3 Rae8 14. g3 Ne4 $1 15. Qe2 f5 16. Ng2 Kh8
+17. f3 Ng5 18. f4 $6 Ne6 19. g4 $6 Ng7 {
+Pillsbury has achieved nothing against a solid defence.} 20. Rae1 $6 {
+Hereafter, the white position deteriorates.} 20... fxg4 21. Qxg4 Nf5 22. Kh1
+Nf6 23. Qh3 Bc8 24. Nh4 Nxh4 25. Qxh4 Nh5 26. Qxe7 Rxe7 27. Kg2 Rfe8 28. Nd1
+Bg4 29. Be2 Nf6 30. h3 Bf5 31. Rh1 Bc2 32. Kf2 Ne4+ 33. Kg2 Nd6 34. Bf3 Nf5 35.
+Kf2 Bxd1 36. Rxd1 Rxe3 37. Bg4 R3e4 38. Bxf5 Rxf4+ 39. Kg3 Rxf5 40. Rhe1 Rg5+
+41. Kf4 Rf5+ 42. Kg3 Rg5+ 43. Kf4 Rf5+ 44. Kg3 Ref8 45. Rd2 Rf1 46. Re6 R8f6
+47. Re7 Rf7 48. Re8+ Rf8 49. Re7 R8f7 50. Re8+ Rf8 51. Re7 R8f7 52. Re8+ Rf8
+53. Re7 R8f7 {Both players accepted the repetition. Tarrasch had won the
+playoff narrowly. He gained 6000 Austrian Kronen.  Faehndrich, Halprin and
+Marco wrote the tournament book.} 1/2-1/2
+
+[Event "Wien"]
+[Site "?"]
+[Date "1898.??.??"]
+[Round "3"]
+[White "Schlechter, Carl"]
+[Black "Steinitz, William"]
+[Result "1/2-1/2"]
+[ECO "C66"]
+[Annotator "JvR"]
+[PlyCount "131"]
+[EventDate "1898.??.01"]
+[Source "ChessBase"]
+[SourceDate "2004.03.11"]
+
+{The games between the five top players have been analysed.
+Jan van Reek} 1.
+e4 e5 2. Nf3 Nc6 3. Bb5 d6 4. d4 Bd7 5. Nc3 Nf6 6. O-O Be7 7. Re1 exd4 8. Nxd4
+O-O 9. Bxc6 bxc6 10. b3 {Schlechter chooses a quiet variation.} 10... d5 11. e5
+Ne8 12. Bb2 c5 13. Nde2 c6 14. Ng3 Nc7 15. Qd3 Qc8 16. Nce2 Re8 17. f4 Bf8 18.
+f5 d4 19. Nf4 Nd5 20. Nxd5 cxd5 21. Qf3 g6 $1 {
+Steinitz wants to fight and gives a pawn.} 22. fxg6 hxg6 23. Qxd5 Bc6 24. Qc4
+Qb7 25. e6 $1 Bd5 26. exf7+ Qxf7 27. Qf1 Bg7 28. Qxf7+ Kxf7 29. Rxe8 Rxe8 30.
+Rf1+ Kg8 31. Rd1 a5 32. Bc1 a4 33. Bf4 c4 34. bxc4 Bxc4 35. a3 Rc8 36. Rb1 Bf7
+37. Ne4 Bd5 38. Ng5 Bf8 39. Rb6 {Black attacks on the queenside.} 39... Bc6 $6
+({The best chance brings} 39... Bxa3 $1 40. Rxg6+ Kf8 41. Bd6+ Bxd6 42. Rxd6
+Rc5 {but} 43. Ra6 $1 ({not} 43. Nf3 $2 d3 $1) 43... Rxc2 44. Rxa4 d3 45. Rd4
+Rxg2+ 46. Kf1 Rxg5 47. Kf2 $1 {draws.}) 40. Ne6 Bxa3 41. Be5 Be4 42. Bxd4 Bxc2
+43. Rb7 Bf8 44. Nxf8 Kxf8 45. Ra7 Rc4 46. Bf6 Be4 47. g4 Bc6 48. h3 Rc2 49. g5
+Rg2+ 50. Kf1 Rh2 51. Rh7 Bd5 52. Ra7 Bb3 53. Ke1 Rxh3 54. Kd2 Rh4 55. Kc3 Bf7
+56. Be7+ Ke8 57. Bf6 Bd5 58. Re7+ Kf8 59. Ra7 Bc6 60. Rc7 Rh3+ 61. Kd4 Be8 62.
+Ra7 Rh1 63. Kc5 Rd1 64. Bg7+ Kg8 65. Bd4 Rd3 66. Bf6 1/2-1/2
+
+[Event "Wien"]
+[Site "?"]
+[Date "1898.??.??"]
+[Round "6"]
+[White "Steinitz, William"]
+[Black "Pillsbury, Harry"]
+[Result "1/2-1/2"]
+[ECO "C54"]
+[Annotator "JvR"]
+[PlyCount "91"]
+[EventDate "1898.??.01"]
+[Source "ChessBase"]
+[SourceDate "2004.03.11"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d4 exd4 6. e5 d5 7. Bb5 Ne4 8. cxd4
+Bb6 9. Nc3 O-O 10. Be3 Ne7 $5 11. Bd3 f5 12. exf6 $6 {
+The attack on the kingside misfires.} 12... Nxf6 13. Ne5 Nf5 14. Bxf5 Bxf5 15.
+g4 $6 Be4 16. O-O $1 ({Steinitz notices the trick} 16. f3 $2 Nxg4 $1 {
+(TB = tournament book).}) 16... Nd7 17. Nxe4 Nxe5 18. Ng5 h6 19. Ne6 $6 Nf3+ $1
+20. Qxf3 Rxf3 21. Nxd8 Rxd8 22. b4 Re8 23. Kg2 Rf6 24. Rfd1 Re4 25. Kg3 $2 ({
+Right is} 25. h3 $1 Rc6 26. a3 $1 Rc3 27. Kf1) 25... Rc6 26. Rac1 ({
+The defence collapses in} 26. a3 $2 Rc3 27. Rdc1 Rd3 28. Rd1 Rexd4 $1) 26...
+Rxc1 27. Rxc1 Bxd4 28. Bxd4 Rxd4 29. Rxc7 Rxb4 30. h4 a6 31. Rd7 d4 32. Kf4 $1
+d3+ 33. Kf5 $1 Rb2 34. Kg6 $1 Rb6+ 35. Kh5 Rf6 36. Rxd3 Rxf2 37. g5 hxg5 38.
+hxg5 Re2 39. Rd7 b5 40. g6 Kf8 41. Rf7+ Ke8 42. Rxg7 Kf8 43. Ra7 Rxa2 44. g7+
+Kg8 45. Kg6 Rg2+ 46. Kh6 {A counterattack secured the draw.} 1/2-1/2
+
+[Event "Wien"]
+[Site "?"]
+[Date "1898.??.??"]
+[Round "7"]
+[White "Janowsky, Dawid"]
+[Black "Steinitz, William"]
+[Result "1-0"]
+[ECO "C33"]
+[Annotator "JvR"]
+[PlyCount "67"]
+[EventDate "1898.??.01"]
+[Source "ChessBase"]
+[SourceDate "2004.03.11"]
+
+1. e4 e5 2. f4 exf4 3. Bc4 Ne7 4. Nc3 c6 5. Qe2 $5 {
+White pressures in the centre, but Black gets time to advance on the queenside.
+} 5... Ng6 6. Nf3 b5 7. Bb3 b4 8. Nd1 Ba6 9. d3 Bc5 $6 (9... Be7 10. h4 h5 {
+prevents an attack on the kingside.}) 10. h4 $1 O-O $6 11. h5 Ne7 12. Bxf4 d5
+13. Nf2 Qb6 14. Ng4 Nd7 $2 ({Necessary is} 14... Bc8 $1) 15. h6 g6 {
+Black has no proper defence.} (15... Ng6 16. hxg7 Rfe8 17. Ng5 $1 Nxf4 18. Rxh7
+$1 Re6 19. Qf1 {White wins nicely.}) 16. Nfe5 $1 Nxe5 17. Nf6+ Kh8 18. Bxe5 Bd4
+19. Nxd5+ Bxe5 20. Nxb6 axb6 21. O-O-O c5 22. Rdf1 f6 23. g4 g5 24. Kb1 Ng6 25.
+Bd5 Rad8 26. Rf2 Nf4 27. Qd2 Bc8 28. Rhf1 Nxd5 29. exd5 Bxg4 30. Qxg5 Rg8 31.
+Qh4 f5 32. Re1 Bd4 33. Rf4 Rd6 34. Rxd4 1-0
+
+[Event "Wien"]
+[Site "?"]
+[Date "1898.??.??"]
+[Round "8"]
+[White "Schlechter, Carl"]
+[Black "Pillsbury, Harry"]
+[Result "0-1"]
+[ECO "C50"]
+[Annotator "JvR"]
+[PlyCount "196"]
+[EventDate "1898.??.01"]
+[Source "ChessBase"]
+[SourceDate "2004.03.11"]
+
+1. e4 e5 2. Bc4 Nf6 3. d3 Nc6 4. Nf3 Bc5 5. Nc3 d6 6. Be3 Bxe3 7. fxe3 Na5 8.
+Bb3 Ng4 9. Qd2 Nxb3 10. axb3 f5 11. exf5 Bxf5 12. e4 Bd7 13. h3 Nf6 14. O-O O-O
+15. Qe3 a6 16. Nd2 Be6 17. Rf2 Nh5 18. Rxf8+ Qxf8 19. Ne2 Qe7 20. b4 Rf8 21.
+Rf1 Rxf1+ 22. Nxf1 b6 23. Nfg3 Nf6 24. Nc3 c5 25. bxc5 dxc5 26. Qg5 Qd6 27. Nf5
+Bxf5 28. Qxf5 b5 29. Kh1 g6 30. Qf3 Kg7 31. Nd5 a5 32. Nc3 $6 Qc6 33. Nd5 a4 $1
+34. c3 Qd6 35. Nxf6 Qxf6 36. Qd1 Qf2 37. Qa1 $5 Qe3 38. Qa3 $5 Kf6 39. c4 $2 ({
+Schlechter could have crowned his odd manoeuvre with} 39. d4 $1 Qc1+ 40. Kh2
+Qf4+ 41. Kh1 cxd4 42. Qd6+ {drawn.}) 39... bxc4 40. dxc4 Qc1+ 41. Kh2 Qxc4 42.
+Qf3+ Ke7 43. Qg4 Qf1 44. Qc8 Qf4+ 45. Kh1 Qxe4 46. Qxc5+ Kf6 47. Qf8+ Kg5 48.
+Qe7+ Kh6 49. Qf8+ Kg5 50. Qe7+ Kh6 51. Qf8+ Kg5 52. Qe7+ Kf4 53. Qh4+ Ke3 54.
+Qe1+ Kd4 55. Qc3+ Kd5 56. Qa5+ Ke6 57. Qa6+ Kf7 58. Qa7+ Kg8 59. Qe7 Qf4 60.
+Qd7 h5 61. Qb7 Qd4 62. Kh2 e4 63. Qe7 e3 64. h4 Qxb2 65. Qxe3 Qb8+ 66. g3 Qb2+
+67. Kg1 $6 Qb1+ $6 68. Kh2 Qc2+ 69. Kg1 $2 {The king should go to h3 (TB).}
+69... Kf7 70. Kh1 Kf6 71. Kg1 Kf5 72. Qg5+ Ke6 73. Qa5 Kd6 74. Kh1 Kc6 $1 75.
+Qd8 ({The pointe is} 75. Kg1 $2 Qc5+) 75... Kb5 76. Qb8+ Kc4 77. Qc7+ Kb3 78.
+Qb6+ Ka2 79. Qe6+ Ka1 80. Qe3 Qb2 81. Kg1 a3 82. Kh1 a2 83. Kg1 Kb1 84. Qe4+
+Qc2 85. Qb4+ Kc1 86. Qf4+ Qd2 87. Qc4+ Kd1 88. Qa4+ Ke2 89. Qa6+ Ke3 90. Qe6+
+Kd4 91. Qd6+ Kc3 92. Qa3+ Kc4 93. Qa4+ Kc5 94. Qa7+ $6 (94. Qa3+ {
+prolonges the game.}) 94... Kd6 95. Qb8+ Ke7 96. Qe5+ Kf7 97. Qc7+ Kg8 98. Qc4+
+Kg7 0-1
+
+[Event "Wien"]
+[Site "?"]
+[Date "1898.??.??"]
+[Round "9"]
+[White "Janowsky, Dawid"]
+[Black "Schlechter, Carl"]
+[Result "1-0"]
+[ECO "C47"]
+[Annotator "JvR"]
+[PlyCount "99"]
+[EventDate "1898.??.01"]
+[Source "ChessBase"]
+[SourceDate "2004.03.11"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nc3 Nc6 4. Be2 $5 Bb4 5. O-O Bxc3 6. dxc3 Nxe4 $5 7.
+Nxe5 Nxe5 8. Qd5 O-O 9. Qxe4 Re8 10. Re1 d6 11. Qf4 Bg4 $1 12. f3 Bh5 13. Bd2
+Bg6 14. Rac1 Qd7 15. b3 Re7 16. c4 Rae8 17. Bc3 Nc6 18. Bd3 Rxe1+ 19. Rxe1
+Rxe1+ 20. Bxe1 Qe6 21. Bc3 h6 22. h4 Bxd3 $5 23. cxd3 {
+Black has been exchanging too eagerly.} 23... f6 24. h5 Ne7 $6 ({Better is} 
+24... Qe8 $1 25. Qg4 Qe3+) 25. Kf2 Kf7 26. g4 b6 27. d4 c6 28. Bb4 c5 $6 (28...
+Nc8 {keeps the bastion closed (TB).}) 29. d5 $1 Qd7 30. Bc3 Nc8 $2 (30... b5 $1
+{gives a counteraction.}) 31. a4 a5 32. Qe4 Kg8 33. Kg3 Ne7 34. Qe3 Kf7 35. Bb2
+Kg8 36. f4 Kf7 37. f5 Ke8 38. Kf3 Kf7 39. Qe6+ $1 Qxe6 (39... Ke8 40. Bc3 Qd8
+41. Bd2 Qd7 42. Bf4 {and Black is forced to exchange.}) 40. dxe6+ Ke8 41. Ke4
+Kd8 42. g5 $1 {A breakthrough breaches the stronghold.} 42... Ng8 ({Or} 42...
+hxg5 43. Bxf6 gxf6 44. h6) 43. gxf6 gxf6 44. Bc1 Kc7 45. Bd2 Kc6 46. Bf4 Kc7
+47. e7 $1 Kd7 48. e8=Q+ Kxe8 49. Kd5 Ne7+ 50. Ke6 {
+The king slipped through a small opening in the fortress.} 1-0
+
+[Event "Wien"]
+[Site "?"]
+[Date "1898.??.??"]
+[Round "9"]
+[White "Tarrasch, Siegbert"]
+[Black "Steinitz, William"]
+[Result "1-0"]
+[ECO "C66"]
+[Annotator "JvR"]
+[PlyCount "55"]
+[EventDate "1898.??.01"]
+[Source "ChessBase"]
+[SourceDate "2000.04.19"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 d6 4. d4 Bd7 5. Nc3 Nf6 6. O-O Be7 7. Re1 exd4 8.
+Nxd4 O-O 9. Nxc6 bxc6 10. Bd3 Re8 11. h3 {
+'The founder of positional play' makes an awful mistake.} 11... Bf8 $2 {
+Steinitz allows a nasty pin.} ({The problem is solved by} 11... Be6 12. Bg5 Nd7
+) 12. Bg5 $1 h6 13. Bh4 Rb8 14. Rb1 g5 $2 ({Preferable is} 14... Be7 15. e5 $1
+Nd5 16. Bxe7 Qxe7 17. exd6 {(Knaak)} 17... Qxd6 $1) 15. Bg3 g4 $6 16. Bh4 h5
+17. hxg4 hxg4 18. f4 Be7 19. Bf2 a5 20. e5 dxe5 21. fxe5 Nh5 22. e6 $1 Bxe6 23.
+Rxe6 $1 fxe6 24. Qxg4+ Ng7 25. Qg6 Rb4 26. Rf1 Rf4 27. Qh7+ Kf8 28. Bg6 {
+Tarrasch ended the game with a powerful attack.} 1-0
+
+[Event "Wien"]
+[Site "?"]
+[Date "1898.??.??"]
+[Round "11"]
+[White "Tarrasch, Siegbert"]
+[Black "Schlechter, Carl"]
+[Result "1-0"]
+[ECO "C49"]
+[Annotator "JvR"]
+[PlyCount "75"]
+[EventDate "1898.??.01"]
+[Source "ChessBase"]
+[SourceDate "2004.03.11"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nc3 Nc6 4. Bb5 Bb4 5. O-O O-O 6. d3 Bxc3 7. bxc3 d6 8.
+Re1 Bd7 9. d4 Nxd4 10. Nxd4 exd4 11. Bxd7 Qxd7 12. cxd4 Rfe8 13. f3 d5 14. e5
+Qe6 $1 {Schlechter moves his pieces to the right squares.} 15. Rb1 b6 16. Rf1
+Nd7 17. f4 f5 18. Qf3 a6 19. Ba3 b5 20. Kh1 Kh8 21. Rg1 Rg8 22. Rbf1 a5 23. g4
+g6 24. c3 Rab8 25. Rg2 b4 26. cxb4 axb4 27. gxf5 gxf5 $2 28. Rxg8+ Qxg8 29. Rg1
+{White has gained control over the open file.} 29... Qf7 30. Bc1 Rb6 $6 31. Bd2
+Ra6 $6 32. Bxb4 Rxa2 33. Qg3 {Combinations decide the game.} 33... Nf8 ({
+Other variations are} 33... Ra8 34. e6 $1) ({and} 33... Ra6 34. Bd6 $1 cxd6 35.
+e6 $1) 34. Be7 $1 Ng6 35. Bf6+ Kg8 36. h4 Kf8 37. Qb3 Ra8 38. Qb4+ {
+Tarrasch played a fine game.} ({The pointe is} 38. Qb4+ Ke8 39. Qb7 {(TB).})
+1-0
+
+[Event "Wien"]
+[Site "?"]
+[Date "1898.??.??"]
+[Round "12"]
+[White "Pillsbury, Harry"]
+[Black "Janowsky, Dawid"]
+[Result "1-0"]
+[ECO "D55"]
+[Annotator "JvR"]
+[PlyCount "89"]
+[EventDate "1898.??.01"]
+[Source "ChessBase"]
+[SourceDate "2004.03.11"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Be7 5. e3 O-O 6. Rc1 Nbd7 7. Nf3 b6 8. cxd5
+exd5 9. Bd3 Bb7 10. O-O c5 11. Qe2 c4 (11... Ne4 $1 12. Bf4 a6 {
+leads to Euwe-Olland, Amsterdam 1920.}) 12. Bb1 a6 13. Ne5 b5 14. f4 $5 {
+Pillsbury plays his favourite move.} 14... h6 15. Bh4 Re8 16. Rf3 $5 {
+The turning point has been reached.} 16... Ne4 $2 ({Right is} 16... b4 $1 17.
+Nd1 a5) 17. Bxe7 Qxe7 18. Bxe4 dxe4 19. Rg3 Nf6 $6 ({Slightly better is} 19...
+Nxe5 20. fxe5 f6) 20. a4 $1 b4 $5 ({Or} 20... Qb4 21. Ng4 Nxg4 22. Qxg4 Qf8 23.
+axb5 {(TB).}) 21. Nd1 c3 $5 22. bxc3 bxc3 23. Rxc3 Rec8 24. Ng4 Nxg4 25. Qxg4
+f6 26. h4 Rxc3 27. Nxc3 Rc8 28. Ne2 f5 29. Qxf5 Rc2 30. Qg4 Bc8 31. f5 Qf7 32.
+Nf4 Bxf5 33. Qd1 Qc4 34. Qh5 $1 Rc1+ 35. Kh2 Qf7 36. Qxh6 Kf8 37. Qd6+ Kg8 38.
+h5 Kh7 39. Rg5 Bd7 40. Qg6+ Qxg6 41. hxg6+ Kg8 42. Rd5 Be8 43. Rd8 Kf8 44. Nd5
+Rc6 45. Ra8 1-0
+
+[Event "Wien"]
+[Site "?"]
+[Date "1898.??.??"]
+[Round "14"]
+[White "Pillsbury, Harry"]
+[Black "Tarrasch, Siegbert"]
+[Result "1-0"]
+[ECO "C80"]
+[Annotator "JvR"]
+[PlyCount "99"]
+[EventDate "1898.??.01"]
+[Source "ChessBase"]
+[SourceDate "2004.03.11"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. a4
+$5 b4 9. a5 $5 Nxd4 10. Nxd4 exd4 11. Qxd4 c6 12. Nd2 $2 ({Right is} 12. Ba4 $1
+Bb7 13. Re1 {(TB).}) 12... Ng5 13. Ba4 Bd7 14. Re1+ Ne6 15. Nf3 Be7 16. Qg4 O-O
+17. Ne5 Qc7 18. Bf4 Bd6 19. Bg3 f5 20. Qd1 {
+White has lost the battle but not the game.} 20... Nc5 $6 (20... f4 21. Nxd7
+fxg3 22. Rxe6 Qxd7 23. Qxd5 Qf7 $1 {wins for Black.}) 21. Nxd7 Qxd7 22. Qxd5+
+cxd5 23. Bxd7 Bxg3 $6 ({Better is} 23... f4 24. Be6+ Nxe6 25. Rxe6 fxg3 26.
+Rxd6 gxh2+) 24. Bc6 Bd6 25. Bxd5+ Kh8 26. Bxa8 Rxa8 27. Rad1 Bf8 28. Rd4 g6 29.
+Red1 Nb7 30. Rd7 Rb8 $6 (30... Nxa5 31. Rc7 Re8 {keeps a plus.}) 31. R1d5 Kg8
+32. Kf1 Nc5 33. Ra7 Rc8 34. g3 Bg7 35. b3 Bf8 36. h4 Rc6 37. Rd8 Rf6 38. Rb8 f4
+39. Rb6 Rf5 $2 (39... Rd6 40. Ra8 Kg7 {draws.}) 40. g4 Rd5 41. Kg2 Rd4 42. Rb8
+Rd7 43. Rxd7 Nxd7 44. Rb7 Nc5 45. Rxb4 Bd6 46. Rb6 Be7 47. b4 Na4 48. Rxa6 Bxb4
+49. Ra8+ Kf7 50. a6 {Pillsbury came back from a lost position.} 1-0
+
+[Event "Wien"]
+[Site "?"]
+[Date "1898.??.??"]
+[Round "15"]
+[White "Tarrasch, Siegbert"]
+[Black "Janowsky, Dawid"]
+[Result "1-0"]
+[ECO "B33"]
+[Annotator "JvR"]
+[PlyCount "129"]
+[EventDate "1898.??.01"]
+[Source "ChessBase"]
+[SourceDate "2004.03.11"]
+
+1. e4 c5 2. Nc3 e6 3. Nf3 Nc6 4. d4 cxd4 5. Nxd4 Nf6 6. Ndb5 d6 {
+A decisive error, according to Tarrasch.} 7. Bf4 e5 8. Bg5 a6 9. Bxf6 gxf6 10.
+Na3 f5 $1 11. Qh5 b5 12. Naxb5 $1 {But this line makes a modern impression.}
+12... axb5 13. Bxb5 Bb7 14. Bc4 $1 {White regains material by a combination.}
+14... Qf6 15. Nd5 Qg6 16. Nc7+ Kd8 (16... Kd7 $1 {
+was a minimal improvement in Kelemen-Varga, Hungary 2002.}) 17. Qxg6 fxg6 18.
+Nxa8 Bxa8 19. Bd5 Kc7 20. b4 Be7 21. c3 Bg5 $2 ({Right is} 21... fxe4 22. Bxe4
+Nxb4 $1 23. Bxa8 Nc2+ 24. Kd2 Nxa1 25. Bd5 Rf8 $1) 22. h4 Bf6 23. h5 g5 24. f3
+Ne7 25. Bxa8 Rxa8 26. Kd2 d5 $5 27. a4 $1 Kb6 28. Kc2 Rc8 29. Kb3 f4 30. Rhd1
+d4 31. c4 Rb8 32. a5+ Kc6 33. b5+ Kc5 34. a6 $2 (34. Kc2 $1 Kxc4 35. Rdc1 $1 g4
+36. Kd2+ Kb4 37. b6 {wins easily.}) 34... Nc8 $1 35. a7 Ra8 36. Ra6 Nb6 37.
+Rda1 Bd8 38. h6 Bc7 39. Rg1 Bd8 40. Rd1 Be7 41. Rda1 Bd8 42. R1a2 Bc7 43. R2a3
+Bd8 44. Ra1 Bc7 45. Rg1 Bd8 46. g3 fxg3 47. Rxg3 Be7 48. Rg1 Nxc4 $2 (48... Bd8
+$1 {keeps the blockade intact.}) 49. Rc6+ Kxb5 50. Rxc4 Rxa7 51. Rc8 Ra3+ 52.
+Kc2 Ra2+ 53. Kb1 Rf2 54. Ka1 d3 55. Rb1+ Bb4 56. Rb8+ Kc4 57. R8xb4+ Kc3 58.
+R4b3+ Kd4 59. Rb7 Rxf3 60. Rxh7 Rh3 61. Re1 g4 62. Rd7+ Kc3 63. h7 g3 64. Rg1
+Kb3 65. Rxd3+ {The games by Schwarz were cancelled at the end of the first
+cycle. Standings at the top were: Tarrasch and Pillsbury 14, Janowsky 12 1/2
+and Steinitz 11 1/2. The local hero Schlechter had scored 9 1/2 out of 18
+games in 19 rounds. His result against the strongest players was poor.} 1-0
+
+[Event "Wien"]
+[Site "?"]
+[Date "1898.??.??"]
+[Round "22"]
+[White "Steinitz, William"]
+[Black "Schlechter, Carl"]
+[Result "1-0"]
+[ECO "C54"]
+[Annotator "JvR"]
+[PlyCount "75"]
+[EventDate "1898.??.01"]
+[Source "ChessBase"]
+[SourceDate "2004.03.11"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d4 exd4 6. e5 d5 7. Bb5 Ne4 8. cxd4
+Bb6 9. Nc3 O-O 10. Be3 f6 11. Qb3 Nxc3 12. bxc3 ({Theory is} 12. Bxc6 $1 bxc6
+13. Qxc3 {(Ranken-Boden, London 1851).}) 12... Ne7 13. O-O c6 14. Bd3 Bg4 $6
+15. exf6 Rxf6 16. Ne5 ({Steinitz avoids the complications of} 16. Bg5 Rxf3 $1
+17. gxf3 Qd7 {He collects advantages instead.}) 16... Bf5 17. Bxf5 Rxf5 18.
+Rae1 Qd6 19. Bc1 $1 Ng6 20. Ba3 Qf6 21. Nxg6 Qxg6 22. Re7 Rf7 23. Re2 Bc7 24.
+Rfe1 h6 25. g3 Bd6 26. Re8+ Rxe8 27. Rxe8+ Kh7 28. Bxd6 Qxd6 29. Qc2+ $1 g6 30.
+Qe2 Qf6 31. Kg2 g5 $2 {Black commits a fatal weakening.} 32. Re6 Qf5 33. g4 Qb1
+34. f3 a5 35. a4 Rg7 $6 ({Or} 35... h5 $1 36. h4 $1 hxg4 37. fxg4) 36. Rf6 $1
+h5 37. Qe6 $1 Qc2+ 38. Kg3 (38. Kg3 h4+ 39. Kh3 Rg6 40. Qf7+ Rg7 41. Rh6+ Kxh6
+42. Qh5# {ends nicely.}) 1-0
+
+[Event "Wien"]
+[Site "?"]
+[Date "1898.??.??"]
+[Round "25"]
+[White "Pillsbury, Harry"]
+[Black "Steinitz, William"]
+[Result "1-0"]
+[ECO "C62"]
+[Annotator "JvR"]
+[PlyCount "63"]
+[EventDate "1898.??.01"]
+[Source "ChessBase"]
+[SourceDate "2004.03.11"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 d6 4. Nc3 Bd7 5. d4 Nf6 6. Bxc6 Bxc6 7. Qd3 exd4 8.
+Nxd4 Bd7 9. O-O Be7 10. b3 O-O 11. Bb2 c6 12. Rad1 Qc7 13. Rfe1 Rfe8 14. Nde2
+Rad8 15. Nf4 Bf8 16. Qg3 Kh8 17. f3 Qa5 18. Nce2 Ng8 19. a3 Ne7 20. b4 $5 Qb6+
+21. Kh1 Ng6 22. Nh5 Qb5 23. Nef4 a5 24. Nxg6+ $6 hxg6 $4 {
+Steinitz makes the 'logical' move.} ({Pillsbury has seen} 24... fxg6 $1 25. Nf4
+axb4 26. Rb1 {Steinitz mentions} 26... bxa3 $1 27. Bxg7+ $2 Kxg7 28. Rxb5 cxb5
+{and Black wins!}) 25. Nf6 gxf6 26. Qh4+ Kg8 27. Bxf6 Bg7 28. Bxd8 axb4 29.
+Rxd6 Be6 30. axb4 Qxb4 31. Red1 Qc3 32. Be7 1-0
+
+[Event "Wien"]
+[Site "?"]
+[Date "1898.??.??"]
+[Round "26"]
+[White "Steinitz, William"]
+[Black "Janowsky, Dawid"]
+[Result "0-1"]
+[ECO "C54"]
+[Annotator "JvR"]
+[PlyCount "184"]
+[EventDate "1898.??.01"]
+[Source "ChessBase"]
+[SourceDate "2004.03.11"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d4 exd4 6. e5 d5 7. Bb5 Ne4 8. cxd4
+Bb4+ $5 9. Kf1 $5 ({Usual is} 9. Bd2 {(Cochrane-Staunton, London 1841).}) 9...
+O-O 10. Qb3 Be7 11. Nc3 Be6 12. Be3 Qd7 13. Rd1 Rad8 14. Ne1 Nxc3 15. Qxc3 f6
+16. Nd3 Bf5 17. exf6 Bxd3+ 18. Bxd3 Bxf6 19. h4 $5 Rde8 20. Bc2 Qg4 21. Kg1 $1
+Bxh4 $6 22. Rf1 $1 g6 23. Bd1 Qe4 24. Bf3 Rxf3 25. gxf3 Qe7 {
+Black has compensation for the exchange.} 26. Qb3 Rd8 27. Rd1 (27. Qxb7 Nxd4 $1
+28. Bxd4 Qg5+ 29. Kh2 Qf4+ {draws (TB).}) 27... Na5 28. Qc3 Nc4 29. b3 Nd6 30.
+Re1 Nf5 31. Bf4 Qf6 32. Be5 Qg5+ 33. Kf1 c6 34. Qa5 Rd7 35. Qxa7 Qd2 $1 36. Rh2
+Qd3+ 37. Kg1 Qd2 38. Rf1 Bd8 39. Rh3 Qg5+ 40. Kh2 Nh4 41. Rg1 Qd2 42. Rg2 $6 ({
+A repetition of moves brings} 42. Kg3 $1 Qg5+ (42... Rf7 $6 {[TB]} 43. f4 $1))
+42... Nxg2 43. Kxg2 Qg5+ 44. Rg3 Qf5 45. Qb8 Qf8 46. Qc8 Rf7 47. Qe6 Qe7 48.
+Qh3 $1 {White threatens Rxg6+!} 48... Rf8 49. Qh6 $5 Qf7 50. Qe3 Bf6 51. Bxf6
+Qxf6 52. Rg5 Qf4 53. Re5 $2 ({More useful is} 53. a4 $1) 53... Qxe3 $1 54. fxe3
+Kf7 $1 55. a4 Ra8 $1 56. e4 dxe4 57. Rxe4 Ra6 $1 58. Re5 Rb6 $1 {
+Black has found the target.} 59. d5 $1 (59. Re3 Rb4 60. Rd3 Ke6 61. Kf2 Kd5 62.
+Ke3 g5 {leads to zugzwang.}) 59... Kf6 60. d6 $1 Rxb3 61. Re8 Rd3 62. Rb8 Rxd6
+63. Rxb7 h5 64. a5 Ke5 65. Ra7 $6 Rd8 $6 66. Rg7 $1 c5 $2 ({Correct is} 66...
+Rd6 $1) 67. Rxg6 c4 68. a6 Kd5 69. Rg5+ $6 (69. Kf2 c3 70. Ke2 {draws.}) 69...
+Kd4 70. Rxh5 $2 ({White can still play} 70. Kf2) 70... c3 71. Rh7 Rc8 72. Rd7+
+Kc4 73. a7 c2 74. a8=Q Rxa8 75. Rc7+ Kd3 76. Rd7+ Ke2 77. Re7+ Kd3 78. Rd7+ Kc3
+79. Rc7+ Kb2 80. Rb7+ Ka1 81. Rc7 Kb1 (81... Ra2 {wins more quickly.}) 82. Rb7+
+Kc1 83. Kf2 Ra2 84. Ke3 Ra3+ 85. Kf2 Rc3 86. Ke2 Rc8 87. Rb6 Re8+ 88. Kf2 Re5
+89. Rb8 Kd2 90. Rd8+ Kc3 91. Rc8+ Kb3 92. Rc7 Rd5 (92... Rd5 93. Ke3 Rd1 94. f4
+c1=Q+ 95. Rxc1 Rxc1 {leads to a theoretical win.}) 0-1
+
+[Event "Wien"]
+[Site "?"]
+[Date "1898.??.??"]
+[Round "27"]
+[White "Pillsbury, Harry"]
+[Black "Schlechter, Carl"]
+[Result "1/2-1/2"]
+[ECO "C84"]
+[Annotator "JvR"]
+[PlyCount "90"]
+[EventDate "1898.??.01"]
+[Source "ChessBase"]
+[SourceDate "2004.03.11"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Nc3 b5 7. Bb3 d6 8. d3
+O-O 9. a4 b4 10. Nd5 Be6 $6 ({Theory will become} 10... Rb8 {
+(Tarrasch-Gruenfeld, Bad Pistyan 19922).}) 11. a5 Nd4 $6 12. Nxd4 exd4 13. Nxb4
+Bxb3 14. cxb3 Qd7 15. Nc2 c5 16. b4 Rab8 17. bxc5 dxc5 18. Na3 Bd8 19. Nc4 Bc7
+20. h3 Ne8 21. f4 f5 22. e5 g6 23. Bd2 Ng7 24. Be1 Ne6 25. Bh4 Rb4 26. g4 $6
+Qd5 27. Be7 Rf7 28. Bd6 $6 (28. Bf6 $1 Nxf4 29. Rxf4 Rxf6 30. Qf3 Qxf3 31. Rxf3
+{keeps an advantage.}) 28... Bxd6 29. exd6 Rxc4 $1 30. dxc4 Qxd6 31. g5 Nxf4 $1
+32. Qf3 Ne6 33. h4 d3 34. Rf2 Qd4 35. Re1 Qxc4 36. Qe3 Nd4 37. Rd1 Ne2+ 38. Kf1
+Qxh4 39. Rxd3 (39. Qe8+ Rf8 40. Qe6+ {gives a perpetual by White.}) 39... Nd4
+40. Kg1 f4 41. Qe5 f3 42. Qxc5 Ne2+ 43. Rxe2 Qg3+ 44. Kh1 Qh3+ 45. Kg1 Qg3+ {
+Black delivers a perpetual.} 1/2-1/2
+
+[Event "Wien"]
+[Site "?"]
+[Date "1898.??.??"]
+[Round "28"]
+[White "Schlechter, Carl"]
+[Black "Janowsky, Dawid"]
+[Result "1/2-1/2"]
+[ECO "D37"]
+[Annotator "JvR"]
+[PlyCount "89"]
+[EventDate "1898.??.01"]
+[Source "ChessBase"]
+[SourceDate "2004.03.11"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Nf3 Be7 5. Bf4 O-O 6. e3 c6 7. Bd3 Nbd7 8. O-O
+Nh5 $5 9. Be5 Nxe5 10. Nxe5 g6 11. Qe2 Bd6 12. Rad1 Ng7 $5 {
+Even Janowsky has to defend.} 13. e4 Bxe5 14. dxe5 d4 15. Bc2 c5 16. f4 Bd7 17.
+Nb1 Qa5 $5 18. Rd3 $1 b5 (18... Qxa2 $2 19. Na3 $1 Qxb2 20. Rb1 Qa2 21. Qe1 {
+and the black queen is lost.}) 19. Ra3 Qb6 20. Nd2 Rab8 21. Rh3 Qa6 22. Rh6 $5
+bxc4 23. Qg4 $1 {Schlechter plays for mate.} 23... Qa5 $4 ({
+Black has to capture everything by} 23... Rxb2 24. Qh4 Rxc2 25. Rxh7 Nh5 26.
+Rxh5 gxh5 27. Qg5+ Kh7 28. Qxh5+ Kg7 29. Qg5+ Kh7 30. Rf3 Rc3 $1 {
+and White has to deliver perpetual check.}) 24. Nxc4 Qxa2 25. Qh4 Qxc4 ({Or} 
+25... Nh5 26. Rxh5 gxh5 27. Qg5+ Kh8 28. Qf6+ Kg8 29. Rf3 $1) 26. Rxh7 Nh5 27.
+Rxh5 Qxf1+ {Black has to give up material.} 28. Kxf1 gxh5 29. Qg5+ Kh7 30.
+Qxh5+ Kg7 31. Qg5+ Kh7 32. Qh4+ Kg7 33. Qf6+ Kh7 34. f5 Rg8 35. Qxf7+ Rg7 36.
+Qh5+ Kg8 37. f6 Rf8 38. Kg1 Rh7 39. Qg5+ Kh8 40. Bb3 Rb8 41. f7 $4 {
+White misses the deserved win.} ({Right is} 41. Bc4 Rxb2 42. Qg6) 41... Rxf7
+42. Qh6+ Kg8 43. Bxe6 Bxe6 44. Qg6+ Kf8 45. Qxe6 (45. Qxe6 Rxb2 46. h4 Rff2 {
+draws.}) 1/2-1/2
+
+[Event "Wien"]
+[Site "?"]
+[Date "1898.??.??"]
+[Round "28"]
+[White "Steinitz, William"]
+[Black "Tarrasch, Siegbert"]
+[Result "1/2-1/2"]
+[ECO "D32"]
+[PlyCount "108"]
+[EventDate "1898.??.01"]
+[Source "ChessBase"]
+[SourceDate "2004.03.11"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Nf3 c5 5. e3 Nc6 6. cxd5 exd5 7. Be2 Be7 8. O-O
+O-O 9. dxc5 Bxc5 10. b3 Be6 11. Bb2 Qe7 12. a3 a6 13. b4 Ba7 14. Rc1 Rfd8 15.
+Na4 Rac8 16. Nc5 Bxc5 17. Rxc5 Ne4 18. Rc1 Nd6 19. Nd4 Nc4 20. Nxc6 Rxc6 21.
+Qd4 f6 22. Bf3 b5 23. Rfd1 Rcd6 24. Qc3 Bf5 25. Rd4 Be4 26. Be2 Qe5 27. Rcd1
+Qg5 28. g3 Qe5 29. Bc1 Qe7 30. f3 Bg6 31. Kf2 Bf7 32. Bxc4 dxc4 33. e4 Qa7 34.
+Be3 Rxd4 35. Rxd4 Rxd4 36. Qxd4 Qxd4 37. Bxd4 Kf8 38. Ke3 Be6 39. g4 Kf7 40. h4
+g6 41. g5 fxg5 42. hxg5 Bh3 43. Bc3 Ke6 44. Kd4 Bg2 45. f4 Bf3 46. Bd2 Bg2 47.
+Bc1 c3 48. e5 Bf3 49. Kc5 Bd1 50. Kb6 Ba4 51. Kxa6 Ke7 52. Kb6 Kd7 53. Kc5 c2
+54. Bd2 Ke6 1/2-1/2
+
+[Event "Wien"]
+[Site "?"]
+[Date "1898.??.??"]
+[Round "30"]
+[White "Schlechter, Carl"]
+[Black "Tarrasch, Siegbert"]
+[Result "1/2-1/2"]
+[ECO "A85"]
+[Annotator "JvR"]
+[PlyCount "93"]
+[EventDate "1898.??.01"]
+[Source "ChessBase"]
+[SourceDate "2004.03.11"]
+
+1. d4 f5 2. c4 e6 3. Nc3 Nf6 4. e3 b6 5. Bd3 Bb7 6. f3 $5 c5 7. Nge2 Nc6 8. O-O
+a6 9. a3 Qc7 10. d5 $6 Ne5 11. e4 $5 Bd6 12. f4 $2 {White weakens the centre.}
+({Better is} 12. Bf4 $1) 12... Nxd3 13. Qxd3 fxe4 14. Nxe4 Nxe4 15. Qxe4 O-O
+16. Nc3 Rae8 $1 {Black prepares an attack.} 17. Qf3 Kh8 18. Bd2 exd5 19. Nxd5
+Bxd5 20. cxd5 Be5 $1 21. Bc3 Bxc3 $5 (21... Bxf4 22. g3 Bd6 23. Qg4 Be5 24.
+Rae1 {and White can defend himself.}) 22. bxc3 c4 23. Qf2 h6 24. Qd4 Re2 25.
+Rf3 Rfe8 26. d6 Qc6 27. Rg3 Qc5 28. Qxc5 bxc5 29. Rd1 Re1+ 30. Rxe1 Rxe1+ 31.
+Kf2 Rd1 32. Re3 Rxd6 33. Ke2 Rb6 34. Re4 Rb2+ 35. Ke3 {
+Schlechter has defended well.} 35... d5 (35... d6 $1 36. Rxc4 Rxg2 37. Ra4 Rxh2
+{(TB) can be answered by} 38. Ke4 $1 Re2+ 39. Kf5 $1 Rc2 40. Rxa6 Rxc3 41. Rxd6
+Rxa3 42. Rc6 Rc3 43. Kg6 $1 {drawn.}) 36. Re5 Rc2 37. Rxd5 Rxc3+ 38. Ke4 Rxa3
+39. Rxc5 c3 40. g4 Kh7 41. h4 Kg6 42. h5+ Kf7 43. Rc7+ Kf6 44. g5+ hxg5 45.
+fxg5+ Kxg5 46. Rxg7+ Kxh5 47. Kd3 1/2-1/2
+
+[Event "Wien"]
+[Site "?"]
+[Date "1898.??.??"]
+[Round "31"]
+[White "Janowsky, Dawid"]
+[Black "Pillsbury, Harry"]
+[Result "1-0"]
+[ECO "C32"]
+[Annotator "JvR"]
+[PlyCount "99"]
+[EventDate "1898.??.01"]
+[Source "ChessBase"]
+[SourceDate "2004.03.11"]
+
+1. e4 e5 2. f4 d5 3. exd5 e4 4. d3 Nf6 5. dxe4 Nxe4 6. Qe2 $5 Qxd5 7. Nd2 f5 8.
+Nh3 $2 ({Known is} 8. g4 $6) 8... Nc6 9. c3 Be6 10. Nxe4 fxe4 11. Nf2 O-O-O 12.
+g3 Bc5 13. Bg2 e3 $1 14. Ne4 Nb4 $4 {Pillsbury fails in a won position.} ({
+Right is} 14... Rhe8 $1 15. Nf6 $1 Qxg2 $1 16. Qxg2 gxf6 17. Qe2 {(TB)} 17...
+Nb4 $1 18. O-O Nc2 $1 19. Rb1 Bxa2) 15. cxb4 Bxb4+ 16. Nc3 $1 ({
+Harry has missed this move and expected} 16. Kf1 $2 Qd1+ 17. Qxd1 Bc4+ $1)
+16... Qc5 17. Bxe3 Bxc3+ 18. bxc3 Qxc3+ 19. Kf2 Rhe8 20. Rhc1 Qa3 21. Rab1 b6
+22. Bc6 Bd7 23. Rc3 Qa5 24. Rbc1 Bxc6 25. Rxc6 Re7 26. R1c3 Qd5 27. Qc4 Qxc4
+28. R6xc4 c5 29. f5 Rd6 30. g4 Kd7 31. Kf3 Rd1 32. g5 Rf7 33. Rf4 Kc6 34. h4
+Rd5 35. Kg4 b5 36. h5 b4 37. Rcc4 Kb5 38. Rce4 a5 39. f6 g6 40. hxg6 hxg6 41.
+Re8 a4 42. Rb8+ Ka5 43. Re4 Rfd7 44. Rc4 Rd3 45. Rxc5+ Ka6 46. Rc6+ Ka5 47.
+Ra8+ Kb5 48. Rb6+ Kc4 49. Rc8+ Kd5 50. Rc5+ 1-0
+
+[Event "Wien"]
+[Site "?"]
+[Date "1898.??.??"]
+[Round "33"]
+[White "Tarrasch, Siegbert"]
+[Black "Pillsbury, Harry"]
+[Result "1-0"]
+[ECO "C67"]
+[Annotator "JvR"]
+[PlyCount "81"]
+[EventDate "1898.??.01"]
+[Source "ChessBase"]
+[SourceDate "2004.03.11"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. Re1 Nd6 6. Nxe5 Be7 7. Bd3 Nxe5
+8. Rxe5 O-O 9. Nc3 c6 10. Qh5 g6 11. Qf3 Ne8 12. b3 d5 13. Bb2 Be6 14. Rae1 Ng7
+15. R5e2 Bf6 16. Ba3 Re8 17. Nd1 Bd4 18. c3 Bb6 19. Ne3 Qd7 20. h3 c5 21. Bc1
+Bc7 22. Ng4 Bxg4 23. hxg4 Re6 $6 {Black should exchange rooks (TB).} 24. c4 d4
+25. Be4 Rb8 26. d3 b6 $2 ({Necessary is} 26... Ba5 $1) 27. g3 h5 28. gxh5 Nxh5
+{A nice finish is possible.} 29. Bd5 (29. Bxg6 $1 Rxe2 30. Bh7+ $1 {
+ends the game.}) 29... Rxe2 30. Rxe2 Kg7 $6 ({The last stand brings} 30... Bd6
+31. Bg5 Qf5 32. Qxf5 gxf5) 31. Bg5 f6 ({Or} 31... Bd8 32. Re7 $1 Bxe7 33. Qxf7+
+Kh8 34. Qxg6 $18 {(Tarrasch).}) 32. Re6 $1 Be5 ({The pointe is} 32... fxg5 33.
+Qe4) 33. Bd2 Rh8 34. g4 $1 Qc7 35. gxh5 Rxh5 36. Re8 Qd7 37. Rg8+ Kh7 38. Qg2
+Qf5 39. Be4 Rh2 40. Rxg6 Rxg2+ 41. Rxg2 {
+Siegbert Tarrasch took over the lead from Harry Pillsbury.} 1-0
+
+[Event "Wien"]
+[Site "?"]
+[Date "1898.??.??"]
+[Round "34"]
+[White "Janowsky, Dawid"]
+[Black "Tarrasch, Siegbert"]
+[Result "1-0"]
+[ECO "C49"]
+[Annotator "JvR"]
+[PlyCount "107"]
+[EventDate "1898.??.01"]
+[Source "ChessBase"]
+[SourceDate "2004.03.11"]
+
+1. e4 e5 2. Nc3 Nf6 3. Nf3 Nc6 4. Bb5 Bb4 5. O-O O-O 6. d3 d6 7. Bg5 Bxc3 8.
+bxc3 h6 9. Bh4 Bg4 $5 10. h3 Bxf3 $2 11. Qxf3 g5 $6 12. Bg3 Nh7 {
+Tarrasch is asking for trouble.} 13. Rab1 Qc8 14. Rfd1 Kg7 15. d4 f6 16. Be2
+Ne7 17. Qd3 Rb8 18. Bg4 Qe8 19. Qc4 h5 20. Be6 Qc6 21. Qd3 h4 22. Bh2 Rfd8 23.
+d5 Qa4 24. g3 Ng6 25. Rb4 Qe8 $6 (25... Qxa2 $5 26. Rdb1 {
+does not convince for Black.}) 26. Rdb1 b6 27. Qa6 Nhf8 28. Bg4 hxg3 29. fxg3
+Nd7 30. Qxa7 Rdc8 31. Qa6 Nc5 32. Qe2 Rd8 33. Rf1 Ra8 34. h4 gxh4 35. gxh4 Qf7
+(35... Rxa2 36. Qg2 {gives no pleasure.}) 36. h5 Nf8 37. Bg3 Kh8 38. Bh4 Nh7
+39. Bf5 Rg8+ 40. Kh1 Raf8 41. Rbb1 Qe7 42. Rg1 Rxg1+ 43. Rxg1 Rg8 44. Rg6 Rxg6
+45. hxg6 Ng5 46. Qh5+ Kg8 (46... Kg7 47. Bxg5 fxg5 48. Kg2 {
+and White conquers pawn g5.}) 47. Bxg5 fxg5 48. Be6+ $1 Nxe6 49. dxe6 Qf6 50.
+Qh7+ Kf8 51. Kg2 g4 52. Qf7+ Qxf7 53. gxf7 d5 54. Kg3 {Pillsbury took the lead
+again. The second cycle ended at round thirty-eight on 25 vii 1898. The best
+scores had Tarrasch and Pillsbury with 13 1/2, Janowsky 13, Steinitz and
+Schlechter 12 points. The two leaders had to play four additional games.} 1-0
+

@@ -1,0 +1,1040 @@
+[Event "Pearl Spring 1"]
+[Site "Nanjing"]
+[Date "2008.12.11"]
+[Round "1"]
+[White "Movsesian, Sergei"]
+[Black "Bu Xiangzhi"]
+[Result "0-1"]
+[ECO "C24"]
+[WhiteElo "2732"]
+[BlackElo "2714"]
+[Annotator "JvR"]
+[PlyCount "116"]
+[EventDate "2008.12.??"]
+[SourceDate "2009.01.28"]
+
+{When the Nobel Prize winner Robert Mundell visited Nanjing, he suggested the
+organisation of a chess tournament.  Six players carried out double rounds at
+the Pearl Spring Hotel from 11 until 21 xii 2008 for a prize money of 250,000
+euro.} 1. e4 e5 2. Bc4 Nf6 3. d3 c6 4. Nf3 d5 5. Bb3 Bd6 6. Nc3 dxe4 7. Ng5 O-O
+8. Ncxe4 Nxe4 9. Nxe4 Bf5 10. Qf3 Bxe4 11. dxe4 Nd7 12. c3 a5 13. O-O a4 14.
+Bc2 Qe7 15. Rd1 Rfd8 16. h4 $5 (16. Qg4 {
+ended as drawn in Fedorov - Sturua, Bled 2002.}) 16... h6 17. g3 b5 18. Bd2 Nf8
+19. Qg4 Qe6 20. Qxe6 Nxe6 {The chances are equal.} 21. Kf1 Kf8 22. Be1 $6 ({
+More active is} 22. Ke2 Ke7 23. Be3) 22... Ke7 23. Rd2 g5 $1 24. hxg5 hxg5 25.
+Bd1 b4 $1 26. Bg4 bxc3 27. bxc3 Rab8 28. Rad1 Nc5 29. f3 a3 $1 30. Bf2 Na4 31.
+Be3 f6 32. c4 Nb2 33. Rc1 Bb4 34. Rh2 Rh8 35. Rxh8 $6 ({Better is} 35. Rcc2 $1
+Nxc4 $1 36. Bg1 $1 Rxh2 37. Rxh2 {
+and White has sufficient counter-play for the pawn.}) 35... Rxh8 36. Kg2 Rd8 $1
+37. Rh1 $2 {White should chose for a passive defence.} ({Correct is} 37. Rc2 $1
+c5 {(Bu)} 38. Bf2) 37... Nxc4 38. Rh7+ Kd6 39. Ba7 c5 $1 ({Not} 39... Bc5 $4
+40. Bb8+ $1 Rxb8 41. Rd7#) 40. Bh5 Ba5 41. Rf7 Kc6 42. Rxf6+ Kb5 43. Kh3 Rh8
+44. g4 Ra8 45. Rf7 Nd6 46. Rd7 Kc6 47. Rh7 Bb4 48. f4 $5 exf4 49. e5 Nc8 50. e6
+Kd6 51. Rh8 Kxe6 52. Bg6 Kd5 53. Rd8+ Kc4 54. Bf5 Rxa7 55. Rxc8 Kc3 56. Rc6 Kb2
+57. Be6 Re7 58. Kg2 Rxe6 $1 {The local hero took the lead at once.} 0-1
+
+[Event "Pearl Spring 1"]
+[Site "Nanjing"]
+[Date "2008.12.12"]
+[Round "2"]
+[White "Aronian, Levon"]
+[Black "Ivanchuk, Vassily"]
+[Result "1-0"]
+[ECO "B37"]
+[WhiteElo "2757"]
+[BlackElo "2786"]
+[Annotator "JvR"]
+[PlyCount "65"]
+[EventDate "2008.12.??"]
+[SourceDate "2009.01.28"]
+
+1. Nf3 c5 2. c4 Nc6 3. d4 cxd4 4. Nxd4 g6 5. e4 Nf6 6. Nc3 d6 7. Nc2 Bg7 8. Be2
+Nd7 9. Bd2 a5 10. O-O Nc5 11. Qc1 h5 $5 12. Rd1 Bd7 13. Ne1 Nd4 14. Bf1 O-O 15.
+Bg5 Bc6 16. Nd5 Re8 $5 17. f3 b5 18. Be3 $1 Nce6 $2 {
+Knight d4 becomes vulnerable.} ({More solid is} 18... e5 $1 19. Bg5 f6) 19. Qd2
+bxc4 20. Bxc4 Rb8 21. Kh1 $5 Nb5 $5 22. Rac1 Nc5 $6 ({Preferable is} 22... a4
+$5 23. Qf2 a3) 23. b4 $1 {White attacks on the queenside.} axb4 24. Nxb4 Qb6
+25. Ned3 $1 Na3 26. Bb3 Ba8 27. Nxc5 $1 dxc5 28. Bxc5 Qa5 29. Qf4 $1 e6 30. Rd7
+Rf8 31. Rxf7 $1 Rxf7 32. Qxb8+ Kh7 33. Bxe6 {Aronian crushed the opposition.}
+1-0
+
+[Event "Pearl Spring 1"]
+[Site "Nanjing"]
+[Date "2008.12.12"]
+[Round "2"]
+[White "Svidler, Peter"]
+[Black "Movsesian, Sergei"]
+[Result "0-1"]
+[ECO "B83"]
+[WhiteElo "2727"]
+[BlackElo "2732"]
+[Annotator "JvR"]
+[PlyCount "94"]
+[EventDate "2008.12.??"]
+[SourceDate "2009.01.28"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e6 6. Be2 Be7 7. O-O O-O 8. f4
+Nc6 9. Be3 e5 10. Nxc6 bxc6 11. Kh1 exf4 12. Bxf4 Be6 13. Bf3 Qb8 $5 ({Usual is
+} 13... Qb6) 14. b3 Qb4 15. Qd2 Rfd8 16. Rad1 Rac8 17. Qe3 d5 $5 {
+Black plays the liberating move.} 18. Be5 $1 Qa5 19. exd5 Nxd5 20. Nxd5 cxd5
+21. Bh5 $5 d4 $1 22. Qe4 g6 23. Bf3 Bf5 24. Qf4 Bg5 $5 25. Qxg5 Qxe5 26. Bg4 $5
+h6 $5 27. Rxf5 $1 {Svidler gives an exchange for the attack.} Qg7 28. Qe7 $6 (
+28. Qh4 $1 gxf5 29. Bxf5 Rb8 30. Bd3 {gains an edge (Ftacnik).}) 28... gxf5 29.
+Bxf5 Re8 30. Qd6 Rcd8 31. Qa6 Qg5 32. Bd3 Re7 33. Rf1 Kg7 34. g3 Qd5+ 35. Kg1
+Rd6 36. Qc8 Qe6 {Black has consolidated.} 37. Qb8 Rb6 38. Qd8 Rd6 39. Qb8 Rd5
+40. Rf4 Rg5 41. Rf3 Qe5 42. Qd8 h5 43. Rf2 Re6 44. Qd7 $2 ({Right is} 44. Re2
+$1) 44... Rf6 $1 45. Re2 Qf4 $1 46. Re4 $2 ({Better is} 46. Re8 $1 Rxg3+ $1 47.
+hxg3 Qxg3+ 48. Kh1 Qh4+ 49. Kg1 Qg5+ 50. Kh1 Rf4 $1 51. Re4 Qh4+ 52. Kg1 Rxe4
+53. Bxe4 Qe1+ $1 54. Kh2 Qxe4 {but Black will win the queen ending.}) 46...
+Qf2+ 47. Kh1 h4 $1 {Movsesian charges the hostile king.} (47... h4 $1 48. Rxh4
+Qe1+ 49. Kg2 Rf2+ 50. Kh3 Rxh2+ $1 {leads to mate.}) 0-1
+
+[Event "Pearl Spring 1"]
+[Site "Nanjing"]
+[Date "2008.12.15"]
+[Round "5"]
+[White "Topalov, Veselin"]
+[Black "Svidler, Peter"]
+[Result "1-0"]
+[ECO "D87"]
+[WhiteElo "2791"]
+[BlackElo "2727"]
+[Annotator "JvR"]
+[PlyCount "57"]
+[EventDate "2008.12.??"]
+[SourceDate "2009.01.28"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Bc4 c5 8.
+Ne2 Nc6 9. Be3 O-O 10. O-O Bd7 11. Rb1 Qc7 12. Bd3 Rfd8 13. h3 $5 (13. Qc1 {
+was played in Berkes - Sutovsky, Paks 2005.}) 13... Be8 14. d5 Ne5 15. c4 e6
+16. Nf4 Rab8 17. Be2 Rd6 $5 18. Qc2 Ra6 19. Rb5 $1 Bf8 $1 (19... Bxb5 $6 20.
+cxb5 Rd6 21. Qxc5 {favours White (Topalov).}) 20. a4 Bxb5 $6 {
+This capture should be postponed.} ({Better is} 20... Be7 21. Rfb1 Bd7) 21.
+cxb5 Rd6 22. Qc3 $1 {The black bishop has to return.} Bg7 23. Qxc5 Rc8 $6 (
+23... Qd8 $1 24. Qxa7 b6 {creates a new defence line.}) 24. Qxa7 b6 25. Qxc7
+Rxc7 26. Rd1 $1 Bf6 $2 (26... g5 27. Nh5 h6 {offers more resistance (Topalov).}
+) 27. dxe6 Rxd1+ 28. Bxd1 fxe6 29. Bb3 $1 {
+Topalov, Bu and Aronian led by 3/5 at the end of the first cycle.} 1-0
+
+[Event "Pearl Spring 1"]
+[Site "Nanjing"]
+[Date "2008.12.17"]
+[Round "6"]
+[White "Bu Xiangzhi"]
+[Black "Movsesian, Sergei"]
+[Result "1-0"]
+[ECO "D15"]
+[WhiteElo "2714"]
+[BlackElo "2732"]
+[Annotator "JvR"]
+[PlyCount "123"]
+[EventDate "2008.12.??"]
+[SourceDate "2009.01.28"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 a6 5. a4 e6 6. Bg5 Nbd7 7. a5 Bb4 8. Qa4
+Be7 9. e3 O-O 10. Be2 b5 $5 (10... h6 11. Bh4 b5 {
+drew in Rause - Elmert, ICCF 2002.}) 11. axb6 Nxb6 12. Qc2 Nxc4 13. Bxc4 dxc4
+14. O-O c5 $1 15. dxc5 Bxc5 16. Rfd1 Qc7 17. Ra4 Be7 18. Bf4 Qc5 $5 (18... Qb6
+$1 19. Ne5 Bb7 20. Nxc4 Qc5 {equalises (Bu).}) 19. Ne5 Bb7 20. Rxc4 Qa5 21. Qb3
+Rad8 $1 22. Rxd8 Rxd8 23. Ra4 $5 Qc7 24. Rc4 Qa5 25. h3 $1 Qa1+ 26. Kh2 Ba8 27.
+Nc6 Bxc6 28. Rxc6 Qf1 $2 (28... h6 $1 29. Qb7 Rd7 30. Qxa6 Qxb2 {
+draws (Rogozenco).}) 29. Qb7 $1 {A black pawn will fall.} Bf8 30. Bg3 a5 31.
+Rc7 h5 $6 (31... Nh5 $5 32. Qf3 Nxg3 33. Qxf7+ Kh8 34. Rd7 $1 Rb8 35. Kxg3 Qc4
+{offers more resistance (Bu).}) 32. Rxf7 Qd3 33. Rxf6 $1 {
+White is going to gain many pawns for the exchange.} gxf6 34. Ne4 Bg7 35. Qe7
+Rf8 36. Qxe6+ Kh8 37. Qf5 a4 38. Bd6 Rf7 39. Qe6 $5 Qb3 40. Qc8+ Kh7 41. Qf5+
+Kg8 42. Ba3 h4 43. Nd6 Rc7 44. Qe4 Qb8 45. Qxa4 Bf8 46. Qg4+ Rg7 47. Qc4+ Kh7
+48. Qxh4+ Kg6 49. Qe4+ Kh6 50. Qe6 Kh7 51. Qxf6 Rg6 52. Qf7+ Bg7 53. Qf4 Bh6
+54. Qe5 Bg7 55. Qe7 Kh8 56. e4 Bf6 57. Qe6 Kh7 58. Qf5 Qg8 59. g3 Qb3 60. e5
+Bg7 61. Nf7 Qd5 62. h4 {Bu defeated Movsesian again.} 1-0
+
+[Event "Pearl Spring 1"]
+[Site "Nanjing"]
+[Date "2008.12.17"]
+[Round "6"]
+[White "Topalov, Veselin"]
+[Black "Aronian, Levon"]
+[Result "1-0"]
+[ECO "D46"]
+[WhiteElo "2791"]
+[BlackElo "2757"]
+[Annotator "JvR"]
+[PlyCount "143"]
+[EventDate "2008.12.??"]
+[SourceDate "2009.01.28"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. e3 Nbd7 6. Bd3 dxc4 7. Bxc4 b5 8. Bd3
+Bd6 9. O-O O-O 10. Qc2 Bb7 11. e4 e5 12. h3 Re8 13. dxe5 Nxe5 14. Nxe5 Bxe5 15.
+Be3 Qe7 16. Rfd1 $5 ({Usual is} 16. Rae1) 16... a6 17. Ne2 c5 $1 {
+Aronian makes a temporary sacrifice.} 18. Bxc5 Qc7 19. f3 $1 Bxb2 $1 20. Qxb2
+Qxc5+ 21. Qd4 Qe7 22. Bc2 Bd5 $2 23. exd5 Qxe2 24. Bb3 {
+The passed pawn becomes strong.} a5 25. d6 a4 $5 26. Bd5 Rac8 $5 27. Rd2 Qe5
+28. Qxe5 Rxe5 29. Bb7 $1 Rd8 30. Rb1 g6 31. Bc6 Rc5 32. Bxb5 Rb8 33. Rdb2 a3
+34. Rb3 Rc2 $5 35. Rxa3 Rd2 36. Ra7 Nd5 $2 {He should capture pawn d6.} 37. d7
+Kg7 38. Re1 Ne3 39. a4 Nxg2 40. Re4 g5 41. Rc7 Nh4 42. Rc3 Rb7 43. Re2 $4 {
+White blunders his advanced pawn.} Rbxd7 $1 44. Kf2 R7d5 45. Rxd2 Rxd2+ 46. Ke3
+Ra2 47. Kd4 Ng2 48. Kc4 Nf4 49. Kb3 Ra1 50. Kb2 $1 {
+Topalov renews the attack on the queenside.} Re1 51. Rc5 Kf6 $5 52. a5 $5 Re5
+$2 {Exchange brings a forced loss.} ({Right is} 52... Re7 $1 {(Krasenkow)} 53.
+Bf1 Ne6 54. Rd5 Nc7 55. Rd1 Re6 {and Black defends stubbornly.}) 53. Rxe5 Kxe5
+54. a6 Ne6 55. a7 Nc7 56. Bc6 f5 57. Kb3 Kd6 58. Bb7 Kc5 59. Kc2 Kd4 60. Kd2 h6
+61. Ke2 {Zugzwang.} Ke5 62. Ke3 Kf6 63. Bc6 Ke7 64. a8=Q Nxa8 65. Bxa8 Kf6 66.
+Bc6 Ke5 67. Bb5 Kd5 68. Ba6 Ke5 69. h4 $1 Kd5 70. hxg5 hxg5 71. Bc8 Ke5 72. Bd7
+$1 {Topalov and Bu shared the lead by 4/6.} 1-0
+
+[Event "Pearl Spring 1"]
+[Site "Nanjing"]
+[Date "2008.12.18"]
+[Round "7"]
+[White "Bu Xiangzhi"]
+[Black "Topalov, Veselin"]
+[Result "1/2-1/2"]
+[ECO "D43"]
+[WhiteElo "2714"]
+[BlackElo "2791"]
+[Annotator "JvR"]
+[PlyCount "139"]
+[EventDate "2008.12.??"]
+[SourceDate "2009.01.28"]
+
+{Bu and Topalov shared the lead, when the game began.} 1. Nf3 Nf6 2. c4 e6 3.
+Nc3 d5 4. d4 c6 5. Bg5 h6 6. Bxf6 Qxf6 7. e3 Nd7 8. Bd3 dxc4 9. Bxc4 g6 10. O-O
+Bg7 11. Qc2 Qe7 12. Rad1 O-O 13. Rfe1 a6 14. a3 b5 15. Ba2 c5 16. d5 c4 $5 17.
+dxe6 Qxe6 18. b3 Ne5 19. Nxe5 Qxe5 20. Nd5 cxb3 21. Bxb3 Bb7 $2 ({Correct is} 
+21... Rb8) 22. Nb6 {Black cannot prevent the loss of an exchange.} Be4 23. Qa2
+Rae8 24. Nd7 Qg5 $1 25. f4 Qf5 26. Nxf8 Bxf8 27. Bd5 h5 28. Rd4 $5 Bc5 29. Bxe4
+Rxe4 30. Rxe4 Qxe4 31. Kh1 Qd3 32. a4 $1 bxa4 $6 ({Preferable is} 32... Bxe3 $1
+33. axb5 Qxb5 $1 {(Krasenkow).}) 33. Qxa4 Qc3 34. Rf1 $5 Qd3 35. Qa1 $1 Kh7 36.
+e4 $5 Qxe4 37. Qxa6 Be7 38. f5 $1 gxf5 39. Qc8 Kg6 40. Qg8+ Kf6 41. Qh7 h4 42.
+Ra1 $2 {White misses the win.} (42. Qh6+ $1 Ke5 43. Ra1 $1 {decides the game.})
+42... Qf4 $1 {Black creates a fortress.} 43. Qh8+ Kg6 44. Qg8+ Kf6 45. Rd1 Bd6
+$1 {White has to protect h2.} 46. Qd8+ Ke6 47. Re1+ Be5 48. Qb6+ Ke7 49. Qg1 $5
+{He cannot prevail.} Kf6 50. Rf1 Qe4 51. Qb6+ Kg7 52. Qb3 Kg6 53. Qf3 Bd6 54.
+Qc3 Be5 55. Qa3 Qe2 56. Qc1 f6 57. Re1 Qf2 58. Qe3 Qc2 59. Qf3 Qd2 60. Rf1 Qc2
+61. Re1 Qd2 62. Rd1 Qb4 63. Rf1 Qe4 64. Qb3 Kh6 65. Qd1 Kg6 66. Qd2 Qc4 67. Rc1
+Qe4 68. Re1 Qc4 69. Rc1 Qe4 70. Re1 {Bu failed to take the lead.} 1/2-1/2
+
+[Event "Pearl Spring 1"]
+[Site "Nanjing"]
+[Date "2008.12.18"]
+[Round "7"]
+[White "Ivanchuk, Vassily"]
+[Black "Aronian, Levon"]
+[Result "0-1"]
+[ECO "A20"]
+[WhiteElo "2786"]
+[BlackElo "2757"]
+[Annotator "JvR"]
+[PlyCount "78"]
+[EventDate "2008.12.??"]
+[SourceDate "2009.01.28"]
+
+{Ivanchuk's chair breaks during the game.} 1. c4 e5 2. g3 f5 3. d4 exd4 4. Nf3
+Bb4+ 5. Nbd2 $5 ({Known is} 5. Bd2) 5... Nf6 ({Ivanchuk does not want to play} 
+5... c5) 6. Bg2 Nc6 7. O-O Bc5 8. Nb3 d6 9. Nfxd4 Nxd4 10. Nxd4 O-O 11. Nc2 $5
+Qe8 12. b4 Bb6 13. Be3 Bxe3 14. Nxe3 f4 $1 {Black takes the initiative.} 15.
+Nd5 $5 {Capture would weaken his pawn structure.} Nxd5 16. Qxd5+ Kh8 17. Rfe1
+Rf6 18. Rad1 c6 19. Qe4 $5 Qf7 20. Rd4 Bg4 21. Qd3 Rf8 $1 {
+He occupies the f-file.} 22. Qd2 h5 23. Bf3 $2 (23. gxf4 Rxf4 24. f3 Rxd4 25.
+Qxd4 Be6 26. Qxd6 Bxc4 {keeps the equality.}) 23... fxg3 24. hxg3 Bxf3 25. exf3
+Rxf3 26. Re2 c5 27. bxc5 {White has to give up a pawn.} (27. Rxd6 h4 $1 {
+starts a decisive attack.}) 27... dxc5 28. Rd8 Qxc4 29. Rxf8+ Rxf8 30. Re5 b6
+$1 31. Rxh5+ Kg8 32. Rh4 Qe6 33. a4 a6 34. Rh5 c4 $1 35. Qd4 Qf7 $6 ({Better is
+} 35... Rf6 $1) 36. Rd5 c3 $2 37. Rd6 $2 ({Right is} 37. Rd8 $1 c2 38. Rxf8+
+Kxf8 39. Qd8+ Qe8 40. Qd6+ Kg8 41. Qd5+ Qf7 42. Qa8+ Kh7 43. Qh1+ Kg6 44. Qc6+
+$1 {drawn (Marin).}) 37... b5 38. Rxa6 $2 (38. axb5 axb5 39. f4 $1 b4 $1 40.
+Qxb4 Rc8 41. Qd4 {fights for the last chance.}) 38... Rc8 39. Qg4 Qc4 $1 {
+The c-pawn will queen.} 0-1
+
+[Event "Pearl Spring 1"]
+[Site "Nanjing"]
+[Date "2008.12.18"]
+[Round "7"]
+[White "Movsesian, Sergei"]
+[Black "Svidler, Peter"]
+[Result "0-1"]
+[ECO "B12"]
+[WhiteElo "2732"]
+[BlackElo "2727"]
+[Annotator "JvR"]
+[PlyCount "127"]
+[EventDate "2008.12.??"]
+[SourceDate "2009.01.28"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nf3 e6 5. Be2 h6 6. O-O Ne7 7. b3 c5 8. Ba3 $5
+Nec6 9. dxc5 Be7 $5 10. Nc3 a6 11. Na4 Nd7 12. b4 $6 {
+White chessmen are moving offside.} O-O 13. Re1 Qc7 $1 14. h3 Rfd8 $5 15. Qd2
+Be4 $1 16. Bb2 Bxf3 17. Bxf3 Ncxe5 18. Qf4 Nxf3+ 19. Qxf3 Qc6 20. Qb3 {
+The chances are about equal.} b6 21. Qg3 d4 $1 {Black takes the initiative.}
+22. Bxd4 Bf8 23. Nxb6 Nxb6 24. Bf6 $1 {White counters.} Nd5 25. Bxd8 Rxd8 26.
+Rad1 Rc8 27. a3 a5 28. c4 Nxb4 $1 29. axb4 axb4 30. Rd3 Bxc5 {
+He has sufficient compensation for the exchange.} 31. Qh4 Bb6 $1 32. Re4 $6 Ra8
+33. Rg4 $6 {White should defend.} Qc5 34. Qf6 $2 {He overestimates his chances.
+} (34. Rd1 {is necessary.}) 34... Qxf2+ $1 35. Qxf2 Ra1+ 36. Kh2 Bxf2 37. Rf4
+Bb6 $5 38. Rd7 b3 $6 (38... f5 $1 39. Rf3 Bc5 {gains a great advantage.}) 39.
+Rb7 Bc5 $1 (39... b2 $2 40. Rb8+ $1 Kh7 41. Rxb6 b1=Q 42. Rxb1 Rxb1 43. Rxf7 {
+draws (Kritz).}) 40. Rfxf7 Bd4 $1 41. Rf3 b2 42. Rfb3 Rc1 43. R7b4 $2 (43. Kg3
+$1 {(activates the king)} Rxc4 44. R7b4 Rxb4 45. Rxb4 Kf7 46. Kf4 e5+ 47. Ke4
+Ke6 48. Rb8 Kd6 49. Kd3 {
+prevents the entry of the black king. White keeps drawing chances.}) 43... Be5+
+$1 44. g3 Rc2+ $1 {The king is driven back.} 45. Kg1 Bd4+ 46. Kf1 e5 47. c5 Kf7
+$1 48. c6 Ke6 49. Rb7 Kd6 50. c7 $1 Kd7 51. Ke1 Kc8 52. Kd1 Rh2 53. g4 $6 ({Or
+} 53. h4 $6 h5 $1) 53... Rxh3 $1 54. Kc2 Rxb3 55. Rxb3 Kxc7 56. Rf3 Kd6 57. Rf7
+e4 58. Rb7 e3 59. Kd3 Ke5 60. Rb4 g5 61. Ke2 Bc3 62. Rb7 Kd4 63. Rd7+ Kc4 64.
+Rd1 {Black plays 64...Bd2. Svidler attacked convincingly.} 0-1
+
+[Event "Pearl Spring 1"]
+[Site "Nanjing"]
+[Date "2008.12.19"]
+[Round "8"]
+[White "Svidler, Peter"]
+[Black "Bu Xiangzhi"]
+[Result "1-0"]
+[ECO "D45"]
+[WhiteElo "2727"]
+[BlackElo "2714"]
+[Annotator "JvR"]
+[PlyCount "107"]
+[EventDate "2008.12.??"]
+[SourceDate "2009.01.28"]
+
+{Bu and Topalov led, when the round began.} 1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. e3
+e6 5. Nf3 a6 6. c5 b6 7. cxb6 Nbd7 8. Bd3 c5 9. b3 Nxb6 10. Ba3 $5 ({
+Svidler had played} 10. O-O {in the previous month.}) 10... Nfd7 11. O-O Bb7
+12. Rc1 Rc8 13. Re1 Be7 14. Re2 $5 O-O 15. Rec2 {White has the initiative.}
+cxd4 $6 ({Preferable is} 15... Re8 $5 16. dxc5 Bxc5 17. Bxc5 Nxc5) 16. Bxe7
+Qxe7 17. exd4 e5 $5 18. dxe5 Nxe5 19. Nd4 g6 $6 (19... Nxd3 20. Qxd3 Rfe8 {
+almost equalises.}) 20. Bf1 Qd6 21. h3 Rfd8 22. Qd2 Kg7 $6 23. a4 Nbd7 $6 (
+23... Kg8 $5 {retreats the king to a better square.}) 24. f4 Nc6 25. Nxc6 $2 {
+White loses his advantage.} ({The energetic} 25. Ne4 $1 Qe7 (25... dxe4 26.
+Nf5+) 26. Nxc6 Rxc6 27. Rxc6 Bxc6 28. Qd4+ Kg8 29. Nf2 {(Svidler)} Bb7 30. Rc7
+Bc8 31. Ng4 h5 32. Rxd7 Rxd7 33. Nf6+ Kf8 34. Nxd5 $1 {wins for White.}) 25...
+Rxc6 26. Ne2 Rxc2 27. Rxc2 Nf8 28. Nd4 Ne6 29. Nxe6+ Qxe6 30. Qd4+ Qf6 31.
+Qxf6+ Kxf6 32. Rc7 Rb8 {An accurate defence is needed, hereafter.} 33. g4 h6
+34. b4 Bc8 35. a5 Ke6 36. Bd3 Bd7 $1 37. f5+ Ke7 $2 (37... Kd6 38. Ra7 Rxb4 39.
+Rxa6+ Bc6 40. fxg6 fxg6 41. Bxg6 Kc5 {brings equality (Svidler).}) 38. Bxa6 Kd6
+39. Rb7 Rxb7 40. Bxb7 gxf5 41. gxf5 Bxf5 42. h4 {White wins the bishop ending.}
+Bd3 $5 43. Kf2 d4 44. Kf3 Bf1 45. Kf4 Bd3 46. a6 Kc7 47. Ke5 Kb6 48. Kxd4 Be2
+49. Ke5 h5 50. Kf6 Bc4 51. Kg5 Be2 52. Bd5 f6+ $5 {
+Black loses his pawns anyway.} 53. Kxf6 Kxa6 54. Bc6 {
+Svidler can win the ending in an elementary way.} 1-0
+
+[Event "Pearl Spring 1"]
+[Site "Nanjing"]
+[Date "2008.12.19"]
+[Round "8"]
+[White "Topalov, Veselin"]
+[Black "Ivanchuk, Vassily"]
+[Result "1-0"]
+[ECO "B45"]
+[WhiteElo "2791"]
+[BlackElo "2786"]
+[Annotator "JvR"]
+[PlyCount "115"]
+[EventDate "2008.12.??"]
+[SourceDate "2009.01.28"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e6 5. Nc3 Nf6 6. Ndb5 Bb4 7. a3 Bxc3+ 8.
+Nxc3 d5 9. exd5 exd5 10. Bd3 O-O 11. O-O d4 12. Ne2 Bg4 13. f3 Bh5 14. Nf4 Re8
+$5 ({Usual is} 14... Bg6 15. Nxg6 hxg6) 15. Nxh5 Nxh5 16. f4 $1 {
+White takes the initiative on the kingside.} Nf6 17. Qf3 Nd5 18. Qh3 g6 19. f5
+$1 {The black position looks vulnerable.} Ne3 $1 {Black counters.} 20. Qh6 $1
+Qe7 (20... Nxf1 $2 21. fxg6 hxg6 22. Bg5 Qd6 23. Rxf1 {
+brings a winning attack (Kritz).}) 21. Rf4 gxf5 22. Bd2 $1 {
+Topalov continues the development quietly.} Rad8 23. Bxf5 Nxf5 24. Rxf5 Rd6 25.
+Qf4 Rg6 26. Rf1 Qe2 27. g3 Rf8 28. Rf2 Qe6 29. h4 Ne7 $2 ({Better is} 29... Qd6
+$1 30. h5 Qxf4 31. R2xf4 Re6 32. Rg4+ Kh8 {with chances to survive (Topalov).})
+30. Re5 Qd7 31. h5 Rg7 32. Rg5 f5 33. Rxg7+ Kxg7 34. Qe5+ Kg8 35. Bh6 Nc6 36.
+Qf4 Rf7 37. g4 $1 d3 $5 ({The pointe is} 37... fxg4 38. Qg5+ Kh8 39. Bg7+ Kg8
+40. Be5+ Kf8 41. Qg7+ {(Topalov).}) 38. cxd3 Kh8 39. gxf5 Qxd3 40. Kg2 Qd5+ 41.
+Qf3 Ne7 42. Qxd5 Nxd5 43. Rc2 Rc7 44. Rxc7 Nxc7 {
+White wins the bishop versus knight ending elementary.} 45. Kf3 Kg8 46. Ke4 Ne8
+47. Ke5 Kf7 48. Bg5 Nc7 49. h6 Nb5 50. Be3 b6 51. a4 Nc7 52. Kd6 Na6 53. Kc6
+Nb4+ 54. Kb7 Nd5 55. Bg5 a5 56. Kc6 Nb4+ 57. Kxb6 Nd3 58. b3 {
+Topalov led by one point on Bu and Aronian.} 1-0
+
+[Event "Pearl Spring 1"]
+[Site "Nanjing"]
+[Date "2008.12.20"]
+[Round "9"]
+[White "Svidler, Peter"]
+[Black "Topalov, Veselin"]
+[Result "0-1"]
+[ECO "B12"]
+[WhiteElo "2727"]
+[BlackElo "2791"]
+[Annotator "JvR"]
+[PlyCount "72"]
+[EventDate "2008.12.??"]
+[SourceDate "2009.01.28"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nf3 e6 5. Be2 c5 6. Be3 Nd7 7. Nbd2 c4 8. a4 $5
+({Known are} 8. O-O) ({and} 8. c3) 8... h6 9. b3 $6 {
+He advances on the wrong flank.} cxb3 10. Nxb3 Rc8 11. Ra2 Qc7 12. Bd3 Bxd3 13.
+Qxd3 Ne7 14. O-O Qc4 15. Rb1 b6 16. Qf1 $5 Nc6 17. c3 $2 ({Correct is} 17. Qxc4
+dxc4 18. Nc1 $1 Nb4 19. Rab2 Nd5 20. Ne2 {and White has achieved equality.})
+17... Qxc3 $1 18. a5 Be7 19. axb6 axb6 20. Qd1 Qc4 21. Nc1 Nb4 22. Ra7 Qc2 $1
+23. Qxc2 Nxc2 24. Bd2 Na3 25. Ra1 Nc4 $1 {Black wins the endgame.} 26. Rb7 Nb8
+27. Ra8 O-O $1 {Topalov finds a great decision.} 28. Raxb8 Nxd2 $1 29. Rxc8
+Nxf3+ 30. gxf3 Rxc8 31. Ne2 (31. Rxe7 Rxc1+ 32. Kg2 Rc4 {
+leads to a won rook ending (Kritz).}) 31... Bd8 32. f4 g6 33. Kg2 Kf8 34. Kf3
+Ra8 35. Ke3 Ra3+ 36. Kd2 Bh4 {
+Topalov had won the event at the end of the penultimate round.} 0-1
+
+[Event "Pearl Spring 1"]
+[Site "Nanjing"]
+[Date "2008.12.21"]
+[Round "10"]
+[White "Ivanchuk, Vassily"]
+[Black "Bu Xiangzhi"]
+[Result "1-0"]
+[ECO "C42"]
+[WhiteElo "2786"]
+[BlackElo "2714"]
+[Annotator "JvR"]
+[PlyCount "67"]
+[EventDate "2008.12.??"]
+[SourceDate "2009.01.28"]
+
+1. e4 e5 2. Nc3 Nf6 3. Bc4 Bb4 4. Nf3 O-O 5. O-O d6 6. Nd5 Be6 7. d4 $5 Bxd5 8.
+exd5 {White has an edge.} e4 $2 {
+The advanced pawn will become a stepping stone for the white attack.} ({
+Preferable is} 8... exd4 9. Qxd4 Bc5 10. Qc3 Nbd7) 9. Nh4 $1 c6 10. c3 Ba5 11.
+Bg5 Nbd7 12. Nf5 Nb6 13. f3 $3 {Ivanchuk makes a brilliant sacrifice.} h6 ({
+The pointe is} 13... Nxc4 14. fxe4 cxd5 15. Nxg7 $1 {(Postny).}) 14. Bh4 e3 $5
+15. Qd3 Nxc4 16. Qxc4 Qd7 17. Nxe3 {White has gained a pawn.} Nh5 18. Rae1 Bd8
+19. Bxd8 Rfxd8 20. Qd3 Rab8 21. b3 Nf6 22. dxc6 bxc6 23. Re2 a5 24. Rfe1 g6 25.
+d5 $5 Nxd5 26. Nxd5 cxd5 27. Qxd5 Qa7+ 28. Kh1 Qc5 29. Qd2 $1 d5 30. Re5 a4 31.
+bxa4 h5 $2 (31... Kg7 {prolongs the game.}) 32. f4 $1 Rbc8 33. f5 Qxc3 34. Qh6
+{The final standings became: Topalov 7/10, Aronian 51/2, Bu Xiangzhi 5,
+Svidler 41/2, Movsesian and Ivanchuk 4.} (34. Qh6 gxf5 35. R5e3 $1 {
+wins quickly.}) 1-0
+
+[Event "Pearl Spring 2"]
+[Site "Nanjing"]
+[Date "2009.09.28"]
+[Round "1"]
+[White "Carlsen, Magnus"]
+[Black "Leko, Peter"]
+[Result "1-0"]
+[ECO "C45"]
+[WhiteElo "2772"]
+[BlackElo "2762"]
+[Annotator "JvR"]
+[PlyCount "87"]
+[EventDate "2009.09.??"]
+[SourceDate "2009.01.28"]
+
+{The second Pearl Spring tournament was played from 28 ix until 9 x 2009 in
+Nanjing. Prize money was 250,000 euro.   Magnus Carlsen had trained with Gary
+Kasparov. They analysed the Scotch Game.} 1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4.
+Nxd4 Bc5 5. Be3 Qf6 6. c3 Nge7 7. Bc4 Ne5 8. Be2 Qg6 9. O-O d6 10. f4 Qxe4 11.
+Bf2 Bxd4 12. cxd4 N5g6 13. g3 O-O 14. Nc3 Qf5 15. d5 a6 $5 16. Re1 Kh8 $5 {
+A square is vacated for a knight.} ({The alternative is} 16... Re8 17. Bf3 Bd7)
+17. Rc1 Bd7 18. Bf3 Rac8 19. Qb3 b5 20. Ne2 Qh3 21. Nd4 Bg4 $2 {
+Black allows a further restraint.} ({Better is} 21... Ng8 $1 22. Nc6 Nf6 23.
+Bg2 Qf5 {(Leko).}) 22. Bg2 Qh5 23. h4 $1 {
+Black pieces are restricted on the kingside.} Ng8 $2 (23... Rfe8 $1 24. Nc6
+Nxc6 25. Rxc6 Rxe1+ 26. Bxe1 Qf5 $1 27. Qc2 Qxc2 28. Rxc2 Ne7 29. Ba5 Nf5 30.
+Kf2 Re8 31. Bf1 Ne3 $1 {might bring survival in the endgame.}) 24. Rc6 $1 Nf6 {
+The queenside cannot be protected.} 25. Rxa6 {
+White has gained a pawn. Another one will fall.} Bd7 26. Nxb5 Rb8 27. a4 Ng4
+28. Bf3 Qh6 29. Qc4 Nxh4 $5 30. Bxg4 Bxg4 31. gxh4 Bf3 32. f5 Qh5 33. Qf4 Bxd5
+34. Nxc7 Bb7 35. Rb6 f6 36. Bd4 Qf7 37. Ne6 Rg8 38. Kf2 Rbc8 39. Bc3 Bd5 40. a5
+Rc4 41. Nd4 Ba8 42. Qxd6 Qh5 43. Qf4 Rcc8 44. Rbe6 {The preparation paid off.}
+1-0
+
+[Event "Pearl Spring 2"]
+[Site "Nanjing"]
+[Date "2009.09.29"]
+[Round "2"]
+[White "Carlsen, Magnus"]
+[Black "Topalov, Veselin"]
+[Result "1-0"]
+[ECO "E90"]
+[WhiteElo "2772"]
+[BlackElo "2813"]
+[Annotator "JvR"]
+[PlyCount "81"]
+[EventDate "2009.09.??"]
+[SourceDate "2009.01.28"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. h3 Na6 7. Be3 e5 8. d5 c6
+9. g4 Nc5 10. Nd2 a5 11. a3 Nfd7 $5 12. Rg1 $5 {White allows the next move.} a4
+13. Qc2 Nb6 14. O-O-O $1 {He wants to attack on the other flank.} Bd7 15. Kb1
+cxd5 $2 {Hereafter, Black has no counter-play.} ({Preferable is} 15... Rc8) 16.
+cxd5 Rc8 17. Bb5 $1 {Black becomes weakened on the white squares.} Bxb5 18.
+Nxb5 Qd7 19. Nc3 Bf6 20. g5 $1 Bd8 21. h4 $1 {
+White starts an attack on the kingside, while Black cannot counter.} Na8 $6 {
+Black prepares ..b5.} (21... Nb3 $5 22. Nxb3 axb3 23. Qxb3 Nc4 24. Nb5 Nxe3 25.
+fxe3 {costs a pawn (Zagrebelny).}) 22. Bxc5 Rxc5 23. Qxa4 {
+Carlsen has gained a pawn.} Qc8 24. Rc1 Nb6 25. Qd1 Qh3 26. Qf3 Qd7 27. Qd3 Kg7
+28. Rc2 f6 29. gxf6+ Rxf6 30. h5 $1 Rxf2 31. hxg6 h6 $5 ({Or} 31... hxg6 32.
+Rxg6+ $1 Kxg6 33. Qg3+ Bg5 34. Qxf2) 32. Nd1 $1 Rxc2 33. Nxf2 $1 Rc8 34. Ng4
+Bg5 35. Nf3 Nc4 36. Nxg5 hxg5 37. Ne3 $5 Nxe3 38. Qxe3 Qa4 39. Qxg5 Qxe4+ 40.
+Ka1 Re8 41. Rc1 $1 {The tournament was decided after two rounds, but many fine
+games followed. Carlsen got 80,000 euro as first prize.} 1-0
+
+[Event "Pearl Spring 2"]
+[Site "Nanjing"]
+[Date "2009.10.01"]
+[Round "4"]
+[White "Jakovenko, Dmitrij"]
+[Black "Carlsen, Magnus"]
+[Result "0-1"]
+[ECO "B92"]
+[WhiteElo "2742"]
+[BlackElo "2772"]
+[Annotator "JvR"]
+[PlyCount "126"]
+[EventDate "2009.09.??"]
+[SourceDate "2009.01.28"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be7 8. O-O
+O-O 9. Be3 Be6 10. Qd2 Nbd7 11. a4 Nb6 12. a5 Nc4 13. Bxc4 Bxc4 14. Rfd1 Rc8
+15. f3 Rc6 16. Kh1 $5 ({Known is} 16. Bb6 Qc8 17. Qe1 {
+(Motylev - Nepomniachtchi, Novokuznetsk 2008).}) 16... Qc8 17. Rac1 Rd8 18. Nd5
+Bxd5 19. exd5 Rc4 20. Qd3 e4 $1 21. fxe4 Rxe4 22. c4 Re8 23. Bg1 $5 Bf8 24. Nd4
+$5 g6 25. Rf1 Bh6 26. Qf3 Rf4 $5 ({Incorrect is} 26... Bxc1 $2 27. Qxf6 Bxb2
+28. Qxf7+ Kh8 {(Ftacnik)} 29. Ne6 $1 {and White plays for a win.}) 27. Qd3 Ng4
+28. Nf3 $6 {He should exchange the rooks.} Rfe4 29. Rc3 Ne3 $5 30. Re1 Qg4 31.
+Re2 Qh5 32. Bxe3 Rxe3 33. Rxe3 Bxe3 $6 {Black captures with the wrong piece.}
+34. Qe2 Qh6 35. c5 $5 dxc5 36. d6 Re6 $1 37. d7 {
+Suddenly White has a strong passed pawn.} Bg5 38. Qd1 $6 (38. Nxg5 $1 Qxg5 39.
+Qd1 {gains an advantage.}) 38... Bd8 39. Rxc5 Qf8 40. Rd5 $6 (40. Rc4 $1 Rd6
+41. Rd4 Rxd4 42. Qxd4 Bxa5 43. Qe5 {keeps the equality.}) 40... Qb4 $1 41. b3
+Re3 42. Nd2 Qc3 43. Nf3 Qb4 $6 {Black could have captured pawn b3.} 44. Nd2 Qf4
+45. Nf3 Rc3 46. Qe2 Qe3 47. Qxe3 Rxe3 48. Rd4 $5 Kf8 49. Rb4 $2 ({Better is} 
+49. b4 f5 50. Kg1 Ke7 51. Kf2 Re4 52. Rxe4+ fxe4 53. Nd4 Kxd7 54. Ke3 Be7 55.
+b5 axb5 56. Nxb5 Bc5+ 57. Kxe4 Kc6 58. Nc3 Bb4 {but Black has winning chances.}
+) 49... Rd3 $1 50. Rxb7 Rd1+ 51. Ng1 Bxa5 52. g4 Ke7 53. Kg2 Rxd7 54. Rxd7+
+Kxd7 55. Kf3 Kd6 56. Ke4 Kc5 57. Kd3 Kd5 58. Nf3 Bd8 59. h3 h6 60. h4 $5 ({Or} 
+60. Nd4 Bb6 61. Ne2 Ke5) 60... h5 $1 61. gxh5 gxh5 62. Ke3 Kc5 63. Kd3 Kb4 {
+Magnus had to make a great effort.} (63... Kb4 64. Kc2 Bf6 $1 {
+leads to zugzwang.}) 0-1
+
+[Event "Pearl Spring 2"]
+[Site "Nanjing"]
+[Date "2009.10.02"]
+[Round "5"]
+[White "Carlsen, Magnus"]
+[Black "Radjabov, Teimour"]
+[Result "1-0"]
+[ECO "B30"]
+[WhiteElo "2772"]
+[BlackElo "2757"]
+[Annotator "JvR"]
+[PlyCount "49"]
+[EventDate "2009.09.??"]
+[SourceDate "2009.01.28"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 e6 4. O-O Nge7 5. c3 a6 6. Ba4 b5 7. Bc2 Bb7 8. Qe2
+d5 9. e5 d4 10. Be4 Qb6 11. d3 Rd8 12. a4 Nd5 13. axb5 axb5 14. cxd4 cxd4 15.
+Nbd2 Nf4 16. Qd1 Nb4 $2 ({Known is} 16... Nd5 $5) ({Best is} 16... Ng6 $1 17.
+Bxg6 hxg6) 17. Nb3 $1 Bxe4 18. dxe4 {White conquers pawn d4.} Nfd3 19. Bg5 Rc8
+20. Nfxd4 Nxb2 {
+Black has captured a pawn too, but he suffers from a lesser development.} 21.
+Qe2 Nc4 22. Rfc1 Bc5 $5 23. Nxb5 $5 O-O $6 ({The right defence is} 23... Bxf2+
+$1 24. Qxf2 Qxb5 {but} 25. Qg3 $1 h6 26. Bd2 O-O 27. Rxc4 Qxc4 28. Bxh6 {
+wins for White.}) 24. Nxc5 Nxe5 ({Or} 24... Rxc5 25. Be7 Qxb5 26. Bxc5 Qxc5 27.
+Qxc4 {(Ftacnik).}) 25. Be7 $1 {
+Carlsen had won four games and the rest nothing during the first cycle.} ({
+The pointe is} 25. Be7 Rfe8 26. Nd6) 1-0
+
+[Event "Pearl Spring 2"]
+[Site "Nanjing"]
+[Date "2009.10.04"]
+[Round "6"]
+[White "Jakovenko, Dmitrij"]
+[Black "Topalov, Veselin"]
+[Result "0-1"]
+[ECO "D90"]
+[WhiteElo "2742"]
+[BlackElo "2813"]
+[Annotator "JvR"]
+[PlyCount "58"]
+[EventDate "2009.09.??"]
+[SourceDate "2009.01.28"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. Qa4+ Bd7 6. Qb3 dxc4 7. Qxc4 O-O 8.
+Bf4 Na6 9. e4 c5 10. e5 Nh5 11. Be3 cxd4 12. Qxd4 Bc6 13. Be2 Qa5 14. O-O Nb4
+$6 ({Preferable is} 14... Bxf3 15. Bxf3 Bxe5 {
+(Sokolov - Van Wely, Belgium 2003).}) 15. Qh4 Nc2 $5 16. g4 $1 Nxe3 $2 (16...
+Nxa1 17. Rxa1 Qb4 $1 18. gxh5 Qxb2 {leads to great complications (Krasenkow).})
+17. fxe3 Bh6 18. Nd1 Kh8 19. gxh5 {White has won a piece.} Rg8 20. Kf2 Rad8 21.
+hxg6 $2 (21. b4 $1 Qa4 22. Qxe7 {decides the game.}) 21... Bxf3 22. Kxf3 Rxg6
+23. Qe4 f5 $5 24. Qc4 Qd2 25. Rc1 $2 ({The tactical line} 25. Rf2 $1 Qe1 26.
+Bd3 Rg4 27. Qc2 Rg7 $1 28. e6 f4 29. exf4 Rd4 30. Be4 Rg8 31. Ne3 $1 Qxa1 32.
+Nf5 Qh1+ 33. Ke3 Rxe4+ $1 34. Qxe4 Qe1+ 35. Re2 Qc1+ {leads to perpetual check.
+}) 25... Rc6 $1 26. Qh4 Qxc1 {Black has gained a rook.} 27. Qxe7 Rg8 28. e6 Qd2
+29. Kf2 f4 {The tables turned.} 0-1
+
+[Event "Pearl Spring 2"]
+[Site "Nanjing"]
+[Date "2009.10.06"]
+[Round "8"]
+[White "Carlsen, Magnus"]
+[Black "Wang Yue"]
+[Result "1-0"]
+[ECO "D17"]
+[WhiteElo "2772"]
+[BlackElo "2736"]
+[Annotator "JvR"]
+[PlyCount "137"]
+[EventDate "2009.09.??"]
+[SourceDate "2009.01.28"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4 5. a4 Bf5 6. Ne5 Nbd7 7. Nxc4 Qc7 8.
+g3 e5 9. dxe5 Nxe5 10. Bf4 Nfd7 11. Bg2 g5 12. Ne3 gxf4 13. Nxf5 O-O-O 14. Qc2
+Ng6 15. O-O Kb8 16. Rfc1 a5 17. b4 axb4 18. Nb5 Qe5 19. Nbd4 Bc5 20. Nb3 h5 $5
+({Known is} 20... fxg3 21. hxg3 h5 22. e3 $1) 21. Rab1 $6 ({Better is} 21. a5
+fxg3 22. hxg3) 21... Ba7 $1 22. Bxc6 {White cannot play e3.} fxg3 $1 23. hxg3
+Rc8 $6 {Wang misses the opportunity.} (23... Ne7 $3 24. Nbd4 Bxd4 25. Rxb4 Nxc6
+26. Qxc6 Bb6 {achieves an advantage (Rogers).}) 24. Qd3 bxc6 $5 25. Qxd7 Rc7
+26. Qd3 h4 27. Nbd4 hxg3 $5 28. Rxb4+ Ka8 29. Nxg3 Rd8 $5 30. e3 Nh4 $5 31. Kf1
+$1 Qa5 $2 32. Rcb1 $2 {Both sides fail.} (32. Rxc6 $1 Rxd4 (32... Rxc6 33. Nxc6
+Rxd3 34. Nxa5 $18) 33. Rxd4 Rxc6 34. Rxh4 {gains another pawn (Rogers).}) 32...
+Nf3 33. Nb3 Qd5 34. Qxd5 cxd5 35. Rd1 Rc2 36. Rf4 Ne5 37. Nd4 Rc4 38. Nde2 Rxf4
+39. Nxf4 d4 40. Nge2 Nc6 41. e4 {
+White has kept his material plus after the time control.} Rb8 42. Nd5 Rb2 43.
+Nef4 Kb7 44. Nd3 Rb3 45. Ke2 Ra3 46. f4 $5 {
+Carlsen gives his extra pawn for the initiative.} Rxa4 47. Rb1+ Kc8 48. Rc1 Kb7
+49. e5 Ra3 50. Rh1 Ra5 51. Nf6 Bb8 $1 52. Rb1+ Kc8 53. Rc1 Kb7 54. Ne4 Ra3 $1
+55. Rh1 Bxe5 56. fxe5 Nxe5 57. Nd6+ Ka6 {The endgame is drawn.} 58. Nb4+ $5 Kb6
+59. Rc1 Re3+ $2 ({Correct is} 59... Ra5 60. Rb1 Kc7 $11) 60. Kd1 Rb3 $6 ({
+Better chances brings} 60... Ka5 $1 61. Nd5 Re1+ $1 62. Kxe1 Nd3+ 63. Kd2 Nxc1
+64. Kxc1 f5 65. Nf4 $1 {White can deliver mate in 47 moves, but the solution
+will be hard to find over-the-board (Müller).}) 61. Nd5+ Ka7 62. Ra1+ Kb8 63.
+Kc2 $1 Rh3 64. Rb1+ Ka7 65. Rb7+ Ka6 66. Rb6+ Ka5 67. Rb5+ Ka4 ({Or} 67... Ka6
+68. Nc7+ Ka7 69. Rb7#) 68. Nb6+ Ka3 69. Rxe5 {
+White wins easily, if he does not exchange the rooks.} 1-0
+
+[Event "Pearl Spring 2"]
+[Site "Nanjing"]
+[Date "2009.10.06"]
+[Round "8"]
+[White "Jakovenko, Dmitrij"]
+[Black "Radjabov, Teimour"]
+[Result "1-0"]
+[ECO "B78"]
+[WhiteElo "2742"]
+[BlackElo "2757"]
+[Annotator "JvR"]
+[PlyCount "143"]
+[EventDate "2009.09.??"]
+[SourceDate "2009.01.28"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 Nc6 8. Qd2
+O-O 9. Bc4 Bd7 10. O-O-O Rc8 11. Bb3 Nxd4 12. Bxd4 b5 13. h4 e6 $6 {
+Radjabov controls square d5 but weakens pawn d6.} 14. a3 $1 a5 15. h5 Qe7 $6 {
+He hesitates.} 16. hxg6 hxg6 17. g4 $5 b4 18. axb4 axb4 19. Na2 $1 Ra8 $5 20.
+g5 Nh5 21. Bxg7 Kxg7 22. Qxd6 Qxd6 23. Rxd6 {White has gained a pawn.} Ba4 24.
+Bc4 $5 Rfc8 25. b3 Bb5 26. Bxb5 Rxa2 27. Rh2 {
+Black has a difficult endgame. He will be pushed back slowly.} Rc5 28. Kb1 Ra5
+29. Bc4 Rxg5 30. Rb6 Nf4 31. Rxb4 Rg3 32. Rf2 Rh5 33. Rb7 $1 Kf6 (33... Nh3 $5
+34. Rf1 Ng5 35. Kb2 Rxf3 36. Rxf3 Nxf3 37. Bxe6 {leads to a strong attack.})
+34. Kb2 g5 35. b4 Rh8 36. b5 Ke5 37. b6 $1 Kd4 $5 38. Rc7 Rb8 39. b7 Rxb7+ $5
+40. Rxb7 Kxc4 41. Rxf7 Kd4 42. Ra7 Ke3 43. Rf1 Ng6 44. e5 Kf4 45. Ra4+ Kf5 46.
+c4 Nxe5 47. c5 Rh3 48. Rd4 Kf6 49. Rc1 Rh7 50. Rc3 Rc7 51. Kb3 Nc6 52. Rd6 Ke7
+53. Re3 Nd8 54. Kb4 Rc8 55. Ra6 Nc6+ 56. Kb5 Nd4+ 57. Kc4 Nc6 58. Rb6 Kf6 59.
+Rc3 Ke5 60. Kb5 Nd4+ 61. Ka6 Kf4 62. Kb7 Rf8 63. c6 e5 64. c7 Nxf3 65. c8=Q
+Rxc8 66. Rxc8 g4 67. Rf8+ Kg3 68. Re6 Kg2 69. Rg8 Kh3 70. Kb6 Nd2 71. Rh6+ Kg3
+72. Kc5 1-0
+
+[Event "Pearl Spring 2"]
+[Site "Nanjing"]
+[Date "2009.10.06"]
+[Round "8"]
+[White "Leko, Peter"]
+[Black "Topalov, Veselin"]
+[Result "0-1"]
+[ECO "D72"]
+[WhiteElo "2762"]
+[BlackElo "2813"]
+[Annotator "JvR"]
+[PlyCount "80"]
+[EventDate "2009.09.??"]
+[SourceDate "2009.01.28"]
+
+1. d4 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 d5 5. cxd5 Nxd5 6. e4 Nb6 7. Ne2 c5 8. d5
+e6 9. O-O O-O 10. Nbc3 Na6 11. Nf4 e5 12. Nd3 c4 13. Ne1 Bd7 14. Qe2 Nc5 15.
+Be3 Rc8 16. Nf3 Qe8 $5 ({Known is} 16... Qe7) 17. Nd2 f5 18. exf5 gxf5 19. Nxc4
+Nxc4 20. Qxc4 {Black has counter-play for the pawn.} Ne4 $6 ({Better is} 20...
+b5 $1 21. Qh4 e4 {(Krasenkow).}) 21. Qb4 Nxc3 22. bxc3 f4 23. Bc5 $2 (23. Bxa7
+f3 24. Bh1 b5 $5 25. a4 e4 26. Bc5 {
+favours White, despite the imprisonment of a bishop (Mikhalchishin).}) 23... f3
+$1 24. Bxf8 ({Or} 24. Bh1 Rf4 $1) 24... Bxf8 25. Qxb7 fxg2 26. Kxg2 Qf7 $1 {
+Topalov takes the initiative.} 27. Rab1 (27. Qb3 e4 28. c4 Rxc4 $1 29. Qxc4 $2
+Qf3+ 30. Kg1 Bh3 {leads to mate (Krasenkow).}) 27... e4 $5 28. f4 Rxc3 29. Rb3
+Rd3 (29... Rc2+ $1 30. Rf2 Bh3+ $1 {decides the game quickly.}) 30. f5 $5 Rd2+
+31. Rf2 Rxf2+ 32. Kxf2 Qxf5+ 33. Ke1 Bc5 $1 34. Qb8+ Kf7 35. Qf4 Qxf4 36. gxf4
+Ke7 37. Rg3 Kd6 38. Rg7 h5 39. Rg5 e3 40. Ke2 Bb5+ {
+Topalov achieved the second place in the tournament.} 0-1
+
+[Event "Pearl Spring 2"]
+[Site "Nanjing"]
+[Date "2009.10.09"]
+[Round "10"]
+[White "Carlsen, Magnus"]
+[Black "Jakovenko, Dmitrij"]
+[Result "1-0"]
+[ECO "D31"]
+[WhiteElo "2772"]
+[BlackElo "2742"]
+[Annotator "JvR"]
+[PlyCount "75"]
+[EventDate "2009.09.??"]
+[SourceDate "2009.01.28"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Be7 4. cxd5 exd5 5. Bf4 c6 6. Qc2 Bd6 7. Bxd6 Qxd6 8.
+e3 Ne7 9. Bd3 b6 10. Nf3 Ba6 11. O-O Bxd3 12. Qxd3 Nd7 $5 ({Known is} 12... O-O
+) 13. e4 $1 O-O ({The pointe is} 13... dxe4 $2 14. Nxe4 Qe6 15. Qa3 O-O $2 16.
+Nfg5 {and White wins (Krasenkow).}) 14. e5 Qe6 15. Rae1 Rfe8 16. Nh4 $1 Ng6 17.
+Nxg6 Qxg6 18. Qd2 {White controls more territory.} Nf8 19. f4 $1 {
+A pawn avalanche in the style of Philidor threatens.} Qf5 $2 (19... f5 $1 {
+stops the advance on the kingside. Then White has to start a minority attack.})
+20. Nd1 f6 $6 ({The artificial} 20... Ne6 $5 21. Ne3 Qe4 22. Nc2 Qf5 {
+tries to halt the pawns.}) 21. Ne3 Qd7 22. Qd3 fxe5 23. dxe5 $1 Ne6 24. f5 Nc5
+25. Qd4 Ne4 $5 ({No use has} 25... Rad8 $6 26. f6 Qf7 27. Nf5) 26. Nxd5 $1 Qxd5
+({Or} 26... cxd5 27. Rxe4 $1) 27. Qxe4 Rad8 28. e6 $5 Qxe4 29. Rxe4 Rd6 $5 30.
+g4 Kf8 31. g5 Ke7 32. Kg2 Rd5 33. Kg3 Kd6 34. h4 c5 35. f6 $1 gxf6 36. gxf6
+Rd3+ 37. Kh2 Rd2+ 38. Kh1 {The final standings became: Carlsen 8/10, Topalov
+51/2, Wang Yue 41/2, Radjabov, Leko and Jakovenko 4. Young Carlsen scored a
+big success!} 1-0
+
+[Event "Pearl Spring 3"]
+[Site "Nanjing"]
+[Date "2010.10.20"]
+[Round "1"]
+[White "Carlsen, Magnus"]
+[Black "Bacrot, Etienne"]
+[Result "1-0"]
+[ECO "C45"]
+[WhiteElo "2826"]
+[BlackElo "2716"]
+[Annotator "JvR"]
+[PlyCount "75"]
+[EventDate "2010.10.??"]
+[SourceDate "2009.01.28"]
+
+{The third Pearl Spring tournament was played in Nanjing from 20 until 30 x
+2010. We follow the twelve decided games.} 1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4.
+Nxd4 Bc5 5. Nb3 Bb6 6. Nc3 Nf6 7. Qe2 O-O 8. Bg5 h6 9. Bh4 a5 10. a4 Nd4 $5 ({
+Known is} 10... d6) 11. Qd3 Nxb3 12. cxb3 Re8 13. O-O-O d6 14. Qc2 $1 Bd7 $2 ({
+Edouard prefers} 14... c6 15. Bc4 Qe7) 15. Bc4 $1 Be6 16. Rhe1 Qe7 17. e5 $1
+dxe5 18. Rxe5 {White threatens Nd5.} Qf8 $1 19. Bxf6 gxf6 20. Re2 Qg7 {
+He has a weak kingside.} 21. Bxe6 $1 Rxe6 22. Rxe6 fxe6 23. Rd3 Kh8 24. Rg3 Qh7
+25. Qd2 Bc5 26. Ne4 Be7 27. Rh3 Kg7 $2 (27... Rd8 $1 28. Rxh6 Rxd2 29. Rxh7+
+Kxh7 30. Kxd2 f5 31. Nc3 Kg6 {leads to positional compensation for a pawn.})
+28. Qd7 Kf7 29. Ng5+ $1 fxg5 30. Rf3+ Kg8 31. Qxe6+ Kh8 32. Rf7 Bd6 33. Rxh7+
+Kxh7 34. Qf7+ Kh8 35. g3 Ra6 36. Kb1 Bb4 37. f4 gxf4 38. gxf4 {
+The passed pawn marshes towards f6.} 1-0
+
+[Event "Pearl Spring 3"]
+[Site "Nanjing"]
+[Date "2010.10.22"]
+[Round "3"]
+[White "Carlsen, Magnus"]
+[Black "Wang Yue"]
+[Result "1-0"]
+[ECO "C43"]
+[WhiteElo "2826"]
+[BlackElo "2732"]
+[Annotator "JvR"]
+[PlyCount "75"]
+[EventDate "2010.10.??"]
+[SourceDate "2009.01.28"]
+
+1. e4 e5 2. Nf3 Nf6 3. d4 Nxe4 4. Bd3 d5 5. Nxe5 Nd7 6. Nxd7 Bxd7 7. O-O Bd6 8.
+Qh5 Nf6 9. Re1+ Kf8 10. Qe2 Ng4 11. h3 Qh4 12. Qf3 Bh2+ 13. Kf1 Nxf2 14. Qxf2
+Bg3 15. Qd2 Qf6+ 16. Kg1 Bxe1 17. Qxe1 Qxd4+ 18. Kh2 {
+A long theoretical line has led to a white advantage.} Re8 $5 (18... f6 {
+occurred in Can - Yaksin, Guziantep 2008.}) 19. Qg3 Qe5 (19... h5 $5 20. Nc3 $1
+Kg8 21. Qxc7 Bxh3 $1 22. Nxd5 $1 Qxd5 23. gxh3 Qf3 24. Qg3 {also favours White.
+}) 20. Qxe5 Rxe5 21. Bf4 $1 Re1 {Black restraints the queenside.} 22. Bxc7 {
+Carlsen has calculated this capture well.} a6 23. Ba5 Rd1 24. a4 $1 {
+He prevents ..Bb5.} Ke7 25. Bd2 Rc8 26. c3 $1 {White threatens 27.Be2!} d4 27.
+c4 g6 28. Be2 {He liberates his rook.} Bxa4 29. Bb4+ Ke6 30. Bxd1 Bxd1 31. Nd2
+Be2 32. b3 f5 33. Kg3 Rd8 34. Kf2 d3 35. Bc3 Kf7 36. Nf3 f4 37. Ng5+ Kg8 38.
+Ne6 {Carlsen had won for the second time.} 1-0
+
+[Event "Pearl Spring 3"]
+[Site "Nanjing"]
+[Date "2010.10.22"]
+[Round "3"]
+[White "Gashimov, Vugar"]
+[Black "Bacrot, Etienne"]
+[Result "0-1"]
+[ECO "A29"]
+[WhiteElo "2719"]
+[BlackElo "2716"]
+[Annotator "JvR"]
+[PlyCount "90"]
+[EventDate "2010.10.??"]
+[SourceDate "2009.01.28"]
+
+1. c4 Nf6 2. Nc3 e5 3. Nf3 Nc6 4. g3 g6 5. d4 exd4 6. Nxd4 Bg7 7. Nxc6 dxc6 8.
+Qxd8+ Kxd8 9. Bd2 Be6 10. Rd1 $5 Kc8 11. b3 a5 12. Bg2 a4 $1 {
+Black begins an attack on the queenside.} 13. Nxa4 Bxc4 14. Nb6+ $2 ({
+Correct is} 14. Bc3 Re8 15. Rd2) 14... cxb6 15. bxc4 Rxa2 16. O-O $6 ({
+Preferable is} 16. Bh3+ $1 Kb8 17. O-O) 16... Ng4 $1 17. Bh3 f5 18. e4 Bd4 $1
+19. exf5 gxf5 20. Bxg4 fxg4 21. Bf4 Bc5 22. Ra1 $5 Bxf2+ $1 23. Kg2 Rxa1 24.
+Rxa1 Bd4 25. Ra8+ Kd7 26. Ra7 $1 Ke6 27. Rxb7 Kf5 $5 28. h3 h5 29. hxg4+ hxg4
+30. Rc7 c5 31. Rb7 Ra8 32. Rxb6 Ra4 33. Rb8 Ra2+ $5 34. Kf1 $5 Ke4 35. Bd6 Kd3
+36. Rf8 Ra6 $6 37. Be7 $6 (37. Bxc5 $1 Bxc5 38. Rg8 Ra2 $1 39. Rxg4 Rf2+ 40.
+Ke1 Be3 $1 41. Rh4 {(Tadic)} Rf3 $1 42. Rh1 Bd2+ 43. Kd1 Rf6 44. g4 Rf4 $1 45.
+Rh3+ Be3 46. Ke1 Rxc4 47. Kf1 Rxg4 48. Rh1 Kd2 49. Rh2+ Kd1 {leads to mate.})
+37... Re6 38. Bh4 Kxc4 39. Rf4 Kd3 $1 40. Rxg4 c4 41. Rg8 c3 42. Bg5 c2 43. Rc8
+Be3 44. Bxe3 Rxe3 45. Kf2 Re4 {Bacrot played a fine endgame.} 0-1
+
+[Event "Pearl Spring 3"]
+[Site "Nanjing"]
+[Date "2010.10.22"]
+[Round "3"]
+[White "Topalov, Veselin"]
+[Black "Anand, Viswanathan"]
+[Result "0-1"]
+[ECO "D57"]
+[WhiteElo "2803"]
+[BlackElo "2800"]
+[Annotator "JvR"]
+[PlyCount "66"]
+[EventDate "2010.10.??"]
+[SourceDate "2009.01.28"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Be7 5. Bg5 h6 6. Bh4 O-O 7. e3 Ne4 8. Bxe7
+Qxe7 9. cxd5 Nxc3 10. bxc3 exd5 11. Qb3 Rd8 12. c4 Be6 13. c5 b6 14. Rc1 bxc5
+15. Qa3 Nd7 16. Bb5 Bg4 $1 {Anand makes an improvement.} (16... Rab8 17. Bxd7
+Qxd7 18. Qxc5 Qb5 19. Qxb5 Rxb5 {drew in Malakhatko - Jojua, Manama 2009.}) 17.
+Bxd7 Rxd7 $1 18. Qxc5 Qe4 19. Rg1 $5 Re8 $1 {He plans a sacrifice.} 20. Qb5 (
+20. Ne5 $6 Rxe5 $1 21. dxe5 d4 22. h3 dxe3 23. fxe3 Rd3 24. Kf2 Bxh3 $1 25.
+gxh3 Rd2+ 26. Kg3 h5 $1 {wins for Black (Anand).}) 20... Rdd8 21. Qe2 Rb8 22.
+h3 Bxf3 23. gxf3 ({The pointe is} 23. Qxf3 Qxd4) 23... Qf5 $1 24. f4 $6 (24.
+Rg3 Rb1 25. Kd1 Rxc1+ 26. Kxc1 c5 27. Qb5 {offers more resistance.}) 24... Rb1
+25. Rxb1 Qxb1+ 26. Qd1 Rb8 27. Ke2 Qf5 $1 {He keeps the attack going.} (27...
+Rb2+ 28. Kf3 Qxa2 29. Qf1 {allows a defence (Anand).}) 28. Rh1 Rb2+ 29. Kf3 h5
+$1 30. a4 ({Or} 30. Rh2 h4 $1 31. Kg2 Rb1) 30... Qe4+ 31. Kg3 h4+ 32. Kxh4 Rxf2
+33. Qg4 Rg2 {The world champion attacked wonderfully.} 0-1
+
+[Event "Pearl Spring 3"]
+[Site "Nanjing"]
+[Date "2010.10.23"]
+[Round "4"]
+[White "Bacrot, Etienne"]
+[Black "Anand, Viswanathan"]
+[Result "1-0"]
+[ECO "D17"]
+[WhiteElo "2716"]
+[BlackElo "2800"]
+[Annotator "JvR"]
+[PlyCount "91"]
+[EventDate "2010.10.??"]
+[SourceDate "2009.01.28"]
+
+1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. Nf3 dxc4 5. a4 Bf5 6. Ne5 e6 7. f3 Bb4 8. e4
+Bxe4 9. fxe4 Nxe4 10. Bd2 Qxd4 11. Nxe4 Qxe4+ 12. Qe2 Bxd2+ 13. Kxd2 Qd5+ 14.
+Kc3 O-O 15. Qe3 b5 16. Be2 Nd7 17. Nxd7 Qxd7 18. Rhd1 $5 ({Usual is} 18. Qc5)
+18... Qe7 19. Kc2 a5 20. Bf3 Rac8 21. Qe5 g6 $6 (21... Qb4 {
+keeps four extra pawns.}) 22. axb5 cxb5 23. Qxb5 Rc5 24. Qd7 Qg5 25. Qd4 Rfc8
+26. Ra3 Rb5 27. Rd2 Rb4 28. Kd1 Rcb8 29. Ke2 Qb5 30. Ke1 Rxb2 $6 {
+The exchanges favour White.} ({More solid is} 30... a4) 31. Rxb2 Qxb2 32. Qxb2
+Rxb2 33. Rxa5 c3 34. Rc5 Rb1+ 35. Ke2 Rc1 36. Kd3 Kg7 37. Rxc3 Rxc3+ 38. Kxc3 {
+If Black eliminates the white g-pawn, he draws the endgame.} f5 39. Kd4 Kf6 40.
+Bd1 h5 41. Bf3 h4 42. Be2 g5 $2 {Anand misses an ingenious escape in the
+ending of bishop and two pawns versus four pawns. One needs a computer to find
+the solution.} ({Right is} 42... e5+ $1 43. Kd5 e4 44. Bd1 Kg5 $1 45. Ke5 f4
+46. h3 ({or} 46. Kxe4 h3 47. g3 fxg3 48. hxg3 h2 49. Bf3 h1=Q 50. Bxh1 Kg4 $11)
+46... f3 $1 47. gxf3 exf3 48. Bxf3 Kh6 49. Kf6 Kh7 50. Kf7 Kh8 51. Bd5 Kh7 52.
+Bc4 Kh8 53. Kf8 Kh7 54. Be6 Kh6 55. Kg8 g5 56. Bg4 Kg6 57. Kf8 Kf6 58. Ke8 Ke5
+$1 {and Black has achieved a theoretical draw (Bacrot).}) 43. Ba6 $1 g4 ({
+The pointe is} 43... e5+ 44. Kd5 e4 45. Bf1 g4 46. Kd4 Kg5 47. Ke3 h3 48. g3
+f4+ 49. gxf4+ Kf5 50. Ba6 g3 51. Bc8+ Kf6 52. Bxh3 gxh2 53. Bg2 {
+and White wins (Müller).}) 44. Bb7 $1 e5+ 45. Kd5 $1 f4 46. Ke4 {
+The world champion resigned.} 1-0
+
+[Event "Pearl Spring 3"]
+[Site "Nanjing"]
+[Date "2010.10.24"]
+[Round "5"]
+[White "Carlsen, Magnus"]
+[Black "Topalov, Veselin"]
+[Result "1-0"]
+[ECO "C84"]
+[WhiteElo "2826"]
+[BlackElo "2803"]
+[Annotator "JvR"]
+[PlyCount "63"]
+[EventDate "2010.10.??"]
+[SourceDate "2009.01.28"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. d3 b5 7. Bb3 d6 8. a4
+Rb8 9. axb5 axb5 10. Nbd2 O-O 11. Re1 Bd7 12. c3 Ra8 13. Rxa8 Qxa8 14. d4 h6 $5
+15. Nf1 Re8 16. Ng3 Qc8 17. Nh4 Bf8 $2 ({Preferable is} 17... Na5 $1 18. Ba2
+Nc4) 18. Ng6 $1 Na5 19. Nxf8 {Magnus exchanges a defender.} Rxf8 20. Bc2 {
+White aims his two bishops on the kingside.} Re8 21. f4 $1 Bg4 22. Qd3 exf4 $6
+{He allows the development of a bishop.} ({Analysts mention} 22... Qb8) 23.
+Bxf4 Nc4 24. Bc1 $1 c5 $5 25. Rf1 $1 cxd4 26. cxd4 Qd8 27. h3 Be6 28. b3 $1 Qa5
+$1 29. Kh2 $1 {Hereafter, Black cannot deliver a check on e1.} Nh7 (29... Rc8
+30. e5 dxe5 31. Rxf6 $1 gxf6 32. Bxh6 {ends the game.}) 30. e5 g6 31. d5 $1
+Nxe5 32. dxe6 $1 {Carlsen led by 4/5.} ({The pointe is} 32. dxe6 Nxd3 33. exf7+
+Kf8 34. Bxh6+ Ke7 35. fxe8=Q+ Kxe8 36. Bxd3 {(Marjanovic).}) 1-0
+
+[Event "Pearl Spring 3"]
+[Site "Nanjing"]
+[Date "2010.10.24"]
+[Round "5"]
+[White "Wang Yue"]
+[Black "Bacrot, Etienne"]
+[Result "0-1"]
+[ECO "E15"]
+[WhiteElo "2732"]
+[BlackElo "2716"]
+[Annotator "JvR"]
+[PlyCount "86"]
+[EventDate "2010.10.??"]
+[SourceDate "2009.01.28"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Ba6 5. Qa4 Bb7 6. Bg2 c5 7. dxc5 bxc5 8. O-O
+Be7 9. Nc3 O-O 10. Rd1 Qb6 11. Bf4 Rd8 12. Rd2 d6 13. Rad1 h6 14. Qb5 Ne8 15.
+e4 g5 16. Be3 Nd7 17. h4 g4 18. Ne1 Kg7 $5 (18... Qxb5 19. cxb5 Bf8 {
+was played in Navara - Leko, Khanty-Mansiysk 2010.}) 19. Bf4 Bc6 20. Qxb6 axb6
+21. Nc2 Ne5 22. Ne3 Nf3+ $1 23. Bxf3 gxf3 24. h5 Bf6 25. Ng4 Bxc3 26. bxc3 Bxe4
+27. Bxh6+ Kh7 28. Bg5 Rd7 29. Bf4 f6 30. Kh2 $2 ({Correct is} 30. Bxd6 Rad8 31.
+Bf4) 30... e5 31. Nxe5 $6 (31. Be3 Rg7 32. Rxd6 Rxg4 33. Rxb6 Bf5 {
+also costs a piece.}) 31... fxe5 32. Bxe5 Bf5 33. Bxd6 Rad8 34. Bf4 Rxd2 35.
+Rxd2 Rxd2 36. Bxd2 Nd6 37. Bf4 Nxc4 38. g4 Bxg4 39. h6 Be6 40. Kg3 Bd5 41. Kg4
+Nb2 42. a3 Nd1 43. c4 Nxf2+ {
+Bacrot trailed Carlsen by half-a-point after the first cycle.} 0-1
+
+[Event "Pearl Spring 3"]
+[Site "Nanjing"]
+[Date "2010.10.26"]
+[Round "6"]
+[White "Wang Yue"]
+[Black "Anand, Viswanathan"]
+[Result "0-1"]
+[ECO "E11"]
+[WhiteElo "2732"]
+[BlackElo "2800"]
+[Annotator "JvR"]
+[PlyCount "102"]
+[EventDate "2010.10.??"]
+[SourceDate "2009.01.28"]
+
+1. d4 Nf6 2. c4 e6 3. g3 d5 4. Nf3 Bb4+ 5. Bd2 Be7 6. Bg2 O-O 7. O-O c6 8. Qc2
+b6 9. Bf4 Ba6 10. Ne5 Nfd7 11. Nd2 Nxe5 12. Bxe5 c5 $5 ({Usual is} 12... Nd7)
+13. Qa4 $2 ({Preferable is} 13. dxc5 Nc6 14. Bc3 d4 15. Bxc6 Rc8 16. Bg2 dxc3
+17. Qxc3 Rxc5) 13... Qd7 14. Qxd7 Nxd7 15. cxd5 exd5 16. Rfe1 Nxe5 17. dxe5
+Rad8 18. e3 $2 ({Better is} 18. Rad1 f6 19. Nf3) 18... f6 $1 {
+The two bishops conquer the centre.} 19. f4 $5 fxe5 20. fxe5 Bd3 $5 21. Rad1
+Bc2 22. Rc1 Bg6 23. h4 $5 Rfe8 24. Nf3 Be4 25. Rcd1 Bf8 26. Re2 g6 27. b3 Bg7
+28. Ng5 Bxg2 29. Kxg2 Rxe5 {Black has gained a pawn.} 30. Nf3 Re7 31. Red2 Red7
+32. Rd3 h6 33. a4 Kf7 34. Ng1 Ke6 35. Ne2 g5 $1 36. hxg5 hxg5 37. Kf3 Kf5 $1
+38. g4+ ({The pointe is} 38. Rxd5+ Rxd5 39. e4+ Ke6 40. exd5+ Rxd5) 38... Ke6
+39. Ng3 Rh8 40. Kg2 Rhd8 $5 41. R3d2 $5 Be5 42. Rf2 Bxg3 43. Kxg3 Rf7 44. Rxf7
+Kxf7 45. Kf2 Ke6 46. Rh1 c4 47. Rh6+ Ke5 48. bxc4 dxc4 49. Ke2 c3 $1 50. Rc6
+Rd2+ 51. Ke1 Ra2 {Anand won his second game.} 0-1
+
+[Event "Pearl Spring 3"]
+[Site "Nanjing"]
+[Date "2010.10.27"]
+[Round "7"]
+[White "Topalov, Veselin"]
+[Black "Bacrot, Etienne"]
+[Result "1-0"]
+[ECO "E15"]
+[WhiteElo "2803"]
+[BlackElo "2716"]
+[Annotator "JvR"]
+[PlyCount "73"]
+[EventDate "2010.10.??"]
+[SourceDate "2009.01.28"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Ba6 5. Qc2 Bb7 6. Bg2 c5 7. d5 exd5 8. cxd5
+Nxd5 9. O-O Be7 10. Rd1 Nc6 11. Qf5 Nf6 12. e4 d6 13. e5 Qd7 14. Qf4 $5 (14.
+Qxd7+ Nxd7 15. exd6 Bf6 16. Re1+ Kf8 {happened in Bareev - Polgar, Elista 2007.
+}) 14... Nh5 15. Qc4 O-O 16. Nc3 Rae8 17. Be3 Nb4 18. Rd2 Ba6 19. Qb3 Nd3 20.
+Qa3 Qc8 21. exd6 Bxd6 22. Rad1 Be7 23. Nd5 Nb4 24. Ne5 Nxd5 25. Bxd5 Nf6 26.
+Bg2 c4 27. Qc3 Bb5 28. h3 Bc5 $2 (28... Qe6 {achieves a plus.}) 29. Bxc5 Qxc5
+$2 ({Better is} 29... bxc5 30. Nxc4 Bxc4 31. Qxc4 Re5) 30. Rd5 $1 Nxd5 31. Rxd5
+Qc7 32. Rxb5 Rc8 33. Nc6 Rfe8 34. Rb4 Re2 35. Bf3 Re6 36. Rxc4 Rce8 37. Kg2 {
+Bacrot fell back.} 1-0
+
+[Event "Pearl Spring 3"]
+[Site "Nanjing"]
+[Date "2010.10.29"]
+[Round "9"]
+[White "Topalov, Veselin"]
+[Black "Carlsen, Magnus"]
+[Result "0-1"]
+[ECO "E00"]
+[WhiteElo "2803"]
+[BlackElo "2826"]
+[Annotator "JvR"]
+[PlyCount "66"]
+[EventDate "2010.10.??"]
+[SourceDate "2009.01.28"]
+
+1. d4 Nf6 2. c4 e6 3. g3 Bb4+ 4. Bd2 Bxd2+ 5. Qxd2 d5 6. Bg2 c6 7. Nf3 Nbd7 8.
+O-O b6 9. Rc1 O-O 10. b4 Bb7 11. Qb2 Rb8 $5 12. Nbd2 Qe7 13. e3 Rfc8 14. Rc2 c5
+15. bxc5 bxc5 16. Qa3 Rc6 17. Rac1 Ra6 18. Qd3 h6 19. Qe2 dxc4 20. Qxc4 cxd4
+21. Nxd4 Rb6 22. Bxb7 R8xb7 23. Kg2 Ne5 24. Qc5 Qxc5 25. Rxc5 Rb2 26. R1c2 Nd3
+$1 27. Rc8+ Kh7 28. N4f3 a5 29. h3 a4 30. a3 g5 31. Rxb2 Rxb2 32. Rc3 $2 ({
+Better is} 32. Rc4 e5 33. e4) 32... Nxf2 $1 33. Rc7 $2 ({The pointe is} 33.
+Kxf2 $2 Ne4+) 33... N2e4 $1 {
+Topalov loses a knight. Carlsen has won the tournament.} 0-1
+
+[Event "Pearl Spring 3"]
+[Site "Nanjing"]
+[Date "2010.10.30"]
+[Round "10"]
+[White "Anand, Viswanathan"]
+[Black "Bacrot, Etienne"]
+[Result "1-0"]
+[ECO "E59"]
+[WhiteElo "2800"]
+[BlackElo "2716"]
+[Annotator "JvR"]
+[PlyCount "66"]
+[EventDate "2010.10.??"]
+[SourceDate "2009.01.28"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 c5 6. Nf3 d5 7. O-O Nc6 8. a3
+Bxc3 9. bxc3 dxc4 10. Bxc4 Qc7 11. h3 e5 12. Ba2 e4 13. Nd2 b6 14. Bb2 Bf5 $5
+15. Qe2 Bg6 $5 16. Rfc1 Rad8 17. a4 Bh5 $5 18. Qb5 $1 Rfe8 19. Ba3 g5 $2 {
+Black weakens his position.} ({Preferable is} 19... Na5 20. Rab1 h6) 20. Nf1
+Nd7 21. Ng3 Bg6 22. Rd1 Na5 23. Rd2 h5 24. Rad1 h4 $6 (24... Nb7 $1 25. a5 h4
+26. axb6 axb6 27. Ne2 Nd6 {offers more resistance.}) 25. dxc5 $1 Nxc5 26. Bxc5
+bxc5 27. Nf1 $1 Rb8 28. Rd7 $1 Rxb5 29. Rxc7 Rb2 30. Bd5 Reb8 31. Rxa7 Nb3 32.
+a5 Bh5 33. Re1 Be2 {Anand achieved the second place.} ({Anand has planned} 
+33... Be2 34. Rxf7 Kh8 35. Rxe2 Rxe2 36. a6 {and White wins.}) 1-0
+
+[Event "Pearl Spring 3"]
+[Site "Nanjing"]
+[Date "2010.10.30"]
+[Round "10"]
+[White "Wang Yue"]
+[Black "Topalov, Veselin"]
+[Result "0-1"]
+[ECO "D82"]
+[WhiteElo "2732"]
+[BlackElo "2803"]
+[Annotator "JvR"]
+[PlyCount "82"]
+[EventDate "2010.10.??"]
+[SourceDate "2009.01.28"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Bf4 Bg7 5. e3 c5 6. dxc5 Qa5 7. Qa4+ Qxa4 8.
+Nxa4 Bd7 9. Nc3 Ne4 10. Nxd5 Na6 11. f3 Nexc5 12. O-O-O Rc8 13. Bg5 $5 f6 14.
+Bh4 Kf7 15. Ne2 e6 16. Ndc3 {White has an edge.} Bh6 17. Bf2 e5 18. Kb1 Rhd8
+19. e4 f5 20. Ng3 b6 $5 21. Be2 f4 22. Nf1 Bf8 23. a3 Ne6 24. Nd2 Nac5 25. Nd5
+a5 $6 26. b4 $1 axb4 27. axb4 Ba4 $5 {
+Topalov seeks the confrontation in a poor position.} 28. Rc1 $5 Rb8 $2 ({
+Correct is} 28... Na6) 29. Rc3 $5 Nd4 $5 30. Bxd4 $1 exd4 31. Ra3 b5 32. bxc5
+Bxc5 33. Ra2 $2 (33. Rb3 $1 Bxb3 34. Nxb3 bxc4 35. Bxc4 {wins for White.})
+33... d3 $1 34. Bxd3 bxc4+ 35. Kc1 cxd3 36. Rxa4 Be3 37. Nxe3 $2 {
+The tables are turned.} (37. Rb4 $1 Rdc8+ 38. Kd1 Ra8 39. Rb7+ Kf8 40. Rb1 Ra2
+41. Nf1 Rb2 42. Ra1 Ra2 {draws by a repetition of moves.}) 37... fxe3 38. Nc4
+Rdc8 $1 39. Rd1 Rb3 40. Ra7+ Kg8 41. Ra4 Rc3+ {The final standings became:
+Carlsen 7/10, Anand 6, Bacrot 5, Gashimov and Topalov 41/2, Wang Yue 3.} 0-1
+

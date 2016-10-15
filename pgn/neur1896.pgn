@@ -1,0 +1,615 @@
+[Event "Nuernberg"]
+[Site "?"]
+[Date "1896.??.??"]
+[Round "1"]
+[White "Steinitz, William"]
+[Black "Schallopp, Emil"]
+[Result "1-0"]
+[ECO "D37"]
+[Annotator "JvR"]
+[PlyCount "93"]
+[EventDate "1896.??.??"]
+[Source "ChessBase"]
+[SourceDate "2004.03.11"]
+
+{Games have been selected from this great tournament. New annotations have
+been added.   Jan van Reek.  } 1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Nf3 Be7 5. Bf4
+O-O 6. e3 b6 7. cxd5 exd5 8. Rc1 {The opening makes a modern impression.} 8...
+a6 $6 9. Be2 Bb7 10. O-O Nh5 $5 11. Be5 Nd7 12. Ne1 $6 Nhf6 $1 13. Bg3 Rc8 14.
+Nd3 Ne4 15. Nxe4 dxe4 16. Nf4 c5 $1 17. Bg4 g5 $2 {
+Black overestimates his chances.} ({Equality results from} 17... cxd4 18. Rxc8
+Bxc8 $1 19. Qxd4 Nf6) 18. Nh5 $2 (18. Bf5 $1 gxf4 19. Qg4+ Kh8 20. Qh3 Nf6 21.
+Bh4 {starts a decisive attack.}) 18... f5 19. Qb3+ Kh8 $1 20. dxc5 $1 fxg4 21.
+Rfd1 Bf6 $1 22. Qe6 Nxc5 $2 (22... Rxc5 $1 23. Rxc5 Nxc5 24. Qxf6+ Qxf6 25.
+Nxf6 Nd3 26. Nxg4 h5 {offers a determined resistance.}) 23. Rxd8 Nxe6 24. Rdxc8
+Rxc8 25. Rxc8+ Bxc8 26. Nxf6 Nc5 27. Be5 $1 Kg7 28. Nxe4+ Kg6 29. Nd6 Be6 30.
+a3 Bd5 31. Bd4 Ne4 32. Nc8 Bb7 33. Nxb6 h5 34. Nc4 Bd5 35. Ne5+ Kf5 36. f3 gxf3
+37. gxf3 Nd2 38. e4+ Nxe4 39. fxe4+ Bxe4 40. Kf2 Kf4 41. Nf7 g4 42. Be3+ Kf5
+43. Nd6+ Ke5 44. Nxe4 Kxe4 45. Bg5 Kf5 46. Bd8 Kf4 47. b4 {
+Steinitz played a fine positional game.} 1-0
+
+[Event "Nuernberg"]
+[Site "?"]
+[Date "1896.??.??"]
+[Round "2"]
+[White "Showalter, Jackson"]
+[Black "Tarrasch, Siegbert"]
+[Result "1/2-1/2"]
+[ECO "D20"]
+[Annotator "JvR"]
+[PlyCount "59"]
+[EventDate "1896.??.??"]
+[Source "ChessBase"]
+[SourceDate "2004.03.11"]
+
+1. d4 d5 2. c4 dxc4 3. e3 e5 4. Bxc4 exd4 5. exd4 Nf6 6. Nf3 Be7 7. O-O O-O 8.
+Be3 $6 Nbd7 $1 9. Nc3 Nb6 10. Bb3 Nbd5 11. Bg5 Be6 12. Re1 Re8 $2 13. Bxf6 $1
+gxf6 ({Tarrasch notices the loss of a piece by} 13... Bxf6 14. Nxd5 Bxd5 15.
+Rxe8+) 14. Nxd5 Bxd5 {White has impaired the pawn structure of Black.} 15. Bc2
+$2 ({The line} 15. Nh4 $1 Bxb3 16. Qxb3 Qc8 17. Rac1 c6 18. Qf3 {
+keeps the positional advantage.}) 15... Be6 $1 {
+Black reassembles the defence of the kingside.} 16. Qd3 f5 17. Re5 $5 Bf6 18.
+Rxf5 $5 Bxf5 19. Qxf5 Bg7 $6 ({Correct is} 19... Kf8) 20. Qxh7+ $6 ({
+White misses the chance} 20. Ne5 $1 Bxe5 21. Qxh7+ Kf8 22. dxe5) 20... Kf8 21.
+Bb3 Qf6 22. Qh5 Qg6 23. Qc5+ Re7 24. Nh4 Qd6 25. Qxd6 cxd6 26. Nf5 Re2 27. Rb1
+Rd2 28. Rd1 Rxd1+ 29. Bxd1 Rc8 30. Kf1 1/2-1/2
+
+[Event "Nuernberg"]
+[Site "?"]
+[Date "1896.??.??"]
+[Round "3"]
+[White "Steinitz, William"]
+[Black "Lasker, Emanuel"]
+[Result "0-1"]
+[ECO "C07"]
+[Annotator "JvR"]
+[PlyCount "88"]
+[EventDate "1896.??.??"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. dxc5 Bxc5 5. Nb3 Bb6 6. exd5 Nf6 $1 {
+Lasker avoids the exchange of queens.} 7. Bb5+ ({Not} 7. dxe6 $2 Bxf2+ $1) 7...
+Bd7 8. Bxd7+ Qxd7 9. c4 exd5 10. c5 Bc7 11. Nf3 Nc6 12. O-O O-O 13. Nbd4 Nxd4
+14. Qxd4 Rfe8 15. Be3 Re4 16. Qd3 Rae8 17. Rfd1 h6 18. a3 Qg4 19. b4 g5 $5 {
+Both players attack on the flanks.} 20. Qc3 Qf5 21. Qd3 Qg6 22. Qb5 $2 ({
+Huebner prefers} 22. g3 $1 Ng4 23. Bd4) 22... Qh5 23. Qxb7 Bxh2+ $1 {
+Steinitz' greed is punished.} 24. Nxh2 Rh4 25. f3 ({A subtle defence gives} 25.
+Qc7 $1 Ng4 $1 26. f3 Nxh2 27. Kf2 {but} 27... d4 $1 28. Bxd4 Rf4 29. Be5 Qh4+
+30. Ke2 Ng4 $1 {crushes the resistance.}) 25... Rxh2 26. Qc7 Rh1+ 27. Kf2 Qh4+
+28. Qg3 Qxg3+ $1 29. Kxg3 Rxd1 30. Rxd1 Rxe3 31. Rc1 Ne8 32. a4 Ra3 33. b5 Rxa4
+34. Rb1 Rc4 35. b6 axb6 36. cxb6 Rc8 37. Kg4 Nd6 38. Kh5 Kg7 39. b7 Rb8 40. Rb6
+Nf5 41. f4 gxf4 42. Kg4 Ne3+ 43. Kxf4 Nc4 44. Rb4 Kf6 {
+Lasker started with three wins.} 0-1
+
+[Event "Nuernberg"]
+[Site "?"]
+[Date "1896.??.??"]
+[Round "4"]
+[White "Schlechter, Carl"]
+[Black "Janowsky, Dawid"]
+[Result "0-1"]
+[ECO "C65"]
+[Annotator "JvR"]
+[PlyCount "68"]
+[EventDate "1896.??.??"]
+[Source "ChessBase"]
+[SourceDate "2004.03.11"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d4 Nxe4 5. dxe5 $5 d5 $5 {
+The variation was played in Meijer - D. van Foresst, Utrecht 1886.} 6. Nd4 Bd7
+7. Nb3 $6 Be6 $2 ({Right is} 7... Qh4 $1 8. O-O O-O-O) 8. O-O a6 9. Bxc6+ bxc6
+10. Be3 $1 {A disaster threatens for Black. He has to choose a flight forwards.
+} 10... c5 $1 11. f3 d4 12. Bf4 Ng5 13. h4 Nh3+ 14. gxh3 Qxh4 15. Bh2 Bxh3 16.
+Rf2 c4 $1 17. Nxd4 $2 ({Correct is} 17. N3d2 $1 {(Tarrasch)} 17... O-O-O 18.
+Qe1 {White has a plus.}) 17... Rd8 18. c3 c5 19. Qa4+ Bd7 20. Nc6 Qg5+ 21. Kh1
+Qc1+ (21... Qh6 $1 {decides the game.}) 22. Kg2 Rc8 23. Qc2 $2 ({
+More resistance is offered by} 23. Qxa6 Rxc6 24. Qa8+ Rc8 25. Qe4) 23... Qg5+
+24. Kh1 Bxc6 25. Nd2 Qh4 26. Nf1 Rd8 27. Ng3 Rd3 28. Raf1 g6 29. Ne4 Be7 30.
+Re2 O-O 31. Kg2 Rfd8 32. Rff2 g5 33. Bg3 Qh5 34. Nf6+ $2 Bxf6 {
+Janowsky's courageous counteraction was successful.} 0-1
+
+[Event "Nuernberg"]
+[Site "?"]
+[Date "1896.??.??"]
+[Round "5"]
+[White "Schlechter, Carl"]
+[Black "Winawer, Szymon"]
+[Result "1-0"]
+[ECO "C70"]
+[Annotator "JvR"]
+[PlyCount "59"]
+[EventDate "1896.??.??"]
+[Source "ChessBase"]
+[SourceDate "2004.03.11"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Bc5 5. O-O d6 6. d4 exd4 7. Nxd4 Bd7 8.
+Nxc6 bxc6 9. Nc3 Ne7 10. Qh5 $5 Ng6 11. Bg5 Qc8 12. Qe2 {
+The direct approach had little success.} 12... O-O 13. Be3 Bxe3 14. Qxe3 f5 15.
+exf5 Rxf5 16. f4 Qf8 17. g3 Kh8 18. Ne2 Rf7 19. Nd4 $1 c5 20. Ne6 Qc8 $5 ({
+More solid is} 20... Bxe6 {(Tarrasch)} 21. Qxe6 Re7) 21. Bxd7 Qxd7 22. Ng5 Re7
+23. Qf3 Rae8 $6 ({Better is} 23... Qe8 $1 24. f5 Ne5) 24. f5 Ne5 $2 ({
+Correct is} 24... Nf8 $1 25. f6 gxf6 26. Qxf6+ Kg8 27. Qh6 {
+White only has the better position.}) 25. Qh5 g6 26. fxg6 Nxg6 {
+Schlechter has a nasty trick.} 27. Nxh7 $1 Rxh7 28. Qxg6 Rg7 29. Qh6+ Rh7 $4 {
+Winawer blunders in time trouble.} 30. Rf8+ 1-0
+
+[Event "Nuernberg"]
+[Site "?"]
+[Date "1896.??.??"]
+[Round "6"]
+[White "Maroczy, Geza"]
+[Black "Pillsbury, Harry"]
+[Result "1-0"]
+[ECO "C48"]
+[Annotator "JvR"]
+[PlyCount "65"]
+[EventDate "1896.??.??"]
+[Source "ChessBase"]
+[SourceDate "2004.03.11"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nc3 Nc6 4. Bb5 Bc5 5. O-O O-O 6. Nxe5 Re8 7. Nf3 Nxe4 8.
+d4 Nxc3 9. bxc3 Be7 ({Theory is} 9... Bf8 {(Rosenthal-Gelbfuhs, Vienna 1873).})
+10. d5 Nb8 $5 11. Bf4 a6 12. Ba4 Bf6 $6 13. d6 $1 c6 $2 {
+Black accepts a horrible restraint.} ({Right is} 13... cxd6 14. Bb3 Be5) 14.
+Bb3 b5 15. Qd2 Bb7 16. Ng5 Rf8 17. Ne4 a5 18. a3 Na6 19. Rae1 c5 20. Bd5 Bxd5
+21. Qxd5 b4 22. Re3 Bxc3 23. Rxc3 $5 {Maroczy permits himself a joke.} ({
+Even better is} 23. Bg5 $1 Bf6 24. Bxf6 gxf6 25. Qf5 {(Tarrasch).}) 23... bxc3
+24. Bg5 Nc7 (24... Qb6 25. Nf6+ $1 Kh8 26. Qf5 g6 27. Qh3 h5 28. Nxh5) 25. Qc4
+$1 Qe8 26. dxc7 Qe5 27. Rd1 Rfe8 28. Rxd7 Kh8 29. Qxf7 Qxg5 30. f4 $1 Qg4 31.
+h3 Qxd7 32. Qxd7 Rxe4 33. c8=Q+ 1-0
+
+[Event "Nuernberg"]
+[Site "?"]
+[Date "1896.??.??"]
+[Round "7"]
+[White "Pillsbury, Harry"]
+[Black "Marco, Georg"]
+[Result "1-0"]
+[ECO "D31"]
+[Annotator "JvR"]
+[PlyCount "43"]
+[EventDate "1896.??.??"]
+[Source "ChessBase"]
+[SourceDate "2004.03.11"]
+
+1. d4 d5 2. c4 e6 3. Nc3 c6 4. Nf3 Bd6 $6 5. e4 $1 dxe4 6. Nxe4 Be7 7. Bd3 Nf6
+8. O-O O-O 9. Nxf6+ Bxf6 10. Bc2 Nd7 11. Qd3 g6 12. Bh6 Re8 13. Rfe1 b6 14. Qe4
+Bb7 15. h4 $6 ({Better is} 15. Ne5 {(Tarrasch).}) 15... e5 $1 16. dxe5 Nxe5 17.
+Red1 $6 (17. Ng5 Bg7 {keeps the equality.}) 17... Nxf3+ $2 (17... Qe7 {
+gains a plus (Tarrasch).}) 18. Qxf3 Qe7 19. Rd7 $1 {
+This move strikes like a lightning.} 19... Qe5 20. Rxb7 Qxb2 21. Rd1 Re6 22.
+Bb3 1-0
+
+[Event "Nuernberg"]
+[Site "?"]
+[Date "1896.??.??"]
+[Round "8"]
+[White "Lasker, Emanuel"]
+[Black "Chigorin, Mikhail"]
+[Result "1-0"]
+[ECO "D26"]
+[Annotator "JvR"]
+[PlyCount "105"]
+[EventDate "1896.??.??"]
+[Source "ChessBase"]
+[SourceDate "2002.01.23"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 e6 4. e3 Nf6 5. Bxc4 Be7 6. Nc3 O-O 7. O-O Nbd7 8.
+Qe2 c6 9. Rd1 Qc7 10. e4 Rd8 11. Bg5 Nf8 12. e5 Ne8 13. Bxe7 Qxe7 14. Rac1 b6
+15. Ne4 Bb7 16. Ba6 Rac8 17. Rd2 Ng6 18. g3 Bxa6 19. Qxa6 Qd7 20. Kg2 Ne7 21.
+b4 Nd5 22. a3 Rc7 23. Rdc2 Ne7 24. Qd3 h6 25. Nc3 Qc8 26. Qe4 Qa6 27. a4 Rdc8
+28. Qg4 $2 ({Better is the modest} 28. Qe2) 28... Nd5 $1 29. Nxd5 cxd5 30. Rxc7
+Rxc7 31. Rxc7 Nxc7 {Everybody expected a win for Chigorin.} 32. Qh4 Qxa4 33.
+Qe7 Qc2 $2 (33... Ne8 $1 {gives winning chances.}) 34. h4 $1 a5 35. bxa5 bxa5
+36. h5 a4 37. g4 Qc1 38. Kg3 $1 g5 $2 {The tables turn.} (38... a3 $1 39. g5
+hxg5 40. Nxg5 Qg1+ {draws (Tarrasch).}) 39. hxg6 fxg6 40. Qd8+ Kf7 ({
+Tarrasch analyses} 40... Kh7 41. g5 $1 hxg5 42. Nxg5+ Kg7 43. Qe7+ Kh6 44. Qh7+
+Kxg5 45. Qh4+ Kf5 46. Qg4#) 41. g5 h5 42. Qd7+ $2 ({Right is} 42. Qf6+ Ke8 43.
+Qxg6+) 42... Kf8 43. Qxa4 h4+ $2 (43... Qb1 44. Qd7 Qf5 {is okay (Tarrasch).})
+44. Kg4 Qh1 45. Qd7 $6 ({Better is} 45. Qc2) 45... Qg2+ 46. Kf4 Ne8 $6 ({
+White only wins a pawn in} 46... Qh3 $1 47. Qd6+ Ke8 48. Qc6+ Kf8 49. Qc2 Qf5+
+50. Qxf5+ gxf5 51. Nxh4) 47. Qxe6 Qxf2 48. Qxg6 Qg3+ 49. Ke3 Qg4 50. e6 Nd6 51.
+Qf6+ Ke8 52. Qh8+ Ke7 53. Qg7+ $1 {
+Tarrasch regarded the win by Lasker as 'lucky'.} 1-0
+
+[Event "Nuernberg"]
+[Site "?"]
+[Date "1896.??.??"]
+[Round "9"]
+[White "Janowsky, Dawid"]
+[Black "Schallopp, Emil"]
+[Result "1-0"]
+[ECO "D21"]
+[Annotator "JvR"]
+[PlyCount "33"]
+[EventDate "1896.??.??"]
+[Source "ChessBase"]
+[SourceDate "2004.03.11"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 c5 4. e3 cxd4 5. exd4 Bg4 $2 ({Better is} 5... Be6
+6. Nc3 {(Chekhov-Lukin, Yaroslav 1982).}) 6. Bxc4 e6 7. Qa4+ Nc6 8. Ne5 Qxd4 $2
+(8... Bb4+ $1 9. Nd2 $1 Qxd4 10. Nxc6 Bxd2+ 11. Bxd2 Qe4+ 12. Be3 bxc6 13. O-O
+Be2 14. Rfc1 {favours White.}) 9. Nxc6 Qe4+ 10. Be3 bxc6 11. Nc3 Qxg2 12. Bd5
+$3 {Janowsky makes an interference sacrifice.} 12... exd5 13. Qxc6+ Kd8 14.
+Qxa8+ Kd7 15. Qb7+ Ke6 16. Qc6+ Bd6 17. Bf4 $1 {White sacrifices two rooks!} (
+17. Bf4 Qxh1+ 18. Kd2 Qxa1 19. Qxd6+ Kf5 20. Qe5+ Kg6 21. Qg5#) 1-0
+
+[Event "Nuernberg"]
+[Site "?"]
+[Date "1896.??.??"]
+[Round "9"]
+[White "Pillsbury, Harry"]
+[Black "Lasker, Emanuel"]
+[Result "1-0"]
+[ECO "C11"]
+[Annotator "JvR"]
+[PlyCount "99"]
+[EventDate "1896.??.??"]
+[Source "ChessBase"]
+[SourceDate "2002.01.23"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. f4 c5 6. dxc5 $5 Nc6 7. a3 Nxc5 8.
+b4 Nd7 9. Bd3 a5 ({Lasker improves on} 9... Qc7 $6 {
+(Esling-Wallace, Melbourne 1895).}) 10. b5 Ncb8 ({More active is} 10... Nd4 $1)
+11. Nf3 Nc5 12. Be3 Nbd7 13. O-O g6 $6 14. Ne2 Be7 15. Qe1 Nb6 16. Nfd4 Bd7 17.
+Qf2 Nba4 18. Rab1 h5 $1 {Tarrasch regards this move as the decisive error.} 19.
+b6 $5 Nxd3 20. cxd3 Bxa3 21. f5 $1 {The breakthrough begins.} 21... gxf5 22.
+Nf4 {The critical position has arisen.} 22... h4 $2 ({The development} 22...
+Rc8 $1 {is useful.} 23. Ra1 $1 ({Tarrasch' idea} 23. Qg3 {is replied by} 23...
+Qe7 $1 24. Qg7 Qf8 25. Qg5 Be7 26. Qg3 h4) 23... Bc5 $1 24. Nxf5 exf5 25. Nxd5
+Bxe3 26. Qxe3 Kf8 $1 {stays unclear.}) 23. Ra1 $1 Be7 24. Rxa4 $1 Bxa4 25.
+Ndxe6 $1 fxe6 26. Nxe6 Bd7 ({Tarrasch analyses the crucial line} 26... Qc8 27.
+Qxf5 Qc6 28. Bg5 Qxb6+ 29. d4 Kd7 (29... Qb4 30. Qf7+ Kd7 31. Bxe7 Qxe7 32.
+Nc5+) 30. Nc5+ Kc7 31. Bxe7 {and White wins.}) 27. Nxd8 Rxd8 28. Bc5 Rc8 29.
+Bxe7 Kxe7 30. Qe3 Rc6 31. Qg5+ Kf7 32. Rc1 Rxc1+ 33. Qxc1 Rc8 34. Qe1 h3 35.
+gxh3 Rg8+ 36. Kf2 a4 37. Qb4 Rg6 38. Kf3 a3 39. Qxa3 Rxb6 40. Qc5 Re6 41. Qc7
+Ke7 42. Kf4 b6 43. h4 Rc6 44. Qb8 Be8 45. Kxf5 Rh6 46. Qc7+ Kf8 47. Qd8 b5 48.
+e6 Rh7 49. Ke5 b4 50. Qd6+ {
+Pillsbury won the beauty prize with this wonderful game.} 1-0
+
+[Event "Nuernberg"]
+[Site "?"]
+[Date "1896.??.??"]
+[Round "10"]
+[White "Lasker, Emanuel"]
+[Black "Blackburne, Joseph"]
+[Result "1-0"]
+[ECO "C75"]
+[Annotator "JvR"]
+[PlyCount "105"]
+[EventDate "1896.??.??"]
+[Source "ChessBase"]
+[SourceDate "2004.03.11"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 d6 5. d4 Bd7 6. c3 Nf6 7. Nbd2 g6 8. O-O
+Qe7 9. Re1 Bg7 10. Nf1 O-O 11. Ng3 Rfe8 $6 12. h3 Qf8 13. Bc2 Rad8 14. d5 $1 {
+The black pieces are lacking room.} 14... Ne7 15. c4 Kh8 16. b4 Nfg8 17. Bb2 f5
+18. exf5 Nxf5 19. Ne4 Nf6 20. c5 Nxe4 21. Bxe4 Bf6 22. Rc1 Re7 23. cxd6 cxd6
+24. Rc7 Rc8 25. Qc2 Nh4 26. Rc1 Nxf3+ 27. Bxf3 Rxc7 $2 ({A solid move is} 27...
+Rb8 {(Tarrasch).}) 28. Qxc7 Rf7 29. Qxb7 Bxh3 30. Qxa6 Bg5 31. Rc3 Bd2 32. Rd3
+Bc8 33. Qa4 Bg5 34. Rc3 Bd7 35. Qa6 Kg8 36. Qe2 Bd8 37. Bc1 h5 38. Ra3 Bb6 39.
+Be3 Qb8 40. Bxb6 Qxb6 41. Qd2 Kg7 42. Bxh5 $1 Rf4 ({Or} 42... gxh5 $2 43. Qg5+)
+43. Rg3 Bf5 44. a3 Qd8 45. Bf3 Qh8 46. Qc3 Qd8 47. Be2 Rd4 48. Bd3 Bg4 49. b5
+Kh6 50. Qc1+ g5 51. Qc6 Bh5 52. b6 Rf4 53. Qc7 {
+The world champion had scored 7/9, halfway the tournament.} 1-0
+
+[Event "Nuernberg"]
+[Site "?"]
+[Date "1896.??.??"]
+[Round "11"]
+[White "Janowsky, Dawid"]
+[Black "Lasker, Emanuel"]
+[Result "1-0"]
+[ECO "C67"]
+[Annotator "JvR"]
+[PlyCount "141"]
+[EventDate "1896.??.??"]
+[Source "ChessBase"]
+[SourceDate "2002.01.23"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. Re1 Nd6 6. Nxe5 Be7 7. Bd3 O-O 8.
+Nc3 Ne8 9. Nd5 Bf6 10. Ng4 d6 11. Rxe8 $6 {
+Janowsky delivers a positional sacrifice.} 11... Rxe8 12. Ngxf6+ gxf6 13. b3
+Ne5 14. Bb2 c6 $1 15. Ne3 d5 16. Bf5 d4 17. Qh5 Ng6 ({Not} 17... dxe3 $4 18.
+Qxh7+ Kf8 19. Ba3+ {(Tarrasch).}) 18. Ng4 c5 19. h4 Kh8 20. Nh6 Qc7 21. c3 Bxf5
+22. Nxf5 Rg8 23. g3 {So far Lasker has defended well.} 23... d3 $2 ({Correct is
+} 23... Qd7 $1 24. Nh6 Rge8 25. cxd4 cxd4 26. Qg4 Rad8 $1) 24. c4 $1 Qc6 25.
+Ne3 Rae8 26. Nd5 Ne5 27. Qf5 Rg6 $2 ({Right is} 27... Kg7 28. Rf1 Re6 {
+and Black can survive.}) 28. h5 $1 {Janowsky's coffeehouse chess overcomes.}
+28... Rg5 ({Tarrasch regards} 28... Rh6 29. Qf4 Kg7 30. g4 {
+as winning for White.}) 29. Qxf6+ Qxf6 30. Nxf6 Re6 31. Ne4 Rg7 32. Nxc5 Re8
+33. h6 Rg6 34. Nxd3 $1 f6 35. Nxe5 fxe5 36. Re1 Kg8 37. d4 e4 38. Bc1 e3 39.
+Bxe3 Rxh6 40. d5 Kf7 41. Rd1 Rg6 42. Kg2 Rc8 43. Kf3 Ke8 44. Rh1 Rc7 45. Bf4
+Rf7 46. Ke4 Ra6 47. a4 Rb6 48. Rb1 a5 49. Kd4 Kd7 50. Kc5 Rg6 51. Kb5 b6 52. b4
+axb4 53. Kxb4 Rf8 54. Rh1 Rf7 55. Kb5 Kc8 56. Re1 Kd7 57. a5 bxa5 58. c5 Rf5
+59. Be5 Rxf2 60. c6+ Kd8 61. Bd4 Rf8 62. Bc5 Rfg8 63. d6 Rg5 64. c7+ Kd7 65.
+Re7+ Kc8 66. Kc6 Rxc5+ 67. Kxc5 Kb7 68. Re1 Rg5+ 69. Kd4 Rg4+ 70. Kd5 Rg5+ 71.
+Ke6 1-0
+
+[Event "Nuernberg"]
+[Site "?"]
+[Date "1896.??.??"]
+[Round "12"]
+[White "Winawer, Szymon"]
+[Black "Steinitz, William"]
+[Result "1-0"]
+[ECO "C22"]
+[Annotator "JvR"]
+[PlyCount "39"]
+[EventDate "1896.??.??"]
+[Source "ChessBase"]
+[SourceDate "2004.03.11"]
+
+1. e4 e5 2. d4 exd4 3. Qxd4 Nc6 4. Qe3 Nf6 5. Nc3 Bb4 6. Bd2 O-O 7. O-O-O Re8
+8. Bc4 $5 {Winawer brings a novelty.} 8... Bxc3 $5 {
+Steinitz always accepts a sacrifice.} 9. Bxc3 Nxe4 10. Qf4 Nf6 ({The wild} 
+10... Re7 11. Bxg7 $5 Kxg7 12. f3 d5 {
+was played in Rollansky-Panno, Buenos Aires 1965).}) 11. Nf3 d6 12. Ng5 Be6 13.
+Bd3 h6 14. h4 $1 Nd5 ({Interesting is} 14... hxg5 15. hxg5 Ng4 {
+(Salmensuu-Norri, Finland 1998).}) 15. Bh7+ Kh8 16. Rxd5 $1 Bxd5 17. Be4 $1 f6
+$2 {Steinitz misses a finesse.} ({Right is} 17... Rxe4 $1 18. Nxe4 Ne5 $11 {
+(De Greef-Seybold, corr. 1931).}) 18. Bxd5 fxg5 19. hxg5 Ne5 20. g6 $1 {
+The threat 21.Rxh6+ decides the game.} 1-0
+
+[Event "Nuernberg"]
+[Site "?"]
+[Date "1896.??.??"]
+[Round "13"]
+[White "Charousek, Rudolf"]
+[Black "Pillsbury, Harry"]
+[Result "1/2-1/2"]
+[ECO "C32"]
+[Annotator "JvR"]
+[PlyCount "104"]
+[EventDate "1896.??.??"]
+[Source "ChessBase"]
+[SourceDate "2004.03.11"]
+
+1. e4 e5 2. f4 d5 {
+One attacker tries to sacrifice a pawn but the other one wants to do the same.}
+3. exd5 e4 4. d3 Nf6 5. dxe4 Nxe4 6. Qe2 $5 Qxd5 7. Nd2 f5 8. g4 $5 Be7 9. Bg2
+Qa5 10. gxf5 Nf6 (10... Nd6 $6 11. f6 gxf6 {
+would be less successful in Winawer-Schallopp (round 19).}) 11. Ngf3 O-O 12.
+O-O Qc5+ 13. Kh1 Nc6 14. Nb3 Qxf5 15. Nfd4 Nxd4 16. Nxd4 Qc5 17. Ne6 Bxe6 18.
+Qxe6+ Kh8 19. Be3 Qd6 20. Qb3 c6 $6 21. Rad1 $6 {
+The capture of pawn b7 is okay.} 21... Qc7 22. Bd2 {
+White is going to aim his pieces on g7.} 22... Rae8 23. Qg3 Bd6 24. Bc3 Re7 25.
+Qh4 Nd5 26. Bxd5 $5 cxd5 27. Qh5 ({Not} 27. Rxd5 $2 Qc4 $1 28. Rd3 Qe4+ 29.
+Rff3 Rxf4) 27... Bxf4 28. Qxd5 Rg8 $2 (28... Re2 29. Rd2 $1 Rxd2 30. Bxd2 Bd6 {
+draws (Barcza).}) 29. Rd4 Be5 30. Rc4 Qb8 ({Even worse is} 30... Qd6 $2 31.
+Qxg8+ $1 Kxg8 32. Rc8+ {(Tarrasch).}) 31. Re1 $2 {
+White misses the winning combination.} ({Right is} 31. Re4 $1 Rf8 (31... Rd8
+32. Bxe5 $1 Rxd5 33. Bxb8 Rxe4 34. Rf8#) (31... Rge8 32. Bxe5 Rxe5 33. Rxe5
+Rxe5 34. Qxe5 $1 Qxe5 35. Rf8#) 32. Rd1 Bd6 33. Rh4 Be5 34. Bb4 $1 {(Tarrasch).
+}) 31... Rd8 $2 ({Correct is} 31... Bf6 32. Rxe7 Bxe7) 32. Qc5 Bd6 33. Rxe7 $1
+Bxc5 34. Rxg7 $1 {White has reached the critical point.} 34... Rd1+ $1 35. Rg1+
+$1 Bd4 $1 36. Bxd4+ $1 Rxd4 37. Rxd4 Qf8 $1 {
+Black threatens 38...Qf3+ and perpetual check.} 38. Rd3 Qe7 {
+The threat has become 39...Qe4+.} 39. h3 h5 40. Rdg3 $2 (40. Rf1 $1 Qe4+ 41.
+Kg1 Qg6+ 42. Kh2 {avoids the following draw mechanism.}) 40... Qe4+ 41. R1g2
+Qe1+ 42. Rg1 Qe4+ 43. R1g2 Qe1+ 44. Kh2 Qe5 45. h4 Qf4 46. Kg1 Qxh4 47. c3 Qf4
+48. Rg5 Qe3+ 49. Kh2 Qf3 50. R2g3 Qe2+ 51. Kh3 Qe6+ 52. Kh4 Qe4+ (52... Qe4+
+53. Kxh5 Qh7+ 54. Kg4 Qe4+ 55. Kh3 Qh1+ {repeats the positions.}) 1/2-1/2
+
+[Event "Nuernberg"]
+[Site "?"]
+[Date "1896.??.??"]
+[Round "13"]
+[White "Schallopp, Emil"]
+[Black "Maroczy, Geza"]
+[Result "0-1"]
+[ECO "C11"]
+[Annotator "JvR"]
+[PlyCount "68"]
+[EventDate "1896.??.??"]
+[Source "ChessBase"]
+[SourceDate "2004.03.11"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. f4 c5 6. dxc5 Nc6 7. a3 Bxc5 {
+Maroczy diverts from Pillsbury-Lasker.} 8. Qg4 O-O 9. Bd3 f5 10. Qh3 h6 11. g4
+Nd4 12. Nge2 Qh4+ $1 13. Qxh4 Nf3+ 14. Kf1 $2 ({Better is} 14. Kd1 Nxh4 15.
+gxf5 Nxf5 16. Nb5) 14... Nxh4 15. gxf5 Nxf5 16. Bxf5 Rxf5 17. Na4 Be7 18. Nd4
+Rf7 19. Ke2 Nf8 20. Rg1 b6 21. b4 Bd7 22. Nc3 Rc8 23. Kd3 Kh7 24. Bd2 Ng6 25.
+Rxg6 $2 {Schallopp delivers the wrong sacrifice.} ({
+The right counteraction brings} 25. Nxd5 $1 exd5 26. e6 Bxe6 27. Nxe6) 25...
+Kxg6 26. f5+ $1 Rxf5 $1 27. Nxf5 Kxf5 $1 28. Rf1+ Kg6 29. Be3 Rf8 30. Rg1+ Kh7
+31. Kd4 Rc8 32. Kd3 Be8 33. Kd2 Bg6 34. Rc1 $2 d4 $1 {
+Maroczy trailed Lasker by half-a-point.} 0-1
+
+[Event "Nuernberg"]
+[Site "?"]
+[Date "1896.??.??"]
+[Round "14"]
+[White "Schallopp, Emil"]
+[Black "Schlechter, Carl"]
+[Result "0-1"]
+[ECO "C26"]
+[Annotator "JvR"]
+[PlyCount "134"]
+[EventDate "1896.??.??"]
+[Source "ChessBase"]
+[SourceDate "2004.03.11"]
+
+1. e4 e5 2. Nc3 Nf6 3. g3 Bc5 4. Bg2 O-O 5. d3 Nc6 6. Nge2 d6 7. Na4 Bb6 8. O-O
+d5 9. Nxb6 axb6 10. Bg5 dxe4 11. dxe4 Qxd1 12. Rfxd1 Bg4 13. f3 Be6 14. a3 Rfd8
+15. Kf2 Rxd1 16. Rxd1 Ne8 17. Be3 Rd8 18. Rxd8 Nxd8 19. f4 f6 20. Nc3 Nc6 21.
+Nb5 Bc4 22. Bf1 Bxf1 23. Kxf1 {The exchanges have led to a plus for White.}
+23... Kf7 24. Ke2 Ke6 25. f5+ Kd7 26. g4 Nd8 27. h4 h6 28. Kf3 Nd6 29. Nc3 N8f7
+30. b3 Kc6 31. a4 Kd7 32. g5 $5 {Schallopp wants to win.} 32... hxg5 33. hxg5
+Nxg5+ 34. Bxg5 fxg5 35. Kg4 Ke7 36. Nd5+ $6 Kf7 37. Kf3 $2 ({Correct is} 37.
+Nc3 g6 38. Kxg5) 37... Ne8 38. Ne3 g6 $6 ({Even better is} 38... Nf6 39. Ng4
+Nd7 $1) 39. fxg6+ Kxg6 40. Ng4 Kf7 41. Nxe5+ Ke6 42. Nd3 Nf6 43. c4 $2 ({
+Tarrasch reports the narrow escape} 43. e5 $1 Nd7 44. Ke4 Nc5+ 45. Nxc5+ bxc5
+46. c3 $1 {and White survives the pawn ending, despite the distant passed pawn.
+}) 43... Nd7 44. Ke3 Nc5 45. Nc1 Ke5 46. b4 Nxe4 47. Nd3+ Kf5 48. Kd4 c5+ 49.
+bxc5 Nxc5 50. Nb2 g4 51. Ke3 Ke5 52. Nd1 Ne4 53. Nb2 Nc5 54. Nd1 Nxa4 55. Nf2
+Kf5 56. Ne4 Nb2 57. c5 bxc5 58. Nxc5 Nc4+ 59. Kf2 b5 60. Nd3 Ke4 61. Nb4 Kd4
+62. Kg3 Ne5 63. Nc2+ Kc3 64. Ne3 b4 65. Kf4 b3 66. Kxe5 g3 67. Ke4 g2 {
+White's will to win had an adverse effect.} 0-1
+
+[Event "Nuernberg"]
+[Site "?"]
+[Date "1896.??.??"]
+[Round "15"]
+[White "Tarrasch, Siegbert"]
+[Black "Steinitz, William"]
+[Result "1-0"]
+[ECO "C60"]
+[PlyCount "103"]
+[EventDate "1896.??.??"]
+[Source "ChessBase"]
+[SourceDate "2004.03.11"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 f6 $2 {
+Steinitz innovates the chess theory after a long thought.} 4. O-O Nge7 5. d4
+Ng6 6. a3 $5 Be7 7. Bc4 d6 8. h3 Bd7 9. Nc3 Qc8 10. Kh2 Nd8 11. Nd5 Bf8 {
+He has the planned crammed game.} 12. Be3 Ne6 13. Ng1 c6 14. Nc3 Be7 15. Nge2
+Qc7 16. d5 Nd8 17. Ng3 Nf7 18. Nf5 Bf8 19. Qh5 $6 ({Tarrasch has calculated} 
+19. dxc6 bxc6 20. Bxf7+ Kxf7 21. Nb5 $1 cxb5 22. Qd5+ Be6 23. Qxa8 Be7 {
+but misses} 24. Qxa7) 19... c5 20. Bb5 Bxb5 21. Nxb5 Qb6 22. Qe2 Nf4 23. Qc4 a6
+24. Nc3 Qd8 25. g3 g6 26. Nh4 Nh5 27. b4 b5 28. Qe2 Be7 29. Ng2 Ng7 30. Rab1
+O-O 31. a4 cxb4 32. Rxb4 Qc7 33. Bd2 bxa4 34. Rfb1 Bd8 35. Rxa4 a5 36. Qb5 f5
+37. Rc4 Qe7 38. Be3 Qe8 39. Qb7 Bf6 40. Ba7 Ng5 41. Nb5 $2 Nf7 $2 ({
+Steinitz misses the opportunity} 41... Nf3+ $1 42. Kh1 Nd2 43. Nxd6 Qe7 44. Rc7
+$1 Qxd6 45. Bc5 Qxc7 $1 46. Qxc7 Rfc8 47. Qb6 Nxb1 48. Be3 Ne8 49. Qxb1 a4 {
+and Black has the better position.}) 42. Nc7 Rxa7 43. Qxa7 Qd7 44. Qxa5 Ng5 45.
+Qa4 Qf7 46. Rb7 fxe4 47. Qa7 Be7 48. Rc3 $1 Nf3+ 49. Rxf3 $1 exf3 50. Ne3 Qf6
+51. Ne6 Nxe6 52. Rxe7 1-0
+
+e6 52. Rxe7 1-0
+
+[Event "Nuernberg"]
+[Site "?"]
+[Date "1896.??.??"]
+[Round "16"]
+[White "Chigorin, Mikhail"]
+[Black "Tarrasch, Siegbert"]
+[Result "0-1"]
+[ECO "C54"]
+[Annotator "JvR"]
+[PlyCount "98"]
+[EventDate "1896.??.??"]
+[Source "ChessBase"]
+[SourceDate "2004.03.11"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d3 d6 6. Bg5 Be6 ({Theory is} 6...
+h6 7. Bh4 g5 8. Bg3 a6 {(Shumov-Urusov, St Petersburg 1853).}) 7. Nbd2 Qe7 8.
+Qe2 h6 9. Be3 Bb6 10. Bxe6 Qxe6 11. Nc4 Ne7 12. O-O O-O 13. a4 Nd7 14. a5 Bxe3
+15. Nxe3 f5 16. exf5 Nxf5 17. Nxf5 Qxf5 18. d4 e4 $5 {The game really starts.}
+19. Nd2 Rae8 $1 20. a6 ({Tarrasch sees} 20. Qc4+ Rf7 21. Qxc7 $2 Qf4 $1 22. Nc4
+(22. Nb3 Nc5) 22... Ne5) 20... b6 21. Rae1 d5 22. c4 c6 23. Rc1 Kh8 24. cxd5
+Qxd5 25. Qc4 Qg5 26. Qc3 Nf6 27. Nc4 Nh5 28. Rc2 Rf3 $1 29. Ne3 Rc8 30. Kh1
+Rff8 31. d5 $2 {Chigorin imagines to carry out a winning combination.} 31...
+cxd5 32. Qxc8 Rxc8 33. Rxc8+ Kh7 34. Rc7 d4 35. Rxa7 Qb5 $1 {
+Black chooses the elegant refutation.} 36. Kg1 Nf4 $1 37. Rf7 dxe3 38. fxe3
+Ne2+ 39. Kh1 Qxa6 40. R7f2 Qc4 $1 41. Re1 Nc1 $1 42. Rd2 Nd3 43. Red1 Qb3 44.
+Rf1 b5 45. h3 b4 46. g3 Qe6 47. Kg2 Qe5 48. Rb1 Qc5 49. Rf1 Qxe3 {
+Tarrasch joined the second place.} 0-1
+
+[Event "Nuernberg"]
+[Site "?"]
+[Date "1896.??.??"]
+[Round "17"]
+[White "Lasker, Emanuel"]
+[Black "Marco, Georg"]
+[Result "1-0"]
+[ECO "D37"]
+[Annotator "JvR"]
+[PlyCount "77"]
+[EventDate "1896.??.??"]
+[Source "ChessBase"]
+[SourceDate "2002.01.23"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Nf3 Be7 5. e3 O-O 6. Bd3 b6 7. cxd5 exd5 8. O-O
+Bb7 9. b3 Ne4 10. Ne2 $6 ({Better is} 10. Bb2 {
+(Bogoljubow-O'Kelly de Galway, Stuttgart 1939).}) 10... Bd6 11. Bb2 Nd7 12. Rc1
+Qf6 13. Qc2 Qh6 14. Ng3 Nxg3 15. hxg3 Nf6 16. Rfe1 Rae8 17. Nd2 Ng4 18. Nf1 f5
+19. Re2 ({Not} 19. Bxf5 $2 Nxf2 $1) 19... g6 20. Bc3 Nf6 21. f3 Nh5 22. Be1 Qg5
+$6 (22... a6 $1 {prevents the next move.}) 23. Bb5 $1 c6 $2 {
+Black gives a lot of wood for a queen.} 24. Bxc6 $1 Rc8 25. Bxb7 Rxc2 26. Bxd5+
+Kh8 27. Rexc2 f4 28. e4 fxg3 29. e5 Ba3 30. Rd1 a5 31. Bc4 Bb4 32. a4 Bxe1 33.
+Rxe1 Nf4 34. e6 Re8 35. Re5 Qd8 36. Rd2 Qc7 $6 (36... Nh5 {prolongs the game.})
+37. Nxg3 Rxe6 38. Bxe6 Qc1+ 39. Nf1 {Lasker kept the lead of 1 1/2 points.} 1-0
+
+[Event "Nuernberg"]
+[Site "?"]
+[Date "1896.??.??"]
+[Round "18"]
+[White "Lasker, Emanuel"]
+[Black "Tarrasch, Siegbert"]
+[Result "1-0"]
+[ECO "C68"]
+[Annotator "JvR"]
+[PlyCount "81"]
+[EventDate "1896.??.??"]
+[Source "ChessBase"]
+[SourceDate "2002.01.23"]
+
+{The decisive game of the tournament starts.} 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4.
+Bxc6 dxc6 5. Nc3 Bc5 $5 6. d3 Bg4 $5 7. Be3 Qd6 8. Bxc5 Qxc5 9. Qd2 Bxf3 $5 {
+Tarrasch regards this move as a blunder but it is not too bad.} 10. gxf3 Ne7
+11. O-O-O Ng6 12. Qe3 $5 {Black exchanges to a passive endgame.} 12... Qxe3+
+13. fxe3 Rd8 14. Ne2 f6 15. Rhg1 Kf7 16. Rdf1 Rhe8 17. Ng3 Nf8 18. f4 {
+The white pieces look menacing.} 18... c5 $4 ({But} 18... Nd7 $1 19. Nh5 g6 {
+counters all threats.}) 19. Nh5 $1 g6 20. fxe5 $1 Rxe5 ({The pointe is} 20...
+gxh5 21. Rxf6+ Ke7 22. Rg7#) 21. Nxf6 Kg7 22. Rf2 h5 23. Nd5 c6 24. Nf4 c4 25.
+Rfg2 Rd6 26. h4 cxd3 27. cxd3 Kf7 28. Rg5 Rxg5 29. Rxg5 Rf6 30. e5 Rf5 31.
+Rxf5+ gxf5 32. d4 Ke7 33. Kd2 c5 34. Kd3 cxd4 35. exd4 Kd8 36. d5 Kd7 37. Kd4
+Kc7 38. b4 Kd7 39. Kc5 Kc7 40. d6+ Kd7 41. Kd5 {
+Lasker had won the event in the penultimate round.} 1-0
+
+[Event "Nuernberg"]
+[Site "?"]
+[Date "1896.??.??"]
+[Round "18"]
+[White "Maroczy, Geza"]
+[Black "Charousek, Rudolf"]
+[Result "1-0"]
+[ECO "D31"]
+[PlyCount "101"]
+[EventDate "1896.??.??"]
+[Source "ChessBase"]
+[SourceDate "2004.03.11"]
+
+1. d4 d5 2. c4 e6 3. Nc3 c6 4. e4 dxe4 5. Nxe4 Nf6 6. Nc3 Be7 7. Nf3 O-O 8. Bd3
+c5 9. O-O cxd4 10. Nxd4 Nbd7 11. Nf3 Qa5 12. Bd2 Ne5 13. Ne4 Nxf3+ 14. Qxf3 Qc7
+15. Bc3 Nxe4 16. Qxe4 f5 17. Qe2 Bd6 18. h3 e5 19. b4 e4 20. Bc2 b6 21. f3 exf3
+22. Rxf3 Bd7 23. Bb3 Kh8 24. Qb2 Bc6 25. Rd3 Rad8 26. Rad1 Bh2+ 27. Kh1 Rxd3
+28. Rxd3 Be4 $2 29. Bxg7+ $1 Qxg7 30. Qxg7+ Kxg7 31. Rd7+ Rf7 32. Rxf7+ Kxf7
+33. Kxh2 Kf6 34. g4 f4 $5 ({Tarrasch likes} 34... fxg4 35. hxg4 Ke5) 35. h4 Ke5
+36. Kg1 Kd4 37. Kf2 Kc3 38. b5 Kd4 39. g5 Ke5 40. Bd1 Kd4 41. Be2 Bg6 42. Bf1
+Be4 43. a3 Ke5 44. Bg2 Bd3 45. Bd5 $5 Bg6 $2 {White has manoeuvred brilliantly.
+} ({However} 45... Kf5 $1 46. Kf3 Bc2 47. a4 $1 Bd1+ 48. Kg2 Bxa4 49. Bf3 Bb3
+50. Be2 Bc2 51. Kf3 {draws.}) 46. Bg8 $1 Ke4 47. h5 Bxh5 48. Bxh7+ Kd4 (48...
+Ke5 $1 49. a4 $1 Bd1 50. Bd3 $1 Bxa4 51. g6 Kf6 52. Kf3 Bd1+ 53. Kxf4 Bh5 54.
+Ke3 $3 {wins more complexly for White.}) 49. g6 $1 Kxc4 50. g7 Bf7 51. a4 {
+Maroczy conquered the second place.} 1-0
+
+ond place.} 1-0
+
+[Event "Nuernberg"]
+[Site "?"]
+[Date "1896.??.??"]
+[Round "19"]
+[White "Charousek, Rudolf"]
+[Black "Lasker, Emanuel"]
+[Result "1-0"]
+[ECO "C33"]
+[Annotator "JvR"]
+[PlyCount "61"]
+[EventDate "1896.??.??"]
+[Source "ChessBase"]
+[SourceDate "2002.01.23"]
+
+1. e4 e5 2. f4 exf4 3. Bc4 d5 4. Bxd5 Qh4+ 5. Kf1 g5 6. Nf3 Qh5 7. h4 Bg7 8.
+Nc3 c6 ({Theory is} 8... h6 9. d4 c6 10. Bc4 Ne7 {
+(Zukertort-Winawer, Paris 1878).}) 9. Bc4 Bg4 10. d4 Nd7 $2 ({Correct is} 10...
+h6 11. Kf2 Qg6) 11. Kf2 $1 Bxf3 12. gxf3 {White's pawn structure has improved.}
+12... O-O-O 13. hxg5 {Black has a last try.} 13... Qxg5 ({Tarrasch analyses} 
+13... Bxd4+ $1 14. Qxd4 Qxh1 15. Bxf4 $3 Qh4+ (15... Qxa1 16. Qd6 $1) 16. Bg3
+Qxg5 17. Qxa7 Qc5+ 18. Qxc5 Nxc5 19. Bxf7 {
+and White has a great positional advantage.}) 14. Ne2 $1 Qe7 15. c3 Ne5 16. Qa4
+Nxc4 17. Qxc4 Nf6 18. Bxf4 Nd7 19. Qa4 a6 20. Qa5 Nf8 21. Ng3 Ne6 22. Nf5 Qf8
+23. Bg3 Rd7 24. Nxg7 Qxg7 25. Qe5 Qxe5 26. Bxe5 f6 27. Bxf6 Rf8 28. Rh6 Nf4 29.
+Ke3 Ng2+ 30. Kd2 Rdf7 31. e5 {The young Charousek seemed to be a promising
+talent. Unfortunately he died in 1900.} 1-0
+

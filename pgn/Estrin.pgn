@@ -1,0 +1,393 @@
+[Event "correspondence"]
+[Site "?"]
+[Date "1946.??.??"]
+[Round "?"]
+[White "Rudenko, Ludmila"]
+[Black "Estrin, Yakov Borisovich"]
+[Result "0-1"]
+[ECO "C82"]
+[Annotator "JvR"]
+[PlyCount "60"]
+[EventDate "1946.??.??"]
+[EventType "corr"]
+[SourceDate "2003.04.28"]
+
+{GAMBITS BY ESTRIN  Yakov Borisovich Estrin (21 iv 1923 - 2 ii 1987) studied
+law in Moscow. He became known as a correspondence chess player. His great
+strength was wonderfully shown in gambit games. I have selected twelve
+examples.   The next postal game might have been a training for Ludmila
+Rudenko, who would become the women's world champion from 1950 until 1953.} 1.
+e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5
+Be6 9. c3 Bc5 10. Nbd2 O-O 11. Bc2 f5 12. Nb3 Bb6 13. Nfd4 Nxd4 14. Nxd4 Bxd4
+15. cxd4 f4 16. f3 Ng3 {They have selected 'La Grande Variante'. It is a late
+gambit. Black sacrifices a knight for a mate attack.} 17. hxg3 fxg3 18. Qd3 {
+White is going to give a queen for a rook and bishop.} (18. Re1 {
+was played in Duras - Maroczy, Oostende 1906.}) 18... Bf5 19. Qxf5 Rxf5 20.
+Bxf5 Qh4 21. Bh3 Qxd4+ 22. Kh1 Qxe5 23. Bd2 Qxb2 (23... c5 {
+made its debut in Boleslavsky - Ragozin, Moscow 1942.}) 24. Bf4 d4 $5 {
+Estrin springs a novelty.} (24... c5 {
+won for White in the spectacular game Smyslov - Reshevsky, Radio match 1945.})
+25. Rae1 $2 {Rudenko spoils time.} (25. Bxc7 d3 26. Be6+ Kh8 27. Bxg3 {
+will be hard to win for Black.}) 25... d3 26. Be5 $6 (26. Bxc7 d2 27. Ra1 Re8
+28. Bxg3 Qc2 {brings a strong black attack.}) 26... Qxa2 27. Bxc7 Qc2 28. Rc1
+Qb2 29. Be6+ Kh8 30. Bxg3 d2 (30... d2 31. Rc6 $1 Qf6 32. Rd1 Rd8 {
+leads to grim prospects for White.}) 0-1
+
+[Event "Masters (over-the-board)"]
+[Site "Leningrad"]
+[Date "1954.??.??"]
+[Round "?"]
+[White "Estrin, Yakov Borisovich"]
+[Black "Chekhover, Vitaly"]
+[Result "1-0"]
+[ECO "C56"]
+[Annotator "JvR"]
+[PlyCount "65"]
+[EventDate "1954.??.??"]
+[EventType "tourn"]
+[SourceDate "2003.04.28"]
+
+{Estrin was a strong over-the-board player. He became international
+grandmaster in 1984. However, he only scored occasional successes against the
+main Soviet players.} 1. e4 e5 2. Bc4 Nf6 3. d4 exd4 4. Nf3 Nc6 5. e5 d5 6. Bb5
+{White regains the pawn.} Ne4 7. Nxd4 Bd7 8. Bxc6 bxc6 9. O-O Be7 (9... Bc5 {
+leads to the Max Lange Attack.}) 10. f3 Nc5 11. f4 O-O $5 (11... Ne4 {
+was played in Torre Repetto - Smirka, New York 1924.}) 12. f5 $1 f6 $2 ({
+Theory is} 12... Ne4 $1) 13. e6 $1 {White restrains the centre.} Be8 14. Nc3
+Ne4 15. Nxe4 dxe4 16. Be3 Rb8 17. Nb3 $1 Qxd1 18. Rfxd1 c5 $5 {
+Black avoids strangulation.} 19. Nxc5 $5 (19. c4 {is fine as well.}) 19... Rxb2
+20. Nd7 Bxd7 (20... Bh5 $5 21. Rdb1 $1 Rxb1+ 22. Rxb1 Rd8 23. h3 $1 Be8 24. Rb8
+Rxb8 25. Nxb8 a5 26. Nd7 {brings no relief.}) 21. Rxd7 Bd6 22. Bxa7 Rxc2 23. a4
+$1 {Estrin advances his distant passed pawn.} Rc6 24. a5 Ra6 25. Bd4 Rfa8 26.
+g4 h6 27. Kf2 $1 {
+White can sacrifice a valuable pawn, because the restriction increases.} Rxa5
+28. Rxa5 Rxa5 29. Ke3 Ra8 30. h4 Bg3 $5 31. g5 $1 Rf8 32. e7 Re8 33. g6 $1 {
+Black will be mated soon.   The star of the tournament was the 17-years-old
+Boris Spassky. He defeated Estrin in the last round and gained the first place.
+} 1-0
+
+[Event "Wch4 semi-final C"]
+[Site "Correspondence 1958-61"]
+[Date "1958.??.??"]
+[Round "?"]
+[White "Hakanen, Vaino (FIN)"]
+[Black "Estrin, Yakov Borisovich"]
+[Result "0-1"]
+[ECO "C89"]
+[Annotator "JvR"]
+[PlyCount "52"]
+[EventDate "1958.??.??"]
+[EventType "tourn (corr)"]
+[SourceDate "2003.04.28"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. c3
+d5 {A centre pawn is sacrificed in the Marshall Attack.} 9. exd5 e4 {
+This is another idea of Marshall.} (9... Nxd5 {
+occurred for the first time in Capablanca - Marshall, New York 1918.}) 10. dxc6
+exf3 11. Qxf3 Bg4 12. Qg3 Re8 13. d4 (13. f3 Qd3 $5 14. fxg4 Bc5+ {
+was played in the debut game Lasker - Marshall, Chicago 1926.}) 13... Bd6 14.
+f4 Nh5 $1 15. Rxe8+ Qxe8 16. Qf2 {White cannot capture bishop g4 again.} Qxc6
+17. h3 Be6 $5 {Euwe recommended this move.} 18. g4 $5 {
+Great risks are taken in postal games.} ({The safe} 18. Be3 {
+happened in Matanovic - Milic, Beverwijk 1958.}) 18... Nf6 19. Bxe6 fxe6 20.
+Qg2 Nd5 21. Nd2 $1 (21. Qe4 $2 Rf8 $1 22. Qxe6+ Kh8 {
+will win quickly for Black (Estrin).}) 21... Bxf4 22. Ne4 e5 23. dxe5 $6 ({
+Right is} 23. Bxf4 exf4 24. Re1 $11) 23... Rf8 $1 24. Nf2 $2 {
+White collapses in a fast way.} (24. Bd2 $1 Bxd2 $6 (24... Be3+ $1 {
+keeps a plus}) 25. Qxd2 Nf4 {was advised by Estrin, but he missed} 26. Nf6+ $1
+gxf6 27. Qxf4) 24... Qc5 $1 25. b4 Qc4 $1 26. Qe4 Bh2+ $1 {Estrin scored +3,
+=3 and -4 in a semi-final of the fourth world championship, a mixed result.}
+0-1
+
+[Event "USSR - Czechoslovakia"]
+[Site "correspondence"]
+[Date "1960.??.??"]
+[Round "?"]
+[White "Estrin, Yakov Borisovich"]
+[Black "Skrovina, Mirko (CZE)"]
+[Result "1-0"]
+[ECO "C52"]
+[Annotator "JvR"]
+[PlyCount "91"]
+[EventDate "1960.??.??"]
+[EventType "team (corr)"]
+[SourceDate "2003.04.28"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. b4 Bxb4 {Black accepts the Evans Gambit.} 5.
+c3 Ba5 6. d4 d6 {Black plays a quiet move.} (6... exd4 $1 7. O-O Nf6 8. e5 d5
+9. exf6 dxc4 10. fxg7 {led to wild confrontations in Anderssen - Riviera,
+Paris 1859 and Umansky - Timmerman, Gambit Match 2005-7.}) 7. Qb3 Qd7 8. dxe5
+dxe5 9. Ba3 $5 ({Theory is} 9. O-O) 9... Bb6 10. Nbd2 Na5 $1 11. Nxe5 $5 {
+White commits a semi-sacrifice.} Nxb3 $5 12. axb3 $5 Bxf2+ $1 13. Ke2 Bh4 $5 (
+13... Bb6 $1 14. Nxd7 Bxd7 {gains a plus.}) 14. Ndf3 {
+Estrin does not have to capture the queen yet.} Bf6 15. Nxd7 Bxd7 16. e5 Be7 {
+Sharp play has led to an almost equal position.} 17. Nd4 $6 ({More useful is} 
+17. Rhd1 $1) 17... Bxa3 $1 18. Rxa3 Ke7 19. b4 Nh6 20. Rha1 Ng4 21. Nf3 Bc6 $1
+(21... a6 22. h3 Nh6 23. b5 {also costs the extra pawn.}) 22. Rxa7 Rxa7 23.
+Rxa7 {White has regained the gambit pawn.} Rb8 $6 (23... Re8 $1 24. e6 fxe6 25.
+Bd3 Nf6 {achieves an edge.}) 24. Ra5 b6 25. Ra7 Rb7 $2 {
+Black makes a tactical error.} (25... Bxf3+ 26. gxf3 Nxe5 27. f4 Nxc4 28. Rxc7+
+Kd6 29. Rxc4 {draws.}) 26. Nd4 $1 Bxg2 27. Nf5+ $1 Kd7 28. e6+ $1 fxe6 29. Bb5+
+Kc8 ({Not} 29... Kd8 $4 30. Ra8+ Rb8 31. Rxb8#) 30. Ra8+ $1 Rb8 31. Ba6+ Bb7
+32. Ne7+ Kd7 33. Bb5+ $1 Kxe7 34. Rxb8 {
+White has gained a rook for a knight and two pawns.} Bd5 35. Rg8 Nxh2 $2 {
+Such mistakes were made in correspondence games before computers were used.} (
+35... Kf6 36. Rf8+ Ke7 37. Rc8 Kd6 {defends the weaknesses.}) 36. Rxg7+ Kd8 37.
+Rd7+ Kc8 38. Rxh7 Ng4 39. c4 Be4 40. Re7 e5 41. Re8+ Kb7 42. Bd7 $1 Nf6 43.
+Rxe5 Nxd7 44. Rxe4 Nb8 45. Kd3 Kc6 46. Kd4 {
+Estrin showed aggression in the opening and endgame.} 1-0
+
+[Event "USSR ch-6 6364"]
+[Site "correspondence"]
+[Date "1963.??.??"]
+[Round "?"]
+[White "Estrin, Yakov Borisovich"]
+[Black "Gurvich, Arkady"]
+[Result "1-0"]
+[ECO "C59"]
+[Annotator "JvR"]
+[PlyCount "83"]
+[EventDate "1963.??.??"]
+[EventType "tourn (corr)"]
+[SourceDate "2003.04.28"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 {Estrin was the great expert on the Two Knights.
+} 4. Ng5 d5 5. exd5 Na5 6. Bb5+ c6 7. dxc6 bxc6 8. Be2 h6 9. Nf3 e4 10. Ne5 Bd6
+11. f4 exf3 12. Nxf3 O-O 13. d4 {He plays his favourite variation.} Re8 $5 14.
+O-O c5 15. Nc3 cxd4 16. Qxd4 Nc6 17. Qh4 Ne5 18. Kh1 $1 Rb8 19. Nxe5 Bxe5 20.
+Bd3 {White has threats against the black king.} Qc7 $2 {
+Black misses a sacrifice.} ({Solid is} 20... Be6) 21. Bxh6 $1 Rxb2 $2 {
+And another gift.} (21... gxh6 22. Qxh6 Ng4 ({or} 22... Bxc3 23. Qg5+ Kf8 24.
+bxc3) 23. Qh7+ Kf8 24. Nd5 {
+is mentioned by Estrin in his book Two Knights Defence, Sutton Coldfield 1970.}
+) 22. Bxg7 $1 Kxg7 23. Qg5+ Kf8 24. Qh6+ Ke7 25. Qxf6+ $1 Bxf6 26. Nd5+ Kd7 27.
+Nxc7 Kxc7 28. Rxf6 {White has two extra pawns.} Be6 29. a3 Bd5 30. Kg1 Re3 31.
+Rf4 Rxd3 32. cxd3 Rxg2+ 33. Kf1 Rxh2 34. Rc1+ Kd6 35. Ke1 Ke5 36. Rf2 Rh4 37.
+Kd2 f5 38. Re1+ Kf6 39. Ref1 Be6 40. Rf4 Rh7 41. Ra4 Kg5 42. Rg1+ {Estrin share
+d the first place with Borisenko in the fifth Soviet championship (1960-63).
+He ended on the ninth/tenth place in the sixth installment (1963-64) and tenth
+in number ten (1971-72).} 1-0
+
+[Event "Yugoslavia - USSR"]
+[Site "correspondence 6465"]
+[Date "1964.??.??"]
+[Round "?"]
+[White "Estrin, Yakov Borisovich"]
+[Black "Jovcic, Milan (YUG)"]
+[Result "1-0"]
+[ECO "C59"]
+[Annotator "JvR"]
+[PlyCount "85"]
+[EventDate "1964.??.??"]
+[EventType "swiss (corr)"]
+[SourceDate "2003.04.28"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 d5 {
+Black sacrifices a pawn for a counteraction.} 5. exd5 Na5 6. Bb5+ c6 7. dxc6
+bxc6 8. Be2 (8. Bd3 {has been applied successfully by Stellwagen.}) 8... h6 9.
+Nf3 e4 10. Ne5 Bd6 11. f4 exf3 12. Nxf3 O-O 13. d4 Qc7 $5 14. O-O c5 15. Nc3 a6
+16. Kh1 $1 Bb7 17. d5 $5 {Estrin keeps the centre closed.} Rad8 18. Be3 $5 Rfe8
+19. Qd2 $5 Ng4 $5 20. Bg1 Bf4 21. Qd3 Be3 $2 ({Better is} 21... c4 $1 22. Qd4
+Nf6 23. Rae1 Nxd5 24. Nxd5 Bxd5 {and equality.}) 22. Ng5 $1 {
+White makes a favourable exchange. He keeps the extra pawn.} hxg5 23. Bxg4 c4
+24. Qd1 Bxg1 25. Rxg1 Nc6 26. Qd2 Ne5 27. Bf5 f6 28. Rad1 $2 {
+Estrin should lose his pawn.} (28. Rgf1 $1 g6 29. Ne4 $1 Kg7 $2 30. Nxf6 $1
+Kxf6 31. Bd7+ {wins for White.}) 28... g6 29. d6 $5 {
+The tactical Ne4xf6 does not work without a rook on f1.} Qh7 $2 ({Correct is} 
+29... Qc5 $1 30. d7 Re7 {and Black conquers the passed pawn.}) 30. d7 $1 Re7
+31. Nd5 $1 {A black queen on c5 would have prevented this move.} Kf7 $2 (31...
+Bxd5 32. Qxd5+ Qf7 {offers more resistance.}) 32. Qa5 $1 Qh8 33. Nxe7 gxf5 34.
+Rge1 Ng4 35. Qc7 f4 36. Qxc4+ Kg7 37. Nf5+ Kg6 38. h4 $1 Nf2+ 39. Kg1 Nxd1 40.
+Re7 Rxd7 41. Rxd7 Kxf5 42. Qd3+ Ke6 43. Rxb7 1-0
+
+[Event "Wch7 Final 7276"]
+[Site "correspondence"]
+[Date "1972.??.??"]
+[Round "?"]
+[White "Estrin, Yakov Borisovich"]
+[Black "Brglez, Francek (SLO)"]
+[Result "1-0"]
+[ECO "C55"]
+[Annotator "JvR"]
+[PlyCount "61"]
+[EventDate "1972.??.??"]
+[EventType "tourn (corr)"]
+[SourceDate "2003.04.28"]
+
+{Estrin won group K of the semifinal (1962-65) and became thirteenth in the
+final of the fifth world championship (1965-68). He was third in the sixth
+(1968-74) and qualified for the seventh installment.} 1. e4 e5 2. Nf3 Nc6 3.
+Bc4 Nf6 4. d4 {I call this move the Euwe Gambit.} exd4 5. e5 {
+They play the Modern Variation.} ({The sharpest line is} 5. O-O $5 {
+L'Ami and Stellwagen prefer} Nxe4 $1 6. Re1 d5 7. Bxd5 $1 Qxd5 8. Nc3 Qa5 9.
+Nxe4 Be6 10. Neg5 O-O-O 11. Nxe6 fxe6 12. Rxe6 Bd6 {
+and Black is okay (Jacobsen - Johner, Copenhagen 1916).}) 5... d5 6. Bb5 Ne4 7.
+Nxd4 Bc5 8. Be3 (8. Nxc6 Bxf2+ 9. Kf1 Qh4 {
+brings chances for both sides (Moller - Maroczy, Copenhagen 1907).}) 8... Bxd4
+({The tactical} 8... O-O $1 {
+drew in L'Ami - Stellwagen, Maastricht 2008 (both players used computers).}) 9.
+Qxd4 O-O 10. Bxc6 bxc6 11. Nc3 Ng5 12. Qa4 $5 Bd7 13. O-O-O Ne6 14. Qa3 {
+White has the initiative.} f6 $1 15. exf6 Qxf6 16. Ne4 $1 Qg6 ({Not} 16... dxe4
+$2 17. Rxd7) 17. Nc5 Nxc5 18. Bxc5 Rf4 {Black threatens ..Rc4 and ..Qxg2.} 19.
+Bd4 Re8 ({Avoids} 19... Qxg2 $2 20. Rhg1) 20. g3 Rfe4 21. Qc3 Bf5 22. b3 Re2
+23. Rd2 Rxd2 $5 24. Qxd2 c5 $2 (24... a6 {keeps a pawn.}) 25. Bxc5 Qc6 26. Bd4
+$1 Qe6 27. Kb2 a6 28. Rd1 h6 29. Qc3 c6 $2 (29... Re7 {protects the position.})
+30. Bxg7 c5 31. Bxh6 $1 {Black has no proper defence.} (31. Bxh6 Qxh6 32. Rxd5
+{will gain many pawns for the bishop (Zinser).}) 1-0
+
+[Event "Wch7 Final 7276"]
+[Site "correspondence"]
+[Date "1972.??.??"]
+[Round "?"]
+[White "Estrin, Yakov Borisovich"]
+[Black "Nielsen, Julius (DEN)"]
+[Result "1-0"]
+[ECO "C57"]
+[Annotator "JvR"]
+[PlyCount "93"]
+[EventDate "1972.??.??"]
+[EventType "tourn (corr)"]
+[SourceDate "2003.04.28"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 d5 5. exd5 b5 6. Bf1 Nd4 7. c3 Nxd5 8.
+Ne4 Qh4 {They play a razor-sharp line of the Two Knights.} 9. Ng3 Bg4 10. f3 e4
+{Berliner's sacrifice is made.} 11. cxd4 Bd6 12. Bxb5+ Kd8 13. O-O exf3 14. Qb3
+$5 (14. Rxf3 {
+was played in the famous game Estrin - Berliner, Wch5 Final 1965-68.}) 14...
+Nf4 $2 (14... fxg2 $5 15. Rf2 $1 (15. Kxg2 $6 Be6 $1 {(Heyken and Fette)})
+15... Be6 16. Bc6 {favours White (Matt - Rause, corr. 1987).}) (14... Nb4 $2
+15. Rxf3 c6 $1 {Berliner considered this move as decisive for Black, but} 16.
+Re3 $1 cxb5 17. Nc3 {
+wins for White (Westland - Auzins, Baltic Sea, corr. 1997).}) 15. Rxf3 $1 Rb8
+16. Rxf4 $1 Rxb5 ({Or} 16... Bxf4 17. Qd5+ Bd6 18. d3 {
+and White wins (Estrin in Gambits, Pittsburgh 1982).}) 17. Qxb5 Bxf4 18. Qd5+
+Bd7 19. Nf1 Bxh2+ 20. Nxh2 Qe1+ 21. Nf1 Qxc1 22. Qc5 Qe1 23. b3 Re8 24. Nc3 $1
+Qxa1 25. Nd5 Bc6 26. Qxc6 Qxd4+ 27. Nfe3 Qe5 28. Qa8+ Kd7 29. Qxa7 Re6 30. Qa4+
+Kd8 31. Qa8+ Kd7 32. Qf8 Rh6 33. Qxf7+ Kc8 34. Ne7+ Kb8 35. N7f5 Qa1+ 36. Kf2
+Rh1 37. Qf8+ Kb7 38. Qb4+ Kc8 39. Ne7+ Kd7 40. N7d5 Qe5 41. Qg4+ Kd8 42. d4 Qd6
+43. Qxg7 Kc8 44. a4 Qh2 45. a5 Ra1 46. b4 Kb7 47. b5 $1 {
+Estrin won the seventh world championship (1972-76).} 1-0
+
+[Event "ICCF thematic tournament"]
+[Site "correspondence"]
+[Date "1973.??.??"]
+[Round "?"]
+[White "Estrin, Yakov Borisovich"]
+[Black "Schmidt, Paul"]
+[Result "1-0"]
+[ECO "C57"]
+[Annotator "JvR"]
+[PlyCount "47"]
+[EventDate "1973.??.??"]
+[EventType "schev (corr)"]
+[SourceDate "2003.04.28"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 Bc5 {
+The Wilkes-Barre or Traxler Variation arises.} 5. Bxf7+ {White gains a plus.} (
+5. Nxf7 Bxf2+ {leads to great counter-play. Two examples are:} 6. Ke2 $2 (6.
+Kf1 Qe7 7. Nxh8 d5 8. exd5 Nd4 9. c3 $2 Bg4 10. Qa4+ Nd7 11. Kxf2 Qh4+ 12. Ke3
+Qg5+ 13. Kf2 Qf5+ 14. Kg1 O-O-O 15. cxd4 Rf8 16. h3 Qf2+ 17. Kh2 Bxh3 18. Kxh3
+g5 {and Black wins}) 6... Nd4+ 7. Kd3 b5 8. Bb3 Nxe4 9. Nxd8 Nc5+ 10. Kc3 Ne2+
+11. Qxe2 Bd4+ 12. Kb4 a5+ 13. Kxb5 Ba6+ 14. Kxa5 Bd3+ 15. Kb4 Na6+ 16. Ka4 Nb4+
+17. Kxb4 c5# {(Reinisch - Traxler, Prague 1896).}) 5... Ke7 6. Bd5 {When the Tw
+o Knights Match was discussed with Stellwagen and L'Ami, I mentioned this line
+and the Traxler was not selected.} Rf8 7. O-O d6 8. c3 Bg4 9. Qb3 h6 $5 10. d4
+$6 (10. Qxb7 $1 Rb8 11. Qxc6 Bd7 12. Ne6 Bxc6 13. Nxd8 Bxd5 14. exd5 Kxd8 15.
+b4 {will gain an advantage in Van Vugt - Garlant, Thematic ICCF 1999.}) 10...
+Bb6 11. h3 Na5 $2 ({Estrin gives in Wlikes-Barre Variation, Coraopolis 1978:} 
+11... hxg5 12. hxg4 Qd7 13. Bxc6 bxc6 14. Qd1 Qxg4 15. Qxg4 Nxg4 16. Bxg5+ Kd7
+{and Black has sufficient counter-play (later applied in Corbat - Hoefer, corr.
+2000).}) 12. Qc2 hxg5 13. hxg4 {The adversary has no compensation for the pawn.
+} c6 14. b4 cxd5 15. bxa5 Bxa5 16. exd5 exd4 17. Bxg5 Qc7 18. Qh7 $1 Ke8 19.
+Re1+ Kd8 20. Bxf6+ gxf6 21. Qh6 Qf7 22. Re6 dxc3 23. Na3 Kd7 24. Nb5 1-0
+
+[Event "correspondence 7476"]
+[Site "ICCF"]
+[Date "1974.??.??"]
+[Round "?"]
+[White "Nyman, Sture Valentin"]
+[Black "Estrin, Yakov Borisovich"]
+[Result "0-1"]
+[ECO "C74"]
+[Annotator "JvR"]
+[PlyCount "50"]
+[EventDate "1974.??.??"]
+[EventType "tourn (corr)"]
+[SourceDate "2003.04.28"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 d6 5. c3 f5 {The Siesta occurs.} 6. exf5
+Bxf5 7. d4 e4 8. Ng5 d5 9. f3 h6 {Estrin plays a risky gambit.} 10. fxe4 hxg5
+11. exf5 Bd6 12. Qf3 g4 {Another pawn is sacrificed.} 13. Qxg4 Nf6 14. Qxg7 {
+White takes everything.} Rg8 15. Qh6 Rxg2 16. Bd1 $6 (16. Qe3+ $1 Qe7 17. Qxe7+
+Kxe7 18. Nd2 {plays for a win safely.}) 16... Qe7+ 17. Kf1 O-O-O $1 (17... Rg8
+{drew in Ekstrom - Svenneby, corr. 1969.}) 18. Kxg2 Rg8+ 19. Bg5 $2 (19. Kf2
+Qe4 $1 20. Rg1 Qxf5+ 21. Bf4 Rxg1 22. Kxg1 Bxf4 {
+leads to a dangerous black attack.}) 19... Qe3 $1 20. h4 Qg3+ 21. Kf1 Re8 22.
+Bd2 Ng4 $1 23. Bxg4 Qxg4 {White has  no serious defence.} 24. Qe6+ Rxe6 25.
+fxe6 Bg3 $1 {Black will mate or gain material.} 0-1
+
+[Event "Wch10 Final 7884"]
+[Site "corr ICCF"]
+[Date "1978.??.??"]
+[Round "?"]
+[White "Estrin, Yakov Borisovich"]
+[Black "Boey, Jozef Martin (BEL)"]
+[Result "1-0"]
+[ECO "C55"]
+[Annotator "JvR"]
+[PlyCount "75"]
+[EventDate "1978.??.??"]
+[EventType "tourn (corr)"]
+[SourceDate "2003.04.28"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d4 exd4 5. e5 Ng4 6. Qe2 {
+Estrin selects a quiet move in a wild line.} Qe7 7. Bf4 f6 8. exf6 Qxe2+ 9.
+Kxe2 Nxf6 10. Re1 $5 (10. Bxc7 $2 d6 $1 {
+locks up a bishop (Okhotnik - Khelidze, Beltsy 1972).}) 10... d6 $5 (10... d5
+$1 11. Kf1+ Be7 {equalises.}) 11. Kf1+ Be7 12. Nbd2 a6 $6 ({More useful is} 
+12... Bd7) 13. Nb3 {White regains the gambit pawn.} b5 14. Bd3 $1 ({
+The aggressive} 14. Nbxd4 $5 Nxd4 15. Nxd4 bxc4 16. Nc6 Bd7 17. Rxe7+ $2 Kf8
+18. Rae1 Bxc6 19. Rxc7 Bb5 20. Bxd6+ Kg8 {
+failed in Mansurov - Balashov, Katowice 1992.}) 14... Bd7 15. Nbxd4 Nxd4 16.
+Nxd4 Kf7 17. c4 {White has the initiative in the endgame.} Rhb8 $5 {
+Black tries to counter on the queenside.} 18. Rac1 $1 bxc4 19. Bxc4+ d5 20. Bb3
+Rb4 21. Be5 c5 $6 ({Preferable is} 21... Bd6 22. Bxd6 cxd6) 22. Nc2 c4 $6 (
+22... Rxb3 23. axb3 Be6 {sacrifices in a wiser way.}) 23. Bxf6 Kxf6 24. Rxe7
+Kxe7 25. Nxb4 cxb3 26. Nxd5+ Kd6 27. Rd1 $1 Bb5+ $2 (27... Kc5 $1 28. axb3 Bb5+
+29. Kg1 Re8 30. Ne3 Kb4 {fights for a draw.}) 28. Ke1 bxa2 $5 29. Nb6+ Kc5 30.
+Nxa8 Kb4 31. Nc7 Kb3 32. Kd2 g5 33. Ne6 g4 34. f4 gxf3 35. gxf3 Kxb2 36. Ra1 $1
+{Estrin opts for the beautiful win.} Bc4 (36... Kxa1 37. Kc1 {will mate soon.})
+37. Nd4 a5 38. f4 {Estrin divided the seventh until tenth place in the eighth
+championship (1975-80) and ended twelfth in the tenth (1978-84). He played for
+27 years in semifinals and finals of the world championships. That was most of
+his adult life!} 1-0
+
+[Event "newspaper CC match"]
+[Site "corr"]
+[Date "1982.??.??"]
+[Round "?"]
+[White "Readers of Prisyv"]
+[Black "Estrin, Yakov Borisovich"]
+[Result "0-1"]
+[ECO "C89"]
+[Annotator "JvR"]
+[PlyCount "72"]
+[EventDate "1982.??.??"]
+[SourceDate "2003.04.28"]
+
+{The readers of a local newspaper played two correspondence games against the
+champion.} 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3
+O-O 8. c3 d5 9. exd5 Nxd5 10. Nxe5 Nxe5 11. Rxe5 c6 12. Re1 Bd6 13. d4 Qh4 14.
+g3 Qh3 15. Be3 Bg4 16. Qd3 Rae8 17. Nd2 Re6 18. a4 Qh5 19. axb5 axb5 20. Bxd5
+Qxd5 21. Qf1 {Black makes a passive move in the Marshall Attack.} Rfe8 22. Qg2
+Qh5 23. Ra6 f5 24. d5 Rh6 $1 {Estrin finds a new charge.} (24... Bh3 {
+occurred in Buijsman - Kaasjager, corr. 1980.}) 25. f3 $2 ({Right is} 25. f4 $1
+Bxf4 $1 26. gxf4 Bh3 27. Qg3 Rg6 {
+and Black has an edge in Olafsson - Harding, corr. 2001.}) 25... Bh3 {
+The readers cannot prevent ..f4.} 26. Qf2 f4 $1 27. Bd4 Rxe1+ 28. Qxe1 Bc8 $1 {
+White cannot parry the double threat.} 29. Ra8 Qxh2+ 30. Kf1 Qh3+ 31. Ke2 cxd5
+32. Kd1 Qd7 33. g4 b4 $1 34. Ra7 (34. Nb3 {
+lost in Van Willigen - Ziese, corr. 1986.}) 34... Bb7 35. c4 $2 dxc4 36. Nxc4
+Bc5 $1 {Estrin ends another gambit game in a grand style.} ({The pointe is} 
+36... Bc5 37. Rxb7 Qa4+ 38. Kd2 Rh2+ 39. Kd3 Qc2#) 0-1
+

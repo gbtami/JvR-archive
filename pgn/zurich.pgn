@@ -1,0 +1,1566 @@
+[Event "Candidates Tournament"]
+[Site "Zuerich"]
+[Date "1953.08.30"]
+[Round "1"]
+[White "Euwe, Max"]
+[Black "Kotov, Alexander"]
+[Result "1-0"]
+[ECO "A64"]
+[Annotator "JvR"]
+[PlyCount "77"]
+[EventDate "1953.??.??"]
+[Source "ChessBase"]
+
+{Selected games have been analysed again.  Jan van Reek.  Euwe's last try. Max
+Euwe made a remarkable start, because he gave the Soviet players a hard time.} 
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. Nf3 g6 7. g3 Bg7 8. Bg2
+O-O 9. O-O a6 10. a4 Nbd7 11. Nd2 Re8 12. a5 b5 13. axb6 Nxb6 14. Nb3 Qc7 $6 ({
+Better is} 14... Nc4 $1 {(O'Kelly-Tolush, Bucharest 1953).}) 15. Na5 Bd7 16. h3
+Bb5 17. Be3 Nfd7 18. Qb3 $1 Nf6 ({Acceptation of the pawn sacrifice by} 18...
+Bxc3 $6 19. bxc3 Bxe2 20. Rfe1 c4 21. Qb4 Bd3 22. Nc6 {favours White (Euwe).})
+19. Rfc1 Bd7 20. Qd1 Rxe3 $2 {Kotov becomes too generous.} ({
+Great tactical complications result from} 20... Rac8 $1 21. b4 Nh5 22. g4 Ng3)
+21. fxe3 Bh6 22. Qd3 Re8 ({Insufficient is} 22... Bf5 {due to} 23. e4 $1 Bxc1
+24. Rxc1 Bd7 25. e5 {(Euwe).}) 23. Kh2 Rxe3 24. Qxa6 $1 Re5 25. Rf1 Bc8 26. Qb5
+Bd7 27. Nc6 Kg7 28. Ra6 Nc8 29. Qb8 Qxb8 30. Nxb8 Bf5 31. Rc6 Re8 32. e4 Bd7
+33. e5 Rxe5 34. Nxd7 Nxd7 35. Rxc8 Re3 36. Rc6 Ne5 37. Rxd6 Rd3 38. Rd1 Re3 39.
+Rc6 1-0
+
+[Event "Candidates Tournament"]
+[Site "Zuerich"]
+[Date "1953.08.31"]
+[Round "2"]
+[White "Geller, Efim"]
+[Black "Euwe, Max"]
+[Result "0-1"]
+[ECO "E26"]
+[Annotator "JvR"]
+[PlyCount "52"]
+[EventDate "1953.??.??"]
+[Source "ChessBase"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. a3 Bxc3+ 6. bxc3 b6 7. Bd3 Bb7 8. f3
+Nc6 9. Ne2 O-O 10. O-O Na5 11. e4 Ne8 12. Ng3 cxd4 13. cxd4 Rc8 14. f4 $5 (14.
+c5 bxc5 15. dxc5 d6 $1 {draws.}) 14... Nxc4 15. f5 f6 16. Rf4 $5 b5 $1 {
+Black starts a counterattack. Square b6 is opened for the queen.} 17. Rh4 $5 (
+17. Bxc4 Rxc4 18. Rh4 {will be played in Mihaljcisin-Ankerst, Vukovar 1966.})
+17... Qb6 18. e5 $1 {Geller has to go forwards.} 18... Nxe5 19. fxe6 Nxd3 20.
+Qxd3 ({Material is lost by} 20. exd7 $2 Rxc1 21. Rxc1 Nxc1 {(Euwe).}) 20...
+Qxe6 $5 ({Best is} 20... f5 $1 21. exd7 Qc6 $1 22. Qb3+ Kh8 23. Ne4 $1 Qxd7 24.
+Nc5 Qd5 25. Qxd5 Bxd5 {and Black has an edge.}) 21. Qxh7+ Kf7 22. Bh6 $1 (22.
+Qh5+ $2 g6 $1 23. Qh7+ Ng7 24. Bh6 Rg8 {and the attack has stopped (Euwe).})
+22... Rh8 $5 {The former world champion makes an astonishing move.} ({
+The alternative} 22... Rc3 23. Rf1 Rxg3 24. hxg3 Qe2 25. Rf2 Qe1+ 26. Rf1 Qe2 {
+ends with a repetition of moves.}) 23. Qxh8 Rc2 $1 {
+Square c2 has become available by the risky rook sacrifice.} 24. Rc1 $2 {
+Geller misses the right defence.} ({Correct is} 24. d5 $1 Bxd5 25. Rd1 $1 Rxg2+
+26. Kf1 gxh6 27. Qxh6 {(Euwe).} 27... Bf3 $1 28. Rd2 {and Black will survive.})
+24... Rxg2+ 25. Kf1 Qb3 26. Ke1 Qf3 {Euwe became the sole leader.} 0-1
+
+[Event "Candidates Tournament"]
+[Site "Zuerich"]
+[Date "1953.09.02"]
+[Round "3"]
+[White "Euwe, Max"]
+[Black "Smyslov, Vassily"]
+[Result "0-1"]
+[ECO "D72"]
+[Annotator "JvR"]
+[PlyCount "116"]
+[EventDate "1953.??.??"]
+[Source "ChessBase"]
+
+1. d4 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 d5 5. cxd5 Nxd5 6. e4 Nb6 7. Ne2 c5 8. d5
+e6 9. O-O O-O 10. a4 Na6 11. Na3 exd5 12. exd5 Bf5 13. Nc3 Nb4 14. Be3 Rc8 15.
+d6 $5 Bd3 16. Bxb7 $5 {Max gives an exchange for the attack in the centre.} ({
+Theory will become his suggestion} 16. a5 Nd7 17. Bxb7 {
+(Stohl-Ftacnik, Germany 1996).}) 16... Rb8 17. Bg2 Bxf1 18. Kxf1 Nd7 19. Nc4
+Ne5 20. Nxe5 Bxe5 $5 21. Bxc5 Qa5 22. Be3 Rfd8 23. Ne4 $5 Bxd6 24. Nf6+ Kh8 25.
+Bd4 Be5 26. Nd7 $1 f6 $2 {Euwe has his finest hour.} ({He analyses} 26... Bxd4
+27. Qxd4+ Kg8 28. Nf6+ Kf8 $1 (28... Kh8 $2 29. Nd5+ Kg8 30. Ne7+ Kf8 31. Qh8+
+Kxe7 32. Re1+) 29. Nxh7+ Kg8 30. Nf6+ Kf8 31. Nd7+ Kg8 32. Rd1 $5 {
+and White has a plus.}) 27. Bxe5 fxe5 28. Qd2 $2 {
+The turning point has been reached.} ({Right is} 28. Qd6 $1 Qa6+ 29. Qxa6 Nxa6
+30. Nxb8 Rxb8 31. Re1 {(Euwe)} 31... Nc5 $1 32. Rxe5 Nxa4 33. Ra5 Nxb2 34. Rxa7
+{White has an extra pawn in the endgame.}) 28... Rbc8 $2 ({Better is} 28...
+Qa6+ 29. Kg1 Qe6) 29. Kg1 $2 (29. Qd6 $1 {saves the game.}) 29... Qc5 30. Bh3
+Qe7 31. Qe2 $2 {The errors continue in time trouble.} ({Right is} 31. Rd1)
+31... Rxd7 32. Bxd7 Qxd7 33. Qxe5+ Kg8 34. Qe4 a5 35. h4 Qd5 36. Qg4 Rf8 37.
+Rd1 Qf3 38. Qc4+ Qf7 39. Qc5 Qf5 40. Qc4+ Qf7 41. Qc5 Qf5 42. Qc4+ Kg7 43. Qd4+
+Qf6 44. Qc5 Rf7 45. Rd2 Qe7 46. Qc3+ Rf6 47. Rd4 Nc6 48. Rd5 Qe6 49. Rc5 h5 50.
+b3 Kf7 51. Rb5 Qd7 52. Kg2 Qe7 53. Qc4+ Kg7 54. Qd3 Kh6 55. Rd5 Rf7 56. Rd6 Ne5
+57. Qe3+ Kh7 58. Rb6 $2 (58. Rd5 Nc6 59. Qd3 {continues the game.}) 58... Qc7
+$1 {Euwe was stopped by the next challenger. He ended at the penultimate
+position and had competed in the world championship for the last time.} 0-1
+
+[Event "Candidates Tournament+"]
+[Site "Zuerich"]
+[Date "1953.??.??"]
+[Round "14"]
+[White "Averbakh, Yuri"]
+[Black "Kotov, Alexander"]
+[Result "0-1"]
+[ECO "A55"]
+[Annotator "JvR"]
+[PlyCount "102"]
+[EventDate "1953.??.??"]
+
+{When ten of the fifteen participants come from the Soviet-Uniion, one can
+assume crooked play. Actually, the 'Russians' fought hard among each other.
+Chancy attacks made the Stalinist Kotov popular.} 1. d4 Nf6 2. c4 d6 3. Nf3
+Nbd7 4. Nc3 e5 5. e4 Be7 6. Be2 O-O 7. O-O c6 8. Qc2 Re8 9. Rd1 Bf8 10. Rb1 a5
+11. d5 Nc5 12. Be3 Qc7 13. h3 Bd7 14. Rbc1 g6 15. Nd2 Rab8 16. Nb3 Nxb3 17.
+Qxb3 c5 18. Kh2 Kh8 19. Qc2 Ng8 20. Bg4 $1 Nh6 $6 (20... Bh6 {
+exchanges both bishops.}) 21. Bxd7 Qxd7 22. Qd2 Ng8 23. g4 f5 24. f3 Be7 25.
+Rg1 Rf8 26. Rcf1 Rf7 27. gxf5 gxf5 28. Rg2 $2 (28. f4 $1 Bf6 29. fxe5 Bxe5+ 30.
+Bf4 {keeps a plus.}) 28... f4 $1 29. Bf2 Rf6 30. Ne2 $2 ({White should try} 30.
+Qe1 $1 Rh6 31. Rg4 Nf6 32. Rh4 $5 Rg6 33. Rg1) 30... Qxh3+ $3 {
+Kotov delivers a great sacrifice. White's king is drawn to hostile territory.}
+31. Kxh3 Rh6+ 32. Kg4 Nf6+ ({An alternative brings} 32... Rf8 33. Nxf4 Nf6+ 34.
+Kg5 Rg8+ $1 35. Kf5 Ng4 $1 36. Nh5 Rhg6 {(W. Becker).}) 33. Kf5 Nd7 ({
+Another option gives} 33... Ng4 $1 {(Kluever)} 34. Nxf4 Rg8 35. Nh5 Rhg6 36.
+Qg5 Bxg5 37. Kxg4 Bf4+ 38. Kh3 Rxg2) 34. Rg5 Rf8+ 35. Kg4 Nf6+ 36. Kf5 Ng8+ 37.
+Kg4 Nf6+ ({The winning move} 37... Bxg5 {will be played later.}) 38. Kf5 Nxd5+
+{Black takes a pawn in order to avoid a threefold repetition.} 39. Kg4 Nf6+ 40.
+Kf5 Ng8+ 41. Kg4 Nf6+ 42. Kf5 Ng8+ 43. Kg4 Bxg5 $1 {The final assault begins.}
+44. Kxg5 Rf7 $1 45. Bh4 Rg6+ 46. Kh5 Rfg7 47. Bg5 Rxg5+ 48. Kh4 Nf6 49. Ng3
+Rxg3 50. Qxd6 R3g6 51. Qb8+ Rg8 0-1
+
+[Event "Candidates Tournament*"]
+[Site "Zuerich"]
+[Date "1953.08.30"]
+[Round "1"]
+[White "Petrosian, Tigran V"]
+[Black "Keres, Paul"]
+[Result "1/2-1/2"]
+[ECO "E01"]
+[Annotator "JvR"]
+[PlyCount "82"]
+[EventDate "1953.??.30"]
+[Source "ChessBase"]
+
+{Sammy versus the Russians. We follow the thirty games among the best six
+players with special attention for Reshevsky.} 1. c4 c5 2. Nf3 Nf6 3. d4 cxd4
+4. Nxd4 e6 5. g3 d5 6. Bg2 e5 7. Nc2 d4 8. O-O $6 ({More active is} 8. f4 $1 {
+(Bondarevsky-Dely, Budapest-Leningrad 1959).}) 8... Nc6 9. Nd2 Bg4 10. Nf3 a5
+11. Bg5 Bc5 12. e4 h6 13. Bxf6 Qxf6 14. Nce1 Qe6 15. Nd3 Be7 16. h3 $1 Bxf3 17.
+Qxf3 Qxc4 18. Rfc1 Qe6 19. Qf5 $1 {
+White is going to make the blockade more effective.} 19... Bd6 (19... Qd6 {
+allows the counter} 20. f4) 20. Qxe6+ fxe6 21. a3 Kd7 22. Bf1 a4 23. Ne1 Ra5
+24. Rc2 Rc8 25. Rac1 Na7 26. Rxc8 Nxc8 27. Bc4 Be7 {
+The white fortress cannot be taken.} 28. Nd3 Nd6 29. f3 Nxc4 30. Rxc4 Bd6 31.
+Kf2 Ra6 32. Ke2 g5 33. Kd1 Ra8 34. Ke2 h5 35. Rc1 Rh8 36. Rh1 h4 37. g4 b5 38.
+Rc1 Rb8 39. Kd1 Rb6 40. Rc2 Rb8 41. Rc1 Rc8 1/2-1/2
+
+[Event "Candidates Tournament*"]
+[Site "Zuerich"]
+[Date "1953.08.31"]
+[Round "2"]
+[White "Reshevsky, Samuel"]
+[Black "Petrosian, Tigran V"]
+[Result "1/2-1/2"]
+[ECO "E58"]
+[Annotator "JvR"]
+[PlyCount "81"]
+[EventDate "1953.??.30"]
+[Source "ChessBase"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Nf3 c5 7. O-O Nc6 8. a3
+Bxc3 9. bxc3 b6 10. cxd5 exd5 11. Bb2 $6 c4 12. Bc2 Bg4 13. Qe1 Ne4 $6 ({
+Better is} 13... Bxf3 14. gxf3 Nh5) 14. Nd2 $1 Nxd2 15. Qxd2 Bh5 16. f3 Bg6 17.
+e4 Qd7 18. Rae1 dxe4 $6 19. fxe4 Rfe8 20. Qf4 b5 21. Bd1 Re7 22. Bg4 Qe8 23. e5
+$6 ({The attack continues over a broad front by} 23. Bf3 $1 a5 24. h4 f6 25. g4
+) 23... a5 24. Re3 Rd8 25. Rfe1 Re6 $1 {
+Black deals with the threat e6 drastically.} 26. a4 $5 Ne7 $1 ({
+Black avoids the trap} 26... b4 $2 27. d5 Rxd5 28. Bxe6 fxe6 29. Qxc4 {(Euwe).}
+) 27. Bxe6 fxe6 28. Qf1 Nd5 $1 {Petrosian applies blockade successfully.} 29.
+Rf3 Bd3 30. Rxd3 $1 cxd3 31. Qxd3 b4 $1 32. cxb4 axb4 33. a5 Ra8 34. Ra1 Qc6
+35. Bc1 Qc7 36. a6 Qb6 37. Bd2 b3 38. Qc4 h6 39. h3 b2 40. Rb1 Kh8 41. Be1
+1/2-1/2
+
+[Event "Candidates Tournament*"]
+[Site "Zuerich"]
+[Date "1953.09.02"]
+[Round "3"]
+[White "Petrosian, Tigran V"]
+[Black "Bronstein, David"]
+[Result "1/2-1/2"]
+[ECO "E04"]
+[PlyCount "33"]
+[EventDate "1953.??.30"]
+[Source "ChessBase"]
+
+1. d4 Nf6 2. c4 e6 3. g3 d5 4. Bg2 dxc4 5. Nf3 Bb4+ 6. Bd2 Be7 7. Qc2 Bd7 8.
+O-O Bc6 9. Qxc4 Bd5 10. Qc2 Nc6 11. Bc3 Be4 12. Qd1 O-O 13. Nbd2 Bg6 14. Nc4
+Be4 15. Ncd2 Bg6 16. Nc4 Be4 17. Ncd2 1/2-1/2
+
+[Event "Candidates Tournament*"]
+[Site "Zuerich"]
+[Date "1953.09.09"]
+[Round "7"]
+[White "Geller, Efim"]
+[Black "Smyslov, Vassily"]
+[Result "0-1"]
+[ECO "E29"]
+[Annotator "JvR"]
+[PlyCount "108"]
+[EventDate "1953.??.30"]
+[Source "ChessBase"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 O-O 6. a3 Bxc3+ 7. bxc3 Nc6 8.
+Ne2 b6 9. O-O Ba6 10. e4 Ne8 11. Qa4 $6 ({Usual is the adventurous} 11. f4 $5)
+({My preference goes to} 11. Qc2) 11... Qc8 12. Be3 $2 {
+Hereafter, Black takes the initiative.} ({More active is} 12. e5 $1) 12... d6
+13. Rad1 Na5 14. dxc5 dxc5 15. e5 Qc6 16. Qc2 $5 {
+Exchange leads to a poor endgame.} 16... f5 $1 17. Qa2 Qa4 18. Nf4 Nc7 19. Bc2
+Qe8 $5 (19... Qxc4 {is okay (Smyslov and Euwe).}) 20. Bb3 g5 21. Nh3 h6 22. f3
+Qe7 23. Nf2 Rad8 24. Nd3 Qg7 $1 25. f4 Rd7 26. Nc1 Rfd8 27. Rxd7 Rxd7 28. Qe2
+$6 Nd5 $1 {The cat-and-mouse game has reached a highlight.} 29. Bd2 Nxf4 30.
+Bxf4 gxf4 31. Rxf4 Qg5 $6 (31... Nxb3 32. Nxb3 Rd5 $1 {
+breaks the white resistance.}) 32. g3 Kh7 33. Kf2 Qd8 34. Qh5 Rg7 35. Qe2 Rd7
+36. Qh5 Qg5 37. Qe8 Qe7 38. Qxe7+ Rxe7 39. Ba2 Rd7 40. Ke2 Bb7 41. Bb1 Kg8 42.
+g4 fxg4 43. Rxg4+ Rg7 44. Rh4 $5 ({Smyslov shows} 44. Rxg7+ Kxg7 45. Ba2 (45.
+Bd3 Ba6) 45... Kg6 {and Black wins.}) 44... Rg1 45. Kd2 Kg7 46. Bd3 Bf3 47. Rf4
+Bh5 48. Ne2 Rg2 49. Ke3 Rg5 50. h4 Rxe5+ 51. Kd2 Nb3+ 52. Kd1 Re3 53. Kc2 e5
+54. Rf2 e4 {Geller overstepped the time limit in a lost position.} 0-1
+
+[Event "Candidates Tournament*"]
+[Site "Zuerich"]
+[Date "1953.09.12"]
+[Round "8"]
+[White "Keres, Paul"]
+[Black "Geller, Efim"]
+[Result "1/2-1/2"]
+[ECO "E61"]
+[PlyCount "52"]
+[EventDate "1953.??.30"]
+[Source "ChessBase"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. Bg5 d6 5. e3 O-O 6. Nf3 c5 7. Be2 h6 8. Bh4
+cxd4 9. Nxd4 Nc6 10. O-O Bd7 11. Qd2 a6 12. Rfd1 Kh7 13. Nb3 Be6 14. Nd5 Bxd5
+15. cxd5 Ne5 16. f4 Ned7 17. Bf3 Rc8 18. Rac1 Rxc1 19. Rxc1 Qb8 20. e4 Rc8 21.
+Bf2 Rc7 22. Rxc7 Qxc7 23. Qc1 Ne8 24. Qxc7 Nxc7 25. Na5 Bxb2 26. Nxb7 f5
+1/2-1/2
+
+[Event "Candidates Tournament*"]
+[Site "Zuerich"]
+[Date "1953.09.13"]
+[Round "9"]
+[White "Geller, Efim"]
+[Black "Reshevsky, Samuel"]
+[Result "1/2-1/2"]
+[ECO "D42"]
+[PlyCount "42"]
+[EventDate "1953.??.30"]
+[Source "ChessBase"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 c5 5. cxd5 Nxd5 6. e3 Nc6 7. Bd3 cxd4 8.
+exd4 g6 9. Bg5 Qa5 10. O-O Bg7 11. Ne4 O-O 12. Bc4 Qb6 13. Bxd5 exd5 14. Nf6+
+Bxf6 15. Bxf6 Na5 16. Be7 Re8 17. Bc5 Qxb2 18. Rb1 Qc3 19. Rc1 Qb2 20. Rb1 Qc3
+21. Rc1 Qb2 1/2-1/2
+
+[Event "Candidates Tournament*"]
+[Site "Zuerich"]
+[Date "1953.09.13"]
+[Round "9"]
+[White "Smyslov, Vassily"]
+[Black "Keres, Paul"]
+[Result "1-0"]
+[ECO "D29"]
+[Annotator "JvR"]
+[PlyCount "81"]
+[EventDate "1953.??.30"]
+[Source "ChessBase"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 Nf6 4. e3 e6 5. Bxc4 c5 6. O-O a6 7. Qe2 b5 8. Bb3
+Bb7 9. Rd1 Nbd7 10. Nc3 Be7 11. e4 b4 $6 {Keres makes a doubtful move.} ({
+Better is} 11... cxd4 12. Nxd4 Qc7 {(Smyslov-Keres, Budapest 1950).}) 12. e5
+bxc3 13. exf6 Bxf6 ({Awful is} 13... Nxf6 14. Ba4+ {
+(Alekhine-Letelier, Carrasco 1938).}) 14. d5 $1 {White attacks in the centre.}
+14... e5 $2 ({Black has to exchange by} 14... cxb2 $1 15. Bxb2 Bxb2 16. dxe6
+fxe6 ({Smyslov continues with} 16... Bxa1 17. exd7+ Kf8 18. Qc4 Qf6 19. d8=Q+
+Rxd8 20. Rxd8+ Qxd8 21. Qxf7#) 17. Qxb2 Qf6 18. Qd2 O-O-O 19. Ng5 Ne5 20. Bxe6+
+Kb8 21. Qe3 Ka8 $1) 15. bxc3 O-O 16. Nd2 Be7 17. Nc4 a5 18. Nxe5 Nxe5 19. Qxe5
+Bf6 20. Qg3 c4 21. Ba4 Qe7 22. Bf4 Rfd8 23. d6 Qe4 24. Re1 Qf5 25. d7 h5 26.
+Re8+ Kh7 27. h4 Ra6 28. Bg5 Rxd7 29. Bxd7 Qxd7 30. Rae1 Rd6 31. Bxf6 Rxf6 32.
+Qb8 Rf5 33. Rh8+ Kg6 34. Rd8 Qb5 35. Rd6+ Kh7 36. Rd8 Qc5 37. Re3 Bd5 38. Rh8+
+Kg6 39. Qd8 Bf3 40. Rxf3 Rxf3 41. gxf3 {Smyslov outdid another main competitor.
+} 1-0
+
+[Event "Candidates Tournament*"]
+[Site "Zuerich"]
+[Date "1953.09.15"]
+[Round "10"]
+[White "Bronstein, David"]
+[Black "Geller, Efim"]
+[Result "1/2-1/2"]
+[ECO "B62"]
+[Annotator "JvR"]
+[PlyCount "49"]
+[EventDate "1953.??.30"]
+[Source "ChessBase"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6 7. g3 Be7 8. Bg2
+O-O 9. O-O Nxd4 10. Qxd4 h6 11. Bd2 Bd7 12. Rad1 Qc7 13. Qd3 Rac8 14. g4 $5 {
+Bronstein brings life to a dull game.} 14... b5 $5 ({
+Geller avoids the confrontation by} 14... Nxg4 15. Qg3 h5) 15. a3 a5 16. g5
+hxg5 17. Bxg5 b4 18. axb4 axb4 19. e5 $1 dxe5 20. Bxf6 Bxf6 21. Ne4 Rfd8 22.
+Nxf6+ gxf6 23. Qf3 f5 24. Qg3+ Kf8 25. Qg5 {White will deliver perpetual check.
+} 1/2-1/2
+
+[Event "Candidates Tournament*"]
+[Site "Zuerich"]
+[Date "1953.09.15"]
+[Round "10"]
+[White "Reshevsky, Samuel"]
+[Black "Smyslov, Vassily"]
+[Result "1/2-1/2"]
+[ECO "E43"]
+[PlyCount "37"]
+[EventDate "1953.??.30"]
+[Source "ChessBase"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 O-O 6. Nf3 b6 7. O-O Bb7 8. Bd2
+cxd4 9. exd4 d5 10. cxd5 Bxc3 11. bxc3 Qxd5 12. Re1 Nbd7 13. Qe2 Qh5 14. a4 a6
+15. Reb1 Rfd8 16. Be3 Be4 17. Bf4 Qf5 18. Bxe4 Nxe4 19. Bd2 1/2-1/2
+
+[Event "Candidates Tournament*"]
+[Site "Zuerich"]
+[Date "1953.09.16"]
+[Round "11"]
+[White "Keres, Paul"]
+[Black "Reshevsky, Samuel"]
+[Result "1/2-1/2"]
+[ECO "E28"]
+[Annotator "JvR"]
+[PlyCount "81"]
+[EventDate "1953.??.30"]
+[Source "ChessBase"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 O-O 6. a3 Bxc3+ 7. bxc3 b6 $5 8.
+e4 $1 Bb7 9. Bg5 h6 10. h4 $1 d6 11. e5 $1 dxe5 12. dxe5 Be4 $2 ({
+Black creates a new defence line by} 12... hxg5 $1 13. exf6 g4 14. fxg7 Re8 15.
+h5 f5) 13. Rh3 Bxd3 14. Rxd3 Qc7 15. Bxf6 $2 ({White gets a winning attack by} 
+15. exf6 hxg5 16. fxg7 Kxg7 17. Qh5 {(Euwe).}) 15... gxf6 16. Qg4+ Kh8 {
+Keres still has a strong offensive.} 17. Qf3 $2 ({Correct is} 17. exf6 $1 Qe5+
+18. Kf1 Qxf6 19. Qe4 Qg6 20. Qxg6 fxg6 21. Re1 {
+and White has reached a won endgame.}) 17... Nd7 18. O-O-O Nxe5 19. Qxf6+ Kh7
+20. Rd6 Nxc4 21. Nf3 $5 Nxd6 $2 ({The white attack can be ended by} 21... Qxd6
+$1 22. Rxd6 Nxd6 $1 {(Euwe).}) 22. Ng5+ Kg8 23. Qxh6 f6 24. Nxe6 Qe7 25. Rxd6
+$2 {The calculations are too difficult for a human brain with little time.} ({
+Better is} 25. Qg6+ Kh8 26. Qh5+ $1 Kg8 27. Rd3 $1 Ne4 {(Euwe)} 28. Qg4+ $1)
+25... Rf7 26. Qd2 Re8 27. f4 (27. g4 $1 {prevents the next move.}) 27... f5 $1
+28. Qd5 Kh8 29. Qe5+ Qf6 30. Kc2 c4 31. Kd2 Kg8 32. Qd5 Qxh4 33. Qxc4 $2 ({
+A draw is forced by} 33. Rd8 $1 Rxd8 34. Nxd8 {(Euwe).}) 33... Qf2+ 34. Kc1
+Qg1+ 35. Kc2 Qxg2+ 36. Kb3 b5 $1 37. Qd4 Qf1 38. Kb4 Qc4+ $2 ({
+Black misses in time trouble the trick} 38... Rf6 $2 39. Nc5 Rxd6 40. Qxd6 Qc4+
+41. Ka5 Qxc3+ 42. Kxb5 Qb2+ {(Euwe).}) 39. Qxc4 bxc4 40. Kxc4 Rc8+ 41. Kd5
+1/2-1/2
+
+[Event "Candidates Tournament*"]
+[Site "Zuerich"]
+[Date "1953.09.16"]
+[Round "11"]
+[White "Smyslov, Vassily"]
+[Black "Bronstein, David"]
+[Result "1/2-1/2"]
+[ECO "A12"]
+[Annotator "JvR"]
+[PlyCount "80"]
+[EventDate "1953.??.30"]
+[Source "ChessBase"]
+
+1. c4 Nf6 2. g3 c6 3. Nf3 d5 4. b3 Bf5 5. Bg2 e6 6. O-O Nbd7 7. Bb2 Be7 8. Nc3
+O-O 9. Nh4 Bg4 10. h3 Bh5 11. g4 d4 $1 {
+Bronstein prepares a brilliant positional sacrifice.} 12. Nb1 Bxg4 $5 13. hxg4
+Nxg4 14. e4 $2 {Bronstein has a stronger attack than all thought in 1953.} ({
+Euwe does not like} 14. Nf3 e5 {but} 15. e4 f5 16. exf5 Qe8 17. Re1 Qh5 18.
+Bxd4 {gives a determined resistance.}) 14... Nxf2 $2 ({
+The defence line can be crushed by} 14... Ba3 $3 {
+A diagonal is cleared for the queen.} 15. Bxa3 Qxh4 16. Bd6 e5) 15. Rxf2 Bxh4
+16. Rf3 Ne5 17. Rh3 Bg5 18. Na3 Ng6 19. Nc2 Nf4 20. Rh2 d3 21. Ne3 Ne2+ 22. Kh1
+f5 23. exf5 exf5 24. Bf3 Ng3+ 25. Kg1 Bf6 26. Bxf6 Qxf6 27. Qe1 f4 28. Ng4 Qd4+
+29. Kg2 Rae8 30. Qg1 Qb2 31. Qc1 Qd4 32. Qc3 Qd6 33. c5 Qg6 34. Qc4+ Kh8 35.
+Rh3 h5 36. Kh2 Qh7 37. Nf2 g5 38. Qd4+ Kg8 ({A blunder would be} 38... Qg7 $5 {
+due to} 39. Qxd3 $1 Qxa1 40. Bxh5 Kg8 41. Bxe8 Rxe8 42. Qg6+ Kf8 43. Rh7 Re7
+44. Qh6+ Ke8 45. Rh8+ {and White wins.}) 39. Qc4+ Kh8 40. Qd4+ Kg8 {
+A draw was agreed upon after the adjournment.} 1/2-1/2
+
+[Event "Candidates Tournament*"]
+[Site "Zuerich"]
+[Date "1953.09.19"]
+[Round "12"]
+[White "Bronstein, David"]
+[Black "Keres, Paul"]
+[Result "1-0"]
+[ECO "B25"]
+[Annotator "JvR"]
+[PlyCount "115"]
+[EventDate "1953.??.30"]
+[Source "ChessBase"]
+
+1. e4 c5 2. Nc3 g6 3. g3 Bg7 4. d3 Nc6 5. Bg2 Rb8 6. f4 d6 7. Nf3 e6 8. O-O
+Nge7 9. e5 $1 dxe5 $2 {White should not accept the temporary pawn sacrifice.} (
+{Better is} 9... O-O) 10. fxe5 Nxe5 11. Bf4 Nxf3+ 12. Qxf3 Ra8 ({White wins in
+} 12... e5 $2 13. Bxe5 $1 Bxe5 14. Qxf7+ Kd7 15. Rae1 {(Euwe).}) 13. Be3 O-O
+14. Bxc5 Bd4+ 15. Bxd4 Qxd4+ 16. Kh1 Rb8 17. Ne4 f5 18. Qf4 Bd7 $2 ({Correct is
+} 18... Nc6 $1 19. c3 Qxd3 20. Nf6+ Rxf6 21. Bxc6 Ra8 22. Rad1 Qa6) 19. c3 $1
+Qb6 20. Nf6+ $1 {Bronstein utilises the meagre protection of Rb8 and Bd7.}
+20... Rxf6 21. Qxb8+ Bc8 22. d4 Rf8 23. Rf2 Nc6 24. Qf4 Bd7 25. Re1 Nd8 26. d5
+Nf7 27. dxe6 Bxe6 28. b3 Bd7 29. Qd4 Bc6 30. Qxb6 axb6 31. Bxc6 bxc6 32. Re6
+Rc8 33. Rfe2 Kf8 34. h4 b5 35. a4 bxa4 36. bxa4 Ra8 37. Rxc6 Rxa4 38. Rc7 Ra6
+39. Rb2 h6 40. c4 f4 41. c5 f3 42. Kg1 Ra8 43. Rcb7 Ra1+ 44. Rb1 Ra6 45. Rd7
+Ra8 46. Re1 Ra2 47. Re3 Ra1+ 48. Kf2 Ra2+ 49. Kxf3 Rc2 50. Rc7 h5 51. Ke4 Nh6
+52. Ra3 Re2+ 53. Kf4 Re8 54. Rh7 Kg8 55. Rxh6 Kg7 56. c6 Kxh6 57. Rc3 g5+ 58.
+hxg5+ 1-0
+
+[Event "Candidates Tournament*"]
+[Site "Zuerich"]
+[Date "1953.09.22"]
+[Round "13"]
+[White "Reshevsky, Samuel"]
+[Black "Bronstein, David"]
+[Result "0-1"]
+[ECO "E69"]
+[Annotator "JvR"]
+[PlyCount "130"]
+[EventDate "1953.??.30"]
+[Source "ChessBase"]
+
+1. d4 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 O-O 5. Nc3 d6 6. Nf3 Nbd7 7. O-O e5 8. e4
+Re8 9. h3 exd4 10. Nxd4 Nc5 11. Re1 a5 12. Qc2 c6 13. Be3 Nfd7 14. Rad1 a4 15.
+Nde2 Qa5 $1 16. Bf1 $6 ({Better is} 16. Rxd6 $5 Ne5 17. Rdd1 Nxc4 {
+(Smyslov-Ciocaltea, Bucharest 1953).}) 16... Ne5 17. Nd4 a3 18. f4 Ned7 19. b3
+Na6 $1 20. Bf2 Ndc5 21. Re3 Nb4 22. Qe2 Bd7 23. e5 $5 dxe5 24. fxe5 Rad8 {
+Bronstein has achieved a grand restraint, but it is hard to utilise the edge.}
+25. g4 Ne6 26. Bh4 Nxd4 27. Rxd4 Qc5 28. Rde4 Bh6 $1 29. Kh1 Be6 30. g5 $6 ({
+Simpler is} 30. Bxd8 Rxd8 31. Qf2 Bxe3 32. Rxe3 Qd4 33. Qf6 $1) 30... Bg7 31.
+Rf4 Bf5 32. Ne4 Bxe4+ ({Not} 32... Qxe5 $2 33. Rxf5 $1 gxf5 34. Nf6+ Bxf6 35.
+gxf6 $1 Qxe3 36. Qg2+ {(Euwe).}) 33. Rfxe4 Na6 34. e6 fxe6 35. Rxe6 Rf8 36. Re7
+$2 ({The exchanges by} 36. Re8 Rdxe8 37. Rxe8 Nb4 38. Bf2 Rxe8 39. Bxc5 $1 Rxe2
+40. Bxe2 Bf8 41. Bxb4 Bxb4 {draw.}) 36... Bd4 37. R3e6 Qf5 $1 38. Re8 Nc5 39.
+Rxd8 Nxe6 40. Rxf8+ Kxf8 41. Bg3 Qxg5 $1 42. Qxe6 Qxg3 {
+Black has gained a pawn.} 43. Qc8+ Ke7 44. Qg4 ({The pointe is} 44. Qxb7+ $2
+Kd8 45. Qa8+ Kc7 46. Qa5+ Bb6 47. Qd2 Qg1#) 44... Qc3 45. Kg2 Qb2+ 46. Qe2+ Kd6
+47. Kf3 ({Or} 47. Qxb2 axb2 48. Bd3 Ke5 49. Kf3 Bc5 50. Bb1 Kf6 51. Ke4 h5 52.
+Bc2 g5 53. Bb1 Bd6 54. Bc2 g4 55. hxg4 hxg4 56. Bb1 g3 57. Kf3 Bf4 {
+and Black wins due to the distant passed pawns (Euwe).}) 47... Bc5 48. Ke4 Qd4+
+49. Kf3 Qf6+ 50. Kg2 Kc7 51. Qf3 Qb2+ 52. Qe2 Qd4 53. Kf3 h5 54. Kg2 g5 55. Kg3
+Qf4+ 56. Kg2 g4 57. hxg4 hxg4 58. Kh1 Kb6 59. Kg2 Kc7 60. Kh1 Bd6 61. Kg1 Kb6
+62. Qg2 Bc5+ 63. Kh1 Qh6+ 64. Qh2 Qe3 65. b4 $5 Bd4 $1 {Reshevsky lost on time.
+} (65... Bd4 66. c5+ Ka7 67. Qg2 g3 {would have led to a fatal zugzwang (Euwe).
+}) 0-1
+
+[Event "Candidates Tournament*"]
+[Site "Zuerich"]
+[Date "1953.09.23"]
+[Round "14"]
+[White "Petrosian, Tigran V"]
+[Black "Geller, Efim"]
+[Result "1/2-1/2"]
+[ECO "A30"]
+[PlyCount "27"]
+[EventDate "1953.??.30"]
+[Source "ChessBase"]
+
+1. c4 Nf6 2. Nc3 e6 3. Nf3 c5 4. g3 b6 5. Bg2 Bb7 6. O-O Be7 7. d4 cxd4 8. Qxd4
+O-O 9. Rd1 Nc6 10. Qf4 Qb8 11. b3 Rd8 12. Qxb8 Raxb8 13. Bb2 a6 14. Nd2 1/2-1/2
+
+[Event "Candidates Tournament*"]
+[Site "Zuerich"]
+[Date "1953.09.26"]
+[Round "15"]
+[White "Smyslov, Vassily"]
+[Black "Petrosian, Tigran V"]
+[Result "1/2-1/2"]
+[ECO "E58"]
+[Annotator "JvR"]
+[PlyCount "95"]
+[EventDate "1953.??.30"]
+[Source "ChessBase"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Nf3 c5 7. O-O Nc6 8. a3
+Bxc3 9. bxc3 b6 10. cxd5 exd5 11. Bb2 $6 c4 12. Bc2 Bg4 13. Qe1 Ne4 $6 14. Nd2
+Nxd2 15. Qxd2 Bh5 16. f3 Bg6 17. e4 Qd7 18. Rae1 f5 $2 ({Petrosian tried} 18...
+dxe4 $6 19. fxe4 Rfe8 {against Reshevsky in round two.}) 19. exd5 $1 Qxd5 20.
+a4 Rfe8 21. Qg5 Qf7 22. Ba3 h6 23. Qg3 Rxe1 24. Rxe1 Re8 25. Rxe8+ Qxe8 26. Kf2
+{White has a great positional advantage.} 26... Na5 $5 27. Qf4 Nb3 28. Bxf5 $2
+({The attack can be continued by} 28. Qc7 $1) 28... Bxf5 29. Qxf5 Qxa4 30. Qc8+
+Kh7 31. Qf5+ Kg8 32. Qe6+ Kh7 33. Qe4+ Kg8 34. Qa8+ Kh7 35. Qe4+ Kg8 36. Qd5+
+Kh7 37. Be7 Nc1 38. Qf5+ Kg8 39. Qf8+ Kh7 40. Qf5+ Kg8 41. d5 Qa2+ $6 ({
+More solid is} 41... Qd1 42. d6 Nd3+ 43. Kg3 Nc5) 42. Kg3 Qd2 43. d6 $1 Qe1+
+44. Kg4 Nd3 45. Qd5+ Kh7 46. d7 Qe5 $2 {A critical position has arisen.} ({
+Correct is} 46... Ne5+ 47. Kf5 Nxd7 48. Qxd7 Qxc3) 47. Qxd3+ $2 ({Even worse is
+} 47. d8=Q $4 Nf2+ 48. Kh4 Qxh2#) ({A win results from} 47. Qd6 $3 Nf2+ 48. Kh4
+g5+ 49. Kh5 {(Langeweg).}) 47... cxd3 48. d8=Q {At the end of the first cycle
+Smyslov led with 9 1/2 out of 15. Bronstein and Reshevsky followed by one
+point.   Bronstein and Smyslov scored well against the best players. Our hero
+Sammy lost an important game against Bronstein.} 1/2-1/2
+
+[Event "Candidates Tournament*"]
+[Site "Zuerich"]
+[Date "1953.09.27"]
+[Round "16"]
+[White "Keres, Paul"]
+[Black "Petrosian, Tigran V"]
+[Result "1-0"]
+[ECO "E61"]
+[Annotator "JvR"]
+[PlyCount "111"]
+[EventDate "1953.??.30"]
+[Source "ChessBase"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. Nf3 d6 5. Bf4 Nbd7 6. h3 c5 7. e3 O-O 8. Be2
+b6 9. O-O Bb7 10. d5 a6 11. a4 Ne8 12. Qd2 Ne5 13. Nh2 e6 14. Rad1 Qe7 15. Qc2
+Rd8 16. Qb3 Qc7 17. Rd2 exd5 18. Nxd5 Bxd5 19. Rxd5 Nf6 20. Rdd1 Nc6 21. Bf3
+Rfe8 22. Ng4 Nxg4 23. hxg4 Nb4 24. Rd2 Qe7 25. Rfd1 Be5 26. g5 a5 $2 {
+Black will remain passive during the rest of the game.} 27. g3 Qe6 28. Kg2 Qe7
+29. Rh1 Qe6 30. Rh4 Rf8 31. Qd1 Bxf4 32. exf4 f6 33. Re2 Qf7 34. gxf6 Qxf6 35.
+Qe1 Rd7 36. Re6 $5 Qxb2 37. Re7 Rxe7 38. Qxe7 Qg7 39. Qxd6 Qf6 40. Qd7 Qf7 41.
+Qd6 Qf6 42. Qc7 Rf7 43. Qc8+ Rf8 44. Qd7 Qf7 45. Qd2 Qe6 46. Rh1 $1 {
+White delivers a temporary pawn sacrifice for the control over the e-file.}
+46... Qxc4 $2 (46... Re8 $1 {prevents the white plan.}) 47. Qd6 Qd4 48. Qe6+
+Kh8 $6 ({A try gives} 48... Rf7 49. Rxh7 $1 {(Euwe)} 49... Qf6 $1 50. Qxf6 Rxf6
+51. Rb7 Re6) 49. Qxg6 $1 Qg7 50. Qe4 Na2 51. Qc4 Nb4 52. Be4 $1 Rxf4 ({Or} 
+52... h6 53. Qe6 Rf6 54. Qe8+ Rf8 55. Qe5 Rf6 56. Rd1 Rf8 57. Rd6) 53. Qe6 Rxe4
+54. Qxe4 Qd7 55. Qe5+ Kg8 56. Rh5 1-0
+
+[Event "Candidates Tournament*"]
+[Site "Zuerich"]
+[Date "1953.09.29"]
+[Round "17"]
+[White "Petrosian, Tigran V"]
+[Black "Reshevsky, Samuel"]
+[Result "1/2-1/2"]
+[ECO "A08"]
+[PlyCount "60"]
+[EventDate "1953.??.30"]
+[Source "ChessBase"]
+
+1. Nf3 Nf6 2. g3 g6 3. Bg2 Bg7 4. O-O O-O 5. d3 d5 6. Nbd2 c5 7. e4 dxe4 8.
+dxe4 Nc6 9. c3 h6 10. Qe2 Be6 11. Ne1 Qb6 12. h3 Rad8 13. Kh2 Nh7 14. f4 Na5
+15. Nef3 Bd7 16. Re1 Qc7 17. Nf1 b6 18. Ne3 Bc6 19. Ng4 Nf6 20. Nf2 Bb7 21. e5
+Nh7 22. h4 h5 23. f5 Qd7 24. e6 Qd5 25. exf7+ Qxf7 26. fxg6 Qxg6 27. Ng5 Bxg2
+28. Kxg2 e5 29. Qe4 Rf5 30. Nxh7 Kxh7 1/2-1/2
+
+[Event "Candidates Tournament*"]
+[Site "Zuerich"]
+[Date "1953.10.03"]
+[Round "18"]
+[White "Bronstein, David"]
+[Black "Petrosian, Tigran V"]
+[Result "1/2-1/2"]
+[ECO "A53"]
+[Annotator "JvR"]
+[PlyCount "63"]
+[EventDate "1953.??.30"]
+[Source "ChessBase"]
+
+1. d4 Nf6 2. c4 d6 3. Nc3 Nbd7 4. Bg5 h6 5. Bh4 g5 6. Bg3 Nh5 7. e3 Nxg3 8.
+hxg3 Bg7 9. Bd3 Nf6 10. Qd2 c6 11. O-O-O Qa5 12. Kb1 Bd7 13. Nge2 e6 14. Nc1
+O-O-O 15. Nb3 Qc7 16. Qe2 Rhe8 17. e4 c5 $2 18. e5 $1 dxe5 19. dxe5 Ng8 20. f4
+gxf4 21. gxf4 f6 22. Nb5 $2 ({An advantage is kept by} 22. Bg6 Rf8 23. Ne4 $1
+b6 24. Nd6+ Kb8 25. Nf7) 22... Bxb5 23. cxb5 Kb8 24. Rc1 b6 25. Bg6 Rf8 26.
+Rhe1 fxe5 27. fxe5 Rd5 28. Be4 Rxe5 29. Qc2 Rd8 30. Red1 Rxd1 31. Rxd1 Ne7 32.
+Nd2 1/2-1/2
+
+[Event "Candidates Tournament*"]
+[Site "Zuerich"]
+[Date "1953.10.10"]
+[Round "22"]
+[White "Smyslov, Vassily"]
+[Black "Geller, Efim"]
+[Result "1-0"]
+[ECO "E94"]
+[Annotator "JvR"]
+[PlyCount "87"]
+[EventDate "1953.??.30"]
+[Source "ChessBase"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. O-O c6 8. Re1
+exd4 9. Nxd4 Re8 10. Bf1 Ng4 11. h3 Qf6 12. hxg4 Qxd4 13. g5 Nd7 14. Bf4 Qxd1
+15. Raxd1 Be5 16. Be3 Nc5 17. f3 Be6 18. Rc1 a5 19. Rc2 a4 20. a3 Reb8 21. Rb1
+h6 $2 {This sacrifice will not become temporary.} 22. gxh6 f5 23. f4 Bf6 24. e5
+$1 Be7 25. exd6 Bxd6 26. Rd1 Bf8 27. Nd5 $1 {
+Geller experiences a nasty surprise.} 27... Rd8 $1 ({The pointe is} 27... cxd5
+$2 28. cxd5 {and White gets the piece back with a great advantage.}) 28. Nf6+
+Kf7 $2 ({Better is} 28... Kh8 {but} 29. Re1 Nd3 30. Bxd3 Rxd3 31. Bb6 Bf7 32.
+g4 $1 {favours White.}) 29. Rxd8 Rxd8 30. Nh7 $1 Ne4 31. Ng5+ Kf6 32. g4 $1 Rd1
+33. Nxe4+ fxe4 34. g5+ Kf7 35. Kf2 Rd7 36. Rd2 Rxd2+ 37. Bxd2 Bc5+ 38. Be3 Bd6
+39. Bd4 Kg8 40. Ke3 Bf5 41. c5 Bc7 42. Be2 Ba5 43. Bd1 Be1 44. Bxa4 {Reshevsky 
+and Smyslov led with 13 1/2 out of 21 games. Bronstein followed by one point.
+The tension grew.} 1-0
+
+[Event "Candidates Tournament*"]
+[Site "Zuerich"]
+[Date "1953.10.11"]
+[Round "23"]
+[White "Geller, Efim"]
+[Black "Keres, Paul"]
+[Result "0-1"]
+[ECO "D41"]
+[Annotator "JvR"]
+[PlyCount "54"]
+[EventDate "1953.??.30"]
+[Source "ChessBase"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. Nf3 c5 5. cxd5 cxd4 6. Qxd4 exd5 7. e4 Nc6 8.
+Bb5 Nxe4 $5 9. O-O $5 ({The usual} 9. Nxe4 dxe4 10. Qxe4+ Qe7 {draws.}) 9...
+Nf6 10. Re1+ Be7 11. Qe5 $2 ({A plus is kept by} 11. Bxc6+ bxc6 12. Qc5 $1)
+11... O-O $1 12. Qe2 Re8 13. Bg5 Bg4 14. Rad1 h6 15. Bh4 Ne4 16. Bg3 Nxc3 17.
+bxc3 Bf6 18. Qxe8+ Qxe8 19. Rxe8+ Rxe8 20. Rxd5 Rc8 21. Rd3 {
+White allows a beautiful combination.} ({Or} 21. Rc5 Be6 {(Euwe)} 22. Bxc6 $6
+b6 $1) 21... Nb4 $1 22. Re3 Nxa2 23. h3 Bxf3 24. gxf3 Nxc3 25. Bd7 Rd8 26. Bf5
+g6 27. Bd3 Nd1 0-1
+
+[Event "Candidates Tournament*"]
+[Site "Zuerich"]
+[Date "1953.10.13"]
+[Round "24"]
+[White "Keres, Paul"]
+[Black "Smyslov, Vassily"]
+[Result "0-1"]
+[ECO "E14"]
+[Annotator "JvR"]
+[PlyCount "56"]
+[EventDate "1953.??.30"]
+[Source "ChessBase"]
+
+1. c4 Nf6 2. Nc3 e6 3. Nf3 c5 4. e3 Be7 5. b3 O-O 6. Bb2 b6 7. d4 cxd4 8. exd4
+d5 9. Bd3 Nc6 10. O-O Bb7 11. Rc1 Rc8 12. Re1 Nb4 13. Bf1 Ne4 14. a3 Nxc3 15.
+Rxc3 Nc6 16. Ne5 $6 {
+White starts a doubtful plan. He wishes to overwhelm his opponent.} 16... Nxe5
+17. Rxe5 Bf6 18. Rh5 $5 g6 19. Rch3 $2 {Keres has seen a wonderful combination.
+} ({The retreat} 19. Rhh3 {lacks glamour.}) 19... dxc4 $1 {
+Smyslov gives a resourceful answer.} ({He avoids} 19... gxh5 $2 20. Qxh5 Re8
+21. a4 $1 Qd6 {(Euwe)} 22. Qh6 $1 Bg7 23. Qxh7+ Kf8 24. Rg3 Bf6 25. c5 $1 {
+White has a dashing attack.}) 20. Rxh7 ({The pointe is} 20. bxc4 gxh5 21. Qxh5
+Be4 $1) 20... c3 $1 21. Qc1 Qxd4 22. Qh6 Rfd8 23. Bc1 Bg7 24. Qg5 Qf6 25. Qg4
+c2 26. Be2 Rd4 27. f4 Rd1+ 28. Bxd1 Qd4+ 0-1
+
+[Event "Candidates Tournament*"]
+[Site "Zuerich"]
+[Date "1953.10.13"]
+[Round "24"]
+[White "Reshevsky, Samuel"]
+[Black "Geller, Efim"]
+[Result "1/2-1/2"]
+[ECO "E35"]
+[Annotator "JvR"]
+[PlyCount "120"]
+[EventDate "1953.??.30"]
+[Source "ChessBase"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 d5 5. cxd5 exd5 6. Bg5 h6 7. Bxf6 Qxf6 8.
+a3 Bxc3+ 9. Qxc3 O-O 10. e3 c6 11. Ne2 Bf5 12. Nf4 Nd7 13. Be2 Rfe8 14. O-O Nf8
+15. b4 Ne6 16. Nh5 Qg6 17. Ng3 Rac8 18. Rac1 Ng5 $2 (18... a6 $1 {
+stops the minority attack.}) 19. b5 $1 Ne4 ({The point is} 19... cxb5 20. Qb3
+$1) 20. Qa5 $1 c5 21. Nxf5 Qxf5 22. dxc5 b6 23. Qxa7 bxc5 24. Bd3 c4 25. Bxe4
+Qxe4 26. Rfd1 c3 27. Qd4 $2 Rc4 $1 28. Qxd5 c2 $1 29. Rd2 Qxd5 30. Rxd5 Ra8 31.
+b6 Rb8 $2 ({Black misses} 31... Rxa3 $1 32. b7 Rb4 33. Rd8+ Kh7 34. b8=Q Rxb8
+35. Rxb8 Rd3 36. Rf1 Rc3 $1 37. g4 $1 {White has slight winning chances (Euwe).
+}) 32. Rd6 Ra4 33. Rxc2 Rxa3 34. h3 Rb3 35. Rcc6 Rb2 36. e4 h5 37. e5 h4 38.
+Rd4 R2xb6 39. Rxb6 Rxb6 40. Rxh4 Rb1+ 41. Kh2 Re1 42. f4 Re3 43. Rg4 Kh7 44.
+Rg3 Re2 45. h4 Re4 46. Rf3 f6 47. exf6 gxf6 48. Kg3 ({Reshevsky avoids} 48. g4
+$6 f5 $1) 48... Kg6 49. Ra3 f5 50. Ra6+ Kh5 51. Rf6 $4 {
+Reshevsky blunders terribly.} ({Schuster analyses the winning manoeuvre} 51.
+Ra8 $1 Re3+ 52. Kf2 Rb3 53. Rg8) 51... Re3+ 52. Kf2 Ra3 53. g3 ({Or} 53. Rxf5+
+Kxh4 54. Rf8 Kg4 $1 {(Euwe).}) 53... Rf3+ 54. Ke2 (54. Kg2 Rxg3+ $1 55. Kxg3 {
+stalemate.}) 54... Rxg3 55. Rxf5+ Kxh4 56. Kf2 Ra3 57. Rg5 Rb3 58. Rg1 Kh5 59.
+Ke2 Ra3 60. f5 Ra5 {
+Smyslov had won. Reshevsky lost in the previous round and drew this time.}
+1/2-1/2
+
+[Event "Candidates Tournament*"]
+[Site "Zuerich"]
+[Date "1953.10.14"]
+[Round "25"]
+[White "Geller, Efim"]
+[Black "Bronstein, David"]
+[Result "1-0"]
+[ECO "D35"]
+[Annotator "JvR"]
+[PlyCount "85"]
+[EventDate "1953.??.30"]
+[Source "ChessBase"]
+
+1. d4 e6 2. Nf3 Nf6 3. c4 d5 4. cxd5 exd5 5. Nc3 c6 6. Qc2 Bg4 7. Bg5 Nbd7 8.
+e3 Bd6 9. Bd3 Qc7 10. O-O-O h6 11. Bh4 Bb4 12. Kb1 Bxc3 13. Qxc3 O-O 14. h3 Bh5
+15. Qc2 Ne4 16. Bxe4 dxe4 17. g4 Bg6 18. Nd2 Nb6 19. Nc4 ({Avoids} 19. Nxe4 $2
+Nd5 $1) 19... Nd5 20. Bg3 Qd7 21. Ne5 Qe6 22. Qb3 Bh7 23. Rc1 $1 ({Not} 23.
+Qxb7 $2 Nc3+ $1) 23... a5 $2 {Bronstein loses the race for first place.} 24.
+Qxb7 $1 Nb4 25. Nc4 c5 26. dxc5 Nd3 27. c6 $1 f5 28. gxf5 Bxf5 29. Rhg1 Bg6 30.
+Rc2 Rac8 31. Bd6 Rfe8 32. Qd7 Qf6 33. c7 Bf5 34. Qb5 Bxh3 35. Bg3 Be6 36. Nd6
+Nb4 37. Nxe8 Bxa2+ 38. Kc1 Qe7 39. Nd6 Nd3+ 40. Kd2 Rxc7 41. Qe8+ Qxe8 42. Nxe8
+Rd7 43. Rc7 1-0
+
+[Event "Candidates Tournament*"]
+[Site "Zuerich"]
+[Date "1953.10.14"]
+[Round "25"]
+[White "Smyslov, Vassily"]
+[Black "Reshevsky, Samuel"]
+[Result "1-0"]
+[ECO "A17"]
+[Annotator "JvR"]
+[PlyCount "111"]
+[EventDate "1953.??.30"]
+[Source "ChessBase"]
+
+1. c4 Nf6 2. Nc3 e6 3. Nf3 Bb4 4. g3 b6 5. Bg2 Bb7 6. O-O O-O 7. Qb3 Bxc3 $6 8.
+Qxc3 d6 9. b3 Qe7 10. Bb2 c5 11. d4 Nbd7 12. Rad1 Be4 13. dxc5 Nxc5 $6 14. Qe3
+e5 $6 15. Bh3 a5 $6 {
+Reshevsky had to win with Black of Smyslov, an impossible task.} 16. Nh4 Rfe8
+17. f3 Bg6 18. Rd2 Rad8 19. Rfd1 Qc7 20. Nxg6 hxg6 21. Bg2 Nh5 22. Qc3 Nf6 23.
+e4 Nh5 24. Qe3 Nf6 25. Bh3 Nh7 26. Re2 Nf6 27. Rf1 Nh5 28. Bg2 Qe7 29. Bc1 Qc7
+30. Rd1 Kh7 31. Qf2 Nf6 32. Be3 Nh5 33. Rc2 f5 $2 34. exf5 gxf5 35. g4 Nf4 36.
+Bxf4 exf4 37. Qh4+ Kg8 38. gxf5 d5 39. cxd5 Qe5 40. Rcd2 Rd6 41. Rd4 Qe3+ 42.
+Kh1 Re5 43. Qxf4 Qxf4 44. Rxf4 Re2 45. Rg4 Kf8 46. Rg6 Nb7 47. Re6 Rxa2 48. f4
+Rb2 49. Rde1 Rxe6 50. dxe6 Nd6 51. e7+ Kf7 52. Bd5+ Ke8 53. Bc6+ Kf7 54. e8=Q+
+Nxe8 55. Bxe8+ Kf6 56. Bg6 {Reshevsky was eliminated. The standings were
+Smyslov 15 1/2 out of 23, Reshevsky 14/24 and Bronstein 13 1/2 out of 24.} 1-0
+
+[Event "Candidates Tournament*"]
+[Site "Zuerich"]
+[Date "1953.10.17"]
+[Round "26"]
+[White "Bronstein, David"]
+[Black "Smyslov, Vassily"]
+[Result "1/2-1/2"]
+[ECO "C68"]
+[PlyCount "41"]
+[EventDate "1953.??.30"]
+[Source "ChessBase"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. Nc3 f6 6. d4 exd4 7. Qxd4 Qxd4 8.
+Nxd4 Bd7 9. Be3 O-O-O 10. O-O-O Ne7 11. h3 Ng6 12. Nb3 Bb4 13. Ne2 Rhe8 14. a3
+Bf8 15. Nc3 Be6 16. Rxd8+ Rxd8 17. Rd1 Rxd1+ 18. Kxd1 Ne5 19. Bc5 Bd6 20. Bxd6
+cxd6 21. Nd4 1/2-1/2
+
+[Event "Candidates Tournament*"]
+[Site "Zuerich"]
+[Date "1953.10.17"]
+[Round "26"]
+[White "Reshevsky, Samuel"]
+[Black "Keres, Paul"]
+[Result "1/2-1/2"]
+[ECO "E45"]
+[PlyCount "27"]
+[EventDate "1953.??.30"]
+[Source "ChessBase"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 b6 5. Nge2 Ba6 6. Ng3 O-O 7. e4 d6 8. Bd2
+c5 9. a3 Ba5 10. d5 exd5 11. cxd5 Bxf1 12. Kxf1 Nbd7 13. h4 Re8 14. f3 1/2-1/2
+
+[Event "Candidates Tournament*"]
+[Site "Zuerich"]
+[Date "1953.10.18"]
+[Round "27"]
+[White "Keres, Paul"]
+[Black "Bronstein, David"]
+[Result "1/2-1/2"]
+[ECO "E76"]
+[PlyCount "39"]
+[EventDate "1953.??.30"]
+[Source "ChessBase"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f4 c5 6. dxc5 Qa5 7. Bd3 Qxc5 8. Nf3
+O-O 9. Qe2 Nc6 10. Be3 Qh5 11. h3 Ng4 12. Bd2 Nf6 13. O-O Nd7 14. Rad1 Qa5 15.
+Bb1 Qb4 16. Be3 Nb6 17. Nd5 Qxb2 18. Qxb2 Bxb2 19. Nxb6 axb6 20. Rf2 1/2-1/2
+
+[Event "Candidates Tournament*"]
+[Site "Zuerich"]
+[Date "1953.10.20"]
+[Round "28"]
+[White "Bronstein, David"]
+[Black "Reshevsky, Samuel"]
+[Result "1-0"]
+[ECO "C98"]
+[Annotator "JvR"]
+[PlyCount "101"]
+[EventDate "1953.??.30"]
+[Source "ChessBase"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+O-O 9. h3 Na5 10. Bc2 c5 11. d4 Qc7 12. Nbd2 Nc6 13. dxc5 dxc5 14. Nf1 Rd8 15.
+Qe2 Nh5 16. a4 Rb8 17. axb5 axb5 18. g3 g6 19. Kh2 Be6 20. Ne3 c4 21. Rd1 Rxd1
+22. Qxd1 Rd8 23. Qe2 Qc8 24. Nd5 $1 Bxd5 ({
+The point of the temporary pawn sacrifice ia} 24... Bxh3 $2 25. Nxe5 $1 {
+(Euwe).}) 25. exd5 Rxd5 26. b3 Nf6 27. Ng5 Nd8 28. bxc4 Qxc4 29. Qxc4 bxc4 30.
+Ra4 Nd7 31. Rxc4 Nc5 32. Ne4 Nde6 33. Nxc5 Nxc5 34. Rb4 Nd3 35. Rb8+ Kg7 36.
+Be3 e4 37. Re8 Bf6 38. Rc8 $2 {
+Oh god, they don't know what they are doing in time trouble.} 38... Nxf2 $1 39.
+c4 Ra5 40. Bb3 $2 Ra3 $2 {Reshevsky makes a horrible discovery.} (40... Nd3 {
+keeps the extra pawn.}) 41. Bc5 $1 Be7 (41... Rxb3 $2 42. Bf8+ {
+and mate in two.}) 42. Bxa3 Bxa3 43. c5 e3 44. c6 Ne4 45. Re8 f5 46. Bc4 Bd6
+47. c7 Bxg3+ 48. Kg2 Bxc7 49. Re7+ Kf6 50. Rxc7 f4 51. Kf3 1-0
+
+[Event "Candidates Tournament*"]
+[Site "Zuerich"]
+[Date "1953.10.21"]
+[Round "29"]
+[White "Geller, Efim"]
+[Black "Petrosian, Tigran V"]
+[Result "1/2-1/2"]
+[ECO "E50"]
+[PlyCount "55"]
+[EventDate "1953.??.30"]
+[Source "ChessBase"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 Bb4+ 4. Nc3 c5 5. e3 O-O 6. Be2 b6 7. O-O Bb7 8. Qb3
+cxd4 9. Qxb4 Nc6 10. Qa3 dxc3 11. Qxc3 Ne4 12. Qc2 f5 13. a3 Rf6 14. b4 Rh6 15.
+Bb2 d6 16. Rad1 Qe7 17. Bd3 a5 18. b5 Nb8 19. Bxe4 Bxe4 20. Qe2 Nd7 21. Ne1 e5
+22. f3 Bb7 23. Qf2 Rc8 24. Rc1 Qe6 25. f4 e4 26. Nc2 Nc5 27. Nd4 Qf7 28. Qg3
+1/2-1/2
+
+[Event "Candidates Tournament*"]
+[Site "Zuerich"]
+[Date "1953.10.23"]
+[Round "30"]
+[White "Petrosian, Tigran V"]
+[Black "Smyslov, Vassily"]
+[Result "1/2-1/2"]
+[ECO "D14"]
+[Annotator "JvR"]
+[PlyCount "25"]
+[EventDate "1953.??.30"]
+[Source "ChessBase"]
+
+1. d4 d5 2. c4 c6 3. cxd5 cxd5 4. Nc3 Nf6 5. Nf3 Nc6 6. Bf4 Bf5 7. e3 e6 8. Qb3
+Bb4 9. Bb5 Qa5 10. Bxc6+ bxc6 11. a3 Bxc3+ 12. Qxc3 Qxc3+ 13. bxc3 {Smyslov had
+won the tournament, two points before Bronstein, Reshevsky and Keres.  Smyslov
+scored 4/5 against the best players in the second cycle. Reshevsky was beaten
+by his two main competitors.} 1/2-1/2
+
+[Event "Zuerich"]
+[Site "?"]
+[Date "1959.??.??"]
+[Round "1"]
+[White "Tal, Mihail"]
+[Black "Bhend, Edwin"]
+[Result "0-1"]
+[ECO "A43"]
+[Annotator "JvR"]
+[PlyCount "90"]
+[EventDate "1959.??.??"]
+
+{Ten foreign grandmasters and six Swiss masters played in Zuerich's
+Kongresshaus from 18 v until 8 vi 1959. We follow the race between the future
+world champions Mischa Tal and Bobby Fischer.   } 1. d4 c5 2. d5 d6 3. e4 g6 4.
+Nf3 Bg7 5. Be2 Na6 6. O-O Nc7 7. Nc3 f5 $5 8. Bd3 fxe4 9. Nxe4 Nh6 10. Bf4 O-O
+11. Qd2 Nf7 12. c4 b5 $5 13. Rae1 Rb8 14. b3 e6 15. Nfg5 Nxg5 16. Bxg5 Qd7 17.
+Nc3 $5 b4 $1 18. dxe6 Nxe6 19. Nd5 Bb7 20. Be4 Nxg5 21. Qxg5 Kh8 $1 22. Bxg6 $5
+{Tal brings a surprising sacrifice.} 22... Bxd5 $1 23. Re7 ({The pointe is} 23.
+Qh5 $2 Bg8 $1) 23... Qd8 24. Rfe1 Bf7 $1 ({A great risk is taken by} 24... hxg6
+$5 25. Qxd5 Bf6 26. Qd2 g5 27. Rxa7) 25. Bc2 $2 (25. Bxh7 $1 Kxh7 26. R1e3 Bg6
+27. R3e6 Bf7 28. Re3 {leads to a perpetual.}) 25... Rb7 26. h4 Rxe7 27. Rxe7 h6
+28. Qf5 Bg8 29. Qe4 d5 30. cxd5 Qxd5 31. Qg6 Qd4 32. Qg3 Rf7 33. Re4 Qb2 34.
+Bd3 Bd4 35. Re2 Qc1+ 36. Kh2 Qf4 37. Re8 Qxg3+ 38. fxg3 Kg7 39. Bc4 Rf8 40.
+Re7+ Kf6 41. Rxa7 Bxc4 42. bxc4 Kf5 43. Re7 Ra8 44. Re2 Ra3 45. Kh3 h5 0-1
+
+[Event "Zuerich"]
+[Site "?"]
+[Date "1959.??.??"]
+[Round "1"]
+[White "Walther, Edgar"]
+[Black "Fischer, Robert James"]
+[Result "1/2-1/2"]
+[ECO "B99"]
+[Annotator "JvR"]
+[PlyCount "134"]
+[EventDate "1959.??.??"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3
+Nbd7 9. O-O-O Qc7 10. Bd3 b5 11. Bxf6 Nxf6 12. Rhe1 Bb7 13. Kb1 Rc8 14. g4 Nd7
+15. g5 Nb6 $2 {Black is lost.} ({He should try} 15... b4 $1 16. Nd5 $5 exd5 17.
+exd5 {(Euwe)} 17... Kf8 $1) 16. f5 $1 e5 17. f6 $1 gxf6 ({
+Bobby had missed the tactical} 17... exd4 $2 18. Nd5 $1) 18. gxf6 Bf8 19. Nd5
+Nxd5 20. exd5 Kd8 21. Nc6+ $1 Bxc6 22. dxc6 Qxc6 23. Be4 Qb6 24. Qh5 Kc7 25.
+Bf5 Rd8 26. Qxf7+ Kb8 27. Qe6 Qc7 28. Re3 Bh6 29. Rc3 Qb7 30. f7 Bg7 31. Rcd3 (
+{Best is} 31. Rg3 $1 Bf8 32. Rg8 {(Euwe).}) 31... Bf8 32. Qxe5 $5 dxe5 33.
+Rxd8+ Ka7 34. R1d7 h5 35. Rxb7+ Kxb7 36. c3 Kc7 37. Ra8 Kd6 38. Rxa6+ Ke7 39.
+Re6+ $6 Kxf7 40. Rxe5 b4 41. cxb4 Bxb4 42. h3 Kf6 43. Rb5 Bd6 44. Be4 Re8 45.
+Rf5+ Kg7 46. Bf3 Re1+ 47. Kc2 Rf1 $1 48. Rd5 $6 Rf2+ 49. Rd2 Rxd2+ 50. Kxd2 h4
+51. Kd3 Kf6 52. Kc4 Ke7 53. Kb5 Kd7 54. a4 $2 ({Fontana found} 54. b4 $1 Kc7
+55. Ka5 $1 Kb8 56. b5 Ba3 57. b6 Kc8 58. Ka6 Kb8 59. Bg2 {and wins.}) 54... Kc7
+55. b4 Kb8 56. a5 Ka7 $1 57. Kc4 Bg3 58. Kb3 Be1 59. Ka4 Bd2 60. Bh5 Be1 61. b5
+Bf2 62. Be2 Be3 63. Kb3 Bd2 64. b6+ Kb7 65. Ka4 Kc6 66. Bb5+ Kc5 67. Be8 Be1
+1/2-1/2
+
+[Event "Zuerich"]
+[Site "?"]
+[Date "1959.??.??"]
+[Round "2"]
+[White "Fischer, Robert James"]
+[Black "Bhend, Edwin"]
+[Result "1-0"]
+[ECO "B27"]
+[Annotator "JvR"]
+[PlyCount "80"]
+[EventDate "1959.??.??"]
+
+1. e4 c5 2. Nf3 g6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Bg7 $2 6. e5 $1 Ng8 7. Bf4 Nc6
+8. Nxc6 bxc6 9. Bc4 f6 $5 10. e6 $1 {Bobby strikes violently.} 10... dxe6 $6 ({
+Euwe suggests} 10... d6) 11. Qf3 $1 Qb6 12. O-O Nh6 $6 13. Na4 $1 Qd4 $6 14.
+Bxh6 Bxh6 15. Qxc6+ Kf7 16. Rae1 Rb8 17. Bxe6+ Kg7 18. Bd5 Bg5 19. Re4 Qd2 20.
+Rxe7+ Kh6 21. Rxa7 Bf5 22. c4 Rbd8 23. Nc5 Rhe8 24. Ne6 Bxe6 25. Bxe6 Be3 26.
+Rd7 Bxf2+ 27. Rxf2 Qe1+ 28. Rf1 Qe3+ 29. Kh1 Rxe6 30. Rxh7+ Kxh7 31. Qc7+ Kh6
+32. Qxd8 Qe2 33. Qd1 Qxb2 34. Qc1+ Qxc1 35. Rxc1 Re2 36. a3 Ra2 37. c5 Rxa3 38.
+c6 Ra8 39. c7 Rc8 40. Kg1 Kg5 1-0
+
+[Event "Zuerich"]
+[Site "?"]
+[Date "1959.??.??"]
+[Round "2"]
+[White "Kupper, Josef"]
+[Black "Tal, Mihail"]
+[Result "0-1"]
+[ECO "B96"]
+[Annotator "JvR"]
+[PlyCount "48"]
+[EventDate "1959.??.??"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 b5 $5 8.
+Qf3 $6 (8. e5 $1 {will be played by Gligoric against Bhend in round 14.}) 8...
+Bb7 9. Bd3 Be7 $1 10. O-O-O $5 {Kupper takes great risks against Tal.} 10...
+Qb6 11. Rhe1 Nbd7 12. Nce2 Nc5 13. Bxf6 Bxf6 14. g4 Na4 $1 {
+Fighting chess is played.} 15. c3 b4 16. Bc2 Nxb2 $5 17. Kxb2 bxc3+ 18. Kxc3
+O-O $5 {Black develops quietly!} 19. Rb1 Qa5+ 20. Kd3 Rac8 21. Qf2 $1 (21. Rec1
+$6 Bxd4 22. Rxb7 Bb6 $1 23. Rb1 {(Euwe) can be answered by} 23... Rc6 $1) 21...
+Ba8 22. Rb3 $2 ({Right is} 22. g5 $1 Bd8 23. Rec1 e5 {(Tal).}) 22... e5 $1 23.
+g5 exd4 24. Nxd4 ({Or} 24. gxf6 Rxc2 $1 25. Kxc2 Qxa2+ {(Tal).}) 24... Bxd4 0-1
+
+[Event "Zuerich"]
+[Site "?"]
+[Date "1959.??.??"]
+[Round "3"]
+[White "Olafsson, Fridrik"]
+[Black "Fischer, Robert James"]
+[Result "0-1"]
+[ECO "E93"]
+[Annotator "JvR"]
+[PlyCount "80"]
+[EventDate "1959.??.??"]
+
+1. c4 Nf6 2. Nc3 g6 3. d4 Bg7 4. e4 d6 5. Be2 O-O 6. Nf3 e5 7. d5 Nbd7 8. Bg5
+h6 9. Bh4 a6 $5 ({Usual is} 9... g5 10. Bg3 Nh5) 10. Nd2 Qe8 $5 11. g4 $5 Nh7
+$1 12. Qc2 Ng5 $5 13. h3 $1 (13. Bxg5 hxg5 14. h4 {has little effect.}) 13...
+Nc5 14. O-O-O Bd7 15. f3 Na4 16. Nxa4 Bxa4 17. b3 Bd7 18. Bf2 c5 19. h4 Nh7 20.
+Be3 b5 21. Nb1 $2 {The knight gets offside.} (21. Bd3 $1 {prevents .. f5.})
+21... f5 $1 22. gxf5 gxf5 23. exf5 Bxf5 24. Qd2 e4 25. Rdg1 exf3 $2 ({
+Correct is} 25... Ra7 $1) 26. Bxh6 $2 {Olafsson misses a chance.} (26. Rxg7+ $1
+Kxg7 27. Bxh6+ Kh8 28. Bxf8 Qxf8 29. Bxf3 {might win (Stahlberg).}) 26... Ra7
+27. Bxg7 Rxg7 28. Rxg7+ Kxg7 29. Bd3 bxc4 30. Rg1+ $6 (30. Bxc4 Bxb1 31. Kxb1 {
+offers more resistance.}) 30... Kh8 31. Qc3+ Qe5 32. Qxe5+ dxe5 33. Bxf5 Rxf5
+34. bxc4 Nf6 35. Nd2 f2 36. Rh1 e4 37. Kd1 e3 38. Nf1 Re5 39. Ke2 Nh5 40. Kf3
+e2 0-1
+
+[Event "Zuerich"]
+[Site "?"]
+[Date "1959.??.??"]
+[Round "3"]
+[White "Tal, Mihail"]
+[Black "Larsen, Bent"]
+[Result "1-0"]
+[ECO "B77"]
+[Annotator "JvR"]
+[PlyCount "81"]
+[EventDate "1959.??.??"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 g6 5. Nc3 Bg7 6. Be3 Nf6 7. Bc4 O-O 8.
+Bb3 d6 9. f3 Nxd4 10. Bxd4 Be6 11. Qd2 Qa5 12. O-O-O b5 13. Kb1 b4 14. Nd5 Bxd5
+15. exd5 Qb5 16. Rhe1 a5 17. Qe2 Qxe2 18. Rxe2 a4 19. Bc4 Rfc8 20. Bb5 Ra5 21.
+Bxf6 Bxf6 22. Bc6 a3 23. b3 Kf8 24. c4 $1 {
+Tal solves a positional problem superbly.} 24... bxc3 $2 25. Kc2 Ra7 26. b4 e6
+$6 (26... Rb8 {stops the dangerous pawn.}) 27. b5 exd5 $2 ({Necessary is} 27...
+Ke7) 28. b6 $1 Re7 29. Rxe7 Kxe7 30. Re1+ $1 Be5 ({Or} 30... Kf8 31. b7 Rb8 32.
+Re8+ $1 {(Euwe).}) 31. b7 Rb8 32. f4 Ke6 33. fxe5 dxe5 34. Rb1 $1 Kd6 35. Rb6
+d4 36. Ra6 f5 37. Ra8 Kc7 38. Bd5 e4 39. Rxa3 $1 e3 40. Kd3 g5 41. Kxd4 1-0
+
+[Event "Zuerich"]
+[Site "?"]
+[Date "1959.??.??"]
+[Round "4"]
+[White "Fischer, Robert James"]
+[Black "Kupper, Josef"]
+[Result "1-0"]
+[ECO "B88"]
+[Annotator "JvR"]
+[PlyCount "49"]
+[EventDate "1959.??.??"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bc4 e6 7. Bb3 Be7 8.
+O-O Nxd4 $5 9. Qxd4 O-O 10. Kh1 b6 11. f4 $1 Bb7 12. f5 e5 $5 (12... d5 $5 13.
+e5 Nd7 14. f6 $5 gxf6 15. Bh6 Nxe5 {starts an adventure.}) 13. Qd3 h6 $6 14.
+Rf3 $5 Rc8 15. Rh3 $5 {The rook manoeuvre shows optimism.} 15... Kh7 $6 (15...
+Rxc3 $1 16. Qxc3 Nxe4 17. Qe1 d5 {(Euwe) gives a sufficient counteraction.})
+16. Be3 Qd7 17. Nd5 Bxd5 18. Bxd5 Nxd5 $6 19. exd5 Bf6 $6 ({Necessary is} 19...
+f6 $1 {(Euwe), but White has a winning positional advantage anyway.}) 20. Bxh6
+$1 {Bobby crushes the defence.} 20... gxh6 21. Qe3 Bg7 22. f6 $1 Rh8 23. Rf1
+Qb5 24. Qf3 Rc4 25. Qf5+ 1-0
+
+[Event "Zuerich"]
+[Site "?"]
+[Date "1959.??.??"]
+[Round "4"]
+[White "Unzicker, Wolfgang"]
+[Black "Tal, Mihail"]
+[Result "0-1"]
+[ECO "B41"]
+[Annotator "JvR"]
+[PlyCount "72"]
+[EventDate "1959.??.??"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. c4 Nf6 6. Nc3 Bb4 7. Bd2 O-O 8. e5
+Bxc3 9. Bxc3 Ne4 10. Qc2 d5 11. exd6 Nxc3 12. Qxc3 Qxd6 13. Rd1 $6 ({Theory is
+} 13. O-O-O) 13... e5 $1 14. Nf3 Qg6 15. Bd3 ({Not} 15. Qxe5 $2 Nc6 $1 16. Qe3
+Bg4 $1 17. Bd3 Qf6 18. O-O Rfe8) 15... e4 $1 16. Bb1 $5 f5 17. Nh4 Qe6 18. g3
+Nc6 19. Rd5 Qf7 20. O-O Be6 21. Rd6 Bxc4 22. Rfd1 Be6 23. Bc2 Rae8 24. Ng2 Qf6
+{White is in a predicament.} 25. Qxf6 $2 (25. Qc5 $1 Qe7 $1 {(Euwe)} 26. a3 $1
+{keeps the restraint as compensation for the pawn.}) 25... Rxf6 26. a3 Ne5 27.
+Nf4 Bf7 28. Rxf6 gxf6 29. Rd6 Nf3+ 30. Kh1 Rc8 31. Bd1 Rc1 32. Rd8+ Kg7 33. Kg2
+Ne1+ 34. Kh3 Nd3 35. Be2 Nxf4+ 36. gxf4 Rc2 {
+Fischer took the lead in the tournament.} 0-1
+
+[Event "Zuerich"]
+[Site "?"]
+[Date "1959.??.??"]
+[Round "5"]
+[White "Blau, Max"]
+[Black "Fischer, Robert James"]
+[Result "1/2-1/2"]
+[ECO "B52"]
+[PlyCount "45"]
+[EventDate "1959.??.??"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. Bxd7+ Qxd7 5. c4 Nc6 6. O-O g6 7. d4 cxd4 8.
+Nxd4 Bg7 9. Be3 Nf6 10. f3 O-O 11. Nc3 Rac8 12. b3 e6 13. Rc1 Rfd8 14. Qd2 d5
+15. cxd5 exd5 16. Nxc6 bxc6 17. Rfd1 Qe7 18. exd5 Nxd5 19. Nxd5 Rxd5 20. Qf2
+Qd7 21. Rxd5 cxd5 22. Rxc8+ Qxc8 23. Qd2 1/2-1/2
+
+[Event "Zuerich"]
+[Site "?"]
+[Date "1959.??.??"]
+[Round "5"]
+[White "Tal, Mihail"]
+[Black "Nievergelt, Erwin"]
+[Result "1-0"]
+[ECO "B63"]
+[Annotator "JvR"]
+[PlyCount "73"]
+[EventDate "1959.??.??"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6 7. Qd2 h6 8.
+Bxf6 gxf6 9. O-O-O a6 10. f4 Bd7 11. Be2 h5 12. Kb1 Qb6 13. Nb3 O-O-O 14. Rhf1
+Be7 (14... Na5 15. Rf3 Nxb3 16. axb3 {
+stems from Keres - Botvinnik, Moscow 1956.}) 15. Rf3 $5 Rdg8 $1 16. Bf1 Kb8 17.
+Rd3 Bc8 18. a3 h4 19. Qe1 $5 Rg4 $1 20. Nd5 $5 {
+White opens the position by a temporary sacrifice.} 20... exd5 21. exd5 Ne5 $1
+22. fxe5 fxe5 23. Na5 Bd8 (23... Ka7 $1 {prevents the next move.}) 24. Nc6+ $1
+Ka8 25. Rb3 Qc7 26. Rc3 $5 {Exchange on d8 brings a plus for Black.} 26... bxc6
+27. Rxc6 Qb7 28. Rxd6 Ra4 29. Rd3 $2 (29. Qxe5 {brings mutual chances.}) 29...
+Bc7 30. Rf6 Bd8 $6 ({Better is} 30... e4 $1 31. Rc3 Be5 32. Rfc6 {(Tal)} 32...
+f5 $1 33. Rb3 Qd7) 31. Rc6 e4 $4 {The tables turn.} ({Right is} 31... Re8 $1)
+32. Rb3 Ba5 33. Qe3 Qa7 34. Qh6 $3 {The queen is taboo due to mate in three.}
+34... Rd8 35. Bxa6 Bd2 36. Qf6 Qd7 37. Bxc8 {Tal played incredible games
+against the Swiss players.   Fischer, Tal, Keres and Barcza shared the lead.}
+1-0
+
+[Event "Zuerich"]
+[Site "?"]
+[Date "1959.??.??"]
+[Round "6"]
+[White "Fischer, Robert James"]
+[Black "Larsen, Bent"]
+[Result "1/2-1/2"]
+[ECO "B11"]
+[Annotator "JvR"]
+[PlyCount "183"]
+[EventDate "1959.??.??"]
+
+1. e4 c6 2. Nf3 d5 3. Nc3 Bg4 4. h3 Bxf3 5. Qxf3 Nf6 6. d3 e6 7. a3 Bc5 8. Be2
+O-O 9. O-O Nbd7 10. Qg3 Bd4 11. Bh6 Ne8 12. Bg5 Ndf6 13. Bf3 Qd6 14. Bf4 Qc5
+15. Rab1 dxe4 16. dxe4 e5 17. Bg5 $5 Bxc3 18. bxc3 b5 $6 ({Better is} 18... Qe7
+$1) 19. c4 $1 a6 20. Bd2 Qe7 21. Bb4 Nd6 22. Rfd1 Rfd8 23. cxb5 cxb5 24. Rd3
+Qe6 25. Rbd1 Nb7 26. Bc3 Rxd3 27. cxd3 Re8 28. Kh2 h6 29. d4 Nd6 30. Re1 Nc4
+31. dxe5 Nxe5 32. Bd1 Ng6 33. e5 Nd5 34. Bb3 Qc6 35. Bb2 Ndf4 36. Rd1 a5 37.
+Rd6 Qe4 38. Rd7 Ne6 39. Bd5 Qe2 40. Bc3 b4 $1 {Larsen has defended well.} 41.
+axb4 axb4 42. Bxb4 Qxe5 43. Ba5 Qxg3+ 44. Kxg3 Re7 45. Rd6 Nef4 46. Bf3 Ne6 47.
+Bb6 Ne5 48. Bd5 Rd7 49. Rxd7 Nxd7 {
+Fischer has the pair of bishops, cannot accept the draw and goes on endlessly.}
+50. Be3 Nf6 51. Bc6 g5 52. Kf3 Kg7 53. Ba4 Nd5 54. Bc1 h5 55. Bb2+ Kh6 56. Bb3
+Ndf4 57. Bc2 Ng6 58. Kg3 Nef4 59. Be4 Nh4 60. Bf6 Nhg6 61. Kf3 Nh4+ 62. Kg3
+Nhg6 63. Kh2 h4 64. Kg1 Nh5 65. Bc3 Ngf4 66. Kf1 Ng7 67. Bf6 Nfh5 68. Be5 f6
+69. Bd6 f5 70. Bf3 Nf4 71. Ke1 Kg6 72. Kd2 Nge6 73. Be5 Nc5 74. Ke3 Nce6 75.
+Bc6 Kf7 76. Kf3 Ke7 77. Bb7 Ng6 78. Bc3 Ngf4 79. Ba6 Nd5 80. Be5 Nf6 81. Bd3
+g4+ 82. Ke2 Nd7 83. Bh2 gxh3 84. gxh3 Kf6 85. Ke3 Ne5 86. Be2 Ng6 87. Bf1 f4+
+88. Kf3 Ne5+ 89. Ke4 Ng5+ 90. Kxf4 Nef3 91. Bg3 hxg3 92. fxg3 1/2-1/2
+
+[Event "Zuerich"]
+[Site "?"]
+[Date "1959.??.??"]
+[Round "6"]
+[White "Keres, Paul"]
+[Black "Tal, Mihail"]
+[Result "1/2-1/2"]
+[ECO "D42"]
+[Annotator "JvR"]
+[PlyCount "44"]
+[EventDate "1959.??.??"]
+
+1. c4 Nf6 2. Nc3 e6 3. Nf3 d5 4. d4 c5 5. cxd5 Nxd5 6. e3 Nc6 7. Bd3 Be7 8. O-O
+O-O 9. Nxd5 Qxd5 10. e4 Qh5 11. dxc5 Bxc5 12. Bf4 b6 $6 ({More active is} 12...
+Rd8 $1 {(Tal - Karolyi, Tallinn 1985).}) 13. a3 Rd8 14. b4 Be7 15. Rc1 Bb7 16.
+Qe2 h6 $6 ({Preferable is} 16... Kf8 $1 17. Rfd1 e5 18. Bg3 f6) 17. Ba6 Bxa6
+18. Qxa6 Nd4 19. Nxd4 Rxd4 20. Qb7 Re8 {Several black pieces are misplaced.}
+21. Bg3 $6 (21. Qxa7 Rxe4 22. Qd7 {continues the attack.}) 21... Qb5 $1 22. h3
+({Perpetual check results from} 22. Qxa7 Rxe4 23. Rc7 Rd8 $1 24. f3 Qxf1+ $1 {
+(Tal).}) 22... Rd7 1/2-1/2
+
+[Event "Zuerich"]
+[Site "?"]
+[Date "1959.??.??"]
+[Round "7"]
+[White "Dueckstein, Andreas"]
+[Black "Fischer, Robert James"]
+[Result "0-1"]
+[ECO "B53"]
+[Annotator "JvR"]
+[PlyCount "44"]
+[EventDate "1959.??.??"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Qxd4 Nc6 5. Bb5 Bd7 6. Bxc6 Bxc6 7. Nc3 Nf6 8.
+Bg5 e6 9. O-O Be7 10. Rad1 O-O 11. Rfe1 Qa5 12. Bh4 $6 {White wastes time.}
+12... Rfd8 13. Qd3 Qh5 14. Re3 $5 Rac8 15. Bxf6 $6 ({Better is} 15. h3) 15...
+Bxf6 16. Nd4 g6 17. Nce2 d5 18. Ng3 Qe5 19. c3 $2 (19. Qe2 $1 dxe4 20. Nxc6
+Rxd1+ 21. Qxd1 bxc6 22. c3 Qd5 23. Qb1 {gives fighting chances.}) 19... dxe4
+20. Qe2 ({White will lose a pawn by} 20. Nxe4 Bxe4 21. Rxe4 Qd5 $1 22. f4 Qxa2)
+20... Qd6 21. Rd2 Bg5 22. Nb3 Qe5 0-1
+
+[Event "Zuerich"]
+[Site "?"]
+[Date "1959.??.??"]
+[Round "7"]
+[White "Tal, Mihail"]
+[Black "Keller, Dieter"]
+[Result "1-0"]
+[ECO "D44"]
+[Annotator "JvR"]
+[PlyCount "67"]
+[EventDate "1959.??.??"]
+
+1. Nf3 Nf6 2. c4 e6 3. Nc3 d5 4. d4 c6 5. Bg5 dxc4 6. e4 b5 7. a4 Qb6 8. Bxf6
+gxf6 9. Be2 a6 10. O-O Bb7 11. d5 cxd5 12. exd5 b4 $2 ({Theory is} 12... Nd7 {
+(Trifunovic - Van den Berg, Amsterdam 1950).}) 13. a5 Qc7 14. dxe6 $1 {
+Tal starts a great adventure.} 14... bxc3 15. Nd4 $1 Rg8 $1 (15... fxe6 16.
+Bh5+ Ke7 17. Re1 Bd5 18. bxc3 $1 {brings a winning attack.}) 16. Qa4+ $1 Kd8
+17. g3 Bd5 ({Or} 17... cxb2 18. Rad1 Bd5 19. exf7 Qxf7 20. Bxc4 $1) 18. Rfd1 $2
+{White moves the wrong rook.} (18. Rad1 $1 cxb2 19. exf7 Qxf7 20. Bxc4 $1 Bxc4
+21. Ne6+ $1 Ke7 22. Qb4+ $1 {wins.}) 18... Kc8 $2 (18... cxb2 $1 19. Rab1 c3
+20. exf7 Qxf7 21. Bf3 $1 Rg5 $1 {favours Black.}) 19. bxc3 $2 (19. Qe8+ $1 Kb7
+(19... Qd8 20. exf7) 20. bxc3 {wins (Unzicker).}) 19... Bc5 $1 20. e7 $1 Nc6 $2
+(20... Nd7 $1 21. Bxc4 Bxc4 22. Qxc4 Ne5 {defends properly.}) 21. Bg4+ $2 ({
+The complex} 21. Nf5 $1 Qe5 22. Bxc4 Bxf2+ 23. Kf1 Qxf5 24. e8=Q+ $1 Rxe8 25.
+Rxd5 {wins for White eventually.}) 21... Kb7 22. Nb5 $1 Qe5 $1 23. Re1 Be4 $2 (
+{Huebner advices} 23... Qg5 $1 24. Red1 Rae8 25. Rab1 Rxe7) 24. Rab1 $1 Rxg4
+25. Rxe4 Qxe4 $1 26. Nd6+ Kc7 27. Nxe4 Rxe4 28. Qd1 Re5 $2 (28... Bxe7 $1 29.
+Qd5 Re5 {is needed.}) 29. Rb7+ $3 {Lightning strikes the black king.} 29...
+Kxb7 30. Qd7+ Kb8 31. e8=Q+ Rxe8 32. Qxe8+ Kb7 33. Qd7+ Kb8 34. Qxc6 1-0
+
+[Event "Zuerich"]
+[Site "?"]
+[Date "1959.??.??"]
+[Round "8"]
+[White "Fischer, Robert James"]
+[Black "Unzicker, Wolfgang"]
+[Result "1-0"]
+[ECO "C97"]
+[Annotator "JvR"]
+[PlyCount "129"]
+[EventDate "1959.??.??"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+O-O 9. h3 Na5 10. Bc2 c5 11. d4 Qc7 12. Nbd2 Bd7 13. Nf1 Rfe8 14. Ne3 g6 15.
+dxe5 dxe5 16. Nh2 Rad8 17. Qf3 Be6 18. Nhg4 Nxg4 19. hxg4 Qc6 20. g5 $5 Nc4 (
+20... Bxg5 $5 21. Nd5 $1 {shows the pointe of the novelty.}) 21. Ng4 Bxg4 22.
+Qxg4 f6 $6 23. gxf6 {White ruins the black pawn structure.} 23... Bxf6 24. a4
+Nb6 25. axb5 axb5 26. Be3 Ra8 27. Red1 Kh8 $6 28. b3 Bg7 29. Qh4 Bf6 30. Bg5
+Bxg5 31. Qxg5 Rxa1 32. Rxa1 Nd7 33. Bd1 $1 {
+The critical position has been reached.} 33... Nf6 $2 ({Not} 33... Qxe4 $2 34.
+Bf3 Qf4 35. Qxf4 exf4 36. Bc6 Re7 37. Ra8+ Kg7 38. Ra7 {(Fischer).}) ({
+Black should safeguard the queenside by} 33... Qb6 $1) 34. Ra7 $1 Qd6 35. Be2
+$1 Re7 ({Black has to lose a pawn due to} 35... b4 $2 36. Ra6 $1) 36. Rxe7 Qxe7
+37. Bxb5 Kg7 38. Be2 Qc7 39. Qe3 Qa5 40. g3 Qa3 41. Kg2 Qa5 42. Qd3 Qb6 43. Qc4
+Qc6 44. Bd3 Qb6 45. b4 cxb4 46. cxb4 Ng4 47. Qc5 Qxc5 48. bxc5 Kf7 49. f4 Ke7
+50. Kf3 Nf6 51. Bb5 Ke6 52. Bc4+ Ke7 53. c6 Ne8 54. fxe5 h6 55. Ke3 Nc7 56. Kd4
+h5 57. Ke3 g5 58. Be2 h4 59. gxh4 gxh4 60. Bc4 Ne8 61. Kf4 Kd8 62. Kg4 Kc7 63.
+Bf7 Ng7 64. Kxh4 Kxc6 65. Kg5 1-0
+
+[Event "Zuerich"]
+[Site "?"]
+[Date "1959.??.??"]
+[Round "8"]
+[White "Walther, Edgar"]
+[Black "Tal, Mihail"]
+[Result "0-1"]
+[ECO "B46"]
+[Annotator "JvR"]
+[PlyCount "60"]
+[EventDate "1959.??.??"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Nc3 Qc7 6. Bd3 Nc6 7. Nxc6 bxc6 8.
+O-O Nf6 9. f4 d5 10. Qf3 Bb7 {
+The players have followed Winawer - Paulsen, Berlin 1881.} 11. Bd2 $6 c5 $1 12.
+exd5 c4 $1 13. Be4 $6 exd5 14. Bf5 $5 (14. Bxd5 $2 Qc5+ 15. Be3 Bxd5 16. Rae1 {
+fails due to} 16... Qc6 $1 {(Gligoric).}) 14... Bc5+ 15. Kh1 g6 16. Rae1+ Kf8
+17. Na4 d4 $5 18. Qh3 Kg7 19. Nxc5 Qxc5 20. Re5 Qc6 21. Rf3 Rhe8 22. Rg3 c3 $1
+23. bxc3 dxc3 $2 (23... Qb6 $1 {ends the game.}) 24. Rxc3 Qb6 25. Be3 Qb1+ 26.
+Bg1 Be4 $5 27. Bxe4 Nxe4 28. Rf3 Rxe5 29. fxe5 Rd8 {White has a narrow escape.}
+30. g3 $4 ({The sacrifice} 30. Rxf7+ $1 Kxf7 31. Qxh7+ Ke6 32. Qxg6+ Kxe5 33.
+Qh5+ {forces perpetual check.}) 30... Qb7 $1 {
+Fischer and Tal shared the lead by 61/2/8.} 0-1
+
+[Event "Zuerich"]
+[Site "?"]
+[Date "1959.??.??"]
+[Round "9"]
+[White "Barcza, Gedeon"]
+[Black "Fischer, Robert James"]
+[Result "1/2-1/2"]
+[ECO "A49"]
+[Annotator "JvR"]
+[PlyCount "190"]
+[EventDate "1959.??.??"]
+
+1. Nf3 Nf6 2. g3 g6 3. b3 Bg7 4. Bb2 O-O 5. Bg2 d6 6. d4 e5 7. dxe5 Nfd7 8. O-O
+Nc6 9. c4 dxe5 10. Ne1 Nd4 11. Nc3 c6 12. Nd3 f5 13. e3 Ne6 14. Na4 Qe7 15. Qc1
+Re8 16. f3 h5 17. Qe1 Ng5 18. f4 e4 19. Bxg7 Qxg7 20. Ndc5 Nxc5 21. Nxc5 Nf7
+22. Rd1 b6 23. Na4 Be6 24. Qc3 Rad8 25. Qc2 $6 {
+White should exchange the heavy pieces.} 25... g5 $1 26. Rf2 h4 $1 27. Rxd8
+Rxd8 28. Qb2 Qg6 29. Bf1 $6 gxf4 $6 (29... hxg3 $1 30. hxg3 gxf4 31. exf4 c5 {
+gains a positional advantage.}) 30. exf4 Nh6 31. Rg2 $1 Kf7 32. gxh4 Qf6 33.
+Qxf6+ Kxf6 34. Be2 Bf7 35. Nb2 Rd4 36. h3 Ng8 37. Kf1 Ne7 38. h5 Rd2 39. Bd1
+Rd8 40. Ke1 c5 41. Rd2 Rd4 42. a3 Nc6 43. Rg2 $6 Nd8 44. Kf2 Ne6 45. Ke3 Rd8
+46. Rg3 $2 (46. h4 $1 Rh8 47. Rg5 $1 Nxg5 48. hxg5+ Kg7 49. h6+ Kg6 50. Be2 {
+creates a fort.}) 46... Rh8 47. Na4 Bxh5 48. Bxh5 Rxh5 49. Nc3 Nxf4 $1 50.
+Nxe4+ $1 fxe4 51. Kxf4 Rh4+ 52. Ke3 Kf5 $1 53. b4 a5 54. bxc5 bxc5 55. a4 Rh7
+56. Kf2 Rb7 $2 (56... Kf4 $1 57. Rg4+ Ke5 58. h4 Kd4 {
+gives fine winning chances (Gligoric).}) 57. h4 Kf4 58. Rh3 Kg4 59. Rh1 Kf4 60.
+Rh3 Ke5 61. h5 Kd4 62. h6 Rh7 63. Rh1 Kd3 64. Rh5 e3+ 65. Ke1 Rb7 66. Rd5+ Kxc4
+67. Rh5 Rh7 68. Ke2 Kb4 69. Rh4+ c4 70. Kxe3 Kb3 71. Kd2 c3+ 72. Kc1 Rf7 73.
+Rd4 $1 Rf6 74. Rd8 Rf1+ 75. Rd1 Rxd1+ 76. Kxd1 Kb2 77. h7 c2+ 78. Ke2 c1=Q 79.
+h8=Q+ Kb3 80. Qe8 Qc4+ 81. Kd2 Qd5+ 82. Ke2 Kc2 83. Qc8+ Kb2 84. Qb8+ Kc3 85.
+Qc8+ Kd4 86. Qh8+ Kc4 87. Qc8+ Kb4 88. Qe8 Qc4+ 89. Kd2 Qd4+ 90. Ke2 Qb2+ 91.
+Kd3 Qc3+ 92. Ke2 Qc2+ 93. Ke3 Ka3 94. Qb5 Qxa4 95. Qxa4+ Kxa4 {
+Bobby fought to the last pawn.} 1/2-1/2
+
+[Event "Zuerich"]
+[Site "?"]
+[Date "1959.??.??"]
+[Round "9"]
+[White "Tal, Mihail"]
+[Black "Olafsson, Fridrik"]
+[Result "1-0"]
+[ECO "B45"]
+[Annotator "JvR"]
+[PlyCount "127"]
+[EventDate "1959.??.??"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Ndb5 Bb4 7. a3 Bxc3+ 8.
+Nxc3 d5 9. exd5 exd5 10. Bd3 O-O 11. O-O h6 $6 ({Better is} 11... Bg4 12. f3
+Be6 {(Physick - Blackburne, London 1900).}) 12. Bf4 d4 $2 ({Right is} 12... Bg4
+$1 {(Steiner - Becker, Vienna 1937).}) 13. Nb5 $1 {
+Hereafter, Black suffers from a terrible case of restriction.} 13... Nd5 14.
+Bg3 Be6 15. Re1 Qd7 16. h3 a6 $6 17. Nd6 Nf6 18. Qf3 Kh8 19. Rad1 Nh7 20. Bxh7
+Kxh7 21. c3 dxc3 22. Ne4 Qc8 23. Qxc3 Ne7 24. Nc5 Nf5 25. Bc7 $1 b5 ({
+Even worse is} 25... Qxc7 $2 26. Nxe6 Qxc3 27. Nxf8+ {(Gligoric).}) 26. Nxe6
+fxe6 27. Qc6 Ne7 28. Qxe6 Qxc7 29. Qxe7 Qb6 30. Re3 Rad8 31. Rd7 Rxd7 32. Qxf8
+Rd1+ 33. Kh2 Rd8 34. Qf5+ Kh8 35. Re6 Qc7+ 36. g3 Qd7 37. Qe5 Qd2 38. Kg2 Rf8
+39. Qe2 Qd5+ 40. Kg1 Rc8 41. Qe4 Qd2 42. Qe5 Rf8 43. Qe2 Qc1+ 44. Kg2 Qc8 45.
+b4 Qb7+ 46. Kg1 Qc8 47. Qe3 Kg8 48. h4 Kh8 49. Re7 Qg4 50. Kg2 Qf5 51. Qd4 Qf3+
+52. Kg1 Rf7 53. Re6 Kg8 54. Rxa6 Re7 55. Qd8+ Kf7 56. Qd2 Kg8 57. Rd6 Qf8 58.
+Rd5 Re8 59. Rxb5 Qf6 60. Ra5 Kh8 61. Qd5 Rf8 62. Qd2 Qf3 63. Rd5 Qxa3 64. Rd8
+1-0
+
+[Event "Zuerich"]
+[Site "?"]
+[Date "1959.??.??"]
+[Round "10"]
+[White "Blau, Max"]
+[Black "Tal, Mihail"]
+[Result "0-1"]
+[ECO "A32"]
+[Annotator "JvR"]
+[PlyCount "70"]
+[EventDate "1959.??.??"]
+
+1. Nf3 Nf6 2. d4 e6 3. c4 c5 4. Nc3 cxd4 5. Nxd4 Bb4 6. Bd2 Nc6 7. Nc2 Bc5 8.
+Be3 Bxe3 9. Nxe3 O-O 10. g3 d5 $5 11. cxd5 exd5 12. Nexd5 Nxd5 $5 ({
+More active is} 12... Be6 $1) 13. Qxd5 Qb6 14. Qb5 $1 Qxb5 15. Nxb5 Nb4 16. Rc1
+Bf5 $6 17. Nd4 $2 (17. Bg2 Nc2+ 18. Kf1 {keeps an advantage (Trifunovic).})
+17... Nxa2 18. Rc7 Be4 19. f3 Rfd8 $1 20. e3 Bd5 21. Bh3 Nb4 22. O-O a5 23. Bg2
+a4 24. Rfc1 Nd3 25. R1c2 g6 26. Kf1 b5 $1 27. Nxb5 Rab8 28. Nc3 $6 (28. Nd4 $1
+Rxb2 29. Ke2 Nc1+ 30. Kd1 {defends the queenside correctly.}) 28... Be6 29. Ra7
+Nxb2 30. Nxa4 $2 {Tal can choose from three lines.} 30... Nd1 $5 ({Best is} 
+30... Nd3 $1 31. Nc3 Rdc8 32. Ke2 Nb4) ({An exchange is won by} 30... Nxa4 31.
+Rxa4 Bb3) 31. Rc1 Rd2 32. Kg1 Nxe3 33. Bf1 $2 (33. Bh1 $1 {
+gives the last chance.}) 33... Ra2 34. Ra6 Nxf1 35. Kxf1 Bc4+ 0-1
+
+[Event "Zuerich"]
+[Site "?"]
+[Date "1959.??.??"]
+[Round "10"]
+[White "Fischer, Robert James"]
+[Black "Nievergelt, Erwin"]
+[Result "1-0"]
+[ECO "B88"]
+[Annotator "JvR"]
+[PlyCount "83"]
+[EventDate "1959.??.??"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bc4 e6 7. Bb3 Be7 8.
+O-O O-O 9. Be3 Bd7 10. f4 Nxd4 11. Bxd4 Bc6 12. Qe2 b5 $5 13. Nxb5 {Both partie
+s make several mistakes in the rest of the game. I only mention the first.}
+13... e5 $2 ({Correct is} 13... Bxb5 14. Qxb5 Nxe4 {
+(Prins - Unzicker, Saltsjobaden 1952).}) 14. fxe5 dxe5 15. Be3 a6 16. Nc3 Nxe4
+17. Rxf7 Rxf7 18. Bxf7+ Kh8 19. Qc4 Bg5 20. Nxe4 Bxe3+ 21. Kh1 Qd7 22. Bh5 Bb5
+23. Qb3 Qd4 24. Nd6 Qxd6 25. Qxe3 Bc6 26. Bf3 e4 27. Be2 Rd8 28. h3 h6 29. Rd1
+Qf6 30. Rxd8+ Qxd8 31. Bxa6 Qd5 32. a3 h5 33. b4 Qd1+ 34. Kh2 h4 35. Qf4 Qa1
+36. b5 Bd5 37. b6 e3 38. b7 Bxb7 39. Qf8+ Kh7 40. Bd3+ g6 41. Qf7+ Kh8 42. Qxg6
+{Tal led by 81/2/10. Fischer had 8 points.} 1-0
+
+[Event "Zuerich"]
+[Site "?"]
+[Date "1959.??.??"]
+[Round "11"]
+[White "Gligoric, Svetozar"]
+[Black "Fischer, Robert James"]
+[Result "1-0"]
+[ECO "B99"]
+[Annotator "JvR"]
+[PlyCount "77"]
+[EventDate "1959.??.??"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3
+Nbd7 9. O-O-O Qc7 10. g4 b5 11. Bxf6 gxf6 12. Bg2 $5 Bb7 13. Rhe1 O-O-O $6 {
+Long castling is premature.} 14. a3 Nb6 15. Rd3 $6 (15. f5 $1 {(Barcza)} 15...
+e5 16. Nb3 {gains an advantage.}) 15... Kb8 16. Red1 d5 17. exd5 Nxd5 18. Nxd5
+Bxd5 19. Qf1 Bc5 20. Bxd5 Rxd5 21. Ne2 Rxd3 22. Rxd3 h5 $6 ({Wiser is} 22...
+Rc8) 23. gxh5 $1 Rxh5 24. Qg2 Rh8 25. Rc3 Rc8 $2 {
+Black should not allow exchanges.} ({Correct is} 25... Qb6) 26. b4 $1 Be3+ 27.
+Kb1 Qb6 28. Rxc8+ Kxc8 29. Qf3 {White will win the endgame easily.} 29... Kd8
+30. h4 $1 Ke7 31. h5 f5 32. h6 Bd4 33. Nxd4 Qxd4 34. Qh1 ({Or} 34. Qg2 Qh8 35.
+Qg7) 34... Qh8 35. h7 Kf8 36. Qa8+ Kg7 37. Qxh8+ Kxh8 38. c4 Kxh7 39. c5 {
+The sixteen-years-old talent played far from perfect.} 1-0
+
+[Event "Zuerich"]
+[Site "?"]
+[Date "1959.??.??"]
+[Round "11"]
+[White "Tal, Mihail"]
+[Black "Dueckstein, Andreas"]
+[Result "1-0"]
+[ECO "E13"]
+[Annotator "JvR"]
+[PlyCount "113"]
+[EventDate "1959.??.??"]
+
+1. d4 e6 2. Nf3 Nf6 3. c4 Bb4+ 4. Nc3 b6 5. Bg5 Bb7 6. e3 h6 7. Bh4 g5 8. Bg3
+Ne4 9. Qc2 d6 10. Bd3 Bxc3+ 11. bxc3 f5 12. d5 exd5 13. cxd5 Bxd5 14. Nd4 Qf6
+15. f3 Nxg3 16. hxg3 Nd7 17. Bxf5 Nc5 $1 ({Keres encountered} 17... O-O-O {
+twice.}) 18. Nb5 Qg7 19. Bg6+ $5 Kd7 20. Bf5+ Be6 (20... Kc6 $1 21. O-O-O Bc4
+$1 {equalises.}) 21. Bxe6+ Nxe6 22. Nd4 Nc5 $2 {Black allows a raid.} ({
+Right is} 22... Qe5 $1) 23. Qf5+ $1 Ke7 24. Qd5 Qf6 25. O-O-O Raf8 26. e4 Qf7
+27. Nf5+ Kd7 28. Qxf7+ Rxf7 29. Rxh6 Rxh6 30. Nxh6 Rh7 31. Ng4 Ke6 32. Kd2 b5
+33. Re1 a5 34. Ke3 Rh8 35. f4 b4 36. f5+ Kf7 37. cxb4 axb4 38. Kd4 b3 39. axb3
+Rb8 40. Kd5 Rb4 41. Ne5+ $1 {Black seems to have a chance.} 41... Kf6 $6 ({But
+} 41... dxe5 42. Kxc5 Rxb3 43. Rh1 $1 {(Barcza)} 43... Rd3 $1 44. Rh7+ Kf6 45.
+Rh6+ Kf7 46. Re6 {also wins for White.}) 42. Nc6 $1 Rxb3 43. e5+ dxe5 44. Kxc5
+Kxf5 45. Nxe5 Rxg3 46. Re2 Ra3 47. Kd4 Ra4+ 48. Nc4 Kf4 49. Kd3 g4 50. Re3 Ra1
+51. g3+ Kf5 52. Re5+ Kf6 53. Re4 Kg5 54. Ne3 Ra3+ 55. Kd4 Kh5 56. Ke5 Ra8 57.
+Kf6 1-0
+
+[Event "Zuerich"]
+[Site "?"]
+[Date "1959.??.??"]
+[Round "12"]
+[White "Barcza, Gedeon"]
+[Black "Tal, Mihail"]
+[Result "1/2-1/2"]
+[ECO "A04"]
+[Annotator "JvR"]
+[PlyCount "82"]
+[EventDate "1959.??.??"]
+
+1. Nf3 g6 2. g3 Bg7 3. Bg2 e5 4. e4 Nc6 5. O-O d6 6. d3 Nge7 7. Nc3 O-O 8. Nh4
+Be6 9. Nd5 Bxd5 10. exd5 Nd4 11. c3 Ndf5 12. Nxf5 Nxf5 13. Bd2 Bh6 14. b4 Bxd2
+15. Qxd2 Ng7 16. Rae1 f5 17. d4 e4 18. f3 exf3 19. Bxf3 Qd7 20. c4 Rae8 21. c5
+Qd8 22. Kg2 Qf6 23. Bd1 Rxe1 24. Rxe1 Re8 25. Rxe8+ Nxe8 26. h4 $6 ({Better is
+} 26. Qe3 {(Barcza).}) 26... Qe7 27. Bf3 Nf6 28. Qc3 h6 29. Qd3 Kg7 30. c6 $6 (
+{Correct is} 30. Qb5 b6 31. Kf2) 30... b6 31. Qa3 $2 (31. Kf2 Qf7 32. Qb3 Ne4+
+33. Kg2 {defends properly.}) 31... g5 32. hxg5 hxg5 33. Kf2 g4 34. Bg2 Nh5 $1
+35. Qxa7 Nxg3 $2 (35... f4 $1 36. gxf4 g3+ {wins (Barcza).}) 36. Kxg3 Qe3+ 37.
+Kh2 Qf4+ 38. Kh1 g3 39. Qa6 $1 Qh6+ 40. Kg1 Qe3+ 41. Kh1 Qh6+ 1/2-1/2
+
+[Event "Zuerich"]
+[Site "?"]
+[Date "1959.??.??"]
+[Round "12"]
+[White "Fischer, Robert James"]
+[Black "Keres, Paul"]
+[Result "1-0"]
+[ECO "C99"]
+[Annotator "JvR"]
+[PlyCount "161"]
+[EventDate "1959.??.??"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. c3
+d6 9. h3 Na5 10. Bc2 c5 11. d4 Qc7 12. Nbd2 cxd4 13. cxd4 Bb7 14. Nf1 Rac8 15.
+Bd3 Nc6 16. Ne3 Rfe8 $5 (16... Nb4 {
+was played in Zagorovsky - Geller, Gorky 1954.}) 17. Nf5 Bf8 $6 ({Superior is} 
+17... Nxd4 18. N3xd4 exd4) 18. Bg5 Nd7 19. Rc1 Qb8 20. Bb1 Nxd4 21. N3xd4 Rxc1
+22. Bxc1 exd4 23. Nh6+ $1 gxh6 24. Qg4+ Kh8 25. Qxd7 Bd5 26. Qf5 (26. Bf4 $1
+Be6 27. Qc6 {keeps the initiative.}) 26... Re5 27. Qf3 f5 28. Bf4 Re8 29. Qh5
+Bxe4 30. f3 Bc6 31. Rc1 Bd7 32. Bxh6 Re6 33. Bxf8 Qxf8 34. Qh4 Qf6 $6 35. Qxf6+
+Rxf6 36. Kf2 $6 (36. Rc7 $1 Be6 37. b3 {(Fischer)} 37... Rf8 $1 38. Kf2 {
+leads to problems for Black.}) 36... Kg7 $1 37. Rc7 Rf7 38. Ke2 f4 $2 (38...
+Kf6 39. Ra7 b4 $1 {equalises.}) 39. Ra7 Kf6 40. Rxa6 Re7+ 41. Kf2 Be6 $5 42.
+Rxd6 Ke5 43. Rc6 Bd5 44. Rh6 Rc7 45. Rh5+ Kd6 46. Rh6+ Ke5 47. Rh5+ Kd6 48. Rf5
+$2 (48. b3 $1 Rc1 49. Be4 Bxe4 50. fxe4 {wins the game (Fischer).}) 48... Rc1
+49. Bd3 Rd1 50. Ke2 Rg1 51. Kf2 Rd1 52. Ke2 Rg1 53. Rg5 Bxa2 54. Bxb5 Rb1 55.
+Kd3 h6 $6 ({Better is} 55... Rxb2 56. Kxd4 Bb1) 56. Rh5 Rxb2 57. Kxd4 Rxg2 58.
+Rxh6+ Ke7 59. Ke4 Rg5 60. Ba6 Bf7 61. Bc8 Rg6 62. Rh7 Kf8 63. Bg4 Rg7 $2 (63...
+Rb6 $1 64. Kxf4 Kg8 {(Barcza)} 65. Rh4 Rb4+ {probably draws.}) 64. Rh6 Rg6 65.
+Rxg6 $1 Bxg6+ 66. Kxf4 Kg7 67. Kg5 $1 {White wins because the black king
+cannot reach f6, but he has to treat the f-pawn like a treasure.} 67... Bd3 68.
+f4 Be4 69. h4 Bd3 70. h5 Be4 71. h6+ Kh8 72. Bf5 Bd5 73. Bg6 Be6 74. Kf6 Bc4
+75. Kg5 Be6 76. Bh5 Kh7 77. Bg4 $1 Bc4 78. f5 Bf7 79. Bh5 Bc4 80. Bg6+ Kg8 81.
+f6 {The f-pawn will queen eventually.   The Soviets feared Bobby after his win
+against the great Keres.} 1-0
+
+[Event "Zuerich"]
+[Site "?"]
+[Date "1959.??.??"]
+[Round "13"]
+[White "Donner, Jan Hein"]
+[Black "Fischer, Robert James"]
+[Result "0-1"]
+[ECO "E62"]
+[Annotator "JvR"]
+[PlyCount "88"]
+[EventDate "1959.??.??"]
+
+1. d4 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 O-O 5. Nf3 d6 6. O-O Nc6 7. Nc3 e5 8. dxe5
+Nxe5 9. Nxe5 dxe5 10. Bg5 Qxd1 11. Raxd1 c6 12. b3 Be6 13. Na4 Nd7 14. Rd6 ({
+Slightly better is} 14. Rd2 $1) 14... h6 15. Be3 Rfd8 16. Rc1 $6 (16. Rfd1 Bf8
+17. R6d2 {(Barcza) should be obvious.}) 16... Bf8 $1 17. Rdd1 g5 18. Bd2 Ba3
+19. Ra1 f6 20. Bc1 Be7 21. Bb2 Kf7 22. Rd2 $2 (22. Nc3 {defends the d-file.})
+22... Nc5 $1 {Black will conquer the open d-file.} 23. Rxd8 Rxd8 24. Nxc5 Bxc5
+25. Bc3 Bd4 $1 26. Bxd4 Rxd4 27. Kf1 Rd2 28. Ke1 Rb2 29. Be4 f5 30. Bb1 a5 $1
+31. Kd1 a4 32. bxa4 $6 ({Preferable is} 32. Bc2 a3 33. c5) 32... e4 $6 (32...
+Bxc4 {cashes at once.}) 33. Bc2 $6 (33. c5 {avoids a capture.}) 33... Bxc4 34.
+Kc1 Rxa2 35. Rb1 b5 36. Rb4 Ra1+ 37. Kb2 Re1 38. a5 Rxe2 39. Kc1 e3 40. fxe3
+Rxe3 41. a6 Re8 42. Bb3 Bxb3 43. Rxb3 Ra8 44. Ra3 Ke6 0-1
+
+[Event "Zuerich"]
+[Site "?"]
+[Date "1959.??.??"]
+[Round "13"]
+[White "Tal, Mihail"]
+[Black "Gligoric, Svetozar"]
+[Result "0-1"]
+[ECO "C87"]
+[Annotator "JvR"]
+[PlyCount "84"]
+[EventDate "1959.??.??"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 d6 5. c3 Nf6 6. d4 Bd7 7. O-O Be7 8. Nbd2
+O-O 9. Re1 Re8 10. a3 Bf8 11. b4 d5 $5 (11... g6 {
+was played in Suetin - Bykov, Leningrad 1957.}) 12. Bxc6 Bxc6 13. Nxe5 Nxe4 $6
+({Better is} 13... dxe4 {(Tringov - Medina Garcia, Buesum 1968).}) 14. Nxe4
+dxe4 15. Qg4 $2 (15. Nxc6 $1 bxc6 16. Qg4 {gains a positional advantage.})
+15... Bd5 $1 16. Qg3 b5 17. Bf4 Rc8 18. f3 exf3 19. Ng4 $6 ({Better is} 19.
+Nxf3) 19... Kh8 $1 20. gxf3 f6 21. h4 Qd7 22. Ne3 Bf7 23. Kf2 c6 24. h5 $6 Bxh5
+25. Rh1 {Tal has set a trap.} 25... Qf7 $1 ({The combination} 25... Bf7 $2 26.
+Rxh7+ $1 Kxh7 27. Rh1+ Kg8 28. Ng4 {(Barcza)} 28... Bg6 $1 29. Nxf6+ $1 {
+leads to a typical Tal turmoil.}) 26. Qh3 Bg6 27. Qg4 Kg8 28. Qg1 Qe6 29. Qc1
+Bd6 30. Ng2 Rcd8 31. Bxd6 Qxd6 32. Nf4 Bf7 33. Qd2 Re7 34. Rag1 Rde8 35. Qd3 g6
+36. Qf5 Kf8 37. Qg4 g5 38. Nd3 ({Or} 38. Rxh7 Qxf4 39. Qxf4 Re2+ $1) 38... Re2+
+39. Kf1 Bg6 40. Nf2 Qe7 41. Qg3 h5 42. Kg2 h4 {Tal and Fischer shared the lead
+by 10 points. Gligoric followed by half-a-point.} 0-1
+
+[Event "Zuerich"]
+[Site "?"]
+[Date "1959.??.??"]
+[Round "14"]
+[White "Donner, Jan Hein"]
+[Black "Tal, Mihail"]
+[Result "0-1"]
+[ECO "A70"]
+[Annotator "JvR"]
+[PlyCount "56"]
+[EventDate "1959.??.??"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. Nf3 g6 7. e4 Bg7 8. Bd3
+O-O 9. O-O a6 10. a4 Bg4 11. h3 Bxf3 12. Qxf3 Nbd7 13. Bf4 Qc7 14. Qe2 Rfe8 15.
+Bh2 $5 Rac8 16. Bc4 Ne5 17. f4 $6 Nxc4 18. Qxc4 Nd7 {
+Donner has played some odd moves in the Benoni.} 19. Rfe1 $2 ({But} 19. a5 $1 {
+defends well. Tal intended to play} 19... b5 {The follow up might be} 20. axb6
+Qxb6 $1 {and Black has an edge.}) 19... Qb6 $1 20. Rab1 Qb4 $1 21. Qf1 {
+The exchange of queens is awful too.} 21... c4 $1 22. Re2 b5 23. axb5 axb5 24.
+Kh1 Bxc3 25. bxc3 Qxc3 26. Rxb5 Qd3 27. Qe1 c3 28. Rb1 Nc5 0-1
+
+[Event "Zuerich"]
+[Site "?"]
+[Date "1959.??.??"]
+[Round "14"]
+[White "Fischer, Robert James"]
+[Black "Keller, Dieter"]
+[Result "0-1"]
+[ECO "C92"]
+[Annotator "JvR"]
+[PlyCount "114"]
+[EventDate "1959.??.??"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+O-O 9. h3 Nd7 10. d4 Nb6 11. dxe5 Nxe5 12. Nxe5 dxe5 13. Qh5 Bf6 14. Nd2 Qe7
+15. Nf1 Be6 16. Ne3 g6 17. Qf3 Bxb3 18. axb3 Bg7 19. b4 c6 20. g3 {
+Tal has defeated Donner and Fischer starts to play for a win like a madman.} ({
+Solid is} 20. Bd2 $1 {(Keres).}) 20... Qe6 21. h4 f5 $1 22. h5 f4 23. Nf1 gxh5
+24. Qxh5 Rf6 25. Nh2 Rg6 26. Nf3 $2 ({Necessary is} 26. Kg2) 26... fxg3 27.
+fxg3 Rxg3+ 28. Kh2 Qg4 29. Qxg4 Rxg4 30. Rg1 Rxg1 31. Kxg1 Na4 32. Kf1 c5 33.
+b3 Nxc3 34. bxc5 Nxe4 35. c6 Nc5 36. Be3 Nxb3 37. Ra2 a5 38. Rg2 Kh8 39. Ng5
+Rf8+ 40. Ke1 Nd4 41. Bxd4 exd4 42. Ne6 Re8 43. c7 Be5 44. Kd2 Rc8 45. Rg5 Bxc7
+46. Rxb5 Bd6 47. Kd3 Ra8 48. Rb6 Bg3 49. Rb7 a4 50. Ng5 a3 51. Rxh7+ Kg8 52.
+Rh1 a2 53. Ra1 Be5 54. Ne6 Ra3+ 55. Ke4 Bf6 56. Kf5 Kf7 57. Ng5+ Bxg5 {
+Tal took the sole lead again.} 0-1
+
+[Event "Zuerich"]
+[Site "?"]
+[Date "1959.??.??"]
+[Round "15"]
+[White "Tal, Mihail"]
+[Black "Fischer, Robert James"]
+[Result "1/2-1/2"]
+[ECO "B99"]
+[Annotator "JvR"]
+[PlyCount "69"]
+[EventDate "1959.??.??"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3
+Qc7 9. O-O-O Nbd7 10. Qg3 h6 11. Bh4 Rg8 12. Be2 g5 13. fxg5 Ne5 14. g6 Nxg6 $5
+(14... Rxg6 {was played in Bannik - Petrosian, Moscow 1957.}) 15. Rhf1 Nxh4 16.
+Qxh4 Rg6 17. Bd3 Ng4 $1 18. Qh5 Ne5 ({
+Fischer needs to win, but he avoids the risky} 18... Bg5+ 19. Kb1 Ne3 20. e5 $1
+) 19. Nf3 Qc5 $1 20. Nxe5 Qxe5 21. Qxe5 dxe5 22. g3 Bd7 23. Be2 Bc6 24. Bh5 Rf6
+25. a3 Rd8 26. Rxd8+ Bxd8 27. Rxf6 Bxf6 28. Kd2 Bg5+ 29. Kd3 Bc1 30. Nd1 Bb5+
+31. c4 Ba4 32. Nc3 Bc6 33. Nd1 Kf8 34. h4 Ba4 35. Nc3 {Tal had won the event
+before Gligoric and Fischer.   Eight grandmasters participated in Zuerich 1959:
+five of them would play in the candidates' tournament during the autumn. Tal
+did not take the six Swiss players seriously, but defeated five of them. His
+win against Nievergelt was highly entertaining. When he tried to treat
+Gligoric similarly, he lost quickly. The players got 60 Francs for a win, 25
+for a draw and 10 for a loss, so Tal earned 695 Swiss Francs. The tournament
+got a lot of attention in the press due to the race between Tal and Fischer.}
+1/2-1/2
+

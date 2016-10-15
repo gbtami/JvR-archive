@@ -1,0 +1,475 @@
+[Event "WebChess Gambit Match"]
+[Site "ICCF"]
+[Date "2005.07.10"]
+[Round "1"]
+[White "Timmerman, Gert Jan"]
+[Black "Umansky, Mikhail Markovich"]
+[Result "0-1"]
+[ECO "C33"]
+[WhiteElo "2706"]
+[BlackElo "2670"]
+[Annotator "JvR"]
+[PlyCount "84"]
+[EventDate "2005.??.??"]
+
+{The two King's Gambit games of the Gambit Match have ended after one year.} 1.
+e4 e5 2. f4 exf4 {Obligated moves bring the King's Gambit Accepted.} 3. Bc4 {
+Timmerman avoids the pawn avalanche of the Knight's Gambit.} ({
+I agree with him, because the line} 3. Nf3 g5 4. h4 g4 5. Ne5 d6 $1 6. Nxg4 Be7
+{is sunny for Black.}) 3... Nf6 (3... Qh4+ $5 4. Kf1 {was often played in the
+nineteenth century, but this variation is less suitable for correspondence
+chess at top level.}) 4. Nc3 Bb4 (4... c6 $1 {gives a positional edge in the
+Bishop's Gambit (Spielmann-Bogoljubow, Karlsbad 1923). Umansky wants tactics!})
+5. Nf3 O-O 6. Nd5 $5 ({Usual is the quiet} 6. O-O {
+(Paulsen - Kolisch, ninth match game London 1861).}) 6... Nxd5 7. exd5 Re8+ 8.
+Kf2 {Timmerman has followed De Riviere - Morphy, eleventh match game, Paris
+1863. White plans to further develop his centre pawns and hopes to regain the
+gambit pawn on f4.} b5 $1 {
+Umansky sacrifices a pawn for a quick development of the queenside.} 9. Bxb5 c6
+10. Bc4 cxd5 11. Bxd5 Nc6 12. d4 ({White avoids} 12. c3 Ba6 $1 13. cxb4 Bd3 $1
+14. Bxf7+ Kf8 $1) 12... Ba6 13. c4 Rc8 14. a3 (14. Bxf4 Ne7 15. Bg5 Bxc4 16.
+Bxc4 Rxc4 17. Qb3 d5 18. Rac1 Rxc1 19. Rxc1 {leads to equality by exchanges.})
+14... Bd6 15. b3 Bb8 16. Bxc6 $2 ({I found} 16. Qd3 {
+very strong during the game, but} Qf6 17. Be4 Ne7 $1 18. Qc2 g6 {
+is okay for Black.}) 16... Rxc6 17. d5 Qb6+ 18. Qd4 Rg6 19. Bd2 Rxg2+ $3 {
+Suddenly, a lightning strikes: the quasi- sacrifice opens the white defence.}
+20. Kxg2 Re2+ 21. Kf1 Qxd4 22. Nxd4 Rxd2 23. Nf3 (23. Re1 Kf8 24. Re4 f5 25.
+Nxf5 Rd1+ 26. Re1 (26. Kg2 f3+) 26... Rxd5 $1 {wins for black.}) 23... Rb2 24.
+Re1 Kf8 25. Nd4 Rd2 {The rook on the second rank restrains the white pieces.}
+26. Nb5 (26. Nf3 Rd3 27. Kg2 Rxb3 28. Rb1 Rxb1 29. Rxb1 Bd6 30. Rc1 Bc5 $1 {
+exchanges rooks but brings another restriction.}) 26... Bxb5 27. cxb5 g5 28.
+Rg1 f6 29. Rg2 Rxd5 30. a4 f3 31. Rc2 Kf7 32. h3 h5 33. Rc4 f5 34. Rcc1 Rd2 35.
+Rcd1 Rh2 36. Rxd7+ Kf6 37. Ree7 g4 38. Rf7+ Ke5 39. hxg4 hxg4 40. Rh7 Rb2 41.
+Rhe7+ Kf4 42. Rd4+ Kg3 {The feared avalanche of pawns has struck at the end.}
+0-1
+
+[Event "WebChess Gambit Match"]
+[Site "ICCF"]
+[Date "2005.07.10"]
+[Round "2"]
+[White "Umansky, Mikhail Markovich"]
+[Black "Timmerman, Gert Jan"]
+[Result "1/2-1/2"]
+[ECO "C30"]
+[WhiteElo "2670"]
+[BlackElo "2706"]
+[Annotator "JvR"]
+[PlyCount "74"]
+[EventDate "2005.??.??"]
+
+1. e4 e5 2. f4 {Black's obligation was not to accept the King's Gambit.} Nc6 ({
+The best known responses are} 2... Bc5 {(Classical Defence)}) ({and} 2... d5 {
+(Falkbeer Counter Gambit).}) 3. Nf3 f5 {I call this rare opening the King's
+Counter Gambit. It was played in De Saint Bon - Dubois, London 1862.} 4. exf5
+e4 5. Ne5 Nxe5 6. fxe5 Qe7 $1 {Both sides are making the sharpest moves.} 7.
+Qh5+ Kd8 8. d4 exd3 9. Bxd3 Qxe5+ 10. Qe2 $5 {Abruptly, the battling stops.} ({
+The fight continues by} 10. Kd1 Nf6 11. Qf3 Bc5 12. Nc3 {
+(Gallagher-Wohl, Kuala Lumpur 1992).}) 10... Qxe2+ 11. Bxe2 $5 (11. Kxe2 {
+also draws.}) 11... d5 12. c4 Nf6 13. g4 h5 14. g5 Ne4 15. Rf1 Bd6 16. Nc3 Rf8
+17. Bf4 Nxc3 18. Bxd6 cxd6 19. bxc3 Bxf5 20. cxd5 Kc7 21. O-O-O Bh3 22. Rxf8
+Rxf8 23. Bxh5 Rf5 24. Rd3 Bg2 25. h4 Bxd5 26. a3 Be4 27. Rg3 Rf2 28. Bd1 b5 29.
+h5 Rh2 30. Rg4 Bd5 31. Rf4 a5 32. Rf8 Kb6 33. Rb8+ Kc5 34. Rc8+ Kb6 35. Rb8+
+Kc5 36. Rc8+ Kb6 37. Rb8+ Kc5 1/2-1/2
+
+[Event "WebChess Gambit Match"]
+[Site "ICCF"]
+[Date "2005.07.10"]
+[Round "3"]
+[White "Umansky, Mikhail Markovich"]
+[Black "Timmerman, Gert Jan"]
+[Result "1/2-1/2"]
+[ECO "C59"]
+[WhiteElo "2670"]
+[BlackElo "2706"]
+[Annotator "JvR"]
+[PlyCount "69"]
+[EventDate "2005.??.??"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 {
+White had to play the Classical Variation of the Two Knights.} d5 5. exd5 Na5
+6. Bb5+ c6 7. dxc6 bxc6 8. Be2 h6 9. Nf3 e4 10. Ne5 {
+They have followed Neumann - De Riviere, Paris 1867.} Bc5 11. c3 Qc7 12. d4
+exd3 13. Nxd3 Bd6 14. Nd2 Bf5 15. b4 Nb7 16. Nc4 Rd8 $5 (16... Bxh2 17. Be3 Nd6
+18. Qb3 Nxc4 19. Qxc4 {leaves the initiative to White.}) 17. Be3 O-O 18. Bxa7
+Nd5 19. Bd4 Rfe8 20. Nxd6 Rxd6 $5 (20... Nxd6 {
+is known from Sutovsky - Postny, Israel 2001.}) 21. O-O c5 $1 22. bxc5 Nxc5 {
+Timmerman has pressure in the centre for two pawns.} 23. c4 $5 (23. Rc1 $1 Rxe2
+$1 24. Bxc5 Rde6 25. c4 Nf6 26. Bd4 Ng4 27. g3 Rxa2 {
+brings a white edge, but he should avoid} 28. Nf4 $2 {sue to} Qxf4 $1 29. gxf4
+Rg6) 23... Bxd3 24. Bxc5 Qxc5 25. Bxd3 Nf4 26. Qa4 Red8 27. Bc2 Qc8 28. Be4
+Ne2+ 29. Kh1 Nc3 30. Qc2 Qxc4 31. Rac1 Qxe4 32. Qxc3 Rd2 {
+Black has regained a pawn and stops the a-pawn.} 33. a3 Qa8 34. Rce1 R8d3 35.
+Qb4 1/2-1/2
+
+[Event "WebChess Gambit Match"]
+[Site "ICCF"]
+[Date "2005.10.07"]
+[Round "4"]
+[White "Timmerman, Gert Jan"]
+[Black "Umansky, Mikhail Markovich"]
+[Result "1/2-1/2"]
+[ECO "C55"]
+[WhiteElo "2705"]
+[BlackElo "2670"]
+[Annotator "JvR"]
+[PlyCount "122"]
+[EventDate "2005.??.??"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d4 {Prescribed moves have been made. Euwe
+regards the pawn advance as the main line of the Two Knights.} exd4 5. e5 d5 6.
+Bb5 Ne4 7. Nxd4 Bc5 {The players show historical courtesy: a variation of the
+Max Lange Attack has been reached.} 8. Be3 Bxd4 9. Qxd4 O-O 10. Bxc6 bxc6 11.
+Nc3 Ng5 12. Bxg5 Qxg5 13. h4 Qh5 ({Umansky does not trust} 13... Qxg2 14. O-O-O
+Qg4 15. f4) 14. O-O Qg6 15. Ne2 $5 (15. Qd2 {
+was played in Arnold - Donev, Goetzis 1997.}) 15... f6 $1 {This brings a plus.
+The prospects were looking grim for Timmerman during the match.} ({
+Umansky did not try} 15... Qxc2 $5 16. Nf4 Bd7) 16. exf6 Rxf6 17. Rfe1 Bd7 18.
+Ng3 Raf8 19. h5 $1 Qg5 ({Or} 19... Qxc2 $5 20. Re2 Qc4 21. Qxc4 dxc4 22. Rc1)
+20. Re5 Rf4 21. Qe3 Qf6 22. Rf1 Qd6 23. f3 c5 24. Re1 h6 25. b3 c6 26. Qc3 c4
+$5 27. b4 a5 $6 {White gets chances.} 28. bxa5 $1 Ra8 29. Re7 Rf7 30. Rxf7 Kxf7
+31. Kf2 Qc5+ 32. Kf1 Kg8 33. Qe5 Rf8 34. Qc3 Ra8 35. Qe5 Rf8 36. a6 $1 {
+Timmerman needs to win this game.} c3 37. Qe3 Qc4+ 38. Qd3 Qxd3+ 39. cxd3 Ra8
+40. Re7 $1 c2 41. Ne2 Bf5 42. Nc1 Rxa6 43. Re5 Bh7 44. Ke1 Kf7 45. Kd2 Kf6 46.
+Re8 $5 (46. f4 $1 {gives a plus. So Timmerman can put pressure on Umansky.})
+46... c5 $1 47. Rc8 c4 $1 48. dxc4 dxc4 49. Rxc4 {
+White has won a pawn, but he has no winning chances.} Rd6+ 50. Kc3 Kg5 51. a4
+Kxh5 52. a5 Kg5 53. Ra4 Ra6 54. Kb2 Ra7 55. a6 Bf5 56. Nb3 Bd7 57. Ra3 Kf4 58.
+Kxc2 Kg3 59. Kd2 Kxg2 60. Ke3 g5 61. Ra2+ Kg3 {
+The game was drawn after nearly two-and-a-half years.} 1/2-1/2
+
+[Event "WebChess Gambit Match"]
+[Site "ICCF"]
+[Date "2005.07.10"]
+[Round "5"]
+[White "Timmerman, Gert Jan"]
+[Black "Umansky, Mikhail Markovich"]
+[Result "1/2-1/2"]
+[ECO "C45"]
+[WhiteElo "2706"]
+[BlackElo "2670"]
+[Annotator "JvR"]
+[PlyCount "83"]
+[EventDate "2005.??.??"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 {These moves are obligated.} exd4 4. Nxd4 {
+Timmerman chooses the Scotch Game.} Bc5 5. Nxc6 Qf6 6. Qd2 dxc6 7. Nc3 Ne7 8.
+Na4 Bd6 9. f4 O-O 10. Qf2 Nd5 $5 {
+This sacrifice is known from Hamdouchi - Ibragimov, Pulvermuehle 2000.} 11.
+exd5 Re8+ 12. Be2 Bg4 13. Nc3 Bb4 14. Bd2 Bxe2 15. Nxe2 Qxb2 16. Rd1 Bxd2+ 17.
+Kxd2 Rad8 18. Nc3 Qb4 19. Qf3 cxd5 20. Kc1 Qa3+ $5 (20... d4 21. Nb1 {
+was played in the mentioned game.}) 21. Kb1 d4 22. Nb5 {
+White decides to defend the queenside by pieces.} Qa5 23. Na3 b5 24. Rd3 c5 25.
+Qh5 $1 {The counteraction occurs timely.} Re1+ $1 26. Rxe1 Qxe1+ 27. Qd1 Qb4+
+28. Rb3 Qa5 29. Qf3 $1 ({Not} 29. Nxb5 $2 c4 $1 30. Rb2 Re8 31. Nd6 Qe1 $1 32.
+Kc1 c3 $1 33. Rb4 Qe3+ 34. Kb1 Qd2 $1) 29... a6 30. Qc6 c4 $1 31. Nxc4 $1 {
+White returns the knight and forces a draw.} bxc4 32. Qxc4 g6 33. g3 Kg7 34.
+Kb2 Rd6 35. a3 Qf5 36. Qe2 h5 37. h4 Re6 38. Qc4 Qe4 39. Rb4 Rd6 40. a4 Qe7 41.
+Qd3 Qf6 42. Kc1 1/2-1/2
+
+[Event "WebChess Gambit Match"]
+[Site "ICCF"]
+[Date "2005.07.10"]
+[Round "6"]
+[White "Umansky, Mikhail Markovich"]
+[Black "Timmerman, Gert Jan"]
+[Result "1/2-1/2"]
+[ECO "C52"]
+[WhiteElo "2670"]
+[BlackElo "2706"]
+[Annotator "JvR"]
+[PlyCount "86"]
+[EventDate "2005.??.??"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. b4 {The Evans Gambit is obligated.} Bxb4 5.
+c3 Ba5 6. d4 exd4 7. O-O Nf6 8. e5 d5 9. exf6 {They play sharp moves.} ({
+Another wild line is} 9. Bb5 Ne4 10. Ba3 {(Anderssen - Mayet, Berlin 1851).})
+9... dxc4 10. fxg7 Rg8 11. Re1+ Be6 12. Bg5 Qd5 13. Nbd2 $1 (13. Bf6 $2 Qf5 $1
+{favours Black (Geib - Grouls, email 1998).}) 13... Rxg7 14. Ne4 Kf8 $5 ({
+My preference goes to the queen sacrifice} 14... Rg6 $1 15. Nh4 Rxg5 16. Nf6+
+Kf8 17. Nxd5 Rxd5 18. Qf3 $1 {The captures continue by} Bxc3 19. Rxe6 Bxa1 20.
+Qxd5 fxe6 21. Qxe6 Re8 22. Ng6+ $5 hxg6 23. Qf6+ {
+and the sole queen delivers perpetual check.}) 15. Bh6 dxc3 $1 (15... d3 {
+was played in Anderssen - De Riviere, Paris 1859. The response} 16. Qd2 $1 {
+would have started an attack on the black king.}) 16. Qc1 Rd8 17. Nfg5 Qf5 18.
+Re3 Kg8 $6 {Hereafter, White gains two exchanges.} ({The alternative} 18... Rd3
+$1 19. Nf6 $5 Qg6 20. Ngxh7+ Ke7 21. Bxg7 Qxg7 22. Rb1 {
+leads to about equal chances.}) 19. Bxg7 Kxg7 20. Nxe6+ fxe6 21. Rg3+ Kh8 22.
+Qh6 Qf7 23. Ng5 Qg6 24. Qxg6 hxg6 25. Nf7+ Kg7 26. Nxd8 Nxd8 {Forced moves
+have led to a difficult endgame of two rooks against two minor pieces and
+three pawns.} 27. a4 $1 {
+White has an advantage, because he hinders the black advance on the queenside.}
+Nf7 28. Kf1 a6 29. Ke2 c2 $1 ({I expected} 29... Ne5 {
+and the knight tries to support pawn c3. Instead the pawn is sacrificed.}) 30.
+Rc1 b5 $1 31. Rxc2 Nd6 {The pointe of the sacrifice becomes clear. Black
+supports the advance on the queenside and the rooks stand in front of the
+black screen clumsily.} 32. h4 Kf6 33. axb5 axb5 34. Ra2 Bb6 35. Ra8 b4 36. Rg8
+Kf7 37. R8xg6 Bd4 38. Rg8 $5 {
+White seems to play for a win, but actually accepts a peaceful end.} b3 39. Rb8
+$1 Ba7 $1 40. Rb4 Bc5 $1 (40... c5 $6 41. Ra4 b2 42. Rxa7+ {
+only leads to chances for White.}) 41. Rb8 Ba7 42. Rb4 Bc5 43. Rb8 Ba7 {
+A gambit fight has ended in a threefold repetition of positions.} 1/2-1/2
+
+[Event "Nimzowitsch Match"]
+[Site "ICCF"]
+[Date "2008.07.10"]
+[Round "1"]
+[White "Timmerman, Gert Jan"]
+[Black "Umansky, Mikhail Markovich"]
+[Result "1/2-1/2"]
+[ECO "A20"]
+[WhiteElo "2696"]
+[BlackElo "2664"]
+[Annotator "JvR"]
+[PlyCount "86"]
+[EventDate "2008.??.??"]
+
+1. e3 {
+This opening was named after Van 't Kruijs, an ancient player from Amsterdam.}
+e5 {The game starts.} 2. c4 {This position occurred for the first time in
+Schaakgenootschap Amsterdam - Schaakgezelschap Rotterdam, City correspondence
+1824.} Nf6 3. Nf3 e4 4. Nd4 Nc6 5. Nxc6 ({Nimzowitsch did} 5. Nb5 {
+against Spielmann in Karlsbad 1929.}) 5... dxc6 6. d4 exd3 7. Bxd3 $5 {
+White avoids a quick draw.} (7. Qxd3 {
+was played in Erdelyi - Gereben, Sofia 1947.}) 7... Qd6 8. Qb3 Bg4 $1 9. h3 ({
+The obvious point is} 9. Qxb7 $4 Rd8 10. Be2 $4 Qd1+ {and mate.}) 9... Bh5 10.
+Bf5 {White prevents long castling.} Be7 11. Nc3 O-O 12. Bd2 $5 (12. Qxb7 $5 Qc5
+{brings two-edged play.}) 12... Rad8 13. Qc2 b5 14. g4 ({Not} 14. cxb5 cxb5 15.
+Nxb5 $2 Qd5 $1) 14... Bg6 15. O-O-O Bxf5 16. gxf5 Qe5 17. Rhg1 {
+Both sides consider a charge on the hostile king.} Rfe8 18. Ne2 bxc4 19. Bc3 $5
+Rxd1+ 20. Rxd1 Qh2 $1 {Black makes an effort to win.} 21. Nf4 $1 Rd8 {
+The imprisoned black queen becomes strong, if the rooks are exchanged or
+knight f4 comes under attack.} 22. Bd4 h6 $5 (22... c5 23. Bxf6 Rxd1+ 24. Kxd1
+Bxf6 25. Qe4 $1 h6 {brings equality.}) 23. f3 $1 {
+It becomes time for simplification.} Qg3 24. Qg2 $1 Qg5 $5 25. Qxg5 hxg5 26.
+Ng2 Nd5 27. Bxa7 Ra8 28. Bd4 c3 $5 {Umansky makes a last try.} 29. e4 $5 cxb2+
+30. Kxb2 Nb6 31. Bxb6 $5 {Timmerman strives for a draw.} cxb6 32. Rd7 Bf6+ 33.
+Kb3 Ra5 34. Ne3 Rb5+ 35. Kc4 Rc5+ 36. Kd3 Rc3+ 37. Ke2 Ra3 38. Ng4 {
+White threatens 39.e5.} Rxa2+ 39. Kd1 Ra1+ 40. Kd2 Ra2+ 41. Kd1 Ra1+ 42. Kd2
+Ra2+ 43. Kd1 Ra1+ {They completed the draw by perpetual check on 13 xii 2009.}
+1/2-1/2
+
+[Event "Nimzowitsch Match"]
+[Site "ICCF"]
+[Date "2008.07.10"]
+[Round "2"]
+[White "Umansky, Mikhail Markovich"]
+[Black "Timmerman, Gert Jan"]
+[Result "1-0"]
+[ECO "A06"]
+[WhiteElo "2664"]
+[BlackElo "2696"]
+[Annotator "JvR"]
+[PlyCount "159"]
+[EventDate "2008.??.??"]
+
+1. Nf3 d5 2. b3 {This opening was played by Nimzowitsch many times.} Bg4 3. Bb2
+Bxf3 4. exf3 e6 5. g3 Nf6 6. Bg2 Be7 7. O-O O-O 8. f4 c5 9. d4 $5 ({Usual is} 
+9. d3) 9... cxd4 10. Qxd4 Nc6 11. Qd3 Rc8 12. Nc3 Nd7 13. Rad1 Bf6 14. f5 $5
+Qa5 $6 {The black queen will become exposed.} (14... Nb4 $1 15. Qd2 Qc7 16. Nb5
+$1 Qxc2 17. Bxf6 Qxd2 18. Rxd2 Nxf6 19. fxe6 fxe6 20. Bh3 {leads to equality.})
+15. Qd2 g6 $2 {Black should have bothered about the defence of the centre.} (
+15... Nb6 $5 16. fxe6 fxe6 17. Rfe1 Rfe8 $1 18. a3 Qc5 {
+protects the weakness e6 well.}) 16. fxe6 fxe6 17. Rfe1 $1 {
+White manoeuvres against the centre pawns.} Bd4 $5 18. Re2 Rf7 $5 19. a3 Nde5
+20. b4 $1 Qd8 21. Qe1 $1 Ng4 $5 (21... Nc4 $6 22. Ba1 $1 Nxa3 23. b5 Nb4 24.
+Rxd4 Naxc2 25. Qd1 Nxd4 26. Qxd4 {favours White.}) 22. Rxd4 $1 {
+Umansky brings a brilliant sacrifice.} Nxd4 23. Rd2 e5 (23... Qf6 $2 24. Nxd5
+$1 exd5 25. Bxd4 Qf5 26. h3 Nf6 27. Bxf6 Rxf6 28. Bxd5+ {wins for White.}) 24.
+h3 $1 Nf6 25. Qxe5 Nc6 26. Qe1 d4 27. Nb5 Qe7 $6 {
+Hereafter, Timmerman has little counter-play.} (27... Qd7 {
+avoids the exchange of queens.}) 28. Qxe7 Rxe7 29. Nd6 $1 Re1+ 30. Kh2 Rf8 31.
+g4 h6 32. b5 Nd8 33. Bxd4 {White has sufficient material compensation for the
+exchange. The two bishops create a positional advantage.} b6 34. Be3 {
+He threatens Bxh6 and Nc8.} Ne6 35. Bxh6 Rd8 36. Be3 Kf8 37. g5 Nh5 38. Nc4
+Rxd2 39. Bxd2 Re2 40. Kg1 $1 Nd4 41. Kf1 Re8 42. c3 Ne6 $1 43. h4 Kg7 44. a4
+Nhf4 45. Bc6 Rd8 46. Ke1 Nd3+ 47. Ke2 Ndc5 48. a5 $1 bxa5 49. Nxa5 Rh8 50. Be3
+Rxh4 51. Nb7 Na4 52. Kd3 Rh3 53. Kc4 Nb6+ 54. Kb3 Kf8 55. f3 Ke7 56. Nc5 Nd8
+57. Be4 Nf7 58. Nd3 Rg3 59. Bc5+ $1 {Umansky slowly improves his position.} Nd6
+60. f4 Nd7 61. Bxd6+ Kxd6 62. Bxg6 Nf8 63. Bf5 Ne6 64. Bxe6 Kxe6 65. Kc4 $1 Kf5
+66. Kd4 Rg1 67. c4 Rb1 68. Ne5 $1 {
+He gives the pawns on the kingside for an advance on the other flank.} Kxf4 69.
+Nc6 Ra1 ({Or} 69... Rd1+ 70. Kc5 Rd7 71. Nxa7 $1) 70. g6 Rd1+ 71. Kc3 Rd7 72.
+c5 Kf5 73. Nxa7 $1 Rxa7 74. b6 Rb7 75. g7 $1 {
+The pawns beat the clumsy rook elegantly.} Rxg7 76. c6 Ke6 77. b7 Rg3+ 78. Kc4
+Rg4+ 79. Kc5 Rg5+ 80. Kb6 {
+Timmerman resigned on 9 v 2010. Umansky delivered a great positional sacrifice.
+} 1-0
+
+[Event "Nimzowitsch Match"]
+[Site "ICCF"]
+[Date "2008.07.10"]
+[Round "3"]
+[White "Timmerman, Gert Jan"]
+[Black "Umansky, Mikhail Markovich"]
+[Result "1/2-1/2"]
+[ECO "C18"]
+[WhiteElo "2696"]
+[BlackElo "2664"]
+[Annotator "JvR"]
+[PlyCount "161"]
+[EventDate "2008.??.??"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 {
+Nimzowitsch liked to play the Winawer Variation as Black.} 4. e5 {
+They used to carry out a dull exchange in the early days.} c5 5. a3 Bxc3+ 6.
+bxc3 Ne7 7. Qg4 O-O 8. Bd3 f5 9. exf6 Rxf6 10. Bg5 Rf7 11. Qh5 g6 12. Qd1 Qa5
+13. Bd2 Nbc6 14. Nf3 {So far, the moves are well-known. White pieces have
+returned after an advance on the kingside.} e5 $2 {Umansky delivers a
+surprising pawn sacrifice. This novelty is a poor decision in a correspondence
+game, because Black will be fighting for equality, hereafter.} ({Fashionable is
+} 14... Qc7) 15. Nxe5 Nxe5 16. dxe5 Nc6 17. f4 c4 18. Be2 Qc5 19. Bf3 Bf5 20.
+Qc1 d4 $1 {Umansky still fights for the initiative.} 21. O-O $1 dxc3+ (21...
+Bxc2 $5 22. Kh1 d3 $1 {moves a bishop offside.}) 22. Be3 Nd4 23. Qe1 Rd8 ({
+The alternative} 23... Nxf3+ $5 24. Rxf3 Qa5 25. Bd4 Bxc2 26. e6 $1 {
+also favours White.}) 24. Qxc3 Rfd7 $6 (24... Nxf3+ $1 25. Rxf3 Qc6 {
+keeps some compensation for the sacrificed pawn.}) 25. Kh1 $1 Qc7 26. Bxd4 Rxd4
+{Timmerman has a solid extra pawn.} 27. Rae1 Qd7 28. h4 b5 29. Rf2 h5 30. g3
+Qe6 31. Kg2 Kg7 32. Qa5 $1 a6 33. Rfe2 c3 $1 {
+A second pawn sacrifice relieves the pressure.} 34. Qxc3 Rc4 35. Qb3 Rdc8 36.
+Rd1 $1 {One pawn has to be returned for a counteraction.} Bxc2 37. Rd6 $1 Qxd6
+38. Qxc4 Rxc4 39. exd6 {White has retained his extra pawn in the endgame.} Bf5
+40. Bb7 Ra4 41. Re7+ Kf8 42. Rh7 $1 Be6 $5 (42... Kg8 $1 43. Rc7 Kf8 44. Bc8
+Ke8 45. Bxf5 gxf5 46. Rc5 Rxa3 {offers great resistance.}) 43. f5 $2 {
+Gert Jan sacrifices this pawn one move too early.} ({Right is} 43. Kf2 $1 {
+(White threatens 44.Bd5!)} Rd4 {and now} 44. f5 $1 ({not} 44. Bxa6 $2 Bf7 45.
+Rh8+ Bg8 46. Bxb5 Kg7) 44... Bxf5 45. Bxa6 Rxd6 46. Bxb5 Bd3 47. Bxd3 Rxd3 48.
+a4 {wins for White.}) 43... gxf5 $1 44. Re7 Bf7 $1 45. Re5 Rd4 46. Bxa6 Rxd6
+47. Bxb5 Be6 48. Be2 Kf7 49. Kf2 $5 (49. Bxh5+ Kf6 50. Re3 Rd2+ 51. Kf1 {
+will be hard to win as well.}) 49... Rd2 50. Ke3 Rc2 51. Ra5 Kf6 52. Ra4 Rc3+
+53. Kf4 Rc2 54. Ke3 Rc3+ 55. Kf4 Rc2 56. Bxh5 $6 {
+Timmerman gains a second pawn, but Umansky has a positional draw.} ({
+The last try makes} 56. Bf3 $1 Bd7 57. Rd4) 56... Rf2+ $1 {
+Mikhail defends stubbornly.} 57. Ke3 Rg2 58. Kf3 Rc2 59. Kf4 Rf2+ 60. Ke3 Rg2
+61. Kf3 Rc2 62. Ra6 Ke5 63. Ra5+ Kf6 64. Ra4 Bc8 65. Kf4 Rf2+ 66. Ke3 Rg2 67.
+Kf3 Rc2 68. Kf4 Rf2+ 69. Ke3 Rg2 70. Bf3 $5 Rxg3 71. Kf2 Rg7 72. Rb4 Rc7 73. a4
+Rc2+ 74. Ke3 Ra2 75. Rb6+ Ke7 76. Rb4 Bd7 77. Bd1 Kf6 78. Rd4 Be8 79. Rc4 Ke5
+80. Rc5+ Kd6 81. Rc4 {Timmerman made his last move on 20 xii 2010. Umansky
+could not answer, because he had died two days before. The game was declared a
+draw by arbitrage.} (81. Rc4 Ke5 82. Rc5+ Kd6 83. Rxf5 Bxa4 84. Bxa4 Rxa4 {
+leads to a theoretical draw.}) 1/2-1/2
+
+[Event "Nimzowitsch Match"]
+[Site "ICCF"]
+[Date "2008.07.10"]
+[Round "4"]
+[White "Umansky, Mikhail Markovich"]
+[Black "Timmerman, Gert Jan"]
+[Result "1/2-1/2"]
+[ECO "C02"]
+[WhiteElo "2664"]
+[BlackElo "2696"]
+[Annotator "JvR"]
+[PlyCount "81"]
+[EventDate "2008.??.??"]
+
+1. e4 e6 2. d4 d5 3. e5 {
+They open by the Nimzowitsch Variation of the French Defence.} c5 {
+The obligated moves have been played.} 4. c3 Nc6 5. Nf3 Qb6 6. a3 {
+Nimzowitsch did 6.Bd3 or 6.Be2 in this position.} Nh6 7. b4 cxd4 8. cxd4 Nf5 9.
+Bb2 Bd7 10. g4 {Umansky applies a sharp line.} Nfe7 11. Nc3 Na5 {
+Timmerman gives a witty answer.} 12. Qc2 Nc4 13. Bxc4 dxc4 14. Nd2 Qc6 15. Nce4
+Nc8 16. Nxc4 b5 17. Ne3 Qxc2 18. Nxc2 Bc6 19. f3 Nb6 20. Kf2 Be7 21. h4 {
+They have carried out many known moves.} Na4 $5 {
+The extra white pawn has little value, because it is backward.} (21... O-O {
+favoured White in Sveshnikov - Can, Dresden 2008.}) 22. Rab1 Bxe4 23. fxe4 Rc8
+24. Ne3 Nxb2 25. Rxb2 {The exchanges lead to an equal position.} Rc3 $1 26. d5
+$5 ({White keeps the pawn by} 26. Ra2 f6 27. exf6 Bxf6 28. e5 Bd8 {
+but Black is okay.}) 26... O-O 27. Ke2 ({The immediate} 27. d6 $5 Bd8 {
+brings nothing for White.}) 27... Bd8 28. Rd1 Rxa3 29. Rd3 Ra1 30. h5 Bb6 31.
+d6 f6 32. exf6 gxf6 33. Rc2 Kf7 34. g5 $5 {
+Umansky prepares an attack in the centre.} fxg5 35. Ng4 Kg8 36. e5 Rff1 $1 37.
+Rdc3 Rae1+ 38. Kd3 Rd1+ 39. Rd2 Rf3+ 40. Ke2 Rxc3 41. Kxd1 {
+The passed pawn has insufficient strength. They accepted the draw on 6 xi 2009.
+} 1/2-1/2
+
+[Event "Nimzowitsch Match"]
+[Site "ICCF"]
+[Date "2008.07.10"]
+[Round "5"]
+[White "Timmerman, Gert Jan"]
+[Black "Umansky, Mikhail Markovich"]
+[Result "1-0"]
+[ECO "E97"]
+[WhiteElo "2696"]
+[BlackElo "2664"]
+[Annotator "JvR"]
+[PlyCount "161"]
+[EventDate "2008.??.??"]
+
+1. d4 Nf6 2. c4 d6 3. Nc3 {The obligated moves are made.} g6 4. e4 Bg7 {
+A King's Indian Defence is played.} 5. Nf3 O-O 6. Be2 e5 7. O-O Nc6 8. d5 Ne7
+9. b4 {The Taimanov Variation.} Nh5 10. Re1 f5 11. Ng5 Nf6 12. f3 c6 13. Be3
+Bh6 14. h4 cxd5 15. cxd5 Bd7 16. Rc1 a6 17. b5 Bxb5 $5 {
+Umansky improves the theory.} ({Known is} 17... f4 $6 18. Bf2) 18. Bxb5 axb5
+19. Nxb5 fxe4 20. fxe4 Bxg5 21. hxg5 Nxe4 $1 {
+Black liberates his position by a positional sacrifice.} (21... Ne8 $6 22. Qg4
+$1 {allows a white attack.}) 22. Nc7 Nf5 $1 23. Nxa8 Qxa8 24. Qb3 b5 $1 25. Rc2
+({The pointe is} 25. Qxb5 Nxe3 26. Rxe3 Qa7 $1 27. Qd3 Ng3) 25... Nxe3 26. Qxe3
+Nc5 27. Rd2 Qa4 28. Rb1 Qc4 29. Rf2 Rxf2 30. Qxf2 Nd3 $2 {
+He misses the best knight move.} (30... Qxd5 $2 31. Rf1 Nd7 32. Qa7 $1 {
+allows a white attack}) ({Right is} 30... Ne4 $1 31. Qb6 Ng3 $1 32. Qd8+ {
+and White delivers perpetual check.}) 31. Qb6 $1 Qe4 $1 {
+Black counters in the correct way.} 32. Qd8+ Kg7 33. Qc7+ Kg8 34. Qb8+ Kg7 35.
+Qa7+ Kg8 36. Qa8+ Kg7 37. Qb7+ Kg8 38. Qc8+ Kg7 39. Qd7+ Kg8 40. Qe8+ Kg7 41.
+Qe7+ Kg8 42. Qe6+ Kg7 43. Qf6+ Kg8 44. Qf3 $1 {The winning attempt is resumed.}
+Qd4+ 45. Kh2 e4 $1 46. Qg4 Qe5+ 47. g3 $1 Qe8 48. Qe2 $1 {
+White benefits from his small material advantage.} ({Not} 48. Qe6+ $2 Qxe6 49.
+dxe6 Kf8 50. Rxb5 $4 e3) 48... Qe5 49. Rxb5 Qxg5 50. Rb8+ Kg7 51. Re8 Qxd5 52.
+Rxe4 Ne5 53. g4 Kf6 54. g5+ $1 Kg7 ({The pointe is} 54... Kxg5 $4 55. Qg2+ {
+and White will win a queen.}) 55. a4 h6 56. gxh6+ Kxh6 57. Qe3+ {Timmerman has
+no easy win, despite his distant passed pawn, because his opponent holds the
+central position.} Kg7 58. Kg3 Qa5 59. Rf4 Qc7 60. Rb4 Kh7 61. Rb3 Kg7 62. Rb4
+Kh7 63. Rb3 Kg7 64. Qd4 g5 65. Qd2 Kf6 66. a5 Ke6 67. Qa2 Ke7 68. Qd2 {
+Gert Jan takes his time.} Ke6 69. Qa2 $1 Ke7 70. Kh2 Ng4+ 71. Kh3 Ne5 72. Kh2
+$5 Ng4+ 73. Kg2 Qc6+ 74. Kg3 Qe4 75. Qd2 Ne5 $5 76. Qe3 $5 (76. Qxg5+ $6 Kd7
+77. Qg7+ Ke6 78. Qh6+ {does not lead to a convincing win.}) 76... Qg4+ 77. Kf2
+Qh4+ 78. Kg2 Qg4+ 79. Kf2 Qh4+ 80. Ke2 Qc4+ 81. Ke1 {When Timmerman resumed
+play after a rest, Umansky had died. Unfortunately, arbitrage was needed.} (81.
+Ke1 Qh4+ 82. Kd1 Qh1+ 83. Kc2 Qg2+ 84. Kc3 Qc6+ 85. Kb2 {moves away the white
+king from the checks. The endgame looks won in a confrontation at the highest
+level of correspondence chess.}) 1-0
+
+[Event "Nimzowitsch Match"]
+[Site "ICCF"]
+[Date "2008.07.10"]
+[Round "6"]
+[White "Umansky, Mikhail Markovich"]
+[Black "Timmerman, Gert Jan"]
+[Result "1/2-1/2"]
+[ECO "E43"]
+[WhiteElo "2664"]
+[BlackElo "2696"]
+[Annotator "JvR"]
+[PlyCount "95"]
+[EventDate "2008.??.??"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 b6 {
+The obligated moves lead to Janowsky - Nimzowitsch, St. Petersburg 1914.} 5. f3
+{Umansky wants to attack and starts in the centre.} ({Usual has become} 5. Nge2
+Ba6) 5... O-O 6. e4 Ba6 7. Bg5 h6 8. Bh4 d6 9. a3 $5 ({Known is} 9. Bd3 c5 10.
+a3) 9... Bxc3+ 10. bxc3 Nc6 11. f4 $5 {White creates a broad centre.} e5 $1 {
+Timmerman counters immediately.} 12. Bd3 $1 {A centre pawn is sacrificed.} Re8
+$5 ({The alternative brings} 12... exd4 13. Ne2 dxc3 14. Nxc3) 13. Nf3 exd4 14.
+O-O $5 {A charge on the kingside begins.} ({Or} 14. cxd4 Nxe4 $1 15. O-O) 14...
+dxc3 15. Qc2 Qe7 16. Rae1 Qe6 17. Qxc3 Nh5 $1 {
+Black attacks the weak centre pawns again.} 18. Nd2 Bb7 (18... Nxf4 $5 19. Rxf4
+g5 $5 20. e5 $1 gxf4 21. exd6 {opens the position dangerously.}) 19. Re3 Rab8
+20. Be2 Nf6 21. Rff3 {White has created activity for a pawn.} Nh7 $5 {
+A retreat allows a rook on the g-file.} 22. Rg3 $1 f6 23. Rh3 $5 (23. c5 $1 Kh8
+24. Bc4 {develops a bishop.}) 23... Kh8 24. Bf2 Ne7 25. Rh4 Qd7 26. Bh5 $1 Rf8
+27. Reh3 $5 {The pieces on the h-file pose a limited threat.} c5 28. Be3 b5 $5
+29. f5 $5 (29. Bg4 $1 Qe8 30. f5 {gains a tempo.}) 29... b4 $5 30. axb4 cxb4
+31. Qb2 $1 Ng5 32. Bxg5 fxg5 33. f6 $3 {
+Umansky has to strike before Timmerman consolidates.} ({The aggressive} 33. Be8
+$2 Rbxe8 $1 34. Rxh6+ Kg8 35. Nf3 $1 Nxf5 $1 36. Rh8+ Kf7 {brings a black edge.
+}) 33... Nf5 $1 {A counteraction leads to chances for Black.} ({The pointe is} 
+33... gxh4 $5 34. fxg7+ Kh7 35. gxf8=N+ Rxf8 36. Qxb4 {and equality.}) 34. Rg4
+$1 Rxf6 35. Rxg5 $1 Ne3 $1 36. Rg6 $5 {
+White makes a last winning effort as well.} Rxg6 37. Bxg6 Qg4 38. Rxe3 Rf8 $1
+39. h3 ({Not} 39. Bf5 $2 Rxf5 $1) 39... Qxg6 40. Qxb4 Qf6 41. Qc3 $5 Qf2+ 42.
+Kh2 Rf6 43. Rg3 Qf4 44. Qe3 Qe5 $5 {Exchange of queens brings no advantage.}
+45. Nf3 Qf4 46. Nd2 Qe5 47. Nf3 Qf4 48. Nd2 {Draw was accepted on 9 iii 2010.
+The game has been played in the grand style of Nimzowitsch. Umansky created a
+broad pawn centre. Timmerman countered and gained a pawn. White offered more
+material in order to prevent black prophylaxis and drew.} 1/2-1/2
+

@@ -1,0 +1,2302 @@
+[Event "Novi Sad"]
+[Site "Yugoslav-ch 20"]
+[Date "1965.??.??"]
+[Round "4"]
+[White "Nikolic, Stanimir"]
+[Black "Planinc, Albin"]
+[Result "0-1"]
+[ECO "C02"]
+[Annotator "JvR"]
+[PlyCount "70"]
+[EventDate "1965.??.??"]
+
+{Albin Planinc was born in the Slovenian Brise on 18 iv 1944. Planinc learned
+chess at the age of seven but serious competitive play began at twenty.
+Probably, he lived with his mother in a small apartment and worked in a
+bicycle factory.  His first important tournament was the twentieth Yugoslav
+championship. It was a closed event of twenty men. Albin played aggressively
+and made few draws.   } 1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3
+cxd4 7. cxd4 Bd7 8. Bc2 Nb4 9. O-O Nxc2 10. Qxc2 Ne7 11. Nc3 Nc6 12. Be3 Rc8
+13. Rac1 Na5 14. h4 $5 (14. Qe2 {
+occurred in Steinitz - Burn, Wien 1898. occurred in Steinitz - Burn, Wien 1898.
+}) 14... Nc4 15. Rb1 Bb4 16. Bc1 $6 {White plays passively.} 16... h6 17. a3
+Be7 18. Bf4 Qd8 19. h5 O-O 20. g3 f5 21. exf6 Rxf6 22. Kg2 Qf8 23. Qe2 $2 ({
+Right is} 23. Ne5 Be8 24. Qe2) 23... Rxf4 $1 {Planinc strikes.} 24. gxf4 Qxf4
+25. Ne5 Bd6 26. Rbe1 Bxe5 27. dxe5 Nd2 28. Qe3 Qxe3 29. fxe3 Nxf1 30. Rxf1 Be8
+31. Rh1 Bc6 32. Rh4 d4+ 33. Ne4 d3 34. Kf1 Bxe4 35. Rxe4 Rc1+ 0-1
+
+[Event "Novi Sad"]
+[Site "Yugoslav-ch 20"]
+[Date "1965.??.??"]
+[Round "8"]
+[White "Planinc, Albin"]
+[Black "Djurovic, Dejan"]
+[Result "1-0"]
+[ECO "C33"]
+[Annotator "JvR"]
+[PlyCount "61"]
+[EventDate "1965.??.??"]
+
+1. e4 e5 2. f4 exf4 3. Nc3 Qh4+ 4. Ke2 d5 5. Nxd5 Bg4+ 6. Nf3 Bd6 $1 ({Known is
+} 6... Na6 {(Mason - Rosenthal, Paris 1878).}) 7. d4 Nf6 $5 8. Nxf6+ gxf6 $5 9.
+Kd3 $1 {Steinitz taught us about the strong king.} 9... Qh5 10. Be2 Nc6 11. h3
+$2 ({More solid is} 11. c3) 11... Bxf3 12. Bxf3 Qb5+ 13. c4 Qb6 14. d5 Qd4+ 15.
+Kc2 Qxc4+ 16. Kb1 Nb4 $6 (16... Nd4 $1 {keeps a plus.}) 17. Bd2 a5 18. a3 Nd3
+19. Bc3 Ne5 20. Qd2 Nxf3 21. gxf3 Be5 22. Rc1 Qb3 23. Bxe5 fxe5 24. Rxc7 Rg8 $2
+(24... Qxf3 $1 25. Ka2 O-O $1 {hampers the next counter-play on the kingside.})
+25. Qf2 a4 26. Rc3 Qb5 27. Ka2 $1 {The king has found a safe haven at last.}
+27... Rg6 28. Rg1 $1 Rxg1 29. Qxg1 Qa6 30. Qg7 b5 31. Rc7 1-0
+
+[Event "Novi Sad"]
+[Site "Yugoslav-ch 20"]
+[Date "1965.??.??"]
+[Round "12"]
+[White "Planinc, Albin"]
+[Black "Parma, Bruno"]
+[Result "1/2-1/2"]
+[ECO "A04"]
+[Annotator "JvR"]
+[PlyCount "53"]
+[EventDate "1965.??.??"]
+
+1. Nf3 c5 2. b4 $5 cxb4 3. a3 bxa3 4. e4 {
+Planinc plays the Wing Gambit of the Sicilian Defence in a new way.} 4... d6 5.
+Nxa3 e6 6. Bb2 Nf6 7. Bb5+ Nbd7 8. Nc4 $5 Be7 $1 (8... Nxe4 $5 9. Qe2 d5 10.
+O-O {takes a big risk, unlike Parma does.}) 9. Bxf6 gxf6 10. Nd4 O-O 11. Ra3
+Kh8 12. Qh5 Rg8 $1 {Black returns the pawn for a defendable kingside.} 13. Qxf7
+Qf8 14. Qxf8 Nxf8 15. Nb6 $1 d5 $1 16. Ra4 Rb8 17. Nxc8 {
+White should not win pawn a7.} 17... Rxc8 18. exd5 exd5 19. Nf5 Ng6 $5 20. Kd1
+Bc5 21. d4 Bb6 22. h4 a6 23. Be2 Rc7 24. Bf3 Rgc8 25. h5 $5 Nf4 26. Rh4 Rxc2 $1
+27. Rxf4 $5 {Black will deliver perpetual check.} (27. Ne3 Nd3 28. Nxc2 Nb2+ {
+equalises.}) 1/2-1/2
+
+[Event "Novi Sad"]
+[Site "Yugoslav-ch 20"]
+[Date "1965.??.??"]
+[Round "16"]
+[White "Planinc, Albin"]
+[Black "Matulovic, Milan"]
+[Result "1-0"]
+[ECO "B48"]
+[Annotator "JvR"]
+[PlyCount "61"]
+[EventDate "1965.??.??"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e6 5. Nc3 Qc7 6. f4 a6 7. Be3 Bb4 8. Qg4
+$5 {Planinc sharpens the game by a novelty.} 8... g6 9. Qh4 Be7 $6 ({
+Less passive is} 9... d5 $1 10. Nxc6 bxc6 11. Bd4 Be7 $1 12. Qf2 Nf6) 10. Qf2
+Nf6 11. Be2 Bb4 $1 12. Bf3 d6 13. O-O O-O 14. Qh4 Ne8 15. f5 $5 (15. Rad1 $1 {
+continues the development.}) 15... Bc5 $1 16. Rad1 Nxd4 17. Bxd4 Bxd4+ 18. Rxd4
+{Planinc attacks <->va banque'.} 18... Qc5 $5 ({Interesting is} 18... Qb6 $1
+19. Qf2 Qxb2) 19. Rfd1 $2 ({White should play} 19. Qf2) 19... e5 20. Nd5 $1 Kg7
+$2 ({Not} 20... exd4 21. Qh6 $1) ({Right is} 20... Be6 $3 21. b4 Qa7 22. Ne7+
+Kg7 $1 23. g4 f6 {and the white attack does not prevail.}) 21. b4 $1 Qa7 22.
+f6+ Kh8 23. Qh6 Rg8 24. R1d3 $1 exd4 25. Bd1 g5 26. g4 $1 Rg6 27. Qf8+ Rg8 28.
+Qxf7 b5 29. Ne7 Be6 30. Qxh7+ $1 Kxh7 31. Rh3# {
+Planinc had defeated the later winner in a wonderful game.} 1-0
+
+[Event "Novi Sad"]
+[Site "Yugoslav-ch 20"]
+[Date "1965.??.??"]
+[Round "18"]
+[White "Planinc, Albin"]
+[Black "Ostojic, Predrag"]
+[Result "1-0"]
+[ECO "B88"]
+[Annotator "JvR"]
+[PlyCount "49"]
+[EventDate "1965.??.??"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bc4 e6 7. Bb3 Be7 8.
+Be3 O-O 9. O-O Bd7 10. f4 Nxd4 11. Bxd4 Bc6 12. Qe2 b5 13. Rad1 b4 14. e5 bxc3
+15. exf6 Bxf6 16. Bxf6 Qxf6 17. Rxd6 Rac8 18. f5 $5 (18. bxc3 Qxc3 {
+drew in Nezhmetdinov - Geller, Gorky 1954.}) 18... Qg5 $5 19. h4 $2 {
+Planinc plays a very opportunistic move.} 19... Qg3 $2 (19... Qe7 $1 20. Qe5
+cxb2 {favours Black.}) 20. Rxc6 $1 Rxc6 21. fxe6 Qxh4 22. e7 $1 Qd4+ 23. Qf2
+Qxf2+ 24. Rxf2 cxb2 25. Bxf7+ $1 {Champion became Matulovic (13/19), one point
+before Parma and Gligoric. The 21- years-old Planinc scored 10 points.} 1-0
+
+[Event "Cateske Toplice"]
+[Site "Yugoslav-ch 23"]
+[Date "1968.03.04"]
+[Round "14"]
+[White "Planinc, Albin"]
+[Black "Cvetkovic, Srdjan"]
+[Result "1-0"]
+[ECO "D44"]
+[Annotator "JvR"]
+[PlyCount "67"]
+[EventDate "1968.02.15"]
+
+{21/2 years later Planinc participated in the twenty-third Yugoslav
+championship. He won some interesting games.   } 1. d4 d5 2. c4 c6 3. Nf3 Nf6
+4. Nc3 e6 5. Bg5 dxc4 6. e3 ({The main line continues by} 6. e4) 6... b5 7. a4
+Bb4 8. Nd2 Bxc3 9. bxc3 Nbd7 $6 10. Be2 $5 ({Even stronger is} 10. Qf3 $1)
+10... h6 11. Bh4 g5 $6 12. Bg3 Nd5 13. Qc2 Qa5 $6 14. Ne4 f5 15. O-O $1 {
+Planinc wipes away the resistance.} (15. Nd6+ Ke7 16. Kd2 {
+would be less impressive.}) 15... fxe4 16. Qxe4 Nf8 ({Or} 16... Kd8 17. Qxe6
+Nxc3 18. Bf3) 17. Bh5+ Kd8 18. Qe5 Rg8 19. Qd6+ Bd7 20. Bf7 Qxc3 (20... Rh8 21.
+Be5 {also catches the rook.}) 21. Bxg8 Qb4 22. Qxb4 Nxb4 23. Bd6 Nd5 24. Bxf8
+Kc7 25. Bc5 Rxg8 26. axb5 cxb5 27. Rxa7+ Kc6 28. Rfa1 Nc7 29. Kf1 Rb8 30. e4 b4
+31. R7a4 b3 32. Rxc4 b2 33. Rb1 Rb3 34. Rc2 1-0
+
+[Event "Cateske Toplice"]
+[Site "Yugoslav-ch 23"]
+[Date "1968.03.06"]
+[Round "15"]
+[White "Janosevic, Dragoljub"]
+[Black "Planinc, Albin"]
+[Result "0-1"]
+[ECO "C78"]
+[Annotator "JvR"]
+[PlyCount "78"]
+[EventDate "1968.02.15"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Bb7 {Albin plays the
+Planinc Variation. This well-known position also occurred in Schlechter -
+Chigorin, Berlin 1897.} 7. Re1 Bc5 8. c3 O-O $5 9. d4 Bb6 {
+Now Planinc' intention is shown. Black has <->Horwitz bishops' on b7 and b6.}
+10. Bg5 Re8 11. Nbd2 d6 12. d5 Nb8 13. Nf1 h6 14. Bh4 Nbd7 15. a4 Nf8 16. axb5
+axb5 17. Rxa8 Bxa8 18. Qd3 Ng6 $1 19. Bg3 c6 20. dxc6 Bxc6 21. N1d2 Qc7 22. h3
+Nh5 23. Kh2 $6 Ngf4 {Black takes the initiative.} 24. Qf1 Kh8 25. Nh4 g6 26.
+Bd1 Kg7 27. Be2 Qd7 28. Bg4 Qb7 29. Bxh5 Nxh5 30. Qd3 Qe7 31. Nf1 Rf8 32. Ne3
+Nxg3 33. fxg3 Qe6 34. Nd5 Bd8 35. c4 $6 ({More solid is} 35. Rd1) 35... f5 $1
+36. b3 f4 $5 37. cxb5 Bxd5 38. Qxd5 $4 (38. exd5 Qf7 39. Rf1 {
+leads to a slight advantage for Black.}) 38... fxg3+ 39. Kxg3 Bxh4+ {Planinc wo
+n the last three games. Fifteen rounds were played in the Swiss system.
+Stupica and Ostojic shared the first place.} ({The pointe is} 39... Bxh4+ 40.
+Kxh4 Qf6+ 41. Kg3 Qf4#) 0-1
+
+[Event "Novi Travnik"]
+[Site "Yugoslav-ch 24"]
+[Date "1969.??.??"]
+[Round "1"]
+[White "Cvetkovic, Srdjan"]
+[Black "Planinc, Albin"]
+[Result "1/2-1/2"]
+[ECO "E40"]
+[Annotator "JvR"]
+[PlyCount "78"]
+[EventDate "1969.02.??"]
+
+{Planinc had the time of his life in the twenty-fourth Yugoslav championship,
+since he made a spectacle of each game.   } 1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3
+O-O 5. Bd3 Nc6 6. Nge2 e5 7. O-O Re8 8. d5 e4 $1 {
+Planinc plays a funny and fine novelty in a crazy opening.} (8... Nb8 {
+happened in Reshevsky - Tolush, Leningrad 1939.}) 9. Nxe4 Nxe4 10. dxc6 bxc6
+11. Qc2 d5 12. b3 Qh4 13. Bb2 Bd6 {Play has become similar to the Scotch.} 14.
+g3 Qh6 15. Nf4 Ng5 16. Bf5 $6 Bxf4 17. Bxc8 Nf3+ $6 ({Preferable is} 17... Bxg3
+$1 18. fxg3 Raxc8 19. Qf5 f6) 18. Kg2 Qxh2+ $6 ({The quiet} 18... Be5 {
+equalises.}) 19. Kxf3 Rxe3+ $1 20. Kxf4 Rxg3 21. Rh1 $1 g5+ 22. Ke5 Re3+ $1 23.
+Kf6 $1 {White has the better prospects. He will give a queen for a courageous
+winning attempt.} (23. Kd4 Qe5+ 24. Kc5 Qd6+ {draws.}) 23... Qd6+ 24. Kxg5 Re4
+25. Qxe4 $1 dxe4 26. Rad1 Qc5+ 27. Bf5 Qxf2 28. Bxh7+ Kf8 29. Ba3+ $4 (29. Bd4
+$1 Qg3+ 30. Kf6 {aims at a win.}) 29... Ke8 $4 ({Right is} 29... Kg7 $1 30.
+Rdf1 f6+ 31. Kg4 Qg2+ 32. Kf5 Qg5+ 33. Kxe4 Re8+ {and Black wins.}) 30. Bf5 $2
+(30. Bxe4 $1 {wins at once.}) 30... Qg3+ 31. Kf6 Qc3+ 32. Kg5 Rd8 $2 33. Rxd8+
+Kxd8 34. Rd1+ Ke8 35. Bd7+ Kd8 36. Bf5+ Ke8 37. Bd7+ Kd8 38. Bf5+ $2 ({
+Better is} 38. Bg4+ $1 Ke8 39. Kf4 $1) 38... Ke8 39. Bd7+ Kd8 {
+White has permitted perpetual check.} 1/2-1/2
+
+[Event "Novi Travnik"]
+[Site "Yugoslav-ch 24"]
+[Date "1969.??.??"]
+[Round "2"]
+[White "Planinc, Albin"]
+[Black "Marangunic, Srdjan"]
+[Result "1-0"]
+[ECO "B08"]
+[Annotator "JvR"]
+[PlyCount "95"]
+[EventDate "1969.02.??"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Nf3 Bg7 5. Be2 O-O 6. Be3 Bg4 7. Qd2 $5 Nc6 8.
+d5 $1 Bxf3 $5 ({Less risk is taken by} 8... Nb8 {
+(Kaplan - Parma, San Juan 1969).}) 9. gxf3 Ne5 10. h4 $5 c5 11. h5 $1 b5 $5 12.
+Bh6 Nxh5 13. Bxg7 Kxg7 14. O-O-O f5 $2 (14... Nc4 15. Bxc4 bxc4 {
+avoids a fiasco.}) 15. Rdg1 Kh8 16. Qh6 Nf7 17. Qxg6 $3 {
+Planinc rips open the defence.} 17... hxg6 18. Rxg6 Nh6 19. Rxh5 Rf7 20. Rgxh6+
+Kg7 21. Rh7+ Kg8 22. Rh8+ Kg7 23. R5h7+ Kg6 24. exf5+ Rxf5 25. Rxd8 Rxd8 26.
+Bd3 Kxh7 27. Bxf5+ Kg7 28. Nxb5 Kf6 29. Bg4 a6 30. Nc7 Ke5 31. c4 Rb8 32. b3 a5
+33. Kd2 Rh8 34. Ke3 Rh1 35. f4+ Kf6 36. Nb5 Rc1 37. Be2 Rc2 38. a4 Rc1 39. Kd2
+Rh1 40. Na7 Rh8 41. Nc6 Ra8 42. Bg4 Kf7 43. Ke3 Kf6 44. Ke4 Rg8 45. f3 Rh8 46.
+Be6 Kg7 47. Kf5 Ra8 48. Nxe7 1-0
+
+[Event "Novi Travnik"]
+[Site "Yugoslav-ch 24"]
+[Date "1969.??.??"]
+[Round "12"]
+[White "Planinc, Albin"]
+[Black "Matanovic Aleksandar"]
+[Result "1-0"]
+[ECO "C10"]
+[Annotator "JvR"]
+[PlyCount "103"]
+[EventDate "1969.02.??"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 dxe4 5. Nxe4 Nbd7 6. Nxf6+ Nxf6 7. Nf3 c5
+8. Bd3 cxd4 9. Qd2 $5 ({Planinc diverts from} 9. Bb5+ {
+(Pilnik - Eliskases, Buenos Aires 1947).}) 9... Qd5 $5 10. O-O Bd7 11. Rfe1 Be7
+12. Re5 Qd6 13. Rae1 h6 $5 14. Bf4 Qb6 $1 15. Nxd4 $1 Nd5 $2 (15... Qxd4 $6 16.
+Rxe6 $1 {shows the point.}) ({Preferable is} 15... Qxb2 16. Nb5 Kf8 $1) 16. Nf5
+$1 Nxf4 17. Qxf4 Bf8 18. R5e4 g6 19. Ne3 $1 Qd6 20. Qf6 Rg8 $6 (20... Rh7 21.
+Nc4 Qc7 {delays the loss.}) 21. Rf4 Rg7 22. Rd4 Qc5 23. Nd5 Rc8 24. Qe5 $1 Kd8
+25. Nf6 $1 Rc7 26. Rd5 $1 {The white pieces aim at the hostile king.} 26...
+Qxd5 ({Or} 26... exd5 27. Qe8+ Bxe8 28. Rxe8#) 27. Nxd5 exd5 28. Qxd5 f5 29.
+Bb5 a6 30. Bxd7 Rcxd7 31. Qa5+ Rc7 32. Qe5 Rge7 33. Qf6 Bg7 34. Qd6+ Red7 35.
+Qxg6 Rxc2 36. Qb6+ Rcc7 37. Qg6 Rc6 38. Qh5 f4 39. Re8+ Kc7 40. h4 Bxb2 41. Qf5
+Rcd6 42. Qxf4 b5 43. Re6 Bg7 44. Qg3 Bd4 45. Rxh6 b4 46. Qf4 Kc6 47. Rxd6+ Rxd6
+48. g4 a5 49. h5 a4 50. h6 b3 51. axb3 axb3 52. h7 {
+Planinc never became the champ but often defeated the winner.} 1-0
+
+[Event "Novi Travnik"]
+[Site "Yugoslav-ch 24"]
+[Date "1969.??.??"]
+[Round "17"]
+[White "Ostojic, Predrag"]
+[Black "Planinc, Albin"]
+[Result "0-1"]
+[ECO "C78"]
+[Annotator "JvR"]
+[PlyCount "70"]
+[EventDate "1969.02.??"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Bb7 7. Re1 Bc5 8. c3
+O-O 9. d4 Bb6 10. Bg5 h6 $5 {Planinc plays an intermediate move.} 11. Bh4 Re8
+12. a4 d6 13. axb5 axb5 14. Rxa8 Bxa8 15. Qd3 exd4 16. cxd4 Na5 $5 ({
+Less favourable is} 16... g5 $2 17. e5 $1 Kf8 18. Nxg5 $1 hxg5 19. Bxg5 dxe5
+20. Qh3 $1 {(Olafsson - Vasiukov, Reykjavik 1968).}) 17. Ba2 g5 $1 18. e5 $1
+Nc4 19. Nxg5 $4 ({Right is} 19. exf6 $1 Bxf3 20. Rxe8+ Qxe8 21. gxf3 gxh4)
+19... hxg5 20. Bxg5 dxe5 21. Qg3 Nh5 $1 {Black wins material.} 22. Bxd8+ Nxg3
+23. Bxc4 bxc4 24. Bxc7 Bxc7 25. hxg3 Rb8 26. Na3 Bd5 27. dxe5 Rxb2 28. Rd1 Be6
+29. Rc1 Rb4 30. f4 Bb6+ 31. Kh2 Be3 32. Rd1 Bf5 33. Rd5 c3 34. g4 Bxg4 35. Nc2
+Bxf4+ {Planinc showed superiority in tactics.} 0-1
+
+[Event "Novi Travnik"]
+[Site "Yugoslav-ch 24"]
+[Date "1969.??.??"]
+[Round "21"]
+[White "Planinc, Albin"]
+[Black "Parma, Bruno"]
+[Result "1/2-1/2"]
+[ECO "B07"]
+[Annotator "JvR"]
+[PlyCount "87"]
+[EventDate "1969.02.??"]
+
+{Planinc had a bye and a forfeit after round eighteen. 
+} 1. e4 d6 2. d4 Nf6
+3. Nc3 g6 4. Be3 c6 5. Qd2 b5 $5 {Parma plays an enterprising novelty.} 6. Bd3
+Nbd7 7. Nf3 Qc7 8. Bh6 Bxh6 $2 {
+Hereafter, the white offensive perseveres effortlessly.} (8... b4 $1 {counters.
+}) 9. Qxh6 Bb7 10. O-O O-O-O 11. b4 $1 Nb6 12. a4 $1 a6 13. Nd2 Kb8 14. Nb3
+Nfd7 15. Na5 Ba8 16. d5 $5 cxd5 17. Nxd5 Nxd5 18. exd5 Bxd5 19. axb5 axb5 20.
+Bxb5 Qc3 21. Qc1 $1 Kc7 22. Ra3 Qxb4 23. c4 Ba8 24. Qa1 Be4 25. Nc6 $1 Bxc6 26.
+Ra7+ Bb7 27. Rb1 $5 ({Planinc fails to administer the final blow} 27. Rxb7+ $1
+Kxb7 28. Qa6+ Kb8 29. Ra1) 27... Qxb1+ 28. Qxb1 Nc5 29. Ba6 $5 Rb8 30. Qb5 Rhc8
+31. h4 h5 32. f3 e6 33. Kf2 e5 34. Ke3 f5 35. Qa5+ Kd7 36. Qb6 Nxa6 37. Qxa6
+Rc7 38. Qb5+ Kd8 39. Qb6 Kd7 40. c5 (40. Kf2 $1 f4 41. Kg1 $1 {brings zugzwang.
+}) 40... dxc5 41. Qxg6 f4+ 42. Kf2 c4 43. Qxh5 c3 44. Qf7+ {Planinc made a
+very friendly draw offer. He had scored eight wins and eight losses. Matanovic
+won by 13/20.} 1/2-1/2
+
+[Event "Ljubljana"]
+[Site "Vidmar mem 1"]
+[Date "1969.??.??"]
+[Round "1"]
+[White "Stupica, Janesz"]
+[Black "Planinc, Albin"]
+[Result "0-1"]
+[ECO "A71"]
+[Annotator "JvR"]
+[PlyCount "72"]
+[EventDate "1969.06.??"]
+
+{LJUBLJANA 1969  Milan Vidmar sr was a chess grandmaster and Dean of Ljubljana
+University. He died in 1962. The first Vidmar Memorial became Ljubljana 1969. 
+  Albin Planinc was a little known player who would dominate the event in vi
+1969. I have analysed his games.   } 1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5.
+cxd5 d6 6. e4 g6 7. Nf3 Bg7 8. Bg5 h6 9. Bh4 g5 10. Bg3 Nh5 11. Bb5+ Kf8 12.
+Be2 a6 13. a4 Nxg3 14. hxg3 Nd7 15. Nd2 Ne5 16. g4 Rb8 17. f3 $5 {
+White has a plus.} (17. g3 {was played in Uhlmann - Espig, Berlin 1968.}) 17...
+Qf6 18. Qb3 b5 19. axb5 axb5 20. Nxb5 $5 Bd7 21. Ra5 Kg8 22. g3 Kh7 23. O-O $6
+Rb7 24. Nb1 $6 c4 $1 25. Bxc4 $2 (25. Qa4 $1 Rhb8 26. N1a3 {
+tries to save the knight.}) 25... Qd8 26. Ra7 Qb6+ 27. Kh2 Rxa7 28. Nxa7 Qxa7
+29. Qc2 Nxc4 30. Qxc4 Bxb2 31. Qc2 Be5 32. f4 Rc8 33. Qd3 Qa2+ 34. Nd2 Rc2 35.
+Rf2 gxf4 36. gxf4 Bxf4+ 0-1
+
+[Event "Ljubljana"]
+[Site "Vidmar mem 1"]
+[Date "1969.??.??"]
+[Round "2"]
+[White "Planinc, Albin"]
+[Black "Matanovic, Aleksandar"]
+[Result "1-0"]
+[ECO "C33"]
+[Annotator "JvR"]
+[PlyCount "55"]
+[EventDate "1969.06.??"]
+
+1. e4 e5 2. f4 {He plays the Kings Gambit!} 2... exf4 3. Bc4 Ne7 4. Nc3 c6 5.
+Qf3 $5 ({Theory is} 5. Qe2 {(Kolisch - Rosenthal, Paris 1864).}) 5... Ng6 6. d4
+Bb4 7. Nge2 O-O $2 {Black castles into unsafety.} ({Better is} 7... Nh4 {
+(Pirttimaki - Lampen, Helsinki 2000).}) 8. O-O Qf6 $6 {
+Hereafter, a classical attack on the f-file will be decisive.} ({
+The pawn sacrifice} 8... d5 $5 {counters.}) 9. e5 $1 Qe7 10. Bxf4 Nxf4 11. Nxf4
+d5 12. exd6 Qxd6 13. Nfe2 Be6 $5 {Black has no proper defence.} 14. Ne4 $1 Qe7
+15. Bxe6 Qxe6 16. Nf4 Qe7 17. c3 Bd6 18. Rae1 $1 Qd8 19. Qh3 Be7 20. Nh5 Nd7
+21. Qg4 g6 22. Qxd7 $1 {Matanovic encounters a humiliation.} 22... gxh5 ({Or} 
+22... Qxd7 23. Nef6+ $1) 23. Qh3 h4 24. Rf5 Kh8 25. Ref1 Qd7 26. Qd3 Qe6 27.
+Re5 Qd7 28. Rxe7 $1 {
+Planinc had defeated his first grandmaster. More sensation was to follow.} ({
+The pointe is} 28. Rxe7 Qxe7 29. Nf6) 1-0
+
+[Event "Ljubljana"]
+[Site "Vidmar mem 1"]
+[Date "1969.??.??"]
+[Round "3"]
+[White "Robatsch, Karl"]
+[Black "Planinc, Albin"]
+[Result "1/2-1/2"]
+[ECO "C78"]
+[Annotator "JvR"]
+[PlyCount "40"]
+[EventDate "1969.06.??"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Bb7 7. d4 Nxd4 8.
+Bxf7+ Kxf7 9. Nxe5+ Kg8 10. Qxd4 c5 11. Qd1 Qe8 12. Ng4 Nxg4 13. Qxg4 Qxe4 14.
+Qxe4 $1 {This unusual variation has been played in Franz - Moehring,
+Annaberg-Buchholz (9), 1965.} ({That game went on by} 14. Qh3 $6) 14... Bxe4
+15. Rd1 Re8 16. Be3 d6 17. Nc3 $5 Bxc2 18. Rd2 Bf5 19. Bf4 Kf7 20. a3 c4 (20...
+c4 21. Bxd6 {nearly equalises.}) 1/2-1/2
+
+[Event "Ljubljana"]
+[Site "Vidmar mem 1"]
+[Date "1969.??.??"]
+[Round "4"]
+[White "Planinc, Albin"]
+[Black "Damjanovic, Mato"]
+[Result "1/2-1/2"]
+[ECO "B35"]
+[Annotator "JvR"]
+[PlyCount "56"]
+[EventDate "1969.06.??"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 g6 5. Nc3 Bg7 6. Be3 Nf6 7. Bc4 O-O 8.
+Bb3 a5 9. f3 d5 10. exd5 Nb4 11. Nde2 a4 12. Nxa4 Nfxd5 13. Bf2 $5 (13. Bd4 {
+is known from Kostro - Szilagyi, Polanica Zdroj 1969.}) 13... Rxa4 $2 14. Bxa4
+Bxb2 15. Rb1 Qa5 16. O-O Bf6 17. Bb3 Be6 18. Bxd5 Nxd5 19. Rxb7 Qxa2 20. Ra7
+Qc4 21. Qd3 Nb4 22. Qd2 Nc6 23. Ra3 Bf5 24. c3 Bh4 25. Bxh4 $2 Qc5+ $1 26. Nd4
+Nxd4 27. Qxd4 Qxa3 28. Re1 Be6 {Planinc got and returned an exchange.} 1/2-1/2
+
+[Event "Ljubljana"]
+[Site "Vidmar mem 1"]
+[Date "1969.??.??"]
+[Round "5"]
+[White "Barcza, Gedeon"]
+[Black "Planinc, Albin"]
+[Result "0-1"]
+[ECO "E61"]
+[Annotator "JvR"]
+[PlyCount "84"]
+[EventDate "1969.06.??"]
+
+1. Nf3 d6 2. d4 Nf6 3. c4 g6 4. Nc3 Bg7 5. e3 O-O 6. Be2 Nbd7 7. O-O e5 8. b3
+Re8 9. Ba3 e4 10. Nd2 Nf8 11. Qb1 Bf5 12. Bd1 c5 13. d5 N6d7 14. Bb2 Qg5 15.
+Bc2 Nf6 16. Ne2 $1 {White battles for the centre.} 16... N8d7 17. Ng3 Qh4 18.
+f3 Qh6 19. Ndxe4 Bxe4 20. Bxe4 Qxe3+ 21. Kh1 Qh6 22. Qc2 Ne5 23. Rae1 Re7 24.
+Re2 Qh4 25. Rfe1 Rae8 26. Nf1 Nh5 27. g3 Qh3 28. f4 Ng4 29. Bxg7 $2 {
+Barcza misses a combination.} ({Right is} 29. Kg1 $1 Bxb2 30. Qxb2) 29... Rxe4
+$1 30. Kg1 ({The pointe is} 30. Rxe4 Rxe4 31. Rxe4 Qxf1#) 30... Rxe2 31. Rxe2
+Rxe2 32. Qxe2 Kxg7 33. Qe7 Ngf6 34. Qxd6 Ne4 35. Qe5+ Nhf6 36. Ne3 Nd2 37. Qb2
+Nf3+ 38. Kh1 Nd4 39. b4 Ne4 40. bxc5 f6 41. Qxb7+ Kh6 42. Qe7 Nxg3+ 0-1
+
+[Event "Ljubljana"]
+[Site "Vidmar mem 1"]
+[Date "1969.??.??"]
+[Round "6"]
+[White "Planinc, Albin"]
+[Black "Tringov, Georgi"]
+[Result "1/2-1/2"]
+[ECO "B08"]
+[Annotator "JvR"]
+[PlyCount "81"]
+[EventDate "1969.06.??"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Nf3 Bg7 5. Be3 c6 6. a4 O-O 7. Be2 Qc7 $5 8.
+Nd2 e5 9. d5 cxd5 10. exd5 Na6 11. O-O Nb4 12. Nc4 Bf5 13. Rc1 Qd7 $5 14. Qd2
+b6 $6 ({More useful is} 14... Rfc8) 15. Rfd1 Rfd8 $6 16. Bg5 Qe7 $5 {
+Black makes a big concession.} 17. Ne3 Bc8 18. Ne4 a5 19. c3 Na6 20. Bxa6 $6 {
+Planinc does not find the positional kill.} (20. b4 $1 {
+leads to an awful restriction.}) 20... Rxa6 21. Nc4 Bf5 22. Bxf6 Bxf6 23. Nxf6+
+Qxf6 24. Qe2 Rda8 25. b4 Qd8 26. bxa5 $6 {The advantage evaporates.} 26... bxa5
+27. Na3 Bd7 28. Nb5 Bxb5 29. axb5 R6a7 30. c4 Qb6 31. c5 dxc5 32. Qxe5 Rd7 33.
+d6 Rad8 34. Rxc5 Rxd6 35. Rcd5 Qxb5 36. Rxd6 Qxe5 37. Rxd8+ Kg7 38. h3 h5 39.
+Ra8 Qc3 40. Ra7 h4 41. Rdd7 1/2-1/2
+
+[Event "Ljubljana"]
+[Site "Vidmar mem 1"]
+[Date "1969.??.??"]
+[Round "7"]
+[White "Gligoric, Svetozar"]
+[Black "Planinc, Albin"]
+[Result "1-0"]
+[ECO "A79"]
+[Annotator "JvR"]
+[PlyCount "103"]
+[EventDate "1969.06.??"]
+
+{The best Yugoslavian grandmaster met the untitled 25-years-old. Gligoric
+presented a lesson in positional play.   } 1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3
+exd5 5. cxd5 d6 6. e4 g6 7. Nf3 Bg7 8. Be2 O-O 9. O-O Re8 10. Nd2 Na6 11. f3
+Nc7 12. a4 b6 13. Nc4 Ba6 14. Bg5 Qd7 15. Qd2 Rab8 16. b3 Nh5 $1 {
+Standard moves in the Ben-Oni have led to a white plus.} 17. g4 $5 Bd4+ 18. Kh1
+Ng7 $6 ({More active is} 18... Nf6) 19. Be3 Bxe3 20. Qxe3 f5 $6 {
+Black opens his kingside.} 21. Qg5 $1 Bxc4 22. bxc4 Rf8 $2 (22... Qe7 $1 {
+(Gligoric)} 23. Qxe7 Rxe7 24. gxf5 gxf5 {gives White a better endgame.}) 23.
+gxf5 gxf5 24. Rg1 Rbe8 25. Rg3 f4 26. Rg4 Qe7 27. Rag1 Qxg5 28. Rxg5 Rf7 29.
+Bf1 Ree7 30. Bh3 Rf6 $6 {White has positional and tactical edges.} 31. e5 $1
+Rh6 ({The pointe is} 31... dxe5 32. Ne4 $1) 32. exd6 Rxd6 33. Ne4 Nce8 34. Nxd6
+Nxd6 35. Be6+ Kf8 36. R1g4 Nxe6 37. dxe6 Rxe6 38. Rxf4+ Ke8 39. Rg7 Re7 40.
+Rxe7+ Kxe7 41. Rh4 h6 42. Kg2 Nf5 43. Re4+ Kf6 44. Kf2 Nd6 45. Ke3 Nxe4 46.
+Kxe4 Ke6 47. f4 h5 48. h4 a6 49. f5+ Kf6 50. Kf4 Kf7 51. Ke5 Ke7 52. f6+ 1-0
+
+[Event "Ljubljana"]
+[Site "Vidmar mem 1"]
+[Date "1969.??.??"]
+[Round "8"]
+[White "Forintos, Gyozo"]
+[Black "Planinc, Albin"]
+[Result "0-1"]
+[ECO "A21"]
+[Annotator "JvR"]
+[PlyCount "84"]
+[EventDate "1969.06.??"]
+
+1. c4 g6 2. g3 Bg7 3. Bg2 e5 4. Nc3 d6 5. d3 f5 6. e4 Nf6 7. Nge2 O-O 8. O-O c6
+9. exf5 $5 gxf5 $6 ({Preferable is} 9... Bxf5) 10. d4 $1 Nbd7 11. Qc2 Qe8 12.
+d5 e4 13. f4 $2 ({Correct is} 13. f3 $1) 13... Nc5 14. Be3 Nd3 $1 {
+Black has a positional advantage.} 15. Qd2 c5 16. Rab1 a6 17. Kh1 b5 $1 18. b3
+Ng4 19. h3 Nf6 20. a4 Bd7 21. Nc1 Nh5 22. Kh2 Qg6 23. N3e2 bxc4 24. bxc4 Nb4
+25. a5 Ba4 26. Rxb4 $2 {White gives away material.} 26... cxb4 27. Qxb4 Bc2 28.
+Rg1 Rab8 29. Bb6 Rfc8 30. Bf1 Bd3 31. Nxd3 exd3 32. Nc1 Bd4 $1 33. Rg2 Nf6 34.
+Bxd3 Ng4+ $1 35. Kh1 Qh5 36. h4 Nf2+ 37. Rxf2 Bxf2 38. Kg2 Bc5 39. Qd2 Bxb6 40.
+axb6 Rxb6 41. Ne2 Rcb8 42. c5 Rb2 0-1
+
+[Event "Ljubljana"]
+[Site "Vidmar mem 1"]
+[Date "1969.??.??"]
+[Round "9"]
+[White "Planinc, Albin"]
+[Black "Byrne, Robert"]
+[Result "1/2-1/2"]
+[ECO "C72"]
+[Annotator "JvR"]
+[PlyCount "45"]
+[EventDate "1969.06.??"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 d6 5. O-O Bd7 6. Re1 g6 7. d4 Bg7 8. Bg5
+$1 {Planinc attacks.} ({The quiet} 8. c3 {
+was played in Michell - Capablanca, Hastings 1919.}) 8... Nge7 9. Nc3 f6 10.
+Be3 Na5 $5 11. dxe5 fxe5 12. Bxd7+ Qxd7 13. Nd5 Nc4 $5 14. Bh6 $1 {
+White revives the offensive.} 14... Nxd5 $1 (14... O-O 15. Bxg7 Kxg7 16. b3 {
+brings a positional plus for White.}) 15. Bxg7 Nde3 $1 16. fxe3 Qxg7 17. Qd5
+Nb6 18. Qxb7 Kd7 {Suddenly, White seems to be in troubles.} 19. Rf1 $1 Rhb8 20.
+Nxe5+ $1 {Planinc escapes by a perpetual.} 20... Qxe5 21. Rf7+ Ke8 22. Qxc7 Rc8
+23. Qb7 1/2-1/2
+
+[Event "Ljubljana"]
+[Site "Vidmar mem 1"]
+[Date "1969.??.??"]
+[Round "10"]
+[White "Unzicker, Wolfgang"]
+[Black "Planinc, Albin"]
+[Result "0-1"]
+[ECO "C88"]
+[Annotator "JvR"]
+[PlyCount "102"]
+[EventDate "1969.06.??"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Bb7 7. d3 Be7 8. c3
+O-O 9. Re1 h6 $5 {Planinc played this move twice in 1969.} 10. Nbd2 Re8 11. d4
+Bf8 12. d5 Na5 13. Bc2 c6 14. dxc6 Bxc6 15. Nf1 Qc7 16. Ng3 d5 $1 {
+Black takes the initiative.} 17. Qe2 Rad8 18. Nd2 g6 19. Ndf1 Nc4 20. Ne3 Nxe3
+21. Qxe3 dxe4 22. Nxe4 Nd5 $5 23. Qg3 Re6 24. Bb3 f5 25. Qh3 Qe7 26. Ng3 Kh7
+27. Nf1 Qf6 {Unzicker has played passively.} 28. Qg3 $2 ({But} 28. a4 $1 {
+(Parma)} 28... bxa4 29. Bxa4 Bxa4 30. Rxa4 {counters timely.}) 28... Ree8 29.
+Bd2 e4 30. Ne3 Ne7 31. Rad1 g5 32. Qc7 $5 Rd7 33. Qb6 Nc8 $1 {
+The white queen has to move offside.} 34. Qa5 f4 35. Ng4 Qf5 $5 36. h3 $2 (36.
+Qxa6 $1 Rc7 $1 37. Bd5 $1 Qxg4 38. h3 Qd7 39. Bxf4 gxf4 40. Bxe4+ Bxe4 41.
+Rxd7+ Rxd7 42. Rxe4 $1 Rxe4 43. Qxc8 Rd1+ 44. Kh2 Ree1 45. g3 fxg3+ 46. Kxg3
+Bd6+ 47. Kg2 {tries to survive.}) 36... h5 37. Nh2 Bb7 38. Bc1 Rg7 39. Bc2 Bc5
+40. Nf3 $5 Nb6 (40... g4 $1 {wins at once.}) 41. Nd4 Qf6 42. b3 g4 $1 43. hxg4
+hxg4 44. Ba3 g3 $1 45. Rd2 Bxd4 46. cxd4 Qh6 47. Qc3 b4 48. Bxb4 Nd5 49. Qf3
+Nxb4 50. Bxe4+ Kh8 51. d5 Nxd5 {Planinc had defeated another grandmaster.} 0-1
+
+[Event "Ljubljana"]
+[Site "Vidmar mem 1"]
+[Date "1969.??.??"]
+[Round "11"]
+[White "Planinc, Albin"]
+[Black "Parma, Bruno"]
+[Result "1/2-1/2"]
+[ECO "C33"]
+[Annotator "JvR"]
+[PlyCount "27"]
+[EventDate "1969.06.??"]
+
+1. e4 e5 2. f4 exf4 3. Bc4 Nf6 4. e5 $6 d5 $1 5. Bb5+ $5 (5. Bb3 {
+was played in De Riviere - Dubois, Paris 1855.}) 5... c6 6. exf6 cxb5 7. Nf3 $6
+Qxf6 $1 8. Nc3 Qd8 $6 (8... Nc6 $1 {would be a strong retort.}) 9. Qe2+ Be7 10.
+Qxb5+ Nc6 11. Qxd5 Be6 12. Qe4 O-O 13. O-O Qb6+ 14. d4 {
+Planinc had little success with the Kings Gambit this time.} ({
+Parma offers a draw kindly, because} 14. d4 Bf6 15. Bxf4 Nxd4 16. Nxd4 Bxd4+
+17. Kh1 Rad8 {gains an edge.}) 1/2-1/2
+
+[Event "Ljubljana"]
+[Site "Vidmar mem 1"]
+[Date "1969.??.??"]
+[Round "12"]
+[White "Puc, Stojan"]
+[Black "Planinc, Albin"]
+[Result "1/2-1/2"]
+[ECO "C55"]
+[Annotator "JvR"]
+[PlyCount "34"]
+[EventDate "1969.06.??"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d3 {Puc avoids the battle.} 4... Be7 5. Nc3
+O-O 6. a3 d6 7. h3 Be6 8. Nd5 Bxd5 9. exd5 Nb8 10. O-O Nbd7 11. Qe2 $5 c6 12.
+dxc6 bxc6 13. d4 e4 14. Nh2 d5 15. Bb3 Bd6 16. f4 $6 exf3 17. Nxf3 Qc7 {
+A positional player would have continued with Black.} 1/2-1/2
+
+[Event "Ljubljana"]
+[Site "Vidmar mem 1"]
+[Date "1969.??.??"]
+[Round "13"]
+[White "Planinc, Albin"]
+[Black "Musil, Vojko"]
+[Result "1-0"]
+[ECO "B89"]
+[Annotator "JvR"]
+[PlyCount "77"]
+[EventDate "1969.06.??"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e6 5. Nc3 d6 6. Be3 Nf6 7. Bc4 Be7 8.
+Qe2 O-O 9. O-O-O a6 10. Bb3 Bd7 11. f4 Qc7 12. g4 $5 {
+He goes forwards at any time.} 12... Nxd4 13. Rxd4 e5 $1 14. Rc4 Qd8 15. g5 Ng4
+16. Nd5 Nxe3 17. Nxe7+ Qxe7 18. Qxe3 Be6 19. f5 $6 {Planinc never retreats!} ({
+Normal people play} 19. Rc3 Bxb3 20. Rxb3 {and draw.}) 19... Bxc4 20. Bxc4 Kh8
+21. Rg1 Rac8 22. Bb3 f6 $6 23. g6 h6 {The bishop has become highly dominant.}
+24. Rg3 Rfd8 25. Rh3 Qf8 $1 {
+The black queen is needed as guard of h6. So she cannot be used as an attacker.
+} 26. Qb6 Qe7 27. Qe3 Qf8 28. Be6 Rc5 29. b4 $5 Rc7 30. a4 Re8 31. Qb6 Rec8 $5
+32. Bxc8 Qxc8 33. Qf2 Qd7 34. Qd2 Qxa4 $2 ({Right is} 34... Rc4 $1) 35. Kb2 $1
+Kg8 $5 36. Rd3 $1 Kf8 37. Rxd6 Rxc2+ 38. Qxc2 Qxb4+ 39. Qb3 ({The pointe is} 
+39. Qb3 Qxd6 40. Qf7#) 1-0
+
+[Event "Ljubljana"]
+[Site "Vidmar mem 1"]
+[Date "1969.??.??"]
+[Round "14"]
+[White "Bajec, Ivo"]
+[Black "Planinc, Albin"]
+[Result "1/2-1/2"]
+[ECO "A76"]
+[Annotator "JvR"]
+[PlyCount "111"]
+[EventDate "1969.06.??"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. Nf3 Bg7 8. Be2
+O-O 9. O-O Re8 10. Qc2 Bg4 11. Bf4 a6 12. Rfe1 $5 b5 $1 13. Bd1 $5 Ra7 14. h3
+Bxf3 15. Bxf3 Rae7 16. Rad1 Qc7 17. g4 $6 {
+Suddenly, White becomes active on the kingside. Black counters elsewhere.}
+17... Nfd7 $1 18. Bg2 c4 19. Bg3 Nc5 $1 20. Bh4 f6 21. a3 Nbd7 22. Re2 $2 (22.
+f4 $1 Nd3 23. Rxd3 $1 cxd3 24. Qxd3 {stops the invasion by the knights.}) 22...
+Ne5 23. Kh1 Ned3 24. f3 Qd7 25. Bf1 a5 26. Red2 b4 27. axb4 axb4 28. Ne2 g5 29.
+Bg3 f5 $1 30. Qxc4 Nxb2 $2 (30... fxe4 $1 31. Nd4 $1 Bxd4 32. Qxd4 Nb3 {
+continues the attack.}) 31. Rxb2 $1 Bxb2 32. Qxb4 fxe4 $5 {Black charges.} 33.
+Qxb2 exf3 34. Nd4 Ne4 35. Nf5 h5 $5 {
+The onslaught looks desperate, but Black has no choice.} 36. Nxe7+ Rxe7 37. Bh2
+$6 (37. Kh2 $1 hxg4 38. Ra1 $1 {leads to a white assault.}) 37... Qa7 38. Bg1
+Ng3+ $1 39. Kh2 Nxf1+ 40. Rxf1 Re2+ $3 {Planinc escapes wonderfully.} 41. Kh1
+Qxg1+ $1 42. Kxg1 Rxb2 43. Rxf3 $5 hxg4 44. hxg4 Kg7 45. Re3 Rd2 46. Re7+ Kf8
+47. Rd7 Rxd5 48. Kf2 Ke8 49. Rb7 Re5 50. Kf3 d5 51. Ra7 Kd8 52. Rb7 Re7 $5 53.
+Rb5 $1 Re5 (53... Rd7 54. Ke3 Ke7 55. Kd4 {draws.}) 54. Rb7 Kc8 55. Ra7 Kd8 56.
+Rb7 {A threefold repetition of positions occurs.} 1/2-1/2
+
+[Event "Ljubljana"]
+[Site "Vidmar mem 1"]
+[Date "1969.??.??"]
+[Round "15"]
+[White "Planinc, Albin"]
+[Black "Gheorghiu, Florin"]
+[Result "1-0"]
+[ECO "B61"]
+[Annotator "JvR"]
+[PlyCount "61"]
+[EventDate "1969.06.??"]
+
+{Planinc leads by half-a-point. The tailender Stupica is defeated by the
+runner-up Gligoric. So Planinc needs a victory.   } 1. e4 c5 2. Nf3 d6 3. d4
+cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 Nc6 7. Qd2 Bd7 8. O-O-O b5 9. Nxc6 Bxc6 10.
+Qe1 Qa5 11. Kb1 $1 (11. Bxf6 gxf6 12. Kb1 {
+occurred in Jimenez - O'Kelly de Galway, Havana 1965.}) 11... h6 12. Bxf6 gxf6
+13. f4 O-O-O $5 14. h4 $5 e6 15. Rh3 $5 {
+The rook moves towards the hostile king.} 15... b4 $1 16. Ne2 Bxe4 17. Nd4 f5
+$5 ({More solid is} 17... Bb7 18. Rb3 d5) 18. Ra3 Qc5 19. Bxa6+ Kd7 20. Rb3 Bg7
+21. Qxb4 Bxd4 22. Qxd4 Bxc2+ 23. Ka1 {
+Gheorghiu has been begging for a draw though he has fine play. Planinc goes on.
+} 23... Bxd1 $2 (23... Qxd4 $1 24. Rb7+ $1 {(Parma)} 24... Ke8 25. Rxd4 Be4 26.
+Rb6 Ke7 {keeps the advantage for Black.}) 24. Rb7+ $1 Kc6 25. Qxd1 Rb8 (25...
+d5 $1 26. Qa4+ Kd6 27. Bd3 $1 Qc1+ 28. Bb1 {wins for White.}) 26. Qa4+ Kd5 27.
+Qb3+ Kc6 28. a3 $1 Qa5 29. Qc2+ Qc5 30. Qa4+ Kd5 31. Qb3+ {Planinc became the
+sole winner. Albin had thwarted the grandmasters Matanovic, Barcza, Unzicker
+and Gheorghiu. He had scored a grandmaster result, but he only became a master
+as an untitled player.} 1-0
+
+[Event "Cacak"]
+[Site "?"]
+[Date "1969.??.??"]
+[Round "?"]
+[White "Planinc, Albin"]
+[Black "Honfi, Karoly"]
+[Result "1-0"]
+[ECO "C93"]
+[Annotator "JvR"]
+[PlyCount "119"]
+[EventDate "1969.12.??"]
+
+{Planinc participated in many chess events after his win in Ljubljana 1969 as
+a master and gained fine results.   } 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6
+5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3 O-O 9. h3 h6 10. d4 Re8 11. Nbd2 Bf8 12.
+Nf1 Bd7 13. Ng3 Na5 14. Bc2 c5 15. dxc5 dxc5 16. Nh2 g6 $5 {
+They play a quiet Ruy Lopez.} 17. Qf3 Nh7 $6 18. Rd1 Ra7 19. Ng4 Qh4 20. Nf1
+Bc6 21. Qe2 Kh8 $6 {Honfi makes another passive move.} 22. Nfe3 h5 23. Nh2 Rd7
+24. Rxd7 Bxd7 25. Nf3 Qd8 26. b3 Nc6 27. Bb2 Bg7 28. Rd1 Qc7 $6 29. Nd5 $1 Qb7
+30. Qe3 c4 31. bxc4 bxc4 32. Ba3 $1 {Planinc controls the position.} 32... Na7
+33. Rb1 Nb5 34. Bc5 Qc6 35. a4 Nc7 36. Nb4 Qe6 37. Rd1 Rc8 38. Rd6 Qe8 39. Nxa6
+{White cashes a pawn after superior play.} 39... Ne6 40. a5 Nxc5 41. Nxc5 Bc6
+42. Rd1 Bf8 43. Na6 Nf6 44. Nb4 Ba8 45. Nd5 Nxd5 46. exd5 Bg7 47. Ng5 Kg8 48.
+Ne4 Rd8 49. Qc5 Rc8 50. Qa7 Qd8 51. d6 Bc6 52. d7 Ra8 53. Qc5 Bxd7 54. Ba4 Qh4
+55. Qd5 Rxa5 56. Qxa5 Bxa4 57. Qxa4 Qxe4 58. Qe8+ Kh7 59. Qxf7 Qf4 60. Rd7 {
+Planinc prevailed by quiet positional play.   Many master tournaments were
+played in Yugoslavia. This event was won by Honfi, half-a-point before Planinc,
+Padevsky and Radulov.} 1-0
+
+[Event "Sarajevo"]
+[Site "?"]
+[Date "1970.03.22"]
+[Round "3"]
+[White "Planinc, Albin"]
+[Black "Gasic, Bozidar"]
+[Result "1-0"]
+[ECO "B82"]
+[Annotator "JvR"]
+[PlyCount "67"]
+[EventDate "1970.03.??"]
+
+{Planinc had the title of master but played at the level of a grandmaster in
+1970.   } 1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bc4 Qb6 7.
+Nb3 e6 8. Be3 Qc7 9. f4 a6 10. Bd3 b5 11. Qe2 Be7 12. g4 $5 O-O 13. g5 Nd7 14.
+O-O {Planinc has brought life to the game.} 14... Re8 $2 15. Rf3 Nf8 {
+Gasic has chosen a passive defence.} 16. Raf1 Rb8 17. Rg3 b4 18. Nd1 d5 $2 {
+White gets the chance to close the centre.} 19. e5 $1 g6 $5 20. Nf2 a5 21. Ng4
+Nd7 22. Nf6+ Nxf6 23. gxf6 Bf8 24. h4 $1 a4 25. h5 $1 {
+Planinc finds the immediate win.} 25... axb3 26. hxg6 fxg6 27. Bxg6 $1 hxg6 28.
+Rxg6+ Kh8 29. Rf2 Qh7 30. Rh2 Rb7 31. axb3 d4 32. Rxh7+ Rxh7 33. Qg2 Bh6 34.
+Rxh6 1-0
+
+[Event "Sarajevo"]
+[Site "?"]
+[Date "1970.03.27"]
+[Round "7"]
+[White "Liberzon, Vladimir"]
+[Black "Planinc, Albin"]
+[Result "0-1"]
+[ECO "A25"]
+[Annotator "JvR"]
+[PlyCount "114"]
+[EventDate "1970.03.??"]
+
+1. c4 e5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. Rb1 a5 6. a3 f5 7. d3 d6 8. e3 Nf6
+9. Nge2 h5 $5 10. h4 O-O 11. b4 axb4 12. axb4 Ng4 13. b5 Ne7 14. Qb3 c6 15.
+bxc6 bxc6 16. Qb6 Qd7 $5 17. O-O Ba6 18. Qb3 $5 Kh7 19. Na4 Rab8 20. Qa2 Rxb1
+21. Qxb1 e4 $1 {Black takes the initiative.} 22. dxe4 $6 ({Preferable is} 22.
+Rd1 Ne5 23. dxe4 Bxc4 24. Nf4) 22... Bxc4 23. Qc2 Qe6 24. exf5 Rxf5 25. Nb2 Bb5
+26. Nd3 $1 Qc4 27. Qxc4 Bxc4 28. Ndf4 Ra5 29. Re1 Ra2 30. f3 Ne5 31. Nd4 $2 ({
+Right is} 31. e4 $1) 31... c5 32. Nde6 Nf5 $5 33. e4 Nxg3 {
+Black has gained a pawn.} 34. Nxg7 Kxg7 35. Be3 Ne2+ 36. Nxe2 Bxe2 37. f4 Ng4
+38. Bc1 c4 39. Bh3 Bf3 40. Be3 Kf7 41. Bd4 Rh2 42. Bxg4 Rg2+ 43. Kf1 hxg4 44.
+e5 dxe5 45. Rxe5 Rh2 46. f5 Rxh4 47. f6 $1 g3 48. Re7+ Kf8 49. Rd7 Rh1+ 50. Bg1
+Rh5 51. Rc7 Bd5 52. Bc5+ Ke8 53. Ke2 Rf5 54. Re7+ Kd8 55. Bb6+ Kc8 56. Bd4 g2
+57. Rg7 Rxf6 $1 {Planinc defeated strong contenders.} 0-1
+
+[Event "Sarajevo"]
+[Site "?"]
+[Date "1970.04.01"]
+[Round "11"]
+[White "Ljubojevic, Ljubomir"]
+[Black "Planinc, Albin"]
+[Result "1-0"]
+[ECO "C68"]
+[Annotator "JvR"]
+[PlyCount "79"]
+[EventDate "1970.03.??"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. d3 Bd6 6. O-O Ne7 7. Nbd2 f6 8.
+Nc4 Be6 9. Bd2 $5 Qd7 10. Qe2 g5 $5 11. c3 Ng6 12. Rfd1 $6 ({Better is} 12.
+Nxd6+ Qxd6 13. Be3) 12... h5 13. d4 g4 $1 14. Ne1 O-O-O $1 15. Na5 $6 Rdg8 16.
+b4 $2 g3 $1 {Ljubo has neglected the defence.} 17. d5 $5 ({Ljubojevic regards} 
+17. fxg3 h4 18. h3 hxg3 {as lost and starts a desperate action.}) 17... cxd5
+18. exd5 Bxd5 19. c4 gxf2+ 20. Qxf2 Be4 21. c5 $5 ({Or} 21. Qa7 Qg4) 21... Be7
+22. c6 Bxc6 23. Bg5 $5 Bd5 $1 24. Qa7 Qb5 $1 25. Rac1 Bxb4 26. Be3 Nf4 $1 27.
+Bxf4 Bxe1 28. Nc4 Rxg2+ 29. Kf1 Bf2 $4 {Black spoils a won position.} ({Best is
+} 29... Bxc4+ 30. Rxc4 Qxc4+ 31. Kxg2 Qe2+ 32. Kg1 Qxd1 33. Qa8+ Kd7 34. Qxh8
+Bh4+ {and Black wins.}) 30. Qa8+ $1 Kd7 31. Qxh8 Ba7 $1 32. a4 $1 Rf2+ $4 {
+Planinc misses perpetual check.} (32... Rg1+ 33. Ke2 Rg2+ 34. Kf1 {draws.}) 33.
+Ke1 Qb4+ 34. Bd2 $1 Qb3 35. Be3 Bxe3 36. Rxd5+ Ke6 37. Qg8+ $1 Kf5 38. Rxe5+ $1
+fxe5 39. Nd6+ cxd6 40. Qxb3 {Two fierce Yugoslav fighters played an incredible
+game of changing chances.   Ljubojevic and Parma won (10/15) before Tringov
+and Antoshin (91/2), Benko and Planinc (81/2).} 1-0
+
+[Event "Varna"]
+[Site "?"]
+[Date "1970.??.??"]
+[Round "?"]
+[White "Shamkovich, Leonid"]
+[Black "Planinc, Albin"]
+[Result "0-1"]
+[ECO "A61"]
+[Annotator "JvR"]
+[PlyCount "68"]
+[EventDate "1970.06.??"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. Nf3 g6 7. Bf4 Bg7 8. e3
+O-O 9. Be2 Na6 10. Nd2 Nc7 11. Nc4 Nfe8 12. a4 f5 13. h4 b6 14. Qb3 Bb7 15. Rd1
+Rb8 16. Rh3 $5 b5 17. axb5 Ba6 18. Qa2 Bxb5 19. Nxb5 Rxb5 20. Kf1 Rb4 21. Qxa7
+Nb5 22. Qa5 $6 Qxa5 23. Nxa5 Rxb2 24. Bxb5 Rxb5 25. Nc4 Rf7 {
+Rh3 and the exchange of queens have been a poor combination.} 26. Ke2 $2 ({
+More active is} 26. h5 $1 Rd7 27. hxg6 hxg6 28. f3 $1) 26... Ra7 $1 27. Rhh1 $2
+(27. h5 Rb4 28. Rc1 Ra2+ 29. Kf3 Nf6 30. Nxd6 Nxd5 31. hxg6 hxg6 32. Bh6 {
+brings exchanges.}) 27... Rb4 28. Kd3 Raa4 29. Rc1 Nf6 30. Nxd6 Nxd5 31. Rc4
+Nxf4+ 32. exf4 Ra3+ 33. Kd2 Rb2+ 34. Rc2 Bc3+ $1 {Planinc won the master
+tournament in the Rumanian coastal resort (101/2/14), one-and-a-half points
+before the pack!} 0-1
+
+[Event "Sombor"]
+[Site "Parcetic mem 4"]
+[Date "1970.08.10"]
+[Round "7"]
+[White "Ribli, Zoltan"]
+[Black "Planinc, Albin"]
+[Result "0-1"]
+[ECO "D01"]
+[Annotator "JvR"]
+[PlyCount "70"]
+[EventDate "1970.08.14"]
+
+{Young masters participated in the fourth Ivan Parcetic Memorial. Huebner
+showed superiority. Planinc defeated many others.  } 1. d4 Nf6 2. Nc3 d5 3. Bg5
+Nbd7 4. Nf3 h6 5. Bh4 c5 $5 {Planinc plays a sharp novelty.} 6. dxc5 e6 7. b4
+a5 8. a3 g5 9. Bg3 Bg7 10. Rb1 ({Not} 10. Bd6 $2 axb4 $1 11. Nb5 Ne4 $1) 10...
+axb4 11. axb4 Ne4 12. Nxe4 dxe4 13. Nd4 Nxc5 $1 {Black has regained the pawn.}
+14. e3 ({The option is} 14. Nb5 Na4 15. Qxd8+ Kxd8 16. e3) 14... Na4 $1 15. Rb3
+$6 ({Preferable is} 15. Bb5+ $5 Bd7 16. Bxa4 Bxa4 17. O-O) 15... O-O $1 16. h4
+e5 17. Nb5 Qxd1+ 18. Kxd1 Be6 19. Ra3 Nb2+ 20. Kc1 Nc4 21. Rxa8 $2 (21. Bxc4 $1
+Bxc4 22. Rxa8 Rxa8 23. Nc3 Ra1+ 24. Nb1 {does not lose material.}) 21... Rxa8
+$1 22. Bxc4 Ra1+ 23. Kd2 Rxh1 24. Bxe6 fxe6 25. hxg5 h5 26. Nd6 h4 27. Bxh4
+Rxh4 28. Nxb7 Bf8 29. Kc3 Rh2 30. Kb3 Rxg2 31. c4 Rxf2 32. c5 Re2 33. b5 Rxe3+
+34. Kb2 Rh3 35. c6 Rh7 0-1
+
+[Event "Sombor"]
+[Site "Parcetic mem 4"]
+[Date "1970.08.11"]
+[Round "8"]
+[White "Planinc, Albin"]
+[Black "Podgaets, Mikhail"]
+[Result "1-0"]
+[ECO "B11"]
+[Annotator "JvR"]
+[PlyCount "39"]
+[EventDate "1970.08.14"]
+
+1. e4 c6 2. Nc3 d5 3. Nf3 Bg4 4. h3 Bxf3 5. Qxf3 Nf6 6. d3 e6 7. Bd2 Qb6 8. g4
+$5 {Planinc plays a characteristic novelty. He does not castle but sacrifices
+a pawn.} 8... Na6 $5 ({The pointe is} 8... Qxb2 $6 9. Rb1 Qxc2 $6 10. e5 $1 d4
+11. Rc1 Qb2 12. Nd1) 9. g5 Nd7 10. d4 $5 {Planinc offers two pawns at once!}
+10... Qxd4 $1 11. exd5 Nb4 $2 ({More solid is} 11... cxd5 12. Bb5 Qe5+ 13. Kf1
+Qd6) 12. dxe6 $1 Ne5 ({Or} 12... Nxc2+ 13. Kd1 Nxa1 14. Qxf7+ Kd8 15. Qxd7+
+Qxd7 16. exd7 Kxd7 17. Bd3 {and White wins material.}) 13. exf7+ $1 Kd8 14. Qf5
+g6 15. Qf6+ Be7 16. Qxh8+ Kc7 17. Qxa8 Nxc2+ 18. Ke2 Bxg5 19. Nb5+ cxb5 20.
+Ba5+ 1-0
+
+[Event "Sombor"]
+[Site "Parcetic mem 4"]
+[Date "1970.08.14"]
+[Round "11"]
+[White "Westerinen, Heikki"]
+[Black "Planinc, Albin"]
+[Result "0-1"]
+[ECO "C65"]
+[Annotator "JvR"]
+[PlyCount "80"]
+[EventDate "1970.08.14"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Be7 4. O-O Nf6 5. Nc3 Nd4 6. Nxd4 exd4 7. e5 dxc3 8.
+exf6 Bxf6 9. Re1+ Be7 10. Qe2 c6 11. dxc3 $5 (11. Bd3 $1 d5 12. dxc3 {
+ensued in  Neumann - Paulsen, Berlin 1864.}) 11... cxb5 12. Bg5 f6 13. Bxf6 $5
+gxf6 14. Qh5+ Kf8 15. Qh6+ Kf7 16. Re3 d5 ({The option} 16... Bd6 $5 17. Rae1
+Be5 18. Qh5+ Ke7 19. Rxe5+ $1 fxe5 20. Qxe5+ Kf7 21. Re3 d5 22. Qh5+ {
+brings a draw.}) 17. Qh5+ Kf8 18. Rae1 $5 ({White avoids the draw by} 18. Qh6+)
+18... Bd6 $5 (18... h6 $1 {shows more ambition.}) 19. Re8+ $1 Kg7 20. Rxd8 Rxd8
+21. Re3 Bd7 22. Qxd5 Bc6 23. Qe6 Bf4 24. Qg4+ Kh8 25. Re7 Bh6 26. f3 $1 Rd1+
+27. Kf2 Rad8 28. Qe6 R1d2+ 29. Ke1 Bg7 30. Qf7 $4 (30. g3 $1 {
+keeps the battle going.}) 30... Rxg2 $1 31. Kf1 Rg5 32. h4 Rg3 33. h5 Rf8 34.
+Qe6 Rxf3+ 35. Ke2 Bh6 36. Qd6 Rg8 37. Qh2 Bf4 38. Qh4 Rg2+ 39. Kd1 Rf1+ 40. Re1
+Bf3# 0-1
+
+[Event "Sombor"]
+[Site "Parcetic mem 4"]
+[Date "1970.08.19"]
+[Round "15"]
+[White "Planinc, Albin"]
+[Black "Andersson, Ulf"]
+[Result "1-0"]
+[ECO "B45"]
+[Annotator "JvR"]
+[PlyCount "71"]
+[EventDate "1970.08.14"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e6 6. Ndb5 Bb4 7. a3 Bxc3+ 8.
+Nxc3 d5 9. exd5 exd5 10. Bd3 O-O 11. O-O Bg4 12. f3 Be6 13. Bg5 Re8 $2 {
+Ulf plays an unfavourable novelty.} ({Better is} 13... Qb6+ 14. Kh1 Nd7 $1 {
+(Nahlik - Orbaan, Szczawno Zdroj 1957).}) 14. Qd2 d4 15. Ne2 a6 $6 16. Ng3 $1
+Ne5 (16... h6 $2 17. Bxh6 $1 gxh6 18. Qxh6 Rc8 19. Rae1 {wins for White.}) 17.
+Nh5 $1 Ned7 18. Rae1 Rc8 19. Re5 $3 Qe7 ({Not} 19... Nxe5 20. Bxf6 $1 {
+(Andersson).}) 20. Rfe1 Kh8 21. Bh4 Qf8 ({No uuse has} 21... Nxe5 22. Rxe5) 22.
+Nxf6 Nxf6 23. Bxf6 gxf6 24. Rh5 f5 25. Qf4 Qg7 26. Rg5 $1 Qf8 ({Or} 26... Qf6
+27. Qh4 {(Andersson).}) 27. Qxd4+ f6 28. Rh5 Rcd8 29. Qh4 Qg7 30. Rh6 Bd7 31.
+Rxe8+ Rxe8 32. Qxf6 Re1+ 33. Kf2 Qxf6 34. Rxf6 Rh1 35. Bf1 Bc6 36. h3 {
+Huebner won (121/2/15). Planinc became fourth by 10 points.} 1-0
+
+[Event "Cacak"]
+[Site "?"]
+[Date "1970.??.??"]
+[Round "?"]
+[White "Tringov, Georgi"]
+[Black "Planinc, Albin"]
+[Result "0-1"]
+[ECO "C16"]
+[Annotator "JvR"]
+[PlyCount "84"]
+[EventDate "1970.12.??"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 Qd7 5. a3 Bxc3+ 6. bxc3 b6 7. a4 Ba6 8. Bxa6
+Nxa6 9. Qg4 f5 10. Qh5+ g6 11. Qe2 Nb8 12. h4 h6 $1 ({Planinc improves on} 
+12... Nc6 13. h5 $1 {(Tringov - Rakic, Belgrade 1965).}) 13. Nf3 $5 Nc6 14. c4
+$1 dxc4 15. Qxc4 Nge7 16. Bb2 Nd5 17. Nd2 $5 Na5 18. Qb5 c6 $5 19. Qe2 O-O-O
+20. Nc4 Nxc4 21. Qxc4 Nc7 22. O-O $5 g5 23. h5 g4 24. Qb3 f4 25. c4 Qe7 $2 (
+25... f3 $1 26. a5 fxg2 27. Rfc1 Qf7 {
+carries on with the counteraction properly.}) 26. a5 Qh4 27. axb6 g3 $1 28.
+Rfd1 $2 ({The forwards defence} 28. fxg3 fxg3 29. Rf6 $1 Qh2+ 30. Kf1 Qh1+ 31.
+Ke2 Qxg2+ 32. Kd3 $1 {wins for White.}) 28... Qh2+ 29. Kf1 f3 $1 {
+Suddenly Black is won.} 30. Ke1 ({The pointe is} 30. Qxf3 Rdf8 {(Ciric).})
+30... fxg2 $1 31. Kd2 g1=Q 32. Rxg1 Qxf2+ 33. Kc3 Qxd4+ 34. Kb4 Nd5+ 35. Ka4
+Nxb6+ 36. Kb4 a5+ 37. Ka3 Nxc4+ 38. Ka2 Nxb2 39. Rac1 Qa4+ 40. Qxa4 Nxa4 41.
+Rxc6+ Kd7 42. Ra6 Ra8 {Planinc and Ljubojevic won by 101/2/14, before Tringov,
+Popov and Quinteros (10).} 0-1
+
+[Event "Mar del Plata"]
+[Site "?"]
+[Date "1971.03.27"]
+[Round "5"]
+[White "Rubinetti, Jorge"]
+[Black "Planinc, Albin"]
+[Result "0-1"]
+[ECO "C02"]
+[WhiteElo "2425"]
+[BlackElo "2510"]
+[Annotator "JvR"]
+[PlyCount "60"]
+[EventDate "1971.03.??"]
+
+{Mar del Plata from iii until iv 1971 was the first Western tournament for
+Planinc. Polugaevsky ruled. Planinc competed with the rest and defeated many
+Argentinians.   } 1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4
+7. cxd4 Bd7 8. Nc3 Nxd4 9. Nxd4 Qxd4 10. O-O a6 11. Qe2 Ne7 12. Rd1 Qa7 $5 13.
+Bf4 Nc6 14. Rac1 g6 $5 15. h4 $6 {White makes a premature attack.} 15... Bg7
+16. h5 O-O 17. Bb1 Rac8 18. Rd3 d4 19. Ne4 $2 ({Right is} 19. Rcd1 $1) 19...
+Nxe5 $1 20. Rxc8 Rxc8 21. Rh3 Bb5 22. Qd1 Qb6 23. Ng5 $6 {
+This charge has no ground.} 23... h6 $1 24. hxg6 $6 hxg5 $1 25. Bxe5 Bxe5 26.
+f4 Bxf4 27. gxf7+ Kxf7 28. Rh7+ Kf6 29. Rh6+ Ke7 30. Rh7+ Kd6 {
+The offensive has ended after four checks. Black will counter by .. Rc1.} 0-1
+
+[Event "Mar del Plata"]
+[Site "?"]
+[Date "1971.03.30"]
+[Round "7"]
+[White "Pilnik, Herman"]
+[Black "Planinc, Albin"]
+[Result "0-1"]
+[ECO "C12"]
+[WhiteElo "2420"]
+[BlackElo "2510"]
+[Annotator "JvR"]
+[PlyCount "119"]
+[EventDate "1971.03.??"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. Nge2 Nf6 5. Bg5 dxe4 6. a3 Be7 7. Bxf6 gxf6 8.
+Nxe4 b6 9. Qd3 Bb7 10. O-O-O Nd7 $5 11. Kb1 f5 12. N4c3 c6 13. Nf4 Qc7 14. Qe3
+O-O-O 15. h4 Nf6 16. Be2 Rhg8 17. g3 Ng4 18. Bxg4 Rxg4 19. Rhe1 Kb8 20. Nce2 c5
+$5 {Planinc tries to achieve an advantage.} 21. dxc5 $2 {
+White reacts inadequately.} ({Correct is} 21. d5 e5 22. Nc3 $1 {and equality.})
+21... Rxd1+ 22. Rxd1 Bxc5 23. Qc3 Rg8 24. Nd3 Bd6 25. Qd2 $6 ({More active is} 
+25. Qf6) 25... Rc8 26. Nb4 Be5 27. f4 Bf6 28. Qd6 $6 a5 29. Qxc7+ Kxc7 {
+The two bishops become strong.} 30. Na2 Bf3 31. Rd2 Rg8 32. Nac3 Bxc3 33. Nxc3
+Rxg3 34. Nb5+ Kc6 35. Nd4+ Kc5 36. Nb3+ Kb5 37. Rd7 Rg1+ 38. Nc1 Bh5 39. Rc7
+Ka6 40. b4 axb4 41. axb4 Rf1 42. c4 b5 43. Rc6+ Kb7 44. cxb5 Be2 45. Rd6 Bxb5
+46. Rd4 Rh1 47. Kb2 Rxh4 48. Kb3 Rh2 49. Kc3 Rh3+ 50. Kb2 h5 51. Rd8 Rf3 52.
+Rf8 Rxf4 53. Nb3 Kc6 54. Kc3 e5 55. Rxf7 Rf3+ 56. Kd2 e4 57. Re7 Kd6 58. Re6+
+Kd5 59. Re7 h4 60. Rb7 0-1
+
+[Event "Mar del Plata"]
+[Site "?"]
+[Date "1971.04.02"]
+[Round "9"]
+[White "Mecking, Henrique"]
+[Black "Planinc, Albin"]
+[Result "0-1"]
+[ECO "C78"]
+[WhiteElo "2540"]
+[BlackElo "2510"]
+[Annotator "JvR"]
+[PlyCount "116"]
+[EventDate "1971.03.??"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Bb7 7. Re1 Bc5 8. c3
+O-O 9. d4 Bb6 10. Bg5 h6 11. Bh4 d6 12. Qd3 Na5 $5 {
+Planinc plays a new move in his variation.} 13. Bc2 c5 14. d5 c4 15. Qe2 g6 (
+15... g5 {will be played in Oll - Yakovich, Pinsk 1986.}) 16. Nbd2 Rc8 17. Rac1
+Kg7 18. b4 $5 cxb3 19. axb3 Qc7 20. c4 b4 21. Bxf6+ Kxf6 22. Ra1 Ra8 23. Rf1
+Bc8 24. Ne1 Nb7 25. Nd3 $1 a5 $1 26. Kh1 ({Or} 26. Nxb4 $5 Bd4 27. Ra2 Bd7 $1)
+26... Kg7 27. f4 exf4 28. Rxf4 Bd4 29. Rd1 Bd7 30. Rff1 Rae8 31. Qf3 Qd8 32.
+Qf4 Qe7 33. Nf3 Bc3 {The battle starts after long manoeuvring.} 34. Qe3 $6 (34.
+Qg3 $1 Qxe4 $5 35. Nc5 $1 Qxc2 36. Nxd7 Qxb3 37. Nxf8 Rxf8 38. Qf4 $1 {
+leads to great complications.}) 34... f5 $1 35. Qa7 $2 ({The accurate} 35. e5
+$1 dxe5 36. Ndxe5 Bc8 $1 37. Rfe1 $1 {gives counter-play,}) 35... fxe4 $1 36.
+Qxb7 exf3 37. gxf3 Bh3 38. Qxe7+ Rxe7 39. Rg1 Rxf3 {Black has gained a pawn.}
+40. c5 Re2 41. Rxg6+ $5 Kxg6 42. Nf4+ Kf7 43. Nxe2 Rf2 44. Nxc3 Rxc2 45. Na4
+dxc5 46. Nb6 Rf2 47. Na4 Rc2 48. Nb6 Ke8 49. d6 Rf2 50. Na4 c4 51. bxc4 Rf1+
+52. Rxf1 Bxf1 53. Nb2 Kd7 54. Kg1 Bh3 55. c5 Kc6 56. Na4 b3 57. Kf2 Kb5 58. Ke3
+Bd7 {
+Polugaevsky triumphed by 13/15. Planinc became seventh and scored 81/2 points.}
+0-1
+
+[Event "Vrsac"]
+[Site "Kostic mem"]
+[Date "1971.??.??"]
+[Round "?"]
+[White "Ljubojevic, Ljubomir"]
+[Black "Planinc, Albin"]
+[Result "0-1"]
+[ECO "C78"]
+[Annotator "JvR"]
+[PlyCount "70"]
+[EventDate "1971.09.20"]
+
+{The Kostic Memorial was played in Vrsac from ix until x 1971.} 1. e4 e5 2. Nf3
+Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Bb7 7. d4 Nxd4 8. Nxd4 exd4 9. e5 Ne4
+10. c3 d3 11. Qxd3 Nc5 12. Qg3 Nxb3 13. axb3 Qe7 14. Bg5 $5 ({Albin encountered
+} 14. b4 {in Bogdanovic - Planinc, Sarajevo 1970.}) 14... Qe6 15. f4 $5 f6 $5 {
+Planinc decides to sacrifice a queen.} (15... Qxb3 16. Nd2 $1 Qxb2 $1 17. f5 $1
+Bc5+ 18. Kh1 {brings a white centre attack.}) 16. exf6 Bc5+ 17. Kh1 gxf6 18.
+Re1 O-O-O 19. Rxe6 dxe6 20. Qe1 $1 fxg5 21. Nd2 $1 gxf4 22. Qxe6+ Kb8 23. Nf3
+Rhg8 24. c4 b4 25. Rf1 $2 {White has to defend despite the material plus.} ({
+Solid is} 25. Qf5 Be3 26. Qxh7 Rg4 27. Rf1 Rdg8 28. Qc2 c5 29. Qe2 Be4) 25...
+Rg6 26. Qf5 Be3 $1 27. h3 $1 Rg3 28. Qxh7 Bxf3 29. Rxf3 Rd1+ 30. Kh2 Bg1+ 31.
+Kh1 Rg7 $3 {Planinc decides the game wonderfully.} 32. Qh8+ ({The pointe is} 
+32. Qc2 Re1 33. Qd2 Bf2+ 34. Kh2 Bg3+ 35. Rxg3 fxg3#) 32... Kb7 33. Rd3 Re1 34.
+g3 Bd4+ 35. Kh2 Rge7 {Black threatens the white king and queen.   Mecking won
+by 111/2/15. Planinc became ninth and scored 8 points.} 0-1
+
+[Event "Skopje"]
+[Site "Solidarnost 5"]
+[Date "1971.11.23"]
+[Round "9"]
+[White "Planinc, Albin"]
+[Black "Tringov, Georgi"]
+[Result "1-0"]
+[ECO "A49"]
+[WhiteElo "2510"]
+[BlackElo "2490"]
+[Annotator "JvR"]
+[PlyCount "75"]
+[EventDate "1971.11.??"]
+
+{Peace and solidarity were loved in the communist states. The fifth
+Solidarnostevent was played from 13 xi until 2 xii 1971. I have fond memories
+of these tournaments, because I once won a prize in the section for endgame
+studies.   } 1. b3 Nf6 2. Bb2 g6 3. g3 Bg7 4. Bg2 O-O 5. Nf3 d6 6. d4 e5 7.
+dxe5 Nfd7 8. Nc3 dxe5 9. e4 c6 $5 10. O-O Re8 11. Ne2 Qc7 12. Ba3 Bf8 13. Bxf8
+Nxf8 14. Qd2 Bg4 15. Ne1 Bxe2 16. Qxe2 Na6 17. Nd3 Ne6 18. f4 exf4 19. gxf4
+Nac5 20. Nxc5 Nxc5 21. Rae1 Rad8 22. Kh1 Qa5 23. f5 $1 {
+White attacks on the kingside as reaction on black's initiative on the flank.}
+23... Qc3 24. Qf2 $6 ({Preferable is} 24. fxg6 hxg6 25. Qf2) 24... Rd7 $6 (
+24... Rd2 $1 25. Re2 Rxe2 26. Qxe2 Qe5 {gains a plus.}) 25. Qh4 a5 26. a3 Qe5
+$2 (26... Rd6 $1 {defends properly.}) 27. b4 $1 axb4 28. axb4 Na6 29. Re3 $1
+Nxb4 30. Rh3 h5 ({Not} 30... Qg7 $2 31. f6 Qh8 32. Qf2) 31. Rg3 $1 Rd6 32. Rg5
+Rf6 33. Rg1 $1 {The attack will be successful.} 33... Qd6 34. Bf3 Kg7 ({Or} 
+34... Kf8 35. fxg6 fxg6 36. e5 $1) 35. Rxh5 Kf8 36. Rh8+ Ke7 37. e5 $1 Qxe5 38.
+Re1 $1 1-0
+
+[Event "Skopje"]
+[Site "Solidarnost 5"]
+[Date "1971.11.30"]
+[Round "14"]
+[White "Gufeld, Eduard"]
+[Black "Planinc, Albin"]
+[Result "0-1"]
+[ECO "B06"]
+[WhiteElo "2520"]
+[BlackElo "2510"]
+[Annotator "JvR"]
+[PlyCount "80"]
+[EventDate "1971.11.??"]
+
+1. e4 g6 2. d4 Bg7 3. Nf3 d6 4. Bc4 Nf6 5. Qe2 O-O 6. O-O c6 7. Bb3 d5 8. Nbd2
+$5 ({Theory is} 8. e5 {(Koshnitsky - Averbakh, Adelaide 1960).}) 8... b6 9.
+exd5 cxd5 10. Re1 e6 11. Ne5 Ne8 $5 {Planinc has retreated completely.} 12.
+Ndf3 Nd6 13. Bf4 f6 14. Nd3 Nc6 15. Ba4 Na5 16. b4 $5 Ne4 $1 17. bxa5 Nc3 18.
+Qd2 Nxa4 19. Bh6 Bd7 20. Bxg7 Kxg7 21. Nf4 Re8 22. Qb4 Kf7 23. c4 $2 ({Right is
+} 23. axb6 {(Gufeld).}) 23... bxa5 24. Qa3 dxc4 $1 25. d5 $1 e5 $1 26. Ne6 Qe7
+27. Qc1 $2 (27. Qxe7+ Kxe7 28. Nc7 {(Gufeld)} 28... c3 {
+favours Black but keeps on fighting.}) 27... Rac8 28. h4 Nb6 29. h5 Nxd5 30.
+hxg6+ hxg6 31. Neg5+ $5 Kg7 $5 32. Ne4 c3 33. Rb1 Nb4 34. Re3 Bf5 35. Nh4 Bxe4
+36. Rxe4 f5 37. Nxg6 Kxg6 38. Re3 c2 39. Rb2 f4 40. Reb3 Red8 0-1
+
+[Event "Skopje"]
+[Site "Solidarnost 5"]
+[Date "1971.12.02"]
+[Round "15"]
+[White "Planinc, Albin"]
+[Black "Velimirovic, Dragoljub"]
+[Result "1-0"]
+[ECO "A04"]
+[WhiteElo "2510"]
+[BlackElo "2490"]
+[Annotator "JvR"]
+[PlyCount "85"]
+[EventDate "1971.11.??"]
+
+{Planinc trails Velimirovic by one point. 
+} 1. g3 g6 2. Bg2 Bg7 3. Nf3 c5 4.
+d4 cxd4 5. Nxd4 Nc6 6. Nb3 Nf6 7. Nc3 O-O 8. e4 d6 9. h3 Be6 10. O-O a5 $5 11.
+a4 Bxb3 12. cxb3 Nd7 13. Re1 Nc5 14. Bf1 Ne6 15. Be3 Ned4 16. Bc4 Kh8 17. h4
+Qd7 18. Kg2 h5 19. Nd5 Rad8 20. Rc1 e6 21. Nf4 e5 22. Nd5 f5 23. Bd3 Qe6 24.
+Bg5 $1 Rd7 $5 25. Nb6 fxe4 $5 26. Nxd7 Qxd7 27. Bxe4 {
+Velimirovic has sacrificed an exchange.} 27... Nf5 $2 (27... Qf7 $1 28. f4 d5
+$1 {battles.}) 28. Qd3 Nb4 29. Qb5 Qxb5 30. axb5 d5 31. Bxf5 Rxf5 32. Rc8+ Kh7
+33. Rc7 e4 34. Rxb7 Nd3 35. Re2 Nc5 36. Rc7 d4 37. Rc2 Ne6 38. Re7 d3 39. Rc6
+Nxg5 40. hxg5 Rd5 41. Rcc7 $1 d2 42. Rxg7+ Kh8 43. Rgd7 {Polugaevsky won
+superiorly by 12/15. Velimirovic and Planinc shared the second place by a
+score of 10 points.} 1-0
+
+[Event "Umag"]
+[Site "Yugoslav-ch 27"]
+[Date "1972.??.??"]
+[Round "9"]
+[White "Velimirovic, Dragoljub"]
+[Black "Planinc, Albin"]
+[Result "1/2-1/2"]
+[ECO "C78"]
+[WhiteElo "2500"]
+[BlackElo "2520"]
+[Annotator "JvR"]
+[PlyCount "40"]
+[EventDate "1972.02.??"]
+
+{Yugoslav championship twenty-seven was another event of twenty men. Planinc
+met many titleholders from ii until iii 1972.   } 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6
+4. Ba4 Nf6 5. O-O b5 6. Bb3 Bb7 7. a4 Be7 {
+Planinc could have played his pet .. Bc5.} 8. axb5 axb5 9. Rxa8 Qxa8 10. Nc3
+O-O $1 11. d3 ({The pointe is} 11. Nxb5 $5 Na5 $1) 11... Na5 $1 {
+Albin attacks white pieces at the expense of a pawn.} 12. Nxe5 Nxb3 13. cxb3 b4
+14. Ne2 d5 15. Ng3 $5 ({More quiet is} 15. exd5 Bxd5 16. Nf4 {
+and Black has enough payoff for the pawn.}) 15... dxe4 16. Nf5 Re8 17. Qd2 Qa6
+$5 {The showdown between the two fighters reaches a highlight.} 18. Nxg7 $5 (
+18. Qg5 $1 g6 19. Nxe7+ Rxe7 20. Ng4 Re6 21. Nxf6+ Rxf6 22. dxe4 Bxe4 23. Bd2 {
+takes the initiative.}) 18... Kxg7 19. Qg5+ Kf8 20. Qh6+ Kg8 {
+White draws by perpetual check.} 1/2-1/2
+
+[Event "Umag"]
+[Site "Yugoslav-ch 27"]
+[Date "1972.??.??"]
+[Round "19"]
+[White "Planinc, Albin"]
+[Black "Matulovic, Milan"]
+[Result "1-0"]
+[ECO "A04"]
+[WhiteElo "2520"]
+[BlackElo "2525"]
+[Annotator "JvR"]
+[PlyCount "63"]
+[EventDate "1972.02.??"]
+
+{Planinc no longer routinely plays an open game. He applies Fianchettos since
+1971.} 1. g3 g6 2. Bg2 Bg7 3. Nf3 e5 4. O-O d6 5. d4 e4 $5 6. Ng5 d5 7. c4 ({
+The more aggressive} 7. f3 $5 {will be used in Schwarz - Maus, Germany 1993.})
+7... h6 8. Nh3 dxc4 9. Nc3 Nf6 $1 {Black averts the tactics and develops.} 10.
+b3 $5 O-O $5 11. bxc4 Nc6 12. e3 g5 13. Kh1 $5 Re8 14. Bd2 Bf5 15. Ng1 {
+White defends.} 15... Qd7 16. h3 Rad8 17. g4 Bg6 18. Nge2 h5 $1 19. gxh5 $6 ({
+Wiser is} 19. Ng3 hxg4 20. hxg4) 19... Bxh5 20. Rb1 $5 Bf3 $1 21. Kh2 g4 $1 22.
+Bxf3 gxf3 $6 (22... exf3 $1 23. Nf4 Nxd4 $1 24. exd4 Qxd4 {
+proceeds the offensive.}) 23. Ng3 $5 Kh7 $5 24. Rb5 $5 Rh8 $2 {
+Black hopes for a decisive attack on h3.} ({Correct is} 24... b6 $1) 25. Ncxe4
+$1 Kg8 26. Nxf6+ Bxf6 27. Nh5 Qd6+ 28. Kh1 Bxd4 29. exd4 Qxd4 30. Qxf3 $1 Qxc4
+({Or} 30... Qxd2 31. Qg4+ Kf8 32. Qg7+ Ke7 33. Qf6+ Kd7 34. Rd5+) 31. Re1 Nd4
+32. Qg2+ {Planinc delivers mate in one.   Ivkov won by 12/19. Planinc shared
+the seventh place by a score of 101/2 points.} 1-0
+
+[Event "Zagreb"]
+[Site "?"]
+[Date "1972.??.??"]
+[Round "1"]
+[White "Velimirovic, Dragoljub"]
+[Black "Planinc, Albin"]
+[Result "0-1"]
+[ECO "C41"]
+[Annotator "JvR"]
+[PlyCount "54"]
+[EventDate "1972.07.??"]
+
+{Planinc had become a grandmaster when he entered Zagreb x 1972. Leonid Stein
+was the star player.   } 1. e4 e5 2. Nf3 d6 3. d4 Nf6 4. Nc3 Nbd7 5. Bc4 Be7 6.
+O-O O-O 7. Qe2 c6 8. Rd1 Qc7 9. dxe5 dxe5 10. a4 Nc5 11. h3 a5 $5 (11... Be6 {
+drew in Tarrasch - Reti, Maehrisch Ostrau 1923.}) 12. Nh4 g6 $5 13. Bh6 $1 Re8
+14. Qf3 $6 ({Velimirovic never retreats though} 14. Nf3 $1 Nh5 15. Ng5 Bxg5 16.
+Bxg5 {gives a plus.}) 14... Be6 15. Bxe6 Nxe6 16. Ne2 Red8 {
+Velimirovic should defend.} 17. Nf5 $2 gxf5 18. exf5 Ng7 $1 19. g4 e4 $1 20.
+Qc3 Rxd1+ 21. Rxd1 Rd8 22. Rxd8+ Qxd8 23. Ng3 Qd1+ 24. Kh2 Nge8 $1 {
+Planinc keeps the resistance closed.} 25. Be3 ({The pointe is} 25. g5 $5 Nd5
+26. Qe5 Qe1 $1 27. Kg2 e3 $1) 25... Qf3 26. Qxa5 Bd6 27. Ba7 e3 0-1
+
+[Event "Zagreb"]
+[Site "?"]
+[Date "1972.??.??"]
+[Round "13"]
+[White "Planinc, Albin"]
+[Black "Kovacevic, Vlatko"]
+[Result "1-0"]
+[ECO "A04"]
+[Annotator "JvR"]
+[PlyCount "53"]
+[EventDate "1972.07.??"]
+
+1. g3 f5 2. Bg2 Nf6 3. Nf3 g6 4. b4 $5 {
+Planinc brings another aggressive novelty.} 4... Bg7 5. Bb2 d6 6. O-O O-O 7. c4
+e5 8. d3 c6 9. a4 Kh8 10. a5 Be6 11. Nc3 Bg8 12. Qc2 a6 13. c5 $5 Nd5 $2 ({
+Better is} 13... dxc5 14. bxc5 Nbd7) 14. Na4 Nd7 15. cxd6 Nxb4 16. Qd2 $1 Qxa5
+17. Rfc1 Qb5 $5 {Black has no serious defence.} 18. Nxe5 $1 Bxe5 19. Rc5 $1 {
+Planinc has caught the queen by a mating combination.} 19... Nd5 ({The point is
+} 19... Nxc5 20. Bxe5+ Rf6 21. Bxf6#) 20. Rxb5 axb5 21. Nc5 Rxa1+ 22. Bxa1 Bxa1
+23. Nxd7 Ra8 24. Bxd5 cxd5 25. d4 Ra4 26. Qh6 Bxd4 27. Nf8 {
+Stein won by 91/2/13 superiorly. Planinc became fifth by 71/2 points.} 1-0
+
+[Event "Novi Sad"]
+[Site "?"]
+[Date "1972.??.??"]
+[Round "?"]
+[White "Planinc, Albin"]
+[Black "Lengyel, Levente"]
+[Result "1-0"]
+[ECO "A01"]
+[Annotator "JvR"]
+[PlyCount "67"]
+[EventDate "1972.10.??"]
+
+{Planinc also played in Novi Sad x 1972. 
+} 1. b3 e5 2. Bb2 Nc6 3. e3 d5 4.
+Bb5 Bd6 5. f4 Qh4+ $5 ({Known is} 5... Qe7) 6. g3 Qe7 7. Nf3 Bg4 $1 {
+Black has to make an accurate move.} ({Doubtful is} 7... f6 8. fxe5 fxe5 9.
+Bxc6+ bxc6 10. Nxe5 $1 Nf6 $5 {(Bulat - Krnic, Sarajevo 1974)} 11. Nxc6 $1) 8.
+h3 Bxf3 9. Qxf3 Nf6 10. Nc3 a6 11. Bxc6+ bxc6 12. O-O-O $5 Nd7 13. Kb1 a5 14.
+fxe5 Nxe5 15. Qg2 O-O 16. d4 $1 Nc4 $2 {Black miscalculates.} ({Correct is} 
+16... Nd7 17. e4 a4 18. exd5 cxd5 {and a great fight.}) 17. bxc4 Ba3 18. c5 $1
+Rfb8 19. Na4 Bxb2 (19... Rb4 $5 20. Rd3 $1 {refutes the attack (Minev).}) 20.
+Nxb2 Rb7 21. Ka1 a4 22. Qd2 Qg5 23. g4 Re8 24. Nd3 Rxe3 25. Rb1 Rxb1+ 26. Rxb1
+h6 27. h4 Qe7 28. Qf2 Qe4 29. Rb8+ Kh7 30. Qxf7 Qxd4+ 31. Kb1 Qxg4 32. h5 Qe6
+33. Qf8 Re1+ 34. Kb2 {
+Lein won by 12/15. Planinc scored 91/2 points and shared the third place.} 1-0
+
+[Event "Wijk aan Zee"]
+[Site "Hoogovens"]
+[Date "1973.01.??"]
+[Round "2"]
+[White "Donner, Jan Hein"]
+[Black "Planinc, Albin"]
+[Result "0-1"]
+[ECO "A61"]
+[WhiteElo "2470"]
+[BlackElo "2520"]
+[Annotator "JvR"]
+[PlyCount "44"]
+[EventDate "1973.01.13"]
+
+{Planinc took part for two years in Western European tournaments. He made
+furore with his attacking style. The adventure started in Hoogovens January
+1973.   } 1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. Nf3 g6 7. Nd2
+Bg7 8. Nc4 O-O 9. Bf4 b6 $5 {Planinc sacrifices.} ({Theory is} 9... Ne8 {
+(Donner - Spassky, Leiden 1970).}) 10. Bxd6 Re8 11. Bg3 Ne4 12. Nxe4 Rxe4 13.
+e3 b5 14. Nd6 Rb4 15. Bxb5 $5 ({More prudent} 15. Be2 {
+(Garcia Ilundain - Spraggett, Ampuriabrava 1997).}) 15... Bf8 16. Bc6 Ba6 $2 (
+16... Nxc6 17. dxc6 Ba6 {precedes to an unclear position (Trifunovic).}) 17.
+Bxa8 $1 Rxb2 {Donner should win.} 18. Qa4 $4 ({Right is} 18. Ne4 $1 {
+(Trifunovic)} 18... Qa5+ 19. Nd2 {and Black has given away a rook.}) 18... Qf6
+$1 19. Rc1 Bxd6 20. f4 Qf5 21. e4 Re2+ 22. Kd1 Qh5 {The white attack will be
+passed after one check.   Donner underwent one of his fast losses.} 0-1
+
+[Event "Wijk aan Zee"]
+[Site "Hoogovens"]
+[Date "1973.01.??"]
+[Round "3"]
+[White "Planinc, Albin"]
+[Black "Najdorf, Miguel"]
+[Result "1-0"]
+[ECO "B99"]
+[WhiteElo "2520"]
+[BlackElo "2540"]
+[Annotator "JvR"]
+[PlyCount "39"]
+[EventDate "1973.01.13"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 Nbd7 7. f4 e6 8. Qf3
+Be7 9. O-O-O Qc7 10. Bd3 h6 11. Qh3 Nc5 $5 ({Theory is} 11... Nb6) 12. Rhe1 Rg8
+$2 ({The drastic} 12... O-O $2 13. Bxh6 $1 {loses at once.}) ({Trifunovic'} 
+12... e5 $1 13. Nf5 Bxf5 14. exf5 O-O-O {favours White.}) 13. e5 $1 dxe5 14.
+fxe5 hxg5 15. exf6 Bxf6 $2 ({Better is} 15... gxf6 {
+and White has no immediate win, but} 16. Kb1 $1 Nxd3 17. Qxd3 Bd7 18. Qh7 O-O-O
+19. Qxf7 {attacks strongly.}) 16. Nd5 $1 Qd8 17. Bh7 $2 (17. Nf5 {
+will be played in Plaskett-Rechel, West Bromwich 2003.}) ({However,} 17. Qh7 $1
+Rf8 18. Nxf6+ Qxf6 19. Rf1 {leads to a decisive attack.}) 17... Rh8 $2 ({
+The astonishing} 17... Qxd5 $3 18. Bxg8 Qxa2 19. Bxf7+ $1 Kxf7 20. Qh5+ {
+brings perpetual check.}) 18. Nf5 $1 {Planinc crushes another grandmaster.}
+18... g4 19. Qg3 $1 {White threatens 20. Nc7+.} 19... Kf8 20. Nxf6 ({
+The pointe is} 20. Nxf6 Qxf6 21. Qd6+ Ke8 22. Nxg7+ Qxg7 23. Qd8#) 1-0
+
+[Event "Wijk aan Zee"]
+[Site "Hoogovens"]
+[Date "1973.01.??"]
+[Round "14"]
+[White "Planinc, Albin"]
+[Black "Ribli, Zoltan"]
+[Result "1-0"]
+[ECO "B81"]
+[WhiteElo "2520"]
+[BlackElo "2505"]
+[Annotator "JvR"]
+[PlyCount "79"]
+[EventDate "1973.01.13"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e6 6. g4 a6 7. Bg2 Nc6 8. Nxc6
+bxc6 9. e5 Nd5 10. exd6 Qxd6 $5 (10... Bxd6 {
+drew in Dueckstein - AMJ van den Berg, Luzern 1963.}) 11. Ne4 Qc7 12. c4 Nf4 $1
+13. Bxf4 Qxf4 14. Nf6+ $1 Ke7 $1 {Planinc plays another remarkable game.} 15.
+Ne4 h5 16. Qa4 Rb8 17. Rd1 f6 18. Nd6 $1 Bd7 19. Qxa6 Qe5+ 20. Be4 $6 Qc5 $2 ({
+Ribli misses} 20... Rxb2 $1 21. Qa7 Qc3+ 22. Kf1 Rd2 23. Rxd2 Qxd2 24. c5 Qd1+
+{and perpetual check.}) 21. O-O $1 hxg4 22. Rfe1 $2 ({Better is} 22. Nb7 $1 Qe5
+23. Qa3+ c5 24. Qxc5+ {and White gains an advantage.}) 22... Rxb2 $1 23. Nf5+
+$5 exf5 24. Bxf5+ Kf7 25. Rxd7+ Kg8 26. Be6+ Kh7 27. Re3 Kg6 28. Bxg4 Rxh2 $1
+29. Be2 ({Not} 29. Kxh2 $2 Rxf2+) 29... Rxe2 $2 (29... Rxf2 $1 30. Kxf2 Qf5+
+31. Rf3 Qxd7 {will win.}) 30. Rxe2 Qh5 $2 (30... Rh4 $1 31. Rd3 Bd6 32. Ree3
+Qg5+ 33. Rg3 Bxg3 34. Rxg3 Rg4 {draws.}) 31. Qxc6 Rh4 32. Re3 Kh7 33. Qd5 f5
+34. Rf7 Bc5 35. Rg3 Rg4 36. Rxg4 Qxg4+ 37. Kf1 Qh3+ 38. Ke2 Qg4+ 39. Kd2 Qf4+
+40. Kd3 {
+Tal won by 101/2/15. Planinc shared the fourth place and scored 81/2 points.}
+1-0
+
+[Event "Ljubljana/Portoroz"]
+[Site "Vidmar mem 2"]
+[Date "1973.??.??"]
+[Round "5"]
+[White "Quinteros, Miguel"]
+[Black "Planinc, Albin"]
+[Result "0-1"]
+[ECO "A50"]
+[Annotator "JvR"]
+[PlyCount "72"]
+[EventDate "1973.04.??"]
+
+{LJUBLJANA/PORTOROZ 1973  It took four years until the second Vidmar Memorial
+happened. They played in the city of Ljubljana and the seaside resort of
+Portoroz in iv 1973. Planinc' games were the most interesting ones. But,
+Portisch won the tournament in a solid style.   } 1. c4 b6 2. Nc3 Bb7 3. d4 Nf6
+4. Qc2 d5 5. cxd5 Nxd5 6. Nf3 Nxc3 7. bxc3 g6 8. e4 Bg7 9. Bb5+ Nd7 $5 ({
+Planinc played} 9... c6 {against Gligoric in the first round.}) 10. O-O O-O 11.
+Bf4 a6 12. Bd3 Re8 13. Rad1 c5 14. a4 e6 15. Rfe1 h6 16. h4 Qc8 $5 17. Qd2 h5
+18. Bh6 Bh8 $5 19. d5 $6 (19. e5 $1 {keeps a positional edge.}) 19... c4 $1 20.
+dxe6 $5 cxd3 $1 {Naturally, Planinc accepts the challenge of a piece sacrifice.
+} 21. exf7+ Kxf7 22. Qa2+ $1 Ke7 23. Rxd3 Nc5 $1 24. Bg5+ Bf6 $5 (24... Kf8 25.
+Bh6+ {repeats the moves, but Planinc wants more.}) 25. Bxf6+ Kxf6 26. Rd6+ Kg7
+27. Ng5 $1 {Quinteros continues the attack.} 27... Qc7 $2 ({Better is} 27...
+Re7 28. c4 Qe8 $1) 28. Red1 $2 (28. Qd2 $1 Qe7 29. Qd4+ Kh6 30. f4 $1 {wins.})
+28... Re7 29. e5 $5 Rf8 30. e6 $2 {Quinteros misses a spectacular finish.} ({
+Right is} 30. Qb1 $1 Rf5 31. Rxg6+ $1 Kxg6 32. Rd6+ Qxd6 33. exd6 Rd7 34. Qxb6
+Rd5 35. c4 R7xd6 36. Qc7 Rd7 37. Qb6+ {drawn.}) 30... Bc6 31. Qc4 Rf5 32. Qd4+
+Kg8 33. Rd8+ Be8 34. Nf7 $2 Nxe6 $1 35. Nh6+ Kh7 36. Qe3 Nxd8 0-1
+
+[Event "Ljubljana/Portoroz"]
+[Site "Vidmar mem 2"]
+[Date "1973.??.??"]
+[Round "7"]
+[White "Smejkal, Jan"]
+[Black "Planinc, Albin"]
+[Result "0-1"]
+[ECO "E69"]
+[Annotator "JvR"]
+[PlyCount "76"]
+[EventDate "1973.04.??"]
+
+1. Nf3 Nf6 2. g3 g6 3. d4 Bg7 4. Bg2 O-O 5. O-O d6 6. c4 Nbd7 7. Nc3 e5 8. e4
+exd4 9. Nxd4 Re8 10. h3 Nc5 11. Re1 a5 12. Qc2 c6 13. Be3 a4 14. Rab1 Bd7 15.
+b4 $5 {Black gets a hard pressure on pawn e4.} 15... axb3 16. axb3 Qe7 $1 17.
+Rbd1 $2 (17. f3 {(Karkanaque - Cunningham, Luzern 1982) is better.}) 17...
+Nfxe4 18. Bf4 f5 19. Nxe4 Nxe4 20. f3 g5 $1 21. Bc1 Bxd4+ 22. Rxd4 {
+They overlook some tactics.} 22... Qe5 $2 (22... Qg7 $1 23. Bb2 Nxg3 24. Rxe8+
+Bxe8 25. Rxd6 Qe7 {favours Black.}) 23. Bb2 $2 (23. Rdd1 $1 Qc3 {(Minic)} 24.
+Qxc3 $1 Nxc3 25. Rxe8+ Rxe8 26. Rxd6 {draws.}) 23... Ra2 $1 24. Qc1 Qxg3 25.
+Re2 ({Or} 25. fxe4 Rxb2 $1) 25... c5 26. Rd1 f4 $5 ({The simple} 26... Nf6 {
+is missed. Planinc plays an exciting finale instead.}) 27. fxe4 f3 $1 28. Rd3
+Rf8 $1 29. Rf2 Bxh3 $1 30. Rdd2 Rf4 31. Qc3 Rxb2 $1 32. Rxb2 Bxg2 33. Rxg2 f2+
+$1 34. Rbxf2 Qxc3 35. Rxf4 h6 36. Rf5 Qxb3 37. Rd5 Qxc4 38. Rxd6 $2 Qc1+ 0-1
+
+[Event "Ljubljana/Portoroz"]
+[Site "Vidmar mem 2"]
+[Date "1973.??.??"]
+[Round "12"]
+[White "Planinc, Albin"]
+[Black "Portisch, Lajos"]
+[Result "1/2-1/2"]
+[ECO "C34"]
+[Annotator "JvR"]
+[PlyCount "113"]
+[EventDate "1973.04.??"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 d6 4. d4 g5 5. h4 g4 6. Ng1 Qf6 7. Nc3 Ne7 $5 8.
+Nge2 Bh6 9. Qd2 Bd7 10. g3 Nbc6 11. gxf4 O-O-O {
+They play the King's Gambit in the old- fashioned style, but the line is new.}
+12. Bg2 Qg7 $6 {Black loses his plus.} ({Better is} 12... Rde8 $1) 13. d5 Ne5
+$1 14. Qe3 Kb8 15. Qf2 g3 $5 16. Qg1 $5 {Planinc avoids the endgame.} 16... Ng4
+17. Rh3 Qf6 18. Rxg3 Rhg8 19. Bd2 Ng6 20. Bh3 Qxh4 21. O-O-O Ne7 22. Be1 Qh5
+23. Kb1 Nf6 $2 {White begins to miss opportunities.} 24. Qd4 (24. Bxd7 $1 Nxd7
+25. Bf2 a6 26. Qh1 {leads to a superior endgame.}) 24... Bxh3 25. Qxf6 Nc8 26.
+Bf2 Bd7 27. Rdg1 Rge8 28. Nd4 Bf8 29. Nf3 Qh6 30. Qd4 (30. Qxh6 $1 Bxh6 31. f5
+$1 {brings a horrible restraint in the endgame.}) 30... Be7 31. Be3 Bf6 32. e5
+$1 Bh8 33. Qd3 Qh5 34. Rg5 Qh6 35. R5g2 Qh5 36. Ne4 Ka8 37. Bd2 (37. Rh2 $1
+Qxf3 38. Ng5 {catches a queen.}) 37... Qf5 38. Rg5 Qh3 39. Nf2 Qh6 40. Rh1 Qf8
+41. Rxh7 dxe5 42. fxe5 f6 43. Rgh5 Bg7 44. Qg6 fxe5 45. Rxg7 Qxf3 46. Rxd7 Qxf2
+47. Bc1 Qb6 48. Qf5 a6 49. Rxd8 Rxd8 50. Qxe5 Qd6 51. Qe4 $6 Nb6 52. c4 Nxc4
+53. Rh7 Nb6 54. Bf4 Qxd5 55. Qxd5 Nxd5 56. Bxc7 Nxc7 57. Rxc7 {Portisch won
+the event by 121/2/17, one-and-a-half point ahead of the pursuers. Planinc
+scored 9 points. He made many draws because several opponents escaped.} 1/2-1/2
+
+[Event "Amsterdam"]
+[Site "IBM 13"]
+[Date "1973.??.??"]
+[Round "4"]
+[White "Marovic, Drazen"]
+[Black "Planinc, Albin"]
+[Result "0-1"]
+[ECO "A62"]
+[WhiteElo "2480"]
+[BlackElo "2525"]
+[Annotator "JvR"]
+[PlyCount "56"]
+[EventDate "1973.07.??"]
+
+{An enigmatic person was Albin Planinc, spelled Planinec later. He played for
+five hours fully concentrated. When the game was over, he skipped the
+postmortem and went to his room immediately.   } 1. c4 Nf6 2. d4 c5 3. d5 e6 4.
+Nc3 exd5 5. cxd5 d6 6. Nf3 g6 7. g3 Bg7 8. Bg2 O-O 9. O-O Na6 10. h3 Bd7 11. e4
+$5 ({Marovic played} 11. Bf4 {in their previous game (Zagreb 1972).}) 11... Qc8
+12. Kh2 Re8 13. Re1 c4 $1 14. e5 dxe5 15. Nxe5 Bf5 16. Bg5 Nb4 $1 {Planinc carr
+ies out a simple but effective plan in his favourite Ben-Oni. He will utilise
+square d3.} 17. Rc1 $2 (17. Re2 $1 h6 18. Bxf6 Bxf6 19. Ng4 Bxg4 20. Rxe8+ Qxe8
+21. Qxg4 {defends well.}) 17... Nd7 $1 18. Nxd7 Qxd7 19. Rxe8+ Rxe8 20. Qd2 Nd3
+21. Rd1 b5 22. g4 b4 23. Ne2 $2 (23. gxf5 bxc3 24. bxc3 Qxf5 25. Be3 {
+avoids a disaster.}) 23... Be4 24. Bxe4 Rxe4 25. f3 Re8 26. b3 Qxd5 27. bxc4
+Qxf3 28. Ng1 Be5+ 0-1
+
+[Event "Amsterdam"]
+[Site "IBM 13"]
+[Date "1973.??.??"]
+[Round "8"]
+[White "Planinc, Albin"]
+[Black "Timman, Jan"]
+[Result "1-0"]
+[ECO "C19"]
+[WhiteElo "2525"]
+[BlackElo "2470"]
+[Annotator "JvR"]
+[PlyCount "71"]
+[EventDate "1973.07.??"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. Nf3 Nbc6 8.
+Be2 Qa5 9. Bd2 c4 10. Ng5 $5 h6 11. Nh3 Ng6 12. a4 ({
+Planinc will beat Timman by} 12. Bh5 {Wijk aan Zee 1974}) ({and by} 12. O-O {
+in Amsterdam 1974.}) 12... Bd7 13. O-O O-O-O $5 14. Bh5 $1 Nce7 15. Qe1 Kb8 16.
+f4 Ka8 $5 17. Bc1 f5 $5 18. exf6 gxf6 19. f5 $5 exf5 20. Ba3 {
+White has the initiative.} 20... Rhe8 21. Qd2 Rg8 22. Bb4 Qc7 23. Rae1 Bxa4 $2
+{Timman allows an attack in the centre.} 24. Nf4 $1 Qd7 25. Rf2 ({
+Even stronger is} 25. Ne6 $1 Rde8 26. Nc5) 25... b6 26. Rfe2 Nxf4 27. Rxe7 Nxg2
+28. Rxd7 Nxe1+ 29. Kf1 Rxd7 30. Qxe1 Rg5 ({Or} 30... Rdg7 31. Qe6 $1) 31. h4
+Rxh5 32. Qe8+ Kb7 33. Qxh5 a5 34. Bf8 Bxc2 35. Qxh6 Be4 36. Qxf6 1-0
+
+[Event "Amsterdam"]
+[Site "IBM 13"]
+[Date "1973.??.??"]
+[Round "9"]
+[White "Ribli, Zoltan"]
+[Black "Planinc, Albin"]
+[Result "0-1"]
+[ECO "E69"]
+[WhiteElo "2525"]
+[BlackElo "2525"]
+[Annotator "JvR"]
+[PlyCount "64"]
+[EventDate "1973.07.??"]
+
+1. Nf3 g6 2. d4 Bg7 3. c4 Nf6 4. g3 O-O 5. Bg2 d6 6. Nc3 Nbd7 7. O-O e5 8. e4
+Re8 9. h3 exd4 10. Nxd4 Nc5 11. Re1 a5 12. Rb1 c6 13. Bf4 a4 14. b4 {
+They play a modern Kings Indian.} 14... axb3 15. axb3 h6 $5 (15... Nh5 {
+was played in Doda - Hort, Varna 1962.}) 16. b4 Ne6 17. Nxe6 Bxe6 18. Bxd6 Bxc4
+19. e5 $1 {Ribli takes the initiative.} 19... Nd7 20. f4 f6 $1 21. b5 fxe5 22.
+bxc6 bxc6 23. Bxc6 Ra6 {A complicated position has arisen.} 24. Qf3 $4 ({
+The accurate} 24. Bd5+ Bxd5 25. Qxd5+ Kh7 26. fxe5 Nxe5 {draws (Petrosian).})
+24... e4 $3 {Black intervenes on a long diagonal.} 25. Bxd7 $6 ({Better is} 25.
+Rxe4 Rxc6 26. Rxe8+ Qxe8 27. Qxc6 Qe3+ 28. Kh2 {(Petrosian), but} 28... Qd2+ $1
+29. Qg2 Qxd6 {wins material.}) 25... Bd4+ 26. Kh2 Rxd6 27. Nxe4 Rxd7 28. f5
+gxf5 29. Qxf5 Rf8 30. Qh5 Bg7 31. h4 Bd3 32. Rbd1 Bxe4 {
+Planinc had scored a sensational 71/2/9. Petrosian followed by two points.} 0-1
+
+[Event "Amsterdam"]
+[Site "IBM 13"]
+[Date "1973.??.??"]
+[Round "11"]
+[White "Petrosian, Tigran V"]
+[Black "Planinc, Albin"]
+[Result "1-0"]
+[ECO "A24"]
+[WhiteElo "2640"]
+[BlackElo "2525"]
+[Annotator "JvR"]
+[PlyCount "77"]
+[EventDate "1973.07.??"]
+
+1. c4 Nf6 2. Nc3 g6 3. Nf3 Bg7 4. g3 O-O 5. Bg2 d6 6. O-O e5 7. d3 Re8 8. Bd2
+c6 9. Rc1 a5 $5 10. a3 Na6 11. Be3 Rb8 12. Qb3 Nd7 13. Qc2 Ndc5 14. Rfd1 Bf5
+15. Rb1 Ne6 16. b4 Nd4 17. Qa2 axb4 18. axb4 Ra8 19. Qd2 Nc7 20. Bh6 {
+Little happens in a game when Petrosian plays safely. Planinc cannot sit still.
+} 20... Nxf3+ $6 ({Better is} 20... Bg4 $5) 21. Bxf3 Bh8 $2 (21... d5 $1 {
+counters timely (Petrosian).}) 22. b5 $1 Qd7 23. Rdc1 Be6 24. Qe3 Ra3 (24... d5
+$1 {brings the proper activity.}) 25. Bg2 Rc8 26. bxc6 bxc6 27. Rb7 Bg7 28.
+Bxg7 Kxg7 29. c5 $1 {Pawn c6 will become a target.} 29... Ra5 30. cxd6 Qxd6 31.
+Ne4 Qd4 32. Qxd4 exd4 33. Nd6 Rd8 34. Nxf7 $1 Bxf7 35. Rxc7 Re5 36. Be4 Rde8
+37. R1xc6 Kg8 38. Rd6 Be6 39. Rxd4 {
+The gap with Planinc had shrimped to half-a-point.} 1-0
+
+[Event "Amsterdam"]
+[Site "IBM 13"]
+[Date "1973.??.??"]
+[Round "14"]
+[White "Planinc, Albin"]
+[Black "Spassky, Boris"]
+[Result "1/2-1/2"]
+[ECO "C95"]
+[WhiteElo "2525"]
+[BlackElo "2655"]
+[Annotator "JvR"]
+[PlyCount "80"]
+[EventDate "1973.07.??"]
+
+{Petrosian and Kavalek played a quick draw. They expected a win by Spassky. 
+
+} 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+O-O 9. h3 Nb8 10. d4 Nbd7 {Boris plays his beloved Breyer Variation.} 11. Nbd2
+Bb7 12. Bc2 Re8 13. b4 Bf8 14. a4 Nb6 15. a5 Nbd7 16. Bb2 Rb8 $5 ({
+Spassky played} 16... Qb8 {versus Fischer in Reykjavik 1972.}) 17. Rb1 Ba8 18.
+Ba1 g6 19. c4 $5 exd4 20. cxb5 axb5 21. Nxd4 d5 $5 {
+Boris makes his favourite move.} 22. N4f3 $5 dxe4 23. Ng5 e3 $1 24. Bb3 $5 Bd5
+$5 25. fxe3 c6 $6 ({Preferable is} 25... Qe7 $1 26. Bxd5 Nxd5) 26. e4 $1 Bxb3
+27. Qxb3 Qe7 28. Ndf3 $6 (28. Rf1 $1 {gains a plus (Petrosian).}) 28... h6 $1
+29. e5 $1 Nd5 30. e6 $5 ({Timman prefers} 30. Ne4) 30... hxg5 $1 31. exd7 Qxd7
+32. Ne5 Qd6 33. Qf3 $5 f5 $5 34. Bd4 $2 ({Right is} 34. Nd3 $1 Rxe1+ 35. Rxe1
+Nxb4 36. Be5 Qxd3 37. Bxb8) 34... Nxb4 {Black has won two pawns.} 35. Qb3+ Qd5
+$2 (35... Nd5 $1 {reorganises the defence.}) 36. Qxd5+ cxd5 37. Nd7 Rxe1+ 38.
+Rxe1 Ra8 39. Re6 Nc2 $1 40. Be5 Bb4 {White has a sufficient counter-play.
+Spassky highly praised Planinc.   The top of the table remained unchanged.}
+1/2-1/2
+
+[Event "Amsterdam"]
+[Site "IBM 13"]
+[Date "1973.??.??"]
+[Round "15"]
+[White "Enklaar, Bertus"]
+[Black "Planinc, Albin"]
+[Result "0-1"]
+[ECO "C78"]
+[WhiteElo "2445"]
+[BlackElo "2525"]
+[Annotator "JvR"]
+[PlyCount "52"]
+[EventDate "1973.07.??"]
+
+{The public was excited by the tournament. 1300 visitors attended to the last
+round. Kavalek could not break the defence of Szabo and Petrosian outplayed
+Radulov. Planinc encountered Enklaar.   } 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4
+Nf6 5. O-O b5 6. Bb3 Bb7 {He plays the Planinc Variation of the Ruy Lopez.} 7.
+Re1 Bc5 8. c3 O-O 9. d4 Bb6 10. Bg5 h6 11. Bh4 d6 12. a4 exd4 13. axb5 axb5 14.
+Rxa8 Bxa8 15. cxd4 Re8 16. Nc3 g5 17. Bg3 Na5 18. d5 $5 ({Enklaar improves on} 
+18. e5 $6 {(Ciocaltea - Planinc, Vidmar Memorial 1973).}) 18... b4 $1 19. Ba4
+$6 Re7 $1 {Planinc takes a positional plus after a long thought.} 20. Na2 Nxe4
+21. Nxb4 f5 22. Bc2 Qe8 $1 {The white position has become horrible.} 23. Nd4 $2
+(23. Ba4 $1 Qg6 $1 24. Nd2 f4 25. Rxe4 Rxe4 26. Bc2 $1 {fights on.}) 23... f4
+$1 24. Nf5 Re5 25. Nxh6+ Kg7 26. Ng4 $6 ({Or} 26. Nf5+ Rxf5 27. Rxe4 Re5) 26...
+Nxf2 $1 {Petrosian and Planinc won by a score of ten. Kavalek followed at
+half-a-point and Spassky at one point.   Our hero had scored the greatest
+success of his career. The slender Albin Planinc looked to the reporter Minze
+bij de Weg like a heron.} (26... Nxf2 27. Bxf2 Rxe1+ 28. Qxe1 Qxe1# {
+ends the tournament with a bang.}) 0-1
+
+[Event "Madrid"]
+[Site "Madrid"]
+[Date "1973.12.05"]
+[Round "8"]
+[White "Panno, Oscar"]
+[Black "Planinc, Albin"]
+[Result "0-1"]
+[ECO "D07"]
+[WhiteElo "2585"]
+[BlackElo "2525"]
+[Annotator "JvR"]
+[PlyCount "110"]
+[EventDate "1973.11.26"]
+
+{Planinc played from 26 xi until 15 xii in Madrid. It became his least
+successful tournament of 1973.   } 1. Nf3 Nc6 2. c4 e6 3. d4 d5 4. e3 Bb4+ 5.
+Bd2 $5 {The irregular opening has changed into an odd Chigorin Defence.} (5.
+Nc3 {5. Nc3 stems from Gattie - Gossip, London 1883.}) 5... a5 $5 6. Bxb4 axb4
+7. Nbd2 {White has the better pawn structure.} 7... Nge7 8. Bd3 O-O 9. Qc2 f5
+10. g3 b6 11. O-O Bb7 12. Rfc1 Qe8 13. Qd1 Ra7 14. c5 Qa8 $5 15. Qb3 Rb8 16.
+cxb6 cxb6 17. Ne5 Nxe5 18. dxe5 Nc6 19. Nf3 Ra5 20. Nd4 Nxe5 21. Be2 Ba6 22.
+Bxa6 Rxa6 23. Rc7 Re8 24. Rac1 $1 b5 25. Qxb4 $1 Rb6 26. Qc5 $1 Qb8 27. Re7 $1
+Rxe7 28. Qxe7 Qf8 29. Qc7 Qd6 30. Qc8+ $1 {
+The white attack has become decisive.} 30... Kf7 31. Rc7+ Kf6 32. Nxe6 $1 Qxe6
+33. Qf8+ Kg5 34. Qxg7+ Ng6 35. h4+ $2 {Panno gives away a won game.} (35. f4+
+$1 Kg4 36. Kf2 h5 37. Qh6 {ends the game quickly.}) 35... Kg4 36. h5 Kxh5 37.
+Qxh7+ Kg4 38. Rg7 Kf3 39. Kf1 $2 (39. Qh5+ Ke4 40. Qd1 Rc6 41. Rb7 {
+leads to an unclear position.}) 39... Ke4 40. Ke2 $6 d4 $1 41. f3+ Kd5 42. Qg8
+Qxg8 43. Rxg8 dxe3 44. Rd8+ Kc4 45. Rc8+ Kd4 46. Rd8+ Kc4 47. Re8 Kd4 $2 {
+White should have claimed a draw.} 48. Rd8+ $2 Kc4 49. Rc8+ Kd5 50. Rc3 Ne5 51.
+Rxe3 Ra6 52. Rb3 Kc5 53. a3 Nc4 54. g4 f4 55. Kd3 Re6 {Karpov won the event by
+a score of 11/15. Planinc produced 61/2 points and became tenth.} 0-1
+
+[Event "Wijk aan Zee"]
+[Site "Hoogovens"]
+[Date "1974.01.??"]
+[Round "2"]
+[White "Planinc, Albin"]
+[Black "Timman, Jan"]
+[Result "1-0"]
+[ECO "C19"]
+[WhiteElo "2545"]
+[BlackElo "2540"]
+[Annotator "JvR"]
+[PlyCount "79"]
+[EventDate "1974.01.??"]
+
+{The year started with the Hoogovens event in January. Planinc had become a
+popular participant in Dutch tournaments.   } 1. e4 e6 2. d4 d5 3. Nc3 Bb4 4.
+e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. Nf3 Nbc6 8. Be2 Qa5 9. Bd2 c4 10. Ng5 h6 11.
+Nh3 Ng6 12. O-O Bd7 13. Bh5 Nce7 14. a4 O-O-O 15. f4 $5 ({Albin played} 15. Qe1
+{against Jan in Amsterdam 1973 and won. White has the initiative anyway.})
+15... Rhg8 16. Nf2 Kb8 17. Qe1 Rc8 18. Bc1 Qd8 $5 19. Nd1 f5 $5 20. Ne3 Nh8 $1
+21. Ba3 g5 $1 {The noncommital manoeuvring has ended.} 22. a5 Be8 23. Bxe8 Qxe8
+24. Qb1 $5 {Both men prepare an attack on the king.} 24... gxf4 25. Rxf4 Neg6
+$5 26. Rf1 h5 $2 ({Wiser is} 26... Nf7) 27. Kh1 $5 {
+Timman misses a combination.} (27. Bd6+ Ka8 28. Rxf5 $3 exf5 29. Nxd5 a6 30.
+Nb6+ Ka7 31. Nxc8+ Qxc8 32. Qb6+ Ka8 33. Bc5 Kb8 34. Rb1 {triumphs.}) 27... f4
+28. Nd1 Nh4 29. Bd6+ Ka8 30. Nb2 $1 Nf7 31. Na4 $1 Nxd6 32. exd6 Qg6 33. Rf2
+Nxg2 34. d7 Rcd8 35. Nc5 $5 Rb8 36. d8=Q Rgxd8 37. Rxg2 Qf7 38. Qb6 $3 f3 39.
+Rf2 Qf4 40. Nxe6 {Constant Orbaan presented this game in NRC Handelsblad. He
+mentioned the sharp attacking style of Planinc. The soft-spoken Albin never
+smoked or drank.} 1-0
+
+[Event "Wijk aan Zee"]
+[Site "Hoogovens"]
+[Date "1974.01.??"]
+[Round "6"]
+[White "Planinc, Albin"]
+[Black "Enklaar, Bertus"]
+[Result "1-0"]
+[ECO "B89"]
+[WhiteElo "2545"]
+[BlackElo "2425"]
+[Annotator "JvR"]
+[PlyCount "53"]
+[EventDate "1974.01.??"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 d6 6. Be3 Nf6 7. Bc4 a6 8. Qe2
+Be7 9. O-O-O Qc7 10. Bb3 O-O 11. g4 Nxd4 12. Rxd4 b5 13. g5 Nd7 14. f4 Nc5 15.
+Qf2 $5 {Planinc has prepared a novelty.} 15... Rd8 $6 ({
+Langeweg will give the successful answer} 15... f5 $1 {
+against Planinc' attack in round fourteen. Kick opposes on the f-file.}) 16. f5
+$1 Rb8 $2 ({More useful is} 16... Nxb3+ 17. axb3 Bb7 18. Rf1 Qd7) 17. Rf1 $1
+Bf8 $6 ({More resistance is given by} 17... Nxb3+ 18. axb3 b4 {but} 19. fxe6 $1
+bxc3 20. Qxf7+ Kh8 21. Rc4 cxb2+ 22. Kb1 $1 Qa5 23. Ra4 Qc7 24. g6 Rg8 25. Rf3
+Rb5 26. Rh3 h5 27. Qf3 {breaks the fortress.}) 18. g6 $1 {
+Planinc has conquered the kingside in a few moves.} 18... Nxb3+ 19. axb3 b4 20.
+Qh4 $1 hxg6 21. fxg6 fxg6 22. Bg5 Re8 23. Rd3 $1 e5 24. Nd5 Qb7 25. Rdf3 Be6
+26. R1f2 Bxd5 27. Rh3 $1 1-0
+
+[Event "Wijk aan Zee"]
+[Site "Hoogovens"]
+[Date "1974.01.??"]
+[Round "11"]
+[White "Adorjan, Andras"]
+[Black "Planinc, Albin"]
+[Result "0-1"]
+[ECO "C84"]
+[WhiteElo "2515"]
+[BlackElo "2545"]
+[Annotator "JvR"]
+[PlyCount "92"]
+[EventDate "1974.01.??"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Bb7 7. Nc3 Be7 8. d3
+O-O 9. Bd2 d6 10. a4 Na5 {
+This move was introduced in Tukmakov - Planinc, Madrid 1973.} 11. Ba2 b4 12.
+Ne2 d5 13. exd5 Bxd5 14. Bxd5 Qxd5 15. Ng3 Rfe8 16. Re1 Bf8 17. Qe2 Nc6 $5 ({
+Planinc played} 17... c5 {in the cited game.}) 18. b3 h6 19. Be3 Qd7 20. Nh4 $2
+{Adorjan displaces his pieces.} 20... Nd5 21. Qf3 g6 22. Ne4 f5 $1 23. Nc5 Qf7
+$1 {Planinc gives a pawn as bait.} 24. Nxg6 $1 Bd6 $1 25. Nb7 f4 $1 {
+White cannot save his minor pieces.} 26. Nxd6 cxd6 27. Bb6 $5 ({Or} 27. Bd2 Nd4
+$1 28. Qg4 Nf6 $1) 27... a5 $1 {The white a-pawn is stopped.} 28. Nh4 Nce7 $1 {
+The trap closes.} 29. d4 Nxb6 30. dxe5 dxe5 31. Rxe5 Qf6 32. Qg4+ Kh7 33. Rae1
+Ned5 34. Nf3 Rxe5 35. Rxe5 Rg8 36. Qh5 Qg6 37. Ng5+ Kg7 38. Qg4 Kh8 39. Qh4 Nf6
+40. g3 Nbd5 41. Nf3 Rf8 42. Rg5 Qh7 43. Re5 Kg8 44. Nd4 Qg6 45. Ne6 Qxc2 46.
+Qxh6 Qc1+ {Walter Browne won by 11/15. Albin Planinc seemed to play superbly
+but lost in the last two rounds. He scored 9 points and shared the third place.
+} 0-1
+
+[Event "Nice"]
+[Site "Olympiad final-A"]
+[Date "1974.??.??"]
+[Round "10"]
+[White "Planinc, Albin"]
+[Black "Rubinetti, Jorge"]
+[Result "1-0"]
+[ECO "A08"]
+[WhiteElo "2545"]
+[BlackElo "2415"]
+[Annotator "JvR"]
+[PlyCount "57"]
+[EventDate "1974.06.??"]
+
+{The Yugoslav team consisted of Gligoric, Ljubojevic, Ivkov and Planinc plus
+the reserves Velimirovic and Parma in Nice, June 1974. They qualified for the
+final-A. Planinc scored 3/4 in the preliminaries. He was very useful in the
+final by a streak of five wins.   } 1. g3 c5 2. Bg2 d5 3. Nf3 Nc6 4. O-O e5 5.
+d3 Nf6 6. Nbd2 Be7 7. e4 O-O 8. c3 Re8 9. exd5 Nxd5 10. Re1 Bf8 $5 11. Nc4 Qc7
+$2 ({Right is} 11... f6 $1) 12. Ng5 Rd8 13. Qe2 Nb6 14. Qe4 $1 g6 15. Qh4 h5
+16. Ne4 Nd5 17. Bg5 Bf5 18. Nf6+ $6 ({Better is} 18. Bxd8 Rxd8 19. Qg5 $1)
+18... Nxf6 19. Bxf6 Rxd3 20. Bf1 $6 Rd7 21. Nxe5 Nxe5 22. Rxe5 Bg4 $1 23. h3
+Bf3 24. Bb5 $6 Rd6 25. Rae1 $2 Rxf6 $4 {Rubinetti misses a great chance.} (
+25... Qb6 $1 {(Janocevic)} 26. Rf5 $1 Qxb5 27. Rxf3 Re8 $1 28. Rb1 Qc6 $1 29.
+Rf4 Rde6 {leads to a Black win.}) 26. Qxf6 Bg7 27. Re8+ Rxe8 28. Rxe8+ Kh7 29.
+Qxf3 1-0
+
+[Event "Nice"]
+[Site "Olympiad final-A"]
+[Date "1974.??.??"]
+[Round "12"]
+[White "Planinc, Albin"]
+[Black "Lombardy, William"]
+[Result "1-0"]
+[ECO "A07"]
+[WhiteElo "2545"]
+[BlackElo "2520"]
+[Annotator "JvR"]
+[PlyCount "53"]
+[EventDate "1974.06.??"]
+
+1. g3 d5 2. Bg2 Nf6 3. d3 c6 4. Nd2 g6 5. Ngf3 Bg7 6. O-O O-O 7. e4 dxe4 8.
+dxe4 Nfd7 $5 {They will manoeuvre on the queenside.} 9. a4 $5 c5 10. Nc4 Nc6
+11. a5 Nd4 12. Nfd2 Ne5 13. Ne3 Nec6 14. c3 Ne6 15. Nec4 Ne5 $6 16. Nxe5 Bxe5
+17. f4 $1 Bc7 18. Qb3 c4 $2 {Black gives away a pawn.} ({Better is} 18... Qd3
+$1 19. Qc4 Qxc4 20. Nxc4 Bd7 21. Be3 Bb5 22. b3 b6 {
+but Black suffers from restraint.}) 19. Nxc4 Qd3 20. Be3 $1 Qd7 21. e5 Nd8 22.
+a6 Qe6 23. Rfd1 Bb6 24. Bd5 Bxe3+ 25. Nxe3 Qb6 26. Qxb6 axb6 27. axb7 $1 {
+Planinc scored 61/2/8 in the final. The USSR won superiorly (46). Yugoslavia
+became second (371/2), one point before number three, the USA. So the win
+versus Lombardy became important at the end. Planinc experienced his thirdpeak.
+} 1-0
+
+[Event "Amsterdam"]
+[Site "IBM 14"]
+[Date "1974.??.??"]
+[Round "4"]
+[White "Knaak, Rainer"]
+[Black "Planinc, Albin"]
+[Result "1-0"]
+[ECO "A50"]
+[WhiteElo "2515"]
+[BlackElo "2545"]
+[Annotator "JvR"]
+[PlyCount "73"]
+[EventDate "1974.07.??"]
+
+1. d4 Nf6 2. c4 b6 3. Nc3 Bb7 4. f3 d5 5. cxd5 Nxd5 6. Nxd5 Qxd5 7. e4 Qd6 $5 {
+White has a plus in an odd opening.} 8. Bd3 Qb4+ 9. Qd2 (9. Kf1 $1 {
+plays for a win.}) 9... e5 10. Ne2 exd4 11. Nxd4 Nd7 12. Be2 O-O-O 13. a3 Qe7
+$5 {The exchange of queens equalises.} 14. Qc3 c5 $6 15. Be3 Ne5 $2 16. O-O g6
+17. Qc2 $2 (17. b4 $1 {attacks the king.}) 17... Bg7 18. Nb5 Nc6 19. Bc4 a6 20.
+Nc3 Nd4 21. Qf2 f5 22. Nd5 $5 Bxd5 23. Bxd5 $2 f4 $1 24. Bd2 Nb3 $1 25. Bc3 $1
+Nxa1 26. Rxa1 Bxc3 27. bxc3 Qe5 28. Qf1 $1 {
+Does Planinc proceed his success of last year.} 28... Rxd5 $4 {
+No, he collapses.} (28... b5 $1 29. a4 Qxc3 30. axb5 axb5 31. Rb1 $1 Rxd5 $1
+32. exd5 Re8 {favours Black.}) 29. Qxa6+ Kc7 30. Qa7+ Kc6 31. Rb1 Qb8 32. exd5+
+Kxd5 33. Qd7+ Kc4 34. Qe6+ Kd3 35. Qd5+ Kc2 36. Qd1+ Kxc3 37. Rb3+ {That year I
+played in a reserve master group. We sat at the end of a long room in the RAI.
+You had to walk back, pass the restaurant and enter the Glazen Zaal (Glass
+Room) on your way to the grandmasters and masters. Once I saw the shy Planinc
+leave. He watched downwards, because he dared not to look at people.} 1-0
+
+[Event "Amsterdam"]
+[Site "IBM 14"]
+[Date "1974.??.??"]
+[Round "9"]
+[White "Planinc, Albin"]
+[Black "Timman, Jan"]
+[Result "1-0"]
+[ECO "C19"]
+[WhiteElo "2545"]
+[BlackElo "2540"]
+[Annotator "JvR"]
+[PlyCount "55"]
+[EventDate "1974.07.??"]
+
+1. e4 e6 {Planinc smiles when this move is made as Timman predicted. He has
+won twice of Jan in this opening.} 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6.
+bxc3 Ne7 7. Nf3 Nbc6 8. Be2 Qa5 9. Bd2 c4 10. Ng5 h6 11. Nh3 Ng6 12. Bh5 Nce7
+13. a4 Bd7 14. O-O O-O-O 15. Qe1 $5 ({Timman played} 15. f4 {previously.})
+15... Kb8 16. Bc1 Rc8 17. Ba3 Qd8 $5 18. a5 $1 Rg8 19. Qc1 Rc6 20. a6 $1 {
+White has the initiative on two flanks.} 20... b6 21. f4 f5 $6 ({
+Timman mentions the neutral} 21... Ka8) 22. exf6 $5 gxf6 23. f5 $5 Nxf5 24.
+Rxf5 $5 exf5 25. Qxh6 {Planinc has made a positional sacrifice.} 25... f4 $2 (
+25... Qe8 $1 26. Kh1 Rh8 $1 27. Qxg6 Rxh5 28. Qxe8+ Bxe8 29. Nf4 {
+leads to great complications.}) 26. Bxg6 Bxh3 27. Qxh3 Rxg6 28. Qh7 {Planinc ha
+d won for the third time in this line of Timman.   The standings at the top
+were: Tukmakov and Ree 61/2/9, Ivkov and Jansa 6.} 1-0
+
+[Event "Amsterdam"]
+[Site "IBM 14"]
+[Date "1974.??.??"]
+[Round "13"]
+[White "Ree, Hans"]
+[Black "Planinc, Albin"]
+[Result "0-1"]
+[ECO "B07"]
+[WhiteElo "2425"]
+[BlackElo "2545"]
+[Annotator "JvR"]
+[PlyCount "68"]
+[EventDate "1974.07.??"]
+
+1. e4 g6 2. d4 Bg7 3. Nf3 d6 4. c3 Nf6 5. Nbd2 O-O 6. Bd3 Nbd7 7. O-O e5 8.
+dxe5 dxe5 9. Nc4 {Hans wants a quick draw.} 9... Qe7 $5 (9... Nc5 10. Bc2 Qxd1
+11. Rxd1 Nfxe4 12. Re1 Nd6 13. Ncxe5 {
+helps him on his way, but Albin does not cooperate.}) 10. b4 b6 11. Qc2 Bb7 12.
+a4 Nh5 13. a5 f5 $5 14. a6 Bc6 15. Ncd2 Rae8 $5 16. exf5 gxf5 17. Bxf5 $5 e4 $1
+18. Nd4 Bd5 $6 (18... Bxd4 19. cxd4 Bb5 {takes less risk.}) 19. N2b3 $6 ({
+Better is} 19. Qd1 $1 Nf4 20. Qg4) 19... Qf7 $5 20. c4 $1 Ba8 21. Bxd7 Qxd7 22.
+Be3 Nf4 23. Bxf4 Rxf4 24. Rad1 e3 {The critical position has arisen.} 25. Ne2
+$4 ({Right is} 25. fxe3 Rxf1+ 26. Rxf1 Rxe3 {(Timman)} 27. Qd2 $1 {
+and they fight on.}) 25... Rxf2 $1 26. Rxf2 ({Or} 26. Rxd7 Rxg2+ 27. Kh1 Rxe2+)
+26... exf2+ 27. Kxf2 Qg4 28. Ng3 h5 29. Kg1 h4 30. Nf1 Be4 31. Qd2 Bh6 32. h3
+Qg6 33. Qf2 Rf8 34. Qe2 Bf3 $1 {Ree was beat by the second Yugoslavian.  
+ Actually, Planinc was a Slovenian from Brise. He worked in a bicycle factory
+and lived with his mother in a small housing. His Dutch events befell in 1973
+and 1974. Later he moved to a psychiatric clinic.} 0-1
+
+[Event "Hastings 7475"]
+[Site "50"]
+[Date "1974.??.??"]
+[Round "5"]
+[White "Vaganian, Rafael"]
+[Black "Planinc, Albin"]
+[Result "0-1"]
+[ECO "A32"]
+[Annotator "JvR"]
+[PlyCount "44"]
+[EventDate "1974.12.??"]
+
+{Planinc played an evergreen in Hastings. He gained the sixth place and made 9/
+15.  } 1. d4 Nf6 2. c4 c5 3. Nf3 cxd4 4. Nxd4 e6 5. Nc3 Bb4 6. Ndb5 O-O 7. a3
+Bxc3+ 8. Nxc3 d5 9. Bg5 h6 10. Bxf6 Qxf6 11. cxd5 exd5 12. Qxd5 Rd8 13. Qf3 Qb6
+14. Rd1 Rxd1+ 15. Nxd1 Nc6 16. Qe3 $5 {
+This gambit stems from Uhlmann-Barcza, Havana 1963.} ({Then} 16. e3 {
+was played.}) 16... Nd4 $1 17. Qe8+ Kh7 18. e3 Nc2+ 19. Kd2 Bf5 $3 20. Qxa8
+Qd6+ 21. Kc1 (21. Kc3 $2 Qe5+ $1 22. Kb3 $5 Na1+ $1 23. Ka2 Qd5+ $1 24. Kxa1
+Qxd1+ 25. Ka2 Be6+ {will lead to mate.}) 21... Na1 $1 22. Qxb7 $4 {
+White allows a wonderful finish.} ({Correct is} 22. Bc4 $1 Qc5 {(Vaganian)} 23.
+Nc3 $3 Qxc4 24. Qd8 Nb3+ 25. Kd1 Qg4+ 26. Ne2 $1 Qxg2 27. Rg1 Qe4 28. Ke1 Qb1+
+29. Qd1 Qxb2 30. f3 Qxa3 31. Qd5 Bg6 32. Kf2 {and White seems to survive.})
+22... Qc7+ $1 {Planinc vanished from Western European tournaments. His place
+was occupied by two eccentric attackers from Yugoslavia, Velimirovic and
+Ljubojevic.} ({The pointe is} 22... Qc7+ 23. Qxc7 Nb3#) 0-1
+
+[Event "Novi Sad"]
+[Site "Yugoslav-ch 30"]
+[Date "1975.??.??"]
+[Round "?"]
+[White "Matanovic, Aleksandar"]
+[Black "Planinc, Albin"]
+[Result "0-1"]
+[ECO "C68"]
+[Annotator "JvR"]
+[PlyCount "30"]
+[EventDate "1975.02.??"]
+
+{After Planinc returned from Hastings, he entered four Yugoslav chess events
+in 1975. He played the thirtieth Yugoslav championship in February and March. 
+  } 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O Bd6 6. d4 exd4 7. Qxd4 f6
+8. e5 fxe5 9. Nxe5 Ne7 10. Bg5 Be6 11. Nc3 O-O 12. Rfe1 Rf5 $5 ({Albin did} 
+12... Nf5 {in Stean - Planinc, Hastings 1974.}) 13. Nf3 $1 Rxg5 14. Rxe6 Rf5
+15. Re2 $4 {Matanovic misses a simple combination.} ({Suitable is} 15. Rd1 {
+(Simic - Vlahovic, Tivat 1995).}) 15... Rxf3 {White loses material.  
+ Velimirovic won (121/2/19). Matanovic (12) only lost to Planinc (91/2) and
+became second.} 0-1
+
+[Event "Rovinj/Zagreb"]
+[Site "Zagreb"]
+[Date "1975.??.??"]
+[Round "6"]
+[White "Planinc, Albin"]
+[Black "Matulovic, Milan"]
+[Result "1-0"]
+[ECO "B47"]
+[WhiteElo "2535"]
+[BlackElo "2530"]
+[Annotator "JvR"]
+[PlyCount "154"]
+[EventDate "1975.05.??"]
+
+{Planinc had reached the turning point of his chess career. So far he scored
+high or average in chess events. Hereafter, the scores became average or low. 
+  } 1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Qc7 5. Nc3 e6 6. g3 a6 7. Bg2 Nf6 8.
+O-O Be7 9. Re1 Nxd4 10. Qxd4 Bc5 11. Qd1 d6 12. Be3 e5 13. Qd2 Be6 14. h3 Rc8
+15. a3 O-O 16. f4 Qb6 17. Rab1 Rfd8 $5 ({More caution demonstrates} 17... exf4
+$1 18. gxf4 Rfe8) 18. f5 $1 Bd7 19. Kh2 Bxe3 20. Rxe3 Bc6 21. Rd3 Bb5 22. Nxb5
+Qxb5 23. c3 $1 Qc5 24. Rd1 Rc6 25. g4 h6 $6 ({Counteraction brings} 25... Qc4
+$1) 26. Bf3 Kf8 27. h4 Ke7 28. g5 hxg5 29. hxg5 Rh8+ 30. Kg3 Nh5+ 31. Bxh5 Rxh5
+32. Rd5 Qb6 33. Kg4 Rh8 $2 ({Right is} 33... Rh7 $1) 34. Rxe5+ $1 dxe5 35. Qd7+
+Kf8 36. Qd8+ Qxd8 37. Rxd8+ Ke7 38. Rxh8 {
+Planinc has an extra pawn in the rook ending.} 38... Rb6 39. Rh2 Rd6 40. Rh7 $1
+Rd2 41. Rxg7 Kf8 42. f6 $1 Rf2 ({The pointe is} 42... Rxb2 43. Kf5 $1 Rb5 44.
+Rh7 Kg8 45. g6 $1) 43. g6 fxg6 44. Rxb7 Rxf6 45. Kg5 Rf4 46. Kxg6 Ke8 47. Ra7
+Rxe4 48. Kf5 Re2 49. b4 Rc2 50. Kxe5 Rxc3 51. Rxa6 Kd7 52. Kd4 Rc1 53. a4 Kc7
+54. Re6 Kb7 55. a5 Rh1 56. b5 Rd1+ 57. Kc5 Rc1+ 58. Kd5 Rd1+ 59. Kc4 Rc1+ 60.
+Kd3 Rd1+ 61. Kc2 Ra1 62. a6+ Ka7 63. Re7+ Ka8 64. Kb3 Rb1+ 65. Kc4 Rc1+ 66. Kd5
+Rh1 67. b6 Rd1+ 68. Kc4 Rc1+ 69. Kd3 Rd1+ 70. Ke2 Rd8 71. Ke3 Kb8 72. Ke4 Ka8
+73. Ke5 Rh8 74. Kd6 Rd8+ 75. Ke6 Rh8 76. Kd7 Rb8 77. Re8 Rxe8 {Planinc was
+able to show his great ability as attacker in some games.   His score of 5/15
+in April 1975 brought him in the second half of the final table.} 1-0
+
+[Event "Portoroz/Ljubljana"]
+[Site "Vidmar mem 3"]
+[Date "1975.??.??"]
+[Round "5"]
+[White "Planinc, Albin"]
+[Black "Portisch, Lajos"]
+[Result "1-0"]
+[ECO "B99"]
+[WhiteElo "2535"]
+[BlackElo "2635"]
+[Annotator "JvR"]
+[PlyCount "117"]
+[EventDate "1975.06.??"]
+
+{PORTOROZ/LJUBLJANA 1975  The third Vidmar Memorial happened in vi 1975 two
+years after the second. It became a biannual tradition. Planinc took part
+again. His games stayed fascinating.   } 1. e4 c5 2. Nf3 d6 3. d4 Nf6 4. Nc3
+cxd4 5. Nxd4 a6 6. Bg5 e6 7. f4 Be7 8. Qf3 Qc7 9. O-O-O Nbd7 10. Bd3 h6 11. Qh3
+Nb6 12. Bh4 e5 13. Nf5 Bxf5 $2 ({The right move} 13... g6 $1 {
+will be played in Timman - Kavalek, Amsterdam 1975.}) 14. Qxf5 $1 ({
+Planinc improves on} 14. exf5 $2 {(Timman - Browne, Wijk aan Zee 1975).}) 14...
+g6 15. Qh3 Qc8 16. f5 gxf5 17. exf5 Nbd7 18. Be4 Qc4 19. Rhe1 Rc8 20. Kb1 b5
+21. Ka1 $2 ({Better is} 21. Bxf6 Nxf6 22. Bb7 Rb8 23. Qf3) 21... b4 $1 22. Nd5
+Nxe4 $5 23. Nxe7 Rc5 24. Qd3 Qxd3 25. cxd3 Ng5 26. d4 Kxe7 $2 (26... Rc2 $1 27.
+Nd5 Rxg2 {equalises.}) 27. dxc5 Nxc5 28. Rd5 f6 29. Bf2 Nge4 30. Be3 h5 31.
+Red1 Nd7 32. Rc1 Nec5 33. Rcd1 Ne4 34. Rc1 Ndc5 35. Rc4 Rg8 36. Rxb4 $2 ({
+Right is} 36. g3) 36... Rxg2 37. a3 Rxh2 38. Bxc5 Nxc5 39. Rb6 Ne4 40. Rxa6 Kd7
+41. Rd1 h4 42. Ra4 Nd2 43. Ra7+ Kc6 44. Rf7 Ne4 45. Rc1+ Kd5 46. a4 Nc5 47.
+Rd1+ Kc4 $4 {The king enters a mating net.} ({Correct is} 47... Ke4 $1 48. Rxf6
+Nxa4 49. Rfxd6 Nxb2 50. R1d2 Rxd2 51. Rxd2 Kxf5 $1 {drawn.}) 48. Rxf6 $1 Ne4
+49. Rh6 h3 50. Rh4 d5 51. Rf1 Kb3 52. f6 Nxf6 53. Rf3+ Kc2 54. Rxf6 e4 55. Rc6+
+Kb3 56. Rc3+ Kxa4 57. Rhxh3 Rd2 58. Ka2 d4 59. Rb3 $1 {Portisch was not
+invincible for the great Yugoslavian attackers. Velimirovic and Planinc
+defeated him.   Karpov had been proclaimed as world champion in iv 1975. He
+won the Vidmar Memorial by 11/15, one point ahead of Gligoric. Planinc showed
+uneven play and scored 61/2 points.} 1-0
+
+[Event "Vrsac"]
+[Site "Kostic mem"]
+[Date "1975.??.??"]
+[Round "?"]
+[White "Planinc, Albin"]
+[Black "Vukic, Milan"]
+[Result "1-0"]
+[ECO "B02"]
+[Annotator "JvR"]
+[PlyCount "73"]
+[EventDate "1975.08.??"]
+
+{Planinc took part the Kostic Memorial in August. He scored 7/13. 
+} 1. e4 Nf6
+2. Nc3 d5 3. e5 Nfd7 4. Nxd5 Nxe5 5. Ne3 c5 6. b3 e6 7. Bb2 Nbc6 8. f4 Ng6 9.
+f5 $5 {Planinc enlivens the game by a pawn sacrifice.} ({The quiet} 9. g3 {
+was played in Mukhin - Bagirov, Burevestnik 1963.}) 9... exf5 10. Bb5 f4 11.
+Nc4 Be6 12. Nf3 f6 $6 ({More active is} 12... Qd5 $1) 13. Qe2 Kf7 14. O-O-O $5
+a6 $6 {Black spoils time again.} 15. Rhe1 $1 Bd5 16. Bxc6 bxc6 17. h4 h5 18. d4
+Be7 19. dxc5 Bxc5 20. Nce5+ $1 {Planinc prepares an attack along the f-file!}
+20... fxe5 21. Nxe5+ Nxe5 22. Qxe5 Rh7 23. Qxf4+ Kg8 24. c4 Bd6 25. Qd4 Be7 $6
+(25... Bg3 $1 26. Rh1 $1 Qd6 27. cxd5 Rd8 28. Rhf1 cxd5 (28... Qxd5 29. Qe3)
+29. Rf5 {favours White.}) 26. cxd5 Bxh4 27. Re5 Bg5+ 28. Kc2 cxd5 ({
+The pointe is} 28... Bf6 29. Qc4 $1) 29. Rxd5 Qf6 30. Qe4 Qc6+ 31. Kb1 Re8 32.
+Qf5 Be7 33. Rc1 Qh6 34. Rc8 Rxc8 35. Qxc8+ Kf7 36. Qf5+ Kg8 37. Rd8+ $1 ({
+Mate brings} 37. Rd8+ Bxd8 38. Qd5+ Kf8 39. Qxd8+ Kf7 40. Qd7+ Kf8 41. Ba3+ Kg8
+42. Qe8#) 1-0
+
+[Event "Moscow"]
+[Site "Alekhine Memorial"]
+[Date "1975.??.??"]
+[Round "?"]
+[White "Planinc, Albin"]
+[Black "Kortschnoj, Viktor"]
+[Result "0-1"]
+[ECO "C39"]
+[Annotator "JvR"]
+[PlyCount "38"]
+[EventDate "1975.10.14"]
+
+{Planinc played the Alekhine Memorial in October and November 1975. It was the
+strongest tournament in his career.   } 1. e4 e5 2. f4 exf4 3. Nf3 g5 4. h4 g4
+5. Ne5 d6 6. Nxg4 Nf6 ({My preference in the Kieseritzky has} 6... Be7 $1 7. d4
+Bxh4+ 8. Nf2 Qg5) 7. Nf2 Rg8 8. d4 Bh6 9. Nc3 Qe7 10. Nd3 Bg4 11. Be2 Bxe2 $5 (
+11... Nc6 {stems from Dahl - Sigurjonsson, Ybbs 1968.}) 12. Qxe2 Nc6 {
+Planinc has to make a difficult choice.} 13. Bxf4 $2 ({Right is} 13. e5 $1 dxe5
+14. dxe5 $1 Ng4 15. Nd5 Qd7 16. Nf6+ Nxf6 17. exf6+ Kf8 18. O-O {
+(Fedorov - Timoshenko, Timisu de Sus 1998).}) 13... Nxd4 14. Qf2 Nxe4 ({
+Superior is} 14... Bxf4 $1 15. Qxd4 Bg3+) 15. Nxe4 Qxe4+ 16. Kd1 $6 ({
+The lesser evil is} 16. Kf1 $1 Nxc2 $1 17. Qxc2 Rxg2 $1 {(Kortschnoj)} 18. Qxg2
+Qxd3+ 19. Qe2+ Qxe2+ 20. Kxe2 Bxf4) 16... O-O-O 17. Bxh6 Rxg2 $1 18. Qf1 Nxc2
+19. Rc1 Qg4+ {Kortschnoj was a leading expert of the King's Gambit.} 0-1
+
+[Event "Moscow"]
+[Site "Alekhine Memorial"]
+[Date "1975.??.??"]
+[Round "?"]
+[White "Spassky, Boris"]
+[Black "Planinc, Albin"]
+[Result "1-0"]
+[ECO "D16"]
+[WhiteElo "2625"]
+[BlackElo "2535"]
+[Annotator "JvR"]
+[PlyCount "75"]
+[EventDate "1975.10.14"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4 5. a4 Bg4 6. Ne5 Bh5 7. g3 e6 8. Bg2
+Nbd7 9. Nxc4 Bb4 10. O-O O-O 11. h3 Nb6 $5 ({Albin played} 11... a5 {
+in Gligoric - Planinc, Novi Sad 1975.}) 12. Ne5 a5 13. g4 Bg6 14. e4 $5 Nfd7
+15. Qe2 $5 c5 (15... Nxe5 $1 16. dxe5 Bc5 $1 {gains a plus.}) 16. dxc5 Nxe5 17.
+cxb6 Qxb6 18. Kh1 {Boris prepares the attack on the kingside.} 18... Nc6 19. f4
+f6 $1 20. f5 Bf7 21. g5 $5 fxg5 22. Bxg5 exf5 23. exf5 Rae8 {
+Planinc defends well.} 24. Qb5 Qxb5 25. axb5 Nd4 26. Bxb7 Rb8 27. Bg2 Nxb5 $2 {
+Planinc plays the obvious capture.} ({The subtle} 27... Bxc3 28. bxc3 Nb3 29.
+Ra4 Rxb5 {keeps the equality.}) 28. Nd5 $1 Nd4 29. f6 $1 Ne2 (29... gxf6 $2 30.
+Nxf6+ Kg7 31. Nd7 {shows the strength of the white knight.}) 30. Rf2 Ng3+ 31.
+Kh2 Nh5 32. Nxb4 $1 axb4 33. fxg7 Kxg7 34. Ra7 $1 Kg6 35. h4 h6 36. Be7 Rfe8
+37. Be4+ Kg7 38. Bd6 {Black overstepped the time limit. He was lost anyway.  
+ Eight Soviet stars and eight foreigners played in Moscow 1975. Geller (101/2/
+15) won before Spassky (10). Only Hort could compete with the stars. Planinc
+scored a meagre 5 points. Hans Boehm became last.} 1-0
+
+[Event "Majdanpek"]
+[Site "?"]
+[Date "1976.??.??"]
+[Round "8"]
+[White "Benko, Pal"]
+[Black "Planinc, Albin"]
+[Result "0-1"]
+[ECO "B22"]
+[WhiteElo "2480"]
+[BlackElo "2485"]
+[Annotator "JvR"]
+[PlyCount "88"]
+[EventDate "1976.01.??"]
+
+{Albin's dream of a professional chess career was fading, because he received
+no invitations for great events. His pastime was to stay home and read the
+classics. Eventually, poor Planinc was even fired by the bicycle factory.   } 
+1. Nf3 c5 2. e4 e6 3. c3 d5 4. exd5 exd5 5. d4 Nc6 6. Be3 Qb6 7. dxc5 Bxc5 8.
+Bxc5 Qxc5 9. Nbd2 Nf6 10. Be2 O-O 11. O-O Re8 12. Nb3 Qb6 13. Qc2 $5 (13. Nfd4
+Nxd4 14. cxd4 {was played in Sveshnikov - Jakovljevski, Moscow 1969.}) 13...
+Bf5 14. Bd3 Be4 15. Nfd2 Rac8 16. Bxe4 dxe4 17. Nc4 Qc7 18. Qe2 Ne7 19. Ne3 Ng6
+20. Rad1 Nf4 {Black has the initiative.} 21. Qc2 Qe5 22. Nd4 Qg5 23. Ndf5 $2 {
+Benko fumbles a pawn.} ({Better is} 23. Kh1) 23... Nxg2 $1 24. Nxg2 Qxf5 25. f3
+Qc5+ 26. Kh1 exf3 27. Rxf3 Ng4 28. Rdf1 Ne5 29. Rg3 Qc6 30. Kg1 Nc4 31. b3 Nd6
+32. c4 Ne4 33. Rgf3 Rcd8 34. Rd1 Ng5 35. Rfd3 Nf3+ 36. Kf2 Rxd3 37. Qxd3 Ne5
+38. Qd5 Qf6+ 39. Kg1 b6 40. Rf1 Qg5 41. Qb7 h5 $1 42. Qxa7 h4 $1 43. Kh1 ({Or} 
+43. h3 Qg3 44. Qxb6 Nf3+) 43... h3 $1 44. Nf4 Qf5 {Planinc scored 51/2/13.} 0-1
+
+[Event "Banja Luka"]
+[Site "?"]
+[Date "1976.??.??"]
+[Round "5"]
+[White "Planinc, Albin"]
+[Black "Parma, Bruno"]
+[Result "0-1"]
+[ECO "C84"]
+[WhiteElo "2485"]
+[BlackElo "2515"]
+[Annotator "JvR"]
+[PlyCount "80"]
+[EventDate "1976.11.??"]
+
+{Albin played in another Yugoslav event. He met a Slovenian grandmaster. 
+} 1.
+e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 Be7 7. Re1 f5 8. d5 Na5
+9. Nxe5 O-O 10. d6 $5 {Planinc springs a novelty.} (10. c3 {
+occurred in Karpov - Nicevski, Skopje 1976.}) 10... Bxd6 11. Qd5+ Kh8 12. Nf7+
+Rxf7 13. Qxf7 Bxh2+ $1 14. Kf1 $1 ({No good is} 14. Kxh2 $2 Qh4+ 15. Kg1 Qxf2+
+16. Kh2 Qh4+ 17. Kg1 Qxe1+) 14... b5 15. Bb3 Nxb3 16. axb3 Bb7 17. Nc3 $2 (17.
+g3 $6 {(Parma) is met by} 17... Bxg3 $1 18. fxg3 Nxg3+ 19. Kg1 Be4) (17. Qh5 $2
+{fails due to} 17... Bd6 {(Popov - Zivanic, Yugoslavia 2000).}) ({Better is} 
+17. Nd2 $1 Qh4 18. Qxf5 Nxf2 $1 19. Nf3 $1) 17... Qh4 18. Qxf5 Nxf2 19. Qf7 h6
+20. Re7 Rg8 21. Bxh6 $1 Qxh6 22. Kxf2 Bd6 23. Re8 Rxe8 24. Qxe8+ Kh7 {
+Parma has a positional advantage.} 25. Qe3 ({Or} 25. Ke2 Qh2 26. Kd3 Bf4 $1 27.
+Ne2 Bh6 $1 {and Black has prepared the final attack.}) 25... Qh4+ 26. Ke2 b4
+27. Qd3+ Kg8 28. Nd1 Qg4+ 29. Kd2 Qxg2+ 30. Kc1 Bf4+ 31. Kb1 Be4 32. Qc4+ d5
+33. Qc6 Qd2 34. Ka2 Qxc2 35. Qe8+ Kh7 36. Qh5+ Bh6 37. Ne3 Qc5 38. Nc4 Qc6 39.
+Nd2 Bg6 40. Qe2 Qb6 {Planinc could still play an exciting game, but Parma had
+become too strong. Bruno applied his usual trick. He let Albin come until he
+went too far. Planinc ended on the penultimate place.} 0-1
+
+[Event "Maribor"]
+[Site "Maribor"]
+[Date "1977.??.??"]
+[Round "7"]
+[White "Planinc, Albin"]
+[Black "Kirov, Nino"]
+[Result "1-0"]
+[ECO "B47"]
+[WhiteElo "2475"]
+[BlackElo "2435"]
+[Annotator "JvR"]
+[PlyCount "63"]
+[EventDate "1977.01.??"]
+
+{Barle, Plachetka and Parma won the event by a score of 9/13. Planinc made 7
+points.  } 1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e6 5. Nc3 Qc7 6. Be2 a6 7.
+O-O Nf6 8. Kh1 Bb4 9. Nxc6 bxc6 10. f4 d5 11. e5 Nd7 12. Qe1 O-O 13. Nxd5 cxd5
+14. Qxb4 Qxc2 15. Qe1 $5 (15. Qd2 Qxd2 16. Bxd2 {brought a plus in Velimirovic
+- Matulovic, Belgrade 1965. Planinc avoids the exchange of queens.}) 15... Nc5
+16. Rf3 Ne4 17. Bd3 Qc6 18. Be3 Bb7 19. Bxe4 dxe4 20. Rh3 Rfd8 $2 {
+Black spoils time.} (20... h6 21. Qh4 Qb5 $1 {(prevents f5)} 22. Rg3 Kh7 23.
+Qg4 Rg8 {defends properly.}) 21. Qh4 h6 22. Rg3 Kh7 23. Qg4 Rg8 $5 24. Rd1 Rac8
+$5 (24... Qb5 $1 25. a4 $3 Qxa4 26. f5 exf5 27. Qxf5+ Kh8 28. Qf1 $1 {attacks.}
+) 25. f5 $1 exf5 26. Qxf5+ Kh8 27. Qxf7 Rcf8 28. Qh5 Qb5 29. h4 Rf1+ 30. Kh2 $1
+Rxd1 31. Bxh6 $1 {White triumphs elegantly.} 31... g6 32. Bg7+ $1 ({
+The final is} 32. Bg7+ Kxg7 33. Qxg6+ Kf8 34. Qxg8+ Ke7 35. Rg7#) 1-0
+
+[Event "Zagreb"]
+[Site "Yugoslav-ch 32"]
+[Date "1977.??.??"]
+[Round "7"]
+[White "Ostojic, Predrag"]
+[Black "Planinc, Albin"]
+[Result "0-1"]
+[ECO "B08"]
+[WhiteElo "2480"]
+[BlackElo "2475"]
+[Annotator "JvR"]
+[PlyCount "85"]
+[EventDate "1977.02.??"]
+
+{The thirty-second Yugoslav championship was a Swiss tournament. It was played
+in i and ii 1977. Planinc scored 7/13.   } 1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Nf3
+Bg7 5. Bf4 a6 $5 6. h3 c5 7. e5 $6 ({Preferable is} 7. dxc5 Qa5 8. Bd3 Qxc5)
+7... Nh5 8. Bh2 cxd4 9. Qxd4 Nc6 10. Qa4 Bd7 11. exd6 $4 ({Correct is} 11. Qb3)
+11... Nd4 $1 {White has to give his queen.} 12. Qxd4 Bxd4 13. Nxd4 O-O 14.
+O-O-O exd6 15. g4 Nf6 16. Bg2 Re8 17. Bf4 Kg7 18. Rd3 Rc8 19. Bxb7 Rxc3 20.
+bxc3 Qa5 21. Bxd6 Qxa2 22. Re3 Rxe3 23. fxe3 Nd5 24. Bxd5 Qxd5 25. Rd1 Qg2 26.
+Rd3 Qxh3 27. g5 h6 28. Be5+ Kh7 29. Kb2 hxg5 30. e4 Qg2 31. Nf3 Ba4 $6 ({
+Better is} 31... Kh6 $1) 32. Nd2 $6 (32. Nxg5+ $1 Kh6 33. Rh3+ Kxg5 34. Rg3+
+Qxg3 35. Bxg3 Kg4 36. Bh2 Kf3 37. e5 g5 {
+only equalises in material. Black wins.}) 32... g4 33. Rd8 Kh6 34. Bf6 g5 35.
+Ka3 Bxc2 36. Nc4 Qxe4 37. Ne5 Qa4+ 38. Kb2 Qb3+ 39. Kc1 Qb1+ 40. Kd2 Qd1+ 41.
+Ke3 Qe1+ 42. Kd4 Qd2+ 43. Kc4 0-1
+
+[Event "Ljubljana/Portoroz"]
+[Site "Vidmar mem 4"]
+[Date "1977.??.??"]
+[Round "6"]
+[White "Planinc, Albin"]
+[Black "Gligoric, Svetozar"]
+[Result "0-1"]
+[ECO "C34"]
+[WhiteElo "2475"]
+[BlackElo "2565"]
+[Annotator "JvR"]
+[PlyCount "54"]
+[EventDate "1977.06.??"]
+
+{LJUBLJANA/PORTOROZ 1977  Stars were Larsen, Hort and Savon in vi 1977.
+Planinc partook for the fourth and last time in the Vidmar Memorial.   } 1. e4
+e5 2. f4 exf4 3. Nf3 d6 4. d4 g5 5. h4 g4 6. Ng1 ({Even wilder is} 6. Ng5 h6 {
+(Anderssen - Amelung, Berlin 1862).}) 6... Bh6 $1 {
+Gligoric improves the theory.} 7. Nc3 Nc6 8. Nge2 f3 $1 9. Nf4 f2+ $5 10. Kxf2
+g3+ $5 11. Kxg3 Nf6 12. Be2 Rg8+ {Black has set up a strong attack.} 13. Kf2
+Ng4+ $5 14. Bxg4 $5 Bxg4 15. Qd3 Bg7 16. Be3 Qd7 {
+Both sides have made direct moves.} 17. Nce2 (17. Ncd5 $1 O-O-O 18. b4 $1 {
+(Kaliksteyn - Kaiumov, Tashkent 1990) is preferable.}) 17... O-O-O 18. Ng3 f5
+$5 19. Nxf5 Rdf8 20. Nxg7 Qxg7 21. Ke1 Nb4 22. Qc3 $5 Qe7 $1 23. Qxb4 Rxf4 $1
+24. Kd2 $2 {Planinc miscalculates the lines in a critical position.} (24. Bxf4
+$2 Qxe4+ {(Bukic)} 25. Kd2 Qxg2+ 26. Kc3 Qf3+ {leads to mate.}) ({
+The correct variation is} 24. e5 $1 Re4 25. Kd2 $1 {and the fight continues.})
+24... Qxe4 25. Rag1 Bf5 26. Qb3 Rg3 $1 27. Rh2 Rf2+ $1 {Larsen won by 91/2/13,
+half-a-point before Hort and Savon. Planinc scored 51/2 points and had partook
+in the Vidmar Memorial for the last time.   His loss against Gligoric shows
+his disability to keep the concentration during the whole game. Probably,
+Albin was handicapped by depressions.   Dutch journalists noticed his
+eccentric behaviour when he excelled in Amsterdam 1973. He behaved timidly and
+went to his hotel room quickly after the game, while he looked at the floor.
+When Velimirovic teased him, he had no answer. These are symptoms of
+melancholy. Medication was insufficient in those days. Rubinstein and I had
+the same features.} ({The pointe is} 27... Rf2+ 28. Bxf2 Rxb3 29. cxb3 Qd3+ 30.
+Ke1 Bg4 {and mate follows.}) 0-1
+
+[Event "Belgrade"]
+[Site "Yugoslav-ch 33"]
+[Date "1978.01.21"]
+[Round "2"]
+[White "Planinc, Albin"]
+[Black "Raicevic, Vladimir"]
+[Result "1-0"]
+[ECO "C14"]
+[WhiteElo "2475"]
+[BlackElo "2470"]
+[Annotator "JvR"]
+[PlyCount "77"]
+[EventDate "1978.01.??"]
+
+{Championship thirty-three was played in Belgrade from i until ii 1978. 
+} 1.
+e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Be7 5. e5 Nfd7 6. h4 c5 7. Bxe7 Qxe7 8. Nb5
+O-O 9. Nc7 cxd4 10. Nxa8 f6 11. Qxd4 fxe5 $5 {
+Raicevic has given a rook in the French Defence.} 12. Qxa7 $6 ({
+Usual will become} 12. Qd2) 12... Qb4+ 13. Kd1 Qxb2 14. Rc1 Nc6 15. Qe3 Nf6 16.
+f3 Ng4 $1 {Black has wonderful counter-play.} 17. Qb6 $6 Qa3 $1 18. Bd3 $2 ({
+Correct is} 18. Kd2 d4 19. Qb3) 18... Nb4 $2 ({Black misses the win} 18... e4
+$1 19. fxg4 exd3 20. Nf3 {(Raicevic)} 20... dxc2+ 21. Rxc2 Rxf3 $1) 19. Ne2 e4
+20. fxg4 exd3 21. cxd3 Bd7 22. Rc3 Qb2 23. a3 Ba4+ 24. Ke1 Qa1+ (24... Nc2+ $1
+25. Kd2 Nb4+ 26. Ke1 {draws by a repetition of moves.}) 25. Rc1 Nxd3+ 26. Kd2
+Nxc1 27. Qxe6+ Kh8 28. Rxc1 Qxa3 29. Rc8 h6 $2 {
+Black should deliver perpetual check.} 30. Rxf8+ Qxf8 31. Nb6 Qb4+ 32. Ke3 Bc6
+33. Qc8+ Kh7 34. Qf5+ Kh8 35. Nc8 Qc5+ 36. Kd2 Bb5 37. Nc3 Qd4+ 38. Kc2 Bc4 39.
+Ne7 1-0
+
+[Event "Belgrade"]
+[Site "Yugoslav-ch 33"]
+[Date "1978.02.05"]
+[Round "13"]
+[White "Planinc, Albin"]
+[Black "Kovacevic, Vlatko"]
+[Result "1-0"]
+[ECO "B02"]
+[WhiteElo "2475"]
+[BlackElo "2505"]
+[Annotator "JvR"]
+[PlyCount "47"]
+[EventDate "1978.01.??"]
+
+1. e4 Nf6 2. Nc3 d5 3. e5 Nfd7 4. Nxd5 Nxe5 5. Ne3 c5 6. b3 Nbc6 7. Bb2 a6 $5
+8. f4 Nd7 9. Nf3 Nf6 10. Bc4 e6 11. f5 $5 (11. O-O {continues the development.}
+) 11... b5 12. fxe6 $1 bxc4 13. exf7+ Kxf7 14. Ng5+ $1 {
+Planinc attacks at any cost.} 14... Kg6 15. Qf3 $5 Kxg5 $2 ({Not} 15... Bd7 $2
+16. O-O $1 Kxg5 17. Bxf6+ gxf6 18. Qg3+ Kh6 19. Rf4) ({Right is} 15... Nd4 $1
+16. Qxa8 Kxg5 {(Kovacevic).}) 16. Qxc6 Bd7 17. Qf3 h5 $2 (17... Bd6 $1 18. O-O
+$1 Rf8 $1 19. h4+ $1 Kxh4 20. Bxf6+ Qxf6 21. Qe4+ Bf4 22. g3+ $1 Kh5 ({or} 
+22... Kxg3 $2 23. Rf3+ Kh4 24. Rxf4+ $1) 23. gxf4 Qg6+ 24. Qxg6+ Kxg6 25. Nxc4
+{wins a pawn.}) 18. O-O $1 cxb3 19. Rae1 $1 Kg6 20. Nd5 $1 Rh6 ({The plain} 
+20... Nxd5 21. Qf7+ Kh6 22. Re5 $1 {(Kovacevic) also wins for White.}) 21. Nxf6
+gxf6 22. Bxf6 Qc8 23. Bb2 Bf5 24. Re8 $1 {The black position falls apart.  
+ Planinc scored 7/17.   Although Albin kept fighting like a lion, invitations
+for a tournament participation stopped coming. His only main event was the
+Yugoslav championship in 1978.} 1-0
+
+[Event "Bjelovar"]
+[Site "Yugoslav-ch 34"]
+[Date "1979.??.??"]
+[Round "7"]
+[White "Planinc, Albin"]
+[Black "Bjelajac, Milan"]
+[Result "1-0"]
+[ECO "A00"]
+[BlackElo "2410"]
+[Annotator "JvR"]
+[PlyCount "71"]
+[EventDate "1979.02.??"]
+
+{Planinc participated in the Yugoslav Championship for the last time. He
+scored 61/2/13 in the Swiss system. Nemet won.   } 1. g3 f5 2. Bg2 Nf6 3. Nf3
+g6 4. b4 Bg7 5. Bb2 O-O 6. O-O d6 7. c4 a5 $5 (7... e5 {
+was played in game 48 (Planinc - Kovacevic, Zagreb 1972).}) 8. a3 axb4 9. axb4
+Rxa1 10. Bxa1 e5 11. d3 Nh5 12. Nc3 g5 13. Nd2 Nf6 14. c5 Nc6 15. b5 $1 Ne7 $6
+{White gets the chance to control more terrain.} 16. Qb3+ $1 Kh8 17. b6 c6 18.
+cxd6 Qxd6 19. Nc4 Qe6 20. Na4 Nd7 21. Qa3 Rd8 22. Bb2 Bf6 23. Ra1 Kg7 24. Nc5
+Nxc5 25. Qxc5 Ng6 26. Ra8 e4 27. Bxf6+ Kxf6 28. dxe4 Rd1+ 29. Bf1 f4 $2 {
+Pawn e4 should be taken.} 30. Nd2 $1 Bd7 $2 ({The pointe is} 30... Qd7 $1 31.
+Nf3 Qh3 32. Qc3+ $1 Ke7 33. Ne1) 31. Qc2 $1 Re1 32. Nf3 $1 {
+The black rook is dominated.} 32... Rxf1+ 33. Kxf1 Qh3+ 34. Kg1 g4 35. Qc3+ Ke6
+36. Ng5+ 1-0
+
+[Event "Polanica Zdroj"]
+[Site "Rubinstein mem"]
+[Date "1979.??.??"]
+[Round "13"]
+[White "Planinc, Albin"]
+[Black "Spassov, Liuben"]
+[Result "1-0"]
+[ECO "B68"]
+[WhiteElo "2445"]
+[BlackElo "2470"]
+[Annotator "JvR"]
+[PlyCount "41"]
+[EventDate "1979.08.??"]
+
+{The last master tournament for Planinc became the Rubinstein Memorial. It was
+a fitting end, because Akiba also had to stop his chess career due to
+depressions.   } 1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bg5 e6
+7. Qd2 a6 8. O-O-O Bd7 9. f4 Be7 10. Nf3 b5 11. e5 b4 12. exf6 bxc3 13. Qxc3
+gxf6 14. Bh4 d5 15. Kb1 Na5 16. f5 Rc8 17. Qd2 O-O $2 (17... Qc7 $1 {
+occurred in Kestler - Spassky, Dortmund 1973.}) 18. Qh6 $1 Nc4 19. Bd3 e5 20.
+Ng5 $1 Na3+ 21. Ka1 {Albin Planinc played one superior game, but only scored 6/
+15 and became number twelve among sixteen rivals. Razuvaev won the memorial.  
+ Planinc was admitted by a psychiatric institution for his mental disease.  
+ He was forgotten because he did not even write for the Sahovski Informator
+about his spectacular games.} ({The pointe is} 21. Ka1 fxg5 22. f6 $1 {
+and White delivers mate in two.}) 1-0
+

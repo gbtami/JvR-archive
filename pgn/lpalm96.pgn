@@ -1,0 +1,835 @@
+[Event "Las Palmas"]
+[Site "?"]
+[Date "1996.??.??"]
+[Round "1"]
+[White "Anand, Viswanathan"]
+[Black "Kramnik, Vladimir"]
+[Result "1/2-1/2"]
+[ECO "B65"]
+[WhiteElo "2735"]
+[BlackElo "2765"]
+[Annotator "JvR"]
+[PlyCount "40"]
+[EventDate "1996.??.??"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bg5 e6 7. Qd2 Be7 8.
+O-O-O Nxd4 9. Qxd4 O-O 10. f4 Qa5 11. Bc4 Bd7 12. Rd3 Rad8 13. e5 dxe5 14. Qxe5
+Qb4 15. Rg3 Kh8 16. Bd3 Bc6 17. Rh3 ({Dolmatov mentions} 17. Bxh7 $2 Kxh7 18.
+Bxf6 Bxf6 19. Rh3+ Kg8 20. Qh5 Qxf4+ 21. Kb1 Qh6 $1) 17... Rfe8 $1 ({
+Kramnik improves on} 17... Rxd3 $2 {(Shabalov-Littke, North Bay 1994).}) 18.
+Qe2 ({Anand avoids} 18. Rd1 Qd4 19. Bxh7 $2 Qxe5 20. Bd3+ Nh7 $3 21. Rxh7+ Kg8
+22. fxe5 Rxd3 $19) 18... h6 19. Rf1 Kg8 20. Bh4 Nd5 1/2-1/2
+
+[Event "Las Palmas"]
+[Site "?"]
+[Date "1996.??.??"]
+[Round "1"]
+[White "Karpov, Anatoly"]
+[Black "Ivanchuk, Vassily"]
+[Result "1/2-1/2"]
+[ECO "E62"]
+[WhiteElo "2775"]
+[BlackElo "2730"]
+[Annotator "JvR"]
+[PlyCount "122"]
+[EventDate "1996.??.??"]
+
+1. d4 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 O-O 5. Nc3 d6 6. Nf3 c6 7. O-O Qb6 8. c5 $6
+{This novelty leads to a plus for Black.} 8... dxc5 9. Na4 Qb5 10. Nxc5 Na6 11.
+a4 Qb6 12. Nxa6 Qxa6 13. Re1 Rd8 14. Qb3 Be6 15. Qa3 Bd5 16. e3 Bf8 17. b4 e6
+18. Qb2 Qb6 19. b5 Rac8 20. bxc6 Qxb2 21. Bxb2 Rxc6 22. Rec1 Rdc8 23. Ne5 Rc2
+24. Bf1 Bb4 25. Rxc2 Rxc2 26. Ba3 Bc3 27. Bd3 $1 Ra2 ({
+Exchanges have to continue due to} 27... Rxf2 28. Rc1) 28. Rxa2 Bxa2 29. Bc4
+Bb1 30. Bd3 Bxd3 31. Nxd3 Ne4 32. Nc5 Nd6 33. Kf1 b6 34. Nd3 Nc4 35. Be7 f5 36.
+Ke2 Kf7 37. Bg5 Ke8 38. Kd1 Kd7 39. Kc2 Ba5 40. f3 $5 Bd2 41. Ne5+ Nxe5 42.
+dxe5 Be1 43. Kd3 Kc6 44. e4 $1 {Karpov wants to eliminate his weak pawn.} 44...
+h5 ({Little brings} 44... fxe4+ $5 45. Kxe4 Kc5 46. g4 $1 Kb4 47. f4 Kxa4 48.
+f5) 45. Bf4 Bb4 ({The sharp alternative} 45... fxe4+ $5 46. Kxe4 Kc5 47. Be3+
+Kb4 48. Kf4 Kxa4 49. Kg5 {(Hecht)} 49... b5 50. Kxg6 b4 51. Kxh5 b3 52. Bc1 {
+slightly favours White again.}) 46. exf5 exf5 47. Bd2 Bc5 48. Be3 Be7 49. f4 a6
+50. Kc4 b5+ 51. axb5+ axb5+ 52. Kd3 Kd5 53. Bc1 Bc5 54. Be3 Be7 55. Bc1 Bf8 56.
+Bd2 Ba3 57. Be3 Bb4 58. Bd2 Ba3 59. Be3 Bf8 60. Bd2 Kc6 61. Be3 Kd5 1/2-1/2
+
+[Event "Las Palmas"]
+[Site "?"]
+[Date "1996.??.??"]
+[Round "1"]
+[White "Topalov, Veselin"]
+[Black "Kasparov, Gary"]
+[Result "0-1"]
+[ECO "E11"]
+[WhiteElo "2750"]
+[BlackElo "2785"]
+[Annotator "JvR"]
+[PlyCount "118"]
+[EventDate "1996.??.??"]
+
+1. d4 Nf6 2. c4 e6 3. g3 Bb4+ 4. Bd2 Be7 5. Bg2 d5 6. Nf3 O-O 7. O-O c6 8. Qc2
+b6 9. Ne5 Nfd7 10. Nd3 Bb7 11. Rd1 a5 12. a3 Ba6 13. cxd5 cxd5 14. Be3 Ra7 15.
+Nc3 Rc7 16. Bf4 Rc8 17. Bxb8 $6 ({Better is the immediate} 17. Rac1) 17... Nxb8
+18. Rac1 Nc6 19. e3 Bc4 20. Bf1 Qd7 21. Nf4 b5 $1 22. Bxc4 ({Avoids the trick} 
+22. Nxb5 $2 Bxf1 23. Kxf1 Nxd4) 22... bxc4 23. e4 Bf6 24. exd5 Nxd4 25. Qe4 $6
+(25. dxe6 fxe6 26. Qe4 e5 27. Nfd5 {nearly equalises.}) 25... e5 26. Nh5 Bg5
+27. f4 f5 28. Qg2 Qf7 $6 ({The pressure keeps} 28... Bh6 $1 29. Qh3 {
+(Tischbierek)} 29... Qd6) 29. Nxg7 $1 Qxg7 30. fxg5 Qxg5 31. Kh1 e4 32. g4 Kh8
+33. gxf5 Qxg2+ 34. Kxg2 Nxf5 35. Kh1 Nd6 36. Re1 Rf4 37. a4 Rb8 38. Re2 Kg7 39.
+Rce1 Rb4 $1 40. Nb5 $6 ({Troubles avoids} 40. Kg2) 40... Nxb5 41. axb5 Kf7 42.
+d6 Ke6 43. Rd2 Kd7 44. Rg1 Rf7 45. Re1 a4 46. Re3 Rg7 {
+White's main problem consists of the cramped position of his king.} 47. Rxe4 $2
+({The disadvantage solves} 47. h3 $1 Rb3 48. Rxe4 Rxh3+ 49. Rh2 Rhg3 $5 {
+(Tischbierek)}) 47... a3 $1 48. Re7+ Rxe7 49. dxe7+ Kxe7 50. bxa3 Rb1+ 51. Kg2
+c3 52. Re2+ Kd6 53. Kf3 Kd5 54. a4 Kd4 55. a5 ({The game prolongs} 55. Re4+ Kd3
+56. Re3+ Kd2 57. Re2+ Kd1 58. Re7 c2 59. Rd7+ Ke1 60. Re7+ Kf1) 55... Rxb5 56.
+a6 (56. Ra2 Kd3 57. a6 c2) 56... Ra5 57. Re4+ Kd5 58. Re3 c2 59. Rc3 Rc5 $1 {
+Kasparov took the lead immediately.} (59... Rc5 60. Rxc5+ Kxc5 61. a7 c1=Q 62.
+a8=Q Qh1+) 0-1
+
+[Event "Las Palmas"]
+[Site "?"]
+[Date "1996.??.??"]
+[Round "2"]
+[White "Ivanchuk, Vassily"]
+[Black "Kasparov, Gary"]
+[Result "1/2-1/2"]
+[ECO "B52"]
+[WhiteElo "2730"]
+[BlackElo "2785"]
+[Annotator "JvR"]
+[PlyCount "46"]
+[EventDate "1996.??.??"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. Bxd7+ Nxd7 5. O-O Ngf6 6. Qe2 e6 7. b3 g6 $5
+{Known from Kramnik-Gelfand, Sanghi Nagar 1994.} 8. Bb2 Bg7 9. d4 cxd4 10. Bxd4
+O-O 11. Rd1 b5 $1 12. Qxb5 Nxe4 {Black has equalised.} 13. Qe2 d5 14. c4 Rc8
+15. Bxg7 Kxg7 16. Qb2+ ({Avoids} 16. cxd5 exd5 17. Rxd5 $4 Qf6) 16... Qf6 17.
+Qxf6+ Ndxf6 18. Nbd2 Rfd8 19. Nxe4 Nxe4 20. cxd5 Nc3 21. Rd2 Rxd5 22. Kf1 Rdc5
+23. Re1 Nd5 1/2-1/2
+
+[Event "Las Palmas"]
+[Site "?"]
+[Date "1996.??.??"]
+[Round "2"]
+[White "Karpov, Anatoly"]
+[Black "Anand, Viswanathan"]
+[Result "1/2-1/2"]
+[ECO "E15"]
+[WhiteElo "2775"]
+[BlackElo "2735"]
+[Annotator "JvR"]
+[PlyCount "88"]
+[EventDate "1996.??.??"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Ba6 5. b3 Bb4+ 6. Bd2 Be7 7. Bg2 c6 8. Bc3
+d5 9. Ne5 Nfd7 10. Nxd7 Nxd7 11. Nd2 O-O 12. O-O Rc8 13. e4 b5 14. Re1 dxc4 15.
+bxc4 bxc4 16. Qa4 Bb5 17. Qc2 Re8 18. a4 Ba6 19. Rad1 Bf8 20. Nf1 Qb6 ({
+The similar} 20... Qc7 {stems from Komarov-Psakhis, Vienna 1996.}) 21. Rb1 Qc7
+22. Ne3 Rb8 23. Bf1 Rxb1 24. Rxb1 Rb8 25. Bxc4 Rxb1+ 26. Qxb1 Bxc4 27. Nxc4 {
+Many exchanges have been made.} 27... Qc8 28. Bd2 Qa6 29. Qc2 Nf6 30. f3 c5 31.
+Be3 cxd4 32. Bxd4 Nd7 33. Kg2 h6 34. Ne5 Nxe5 35. Bxe5 Qb7 36. Bd4 a6 37. Qc4
+h5 38. h3 g6 39. Be5 Bg7 40. Qc7 Qxc7 41. Bxc7 f5 42. Kf2 Kf7 43. Ke3 Ke7 44.
+Ba5 Be5 1/2-1/2
+
+[Event "Las Palmas"]
+[Site "?"]
+[Date "1996.??.??"]
+[Round "2"]
+[White "Kramnik, Vladimir"]
+[Black "Topalov, Veselin"]
+[Result "1/2-1/2"]
+[ECO "E97"]
+[WhiteElo "2765"]
+[BlackElo "2750"]
+[Annotator "JvR"]
+[PlyCount "160"]
+[EventDate "1996.??.??"]
+
+1. Nf3 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. d4 O-O 6. Be2 e5 7. O-O Nc6 8. d5
+Ne7 9. b4 a5 10. Ba3 axb4 11. Bxb4 Nd7 12. a4 Bh6 13. a5 f5 14. Nd2 Kh8 15. Bd3
+({White slightly improves on} 15. Bf3 {(Bareev-Georgiev, Yerevan 1996).}) 15...
+Rf6 16. Na4 Rf7 17. c5 dxc5 18. Bc3 $1 {Kramnik keeps the fight going.} 18...
+fxe4 19. Bxe4 Nf5 20. Nc4 Bg7 ({Later Topalov plays} 20... Nd6 $5 21. Nxe5 Nxe5
+22. Bxe5+ Bg7 23. Bxg7+ Rxg7 24. Nxc5 {(Kramnik-Topalov, Dortmund 1997).}) 21.
+Bxf5 $1 Rxf5 22. d6 Rb8 $2 ({The position seems to be held by} 22... b5 23.
+dxc7 Qxc7 24. Nab6 Nxb6 25. axb6 Rxa1 26. Qxa1 Qc6 27. Bxe5 Bf6 $1 28. Bxf6+
+Rxf6 29. Ne3 Kg8 30. Rd1 Rd6) 23. dxc7 $1 Qxc7 24. Qd6 Qxd6 25. Nxd6 Rf8 26.
+Rfd1 b5 $1 {Black returns the extra pawn in order to break the restriction.}
+27. axb6 (27. Nxc8 Rfxc8 28. Rxd7 bxa4 29. f4 $1 {(Dolmatov).}) 27... Nxb6 28.
+Nxc5 Bg4 29. f3 Nd7 $1 30. Na6 $1 Rb3 31. Rac1 Be6 32. Nc7 Bf7 33. Ne4 Nb8 34.
+Ng5 Nc6 35. Rd7 Be8 36. Rxg7 $6 {White wins a pawn under time pressure.} (36.
+Nxe8 Rxe8 37. Bd2 $1 Nd4 38. Rcc7 {keeps the tension.}) 36... Kxg7 37. Nce6+
+Kg8 38. Nxf8 Kxf8 39. Nxh7+ Ke7 40. Ng5 Bd7 41. Bd2 Rb2 42. Ne4 Nd4 43. Re1 Bc6
+44. Bg5+ Ke6 45. Nd2 Nc2 46. Rc1 Nd4 47. Re1 Nc2 48. Rd1 Nd4 49. h4 Ne2+ 50.
+Kh2 Nd4 51. Kh3 Kd5 52. Re1 Ra2 53. Ne4 Rc2 54. Ra1 Bd7+ 55. Kg3 Bb5 56. Ra8
+Bf1 57. Rd8+ Ke6 58. Bd2 Bd3 59. Re8+ Kf7 60. Nd6+ Kg7 61. Re7+ Kf8 62. Bg5 Bf1
+63. Rxe5 Rxg2+ 64. Kf4 Re2 65. Ne4 {
+The extra pawn has no decisive value, but White gets a fine chance.} 65... Bg2
+$2 (65... Bh3 $1 66. Bh6+ Kf7 67. Ng5+ Kg8 68. Nxh3 Rxe5 69. Kxe5 Nxf3+) 66.
+Be7+ $1 ({Friedel finds with Fritz} 66. Bh6+ $1 Kf7 67. Rd5 $1 Nf5 (67... Ne6+
+68. Kg3 Rxe4 (68... Nf8 69. Nf2 Bf1 70. Rd1) 69. fxe4 Bxe4 70. Ra5) 68. Rd7+
+Ke6 69. Nc5+ Kf6 70. Bg5#) 66... Kf7 67. Bc5 Ne6+ 68. Kg3 Bf1 69. Bf2 Ng7 70.
+Kg4 Ne6 71. Rd5 Rc2 72. Rd7+ Ke8 73. Nf6+ Kf8 74. Bg3 Rc4+ 75. Ne4 Ke8 76. Ra7
+Bd3 77. Bd6 Bxe4 78. fxe4 Rxe4+ 79. Kf3 Re1 80. Kf2 Re4 1/2-1/2
+
+2
+
+[Event "Las Palmas"]
+[Site "?"]
+[Date "1996.??.??"]
+[Round "3"]
+[White "Anand, Viswanathan"]
+[Black "Ivanchuk, Vassily"]
+[Result "1-0"]
+[ECO "C78"]
+[WhiteElo "2735"]
+[BlackElo "2730"]
+[Annotator "JvR"]
+[PlyCount "91"]
+[EventDate "1996.??.??"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Bc5 6. Nxe5 Nxe5 7. d4 Nxe4 8.
+Re1 Be7 9. Rxe4 Ng6 10. c4 O-O 11. Nc3 d6 12. Nd5 Bh4 13. Qh5 $1 (13. g3 c6 14.
+Nf4 Nxf4 15. Bxf4 Bf6 16. Re1 Bg5 17. Qd2 Bxf4 18. Qxf4 Be6 19. Bb3 Qd7 20. Re3
+$11 {(Smirin-Izeta, Las Palmas 1993).}) 13... c6 14. Rxh4 $3 Qxh4 15. Qxh4 Nxh4
+16. Nb6 Rb8 ({A slight disadvantage accepts} 16... Bf5 $5 17. Nxa8 Rxa8 18. Bf4
+Bd3 {(Kramnik).}) 17. Bf4 Nf5 18. d5 $1 {
+Kramnik has delivered a positional sacrifice on his birthday.} 18... Re8 $6 ({
+The battle for d6 starts} 18... Rd8 $1 {(Kramnik)} 19. Rd1 $1 f6 $1 20. Bc2 {
+(threatens Nxc8)} 20... Ne7 21. c5 $1 Nxd5 22. Bb3 Be6 23. Bxd6 {
+Black escapes by} 23... Rxd6 $1 24. cxd6 Rd8 25. Bxd5 cxd5 26. Nxd5 Bxd5 27.
+Rxd5 Kf7 $11) 19. Kf1 $1 h6 $2 ({Correct is} 19... h5 $1 20. c5 $1 Re4 21. Bxd6
+Nxd6 22. cxd6 cxd5 $1 23. d7 Bxd7 24. Nxd7 Rd8 25. Nc5 Rc4 {
+with chances for both sides.}) 20. h3 $1 Re4 21. Bh2 cxd5 22. g4 $1 {
+White threatens Bc2.} 22... Rxc4 $1 23. Nxc4 dxc4 24. Re1 $1 {
+White gains a tempo.} 24... Be6 ({The pointe is} 24... Nd4 25. Re8+ Kh7 26.
+Bxd6 Ra8 27. Be5 b5 28. Bd1 Nc6 29. Bc2+ f5 30. Rxc8 Rxc8 31. Bxf5+ g6 32. Bxc8
+Nxe5 33. Bxa6 b4 34. Ke2 $18 {(Anand).}) 25. gxf5 Bxf5 26. Bxd6 Bxh3+ 27. Kg1
+Rd8 28. Re8+ Rxe8 29. Bxe8 Be6 30. a4 $1 g5 31. a5 Kg7 32. Ba4 Kg6 33. Bd1 $1
+Bd5 34. Bc2+ $1 Kf6 ({A better barrier to the manoeuvres of two bishops creates
+} 34... f5 $1) 35. Bc7 Ke6 36. Bh7 Bf3 37. Kh2 Kd5 38. Bc2 Be4 39. Bd1 $1 Kd4
+40. Be2 Bd3 41. Bb6+ $1 Kd5 42. Bd1 f5 43. Kg3 Ke5 44. Bc5 Kf6 45. Bh5 f4+ 46.
+Kh2 1-0
+
+[Event "Las Palmas"]
+[Site "?"]
+[Date "1996.??.??"]
+[Round "3"]
+[White "Kasparov, Gary"]
+[Black "Kramnik, Vladimir"]
+[Result "1/2-1/2"]
+[ECO "E71"]
+[WhiteElo "2785"]
+[BlackElo "2765"]
+[PlyCount "38"]
+[EventDate "1996.??.??"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. h3 O-O 6. Bg5 Na6 7. Bd3 e5 8. d5 c6
+9. Nge2 Nc5 10. Bc2 cxd5 11. cxd5 a5 12. O-O Bd7 13. a3 a4 14. Qd2 Qb6 15. Rab1
+Rfc8 16. Ng3 Qd8 17. Bh6 Bxh6 18. Qxh6 Qf8 19. Qe3 Be8 1/2-1/2
+
+[Event "Las Palmas"]
+[Site "?"]
+[Date "1996.??.??"]
+[Round "3"]
+[White "Topalov, Veselin"]
+[Black "Karpov, Anatoly"]
+[Result "1/2-1/2"]
+[ECO "D27"]
+[WhiteElo "2750"]
+[BlackElo "2775"]
+[Annotator "JvR"]
+[PlyCount "53"]
+[EventDate "1996.??.??"]
+
+1. Nf3 d5 2. d4 e6 3. c4 dxc4 4. e3 a6 5. Bxc4 c5 6. O-O Nf6 7. Bb3 Nc6 8. Qe2
+cxd4 9. Rd1 d3 $1 10. Rxd3 Qc7 11. Nc3 Be7 ({Slightly better is} 11... Bc5 $1 {
+(Piket-Lautier, Amsterdam 1995).}) 12. e4 Nd7 13. Be3 Nc5 14. Rdd1 O-O 15. Rac1
+Nxb3 16. axb3 Rd8 17. Na4 Rxd1+ 18. Qxd1 Bd7 19. Bb6 Qc8 20. Ne5 Be8 21. Nd3 e5
+22. Nc3 Qe6 23. Nd5 Rc8 24. h3 f6 25. Qg4 Qxg4 26. hxg4 Kf7 27. Nxe7 {
+Anand joined the lead.} 1/2-1/2
+
+[Event "Las Palmas"]
+[Site "?"]
+[Date "1996.??.??"]
+[Round "4"]
+[White "Kasparov, Gary"]
+[Black "Anand, Viswanathan"]
+[Result "1/2-1/2"]
+[ECO "B92"]
+[WhiteElo "2785"]
+[BlackElo "2735"]
+[Annotator "JvR"]
+[PlyCount "126"]
+[EventDate "1996.??.??"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be7 8. O-O
+O-O 9. Kh1 b5 10. a4 Bb7 11. Nd5 bxa4 12. Rxa4 Bc6 $2 ({
+Anand wants to gain a pawn. Known is} 12... Nbd7 {
+(Tseshkovsky-Nevostrujev, Vladivostok 1990).}) 13. Ra3 Nxe4 14. Na5 Nf6 $6 ({
+Better is} 14... Bg5 15. f4 exf4 16. Bxf4 Bxf4 17. Rxf4 Nc5) 15. Nxc6 Nxc6 16.
+Bc4 $1 Nd4 17. Rh3 g6 ({Poor resistance offers} 17... Ne6 18. Qd3 h6 19. Bxh6
+$1 gxh6 20. Rxh6 Kg7 21. Nxf6 Kxh6 22. Qh7+ Kg5 23. Ne4+) 18. Qd2 Nf5 19. Nxf6+
+Bxf6 {The position is ready for violence.} 20. Bd5 $6 ({
+A decisive attack delivers} 20. g4 $1 Qc8 21. Bd5 $1 Nh4 22. Rg1 $1 g5 23. Rxh4
+$1 gxh4 24. g5 Bg7 25. g6 hxg6 26. Rxg6 $1 {(Dohojan).}) 20... h5 $1 21. Bxa8
+Qxa8 22. Ra3 Rc8 23. c3 Qb7 24. Qd3 Rc6 25. Rd1 ({The restriction continues} 
+25. b4 Ne7 {(Dolmatov)} 26. Bd2 d5 27. f3) 25... d5 $1 {
+Black has sufficient compensation for the exchange.} 26. Ra5 ({The pointe is} 
+26. Qxd5 $4 Rd6) 26... d4 27. cxd4 exd4 28. b4 Nh4 29. f3 Qxb4 30. Rxa6 Rxa6
+31. Qxa6 Bg7 32. Qd3 Nf5 33. Bf4 Qb2 34. g3 Kh7 35. Rd2 Qb7 36. Qe4 Qb5 37. Qd3
+Qb7 38. Qe4 Qb5 39. Kg1 Qa5 40. Qd3 Ne7 41. Rd1 Nd5 42. Bd2 Qa7 43. Re1 Qd7 44.
+Kg2 Qa7 45. Kg1 Qa2 46. Re2 Qa1+ 47. Re1 Qa4 48. Rc1 Nc3 49. g4 Qa5 50. Re1 Qc5
+51. h3 Bf6 52. f4 h4 53. Qf3 Qb5 54. g5 Bg7 55. Re7 Qb1+ 56. Qf1 Qf5 57. Qe1
+Qxh3 58. Rxf7 Qg4+ 59. Kh2 h3 60. Qf1 Ne4 61. Be1 d3 62. Qxh3+ Qxh3+ 63. Kxh3
+d2 1/2-1/2
+
+[Event "Las Palmas"]
+[Site "?"]
+[Date "1996.??.??"]
+[Round "4"]
+[White "Kramnik, Vladimir"]
+[Black "Karpov, Anatoly"]
+[Result "1/2-1/2"]
+[ECO "A28"]
+[WhiteElo "2765"]
+[BlackElo "2775"]
+[Annotator "JvR"]
+[PlyCount "41"]
+[EventDate "1996.??.??"]
+
+1. c4 e5 2. Nc3 Nf6 3. Nf3 Nc6 4. d4 exd4 5. Nxd4 Bb4 6. Bg5 h6 7. Bh4 Bxc3+ 8.
+bxc3 Ne5 9. f4 Ng6 10. Bxf6 Qxf6 11. g3 Nf8 12. Bg2 Ne6 13. O-O O-O {
+So far, they follow Vaganian-Tukmakov, Rostov 1993.} 14. e4 d6 15. Qd2 Nc5 16.
+Rae1 Rb8 17. Re3 Bd7 18. Nb3 Nxb3 19. axb3 Bc6 20. Qd4 a6 21. Qxf6 1/2-1/2
+
+[Event "Las Palmas"]
+[Site "?"]
+[Date "1996.??.??"]
+[Round "4"]
+[White "Topalov, Veselin"]
+[Black "Ivanchuk, Vassily"]
+[Result "0-1"]
+[ECO "B17"]
+[WhiteElo "2750"]
+[BlackElo "2730"]
+[Annotator "JvR"]
+[PlyCount "82"]
+[EventDate "1996.??.??"]
+
+1. e4 c6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Nd7 5. Ng5 Ngf6 6. Bd3 e6 7. N1f3 Bd6 8.
+Qe2 h6 9. Ne4 Nxe4 10. Qxe4 Nf6 11. Qe2 Qc7 12. Bd2 b6 13. O-O-O Bb7 14. Kb1
+Rd8 15. Rhg1 $5 {Sudenly the Caro-Kann takes an aggressive turn.} 15... c5 16.
+dxc5 Qxc5 17. a3 O-O $2 ({The king becomes a target. Better is} 17... Nd5) 18.
+g4 $1 Qd5 19. g5 $1 Qxf3 20. gxf6 g6 ({Many lines are opened by} 20... Qxf6 21.
+Bc3 e5 22. f4 {(Ivanchuk).}) 21. Bxh6 Bxh2 22. Rh1 Qxe2 23. Bxe2 Rxd1+ 24. Rxd1
+Rc8 {White's attack continues despite the exchanges.} 25. f3 $2 (25. Bg7 $1 Be4
+26. Ka2 $1 g5 (26... Bd5+ 27. c4 $1) 27. f3 Bh7 28. Rh1 Bg3 29. f4 $1 gxf4 30.
+Bd3 {and mate.}) 25... Bg3 26. Bg7 g5 27. Rd7 $6 ({Kramnik prefers} 27. Bh6 Kh7
+28. Bxg5 Kg6 29. f4) 27... Bc6 28. Rxa7 $6 Rd8 $1 29. a4 Be5 30. a5 $2 (30. Ra6
+Rd2 31. Rxb6 Bd5 32. c4 Ba8 {(Ftacnik)} 33. Ra6 $1 {might draw.}) 30... Rd2 $1
+{The counterattack gains strength.} 31. Bc4 b5 32. Bb3 Bxf3 33. Re7 Rd6 ({
+Avoids} 33... g4 $2 34. Rxe6 $1 fxe6 35. Bxe6+ Kh7 36. Bf5+ $11 {(Dolmatov).})
+34. Re8+ Kh7 35. Bf8 Rd1+ 36. Ka2 Bxf6 37. a6 g4 $1 {
+The g-pawn cannot be stopped.} 38. c4 ({Ftacnik analyses} 38. a7 g3 39. a8=Q
+Bxa8 40. Rxa8 g2 41. Bc5 Bd4) 38... Rd2 39. cxb5 g3 40. b6 g2 41. Bc5 Bxb2 0-1
+
+[Event "Las Palmas"]
+[Site "?"]
+[Date "1996.??.??"]
+[Round "5"]
+[White "Anand, Viswanathan"]
+[Black "Topalov, Veselin"]
+[Result "1/2-1/2"]
+[ECO "C77"]
+[WhiteElo "2735"]
+[BlackElo "2750"]
+[PlyCount "57"]
+[EventDate "1996.??.??"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Bc5 6. d3 d6 7. Nc3 b5 8. Bb3
+Na5 9. Kh1 c6 10. h3 Ra7 11. Nh2 O-O 12. f4 Nxb3 13. axb3 Re8 14. fxe5 dxe5 15.
+Qe1 Nd7 16. Nf3 Nf8 17. Be3 Bxe3 18. Qxe3 Rd7 19. Rf2 f6 20. Nh4 Ne6 21. Nf5
+Nd4 22. Qg3 Nxf5 23. Rxf5 c5 24. Rf2 Bb7 25. Raf1 Rf7 26. Nd5 Bxd5 27. exd5
+Qxd5 28. Rxf6 Rxf6 29. Rxf6 1/2-1/2
+
+[Event "Las Palmas"]
+[Site "?"]
+[Date "1996.??.??"]
+[Round "5"]
+[White "Ivanchuk, Vassily"]
+[Black "Kramnik, Vladimir"]
+[Result "1-0"]
+[ECO "A65"]
+[WhiteElo "2730"]
+[BlackElo "2765"]
+[Annotator "JvR"]
+[PlyCount "67"]
+[EventDate "1996.??.??"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nge2 O-O 6. f3 c5 7. d5 e6 8. Ng3
+exd5 9. cxd5 Nbd7 10. Be2 a6 11. a4 h5 12. Bg5 Qe8 $6 13. Qd2 Nh7 14. Bh6 Qe5
+$6 15. Bxg7 Qxg7 16. Nf1 $1 {A novelty keeps a plus.} ({Pleasant for Black is} 
+16. O-O h4 17. Nh1 {(Disconzi de Silva-Leitao, Americana 1996).}) 16... f5 $6 {
+Another weakness is created.} ({Some play gives} 16... Qf6 17. Ne3 Qh4+ 18. g3
+Qe7) 17. exf5 gxf5 18. Ne3 Kh8 19. Nc4 Qf6 (19... Qxg2 20. O-O-O {is horrible.}
+) 20. O-O Rb8 21. Rfe1 b5 22. axb5 axb5 23. Na5 $1 {
+White penetrates the queenside.} 23... b4 24. Nb5 Ba6 25. Nc7 Bxe2 26. Rxe2 Rg8
+27. Nc6 Rbc8 28. Ne6 Ra8 29. Rae1 Ra2 30. Nf4 Qg5 ({Skilfully defends} 30...
+Ng5 $1 31. Kh1 Nf7 $1) 31. h4 $1 Qg3 ({The pointe is} 31... Qxh4 32. Ne7) 32.
+Re6 Ndf6 33. Ne7 Rga8 $2 (33... b3 34. Nxf5 Qxf3 35. Re7 Ra4 36. Rf1 $18) 34.
+Nfg6+ 1-0
+
+[Event "Las Palmas"]
+[Site "?"]
+[Date "1996.??.??"]
+[Round "5"]
+[White "Karpov, Anatoly"]
+[Black "Kasparov, Gary"]
+[Result "1/2-1/2"]
+[ECO "D43"]
+[WhiteElo "2775"]
+[BlackElo "2785"]
+[Annotator "JvR"]
+[PlyCount "89"]
+[EventDate "1996.??.??"]
+
+1. d4 Nf6 2. Nf3 d5 3. c4 e6 4. Nc3 dxc4 5. Qa4+ c6 6. Qxc4 b5 7. Qd3 Bb7 8. a3
+({More aggressive is} 8. e4 b4 9. Na4 {(Karpov-Gelfand, Linares 1993).}) 8...
+a6 9. e3 c5 10. dxc5 Bxc5 11. Qxd8+ Kxd8 12. Bd2 ({More natural develops} 12.
+Be2 Ke7 13. b4 $1 Bd6 14. Bb2) 12... Ke7 13. Bd3 Nbd7 14. Ke2 Bd6 15. Rhd1 Rac8
+16. Rac1 Nb6 17. Be1 Nc4 18. Rc2 Bxf3+ $1 19. gxf3 $6 ({Karpov prefers} 19.
+Kxf3 {because an eventual capture on h2 will be too risky for Black.}) 19...
+Ne5 20. h3 Nxd3 21. Rxd3 Rhd8 22. Rcd2 Bc7 23. Rc2 Bb6 24. Rxd8 Kxd8 25. Rd2+
+Ke7 26. Rd1 g6 27. f4 Rc4 28. f3 Nd7 29. b3 Rc6 30. Ne4 Rc2+ 31. Rd2 Rxd2+ 32.
+Bxd2 Bc5 33. Nxc5 Nxc5 34. Bb4 Kd6 35. Kd2 a5 $1 {
+Black has a better pawn ending.} 36. Bxc5+ Kxc5 37. Kd3 $2 ({Correct is} 37.
+Kc3 {(Karpov).}) 37... f6 38. h4 Kd5 39. b4 axb4 40. axb4 {
+Kasparov can win the endgame.} 40... h6 $2 {Black loses a precious tempo.} ({
+Karpov regards} 40... e5 $1 {as won for Black.} {We analyse} 41. e4+ Ke6 42.
+Ke3 Kd6 43. fxe5+ (43. f5 gxf5 44. exf5 Kd5 45. Kd3 h5 {leads to zugzwang})
+43... fxe5 44. Kf2 Ke6 45. Kg2 Kf6 46. Kg3 h6 $1 {
+Black uses the valuable tempo.} 47. Kh3 h5 48. Kh2 g5 $19) 41. e4+ Kd6 42. Ke3
+e5 43. fxe5+ fxe5 44. Kf2 Ke6 45. Kg2 $1 {
+Anand, Kasparov and Ivanchuk lead at the end of the first cycle.} ({After} 45.
+Kg2 Kf6 {Black shall not play} 46. Kg3 h5 $4 {due to} 47. f4 $1) 1/2-1/2
+
+[Event "Las Palmas"]
+[Site "?"]
+[Date "1996.??.??"]
+[Round "6"]
+[White "Ivanchuk, Vassily"]
+[Black "Karpov, Anatoly"]
+[Result "1/2-1/2"]
+[ECO "C10"]
+[WhiteElo "2730"]
+[BlackElo "2775"]
+[Annotator "JvR"]
+[PlyCount "29"]
+[EventDate "1996.??.??"]
+
+1. e4 e6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. Bd3 Ngf6 6. Qe2 c5 7. Nxf6+ Nxf6
+8. dxc5 Bxc5 9. Nf3 Qc7 10. O-O O-O 11. Bg5 b6 12. Ne5 ({Faster draws} 12. Bxf6
+gxf6 13. Bxh7+ Kxh7 14. Qe4+ {(Kholmov-Pushkov, Azov 1993).}) 12... Bb7 13.
+Bxf6 gxf6 14. Bxh7+ Kxh7 15. Qh5+ 1/2-1/2
+
+[Event "Las Palmas"]
+[Site "?"]
+[Date "1996.??.??"]
+[Round "6"]
+[White "Kasparov, Gary"]
+[Black "Topalov, Veselin"]
+[Result "1/2-1/2"]
+[ECO "C45"]
+[WhiteElo "2785"]
+[BlackElo "2750"]
+[Annotator "JvR"]
+[PlyCount "56"]
+[EventDate "1996.??.??"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Bc5 5. Nxc6 Qf6 6. Qd2 dxc6 7. Nc3 Ne7
+8. Qf4 Ng6 9. Qxf6 gxf6 10. Bd2 ({Known is} 10. Na4 {
+from Relange-Onichuk, Halle 1995.}) 10... Rg8 11. Na4 Bd6 12. O-O-O Be6 13. Nc3
+O-O-O 14. g3 Bg4 15. Be2 Ne5 16. Bf4 Bh3 $5 {Black keep the game going.} 17.
+Bh5 Bc5 18. Rxd8+ Rxd8 19. Nd1 Bg2 20. Re1 Nf3 21. Re2 Ng1 $1 (21... Nxh2 $6 {
+takes a risk.}) 22. Bg4+ Kb8 23. Rd2 Rxd2 24. Kxd2 Bxe4 25. Nc3 Bg2 26. Be3 Be7
+27. Bh5 Nf3+ 28. Ke2 Ng1+ ({Avoids} 28... Nxh2 $6 29. f3) 1/2-1/2
+
+[Event "Las Palmas"]
+[Site "?"]
+[Date "1996.??.??"]
+[Round "6"]
+[White "Kramnik, Vladimir"]
+[Black "Anand, Viswanathan"]
+[Result "1-0"]
+[ECO "A30"]
+[WhiteElo "2765"]
+[BlackElo "2735"]
+[Annotator "JvR"]
+[PlyCount "81"]
+[EventDate "1996.??.??"]
+
+1. Nf3 Nf6 2. c4 b6 3. g3 Bb7 4. Bg2 e6 5. O-O Be7 6. Nc3 O-O 7. Re1 d5 8. cxd5
+Nxd5 9. e4 Nxc3 10. bxc3 c5 11. d4 Nd7 12. Bf4 cxd4 13. cxd4 Nf6 14. Ne5 $1 (
+14. Qd3 Bb4 {would have led to Anand-Tiviakov, Wijk aan Zee 1996. Maybe Anand
+had answered 14...Rc8.}) 14... Bb4 $6 ({Kramnik mentions} 14... Rc8) 15. Re3
+Rc8 16. d5 $1 {Kramnik delivers his favourite uppercut: the d-pawn advances.}
+16... exd5 17. exd5 Bd6 ({Matter loses} 17... Nxd5 18. Rd3 Nxf4 19. gxf4 $1 Qc7
+20. Rd7 Rfd8 21. Rxc7 Rxd1+ 22. Rxd1 Rxc7 23. Rd8+ Bf8 24. Bxb7 Rxb7 25. Nd7 {
+(Kramnik).}) 18. Nc6 Bxc6 $1 19. Bxd6 Ba4 $1 {Anand avoids a poor endgame.} 20.
+Bxf8 $1 Bxd1 21. Be7 Qc7 22. Rxd1 {
+A positional sacrifice has increased the strength of the passed pawn.} 22...
+Nd7 $6 ({After} 22... Qc2 $1 23. Bf3 Nd7 $1 {
+Black can use the knight as blockader and the heavy pieces for activity.}) 23.
+Bh3 h6 $6 (23... Qc2 $1 24. Rde1 f5 {applies the mentioned idea.}) 24. Bf5 $1 {
+White restrains the hostile king.} 24... b5 $2 ({The last chance offers} 24...
+Qb7 25. Bb4 {(Kramnik)} 25... g6 $1 26. Bh3 Rd8 27. Re7 Qc8 $1 (27... Qc7 $2
+28. Be6 $1) 28. Rde1 Qc4 $1 29. Rxd7 Rxd7 30. Bxd7 Qxb4 31. Rd1 Qd6 {
+Black has the time to blockade on d6.}) 25. Bb4 Rd8 ({It is too late for} 25...
+g6 {due to} 26. d6 $1 Qb7 27. Bxd7 Qxd7 28. h3 $1 {(Psakhis).}) 26. Re7 Qc4 27.
+Rxd7 Rxd7 28. Bxd7 Qxb4 29. d6 $1 {The d-pawn cannot be stopped.} 29... Qa4 30.
+Rd3 Qe4 31. Bxb5 Qe1+ 32. Kg2 Qe4+ 33. Kg1 Qe1+ 34. Kg2 Qe4+ 35. Kf1 Qh1+ 36.
+Ke2 Qe4+ 37. Kf1 Qh1+ 38. Ke2 Qe4+ 39. Kd1 Qg4+ 40. f3 Qh3 41. d7 1-0
+
+[Event "Las Palmas"]
+[Site "?"]
+[Date "1996.??.??"]
+[Round "7"]
+[White "Anand, Viswanathan"]
+[Black "Karpov, Anatoly"]
+[Result "1-0"]
+[ECO "D21"]
+[WhiteElo "2735"]
+[BlackElo "2775"]
+[Annotator "JvR"]
+[PlyCount "71"]
+[EventDate "1996.??.??"]
+
+1. Nf3 {Anand avoids a boring Caro-Kann.} 1... d5 2. d4 e6 3. c4 dxc4 4. e4 b5
+5. a4 c6 6. axb5 cxb5 7. b3 Bb7 8. bxc4 Bxe4 9. cxb5 Nf6 10. Be2 Be7 11. O-O
+O-O 12. Nc3 $1 ({Anand improves on} 12. Nbd2 {from Lutz-Schlosser, Berlin 1989.
+}) 12... Bb7 13. Ne5 a6 14. Bf3 Nd5 $6 ({Analysts dislike} 14... Bxf3 15. Qxf3
+Qxd4 16. Re1 $1 Bb4 17. Bb2 {(Anand), but} 17... Bxc3 18. Bxc3 Qd5 {
+defends well.}) 15. Nxd5 exd5 16. Rb1 $1 Qb6 17. Be2 $3 {
+A great manoeuvre begins.} 17... axb5 18. Rxb5 Qc7 19. Bf4 Bd6 20. Bd3 Ba6 {
+Anand completes the strategem.} 21. Bxh7+ $5 (21. Rxd5 {is a boring move.})
+21... Kxh7 22. Qh5+ Kg8 23. Rb3 Bxe5 $2 ({
+Two variations might draw: Kramnik and Psakhis find} 23... f6 $1 24. Rh3 fxe5
+25. dxe5 Qc4 $1 26. Re1 $1 Qb4 $1 27. Bd2 $5 Qxd2 28. Qh7+ Kf7 29. Rf3+ Ke7 30.
+Qxg7+ Kd8 31. Rxf8+ Bxf8 32. Qxf8+ Kc7 33. Qd6+ Kc8 $11) (23... Bc8 $5 24. Rg3
+Ra3 $1 25. Rc1 Qe7 26. f3 {(De Zeeuw) and now} 26... Ra6 $1 27. Rxg7+ $1 Kxg7
+28. Bh6+ Kg8 29. Rxc8 $1 Bxe5 $1 30. Rxf8+ Qxf8 31. Bxf8 Bxd4+ 32. Kf1 Kxf8 33.
+Qxd5 Nc6 {Black will survive.}) 24. Rh3 f6 25. dxe5 Qe7 26. Qh7+ Kf7 27. Rg3 $1
+Ke8 28. Rxg7 Qe6 29. exf6 Nc6 30. Ra1 Kd8 31. h4 Bb7 32. Rc1 Ba6 33. Ra1 Bb7
+34. Rd1 Ba6 35. Qb1 Rxf6 36. Bg5 {(time)} 1-0
+
+[Event "Las Palmas"]
+[Site "?"]
+[Date "1996.??.??"]
+[Round "7"]
+[White "Kasparov, Gary"]
+[Black "Ivanchuk, Vassily"]
+[Result "1-0"]
+[ECO "B04"]
+[WhiteElo "2785"]
+[BlackElo "2730"]
+[Annotator "JvR"]
+[PlyCount "71"]
+[EventDate "1996.??.??"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. Nf3 g6 5. Bc4 c6 6. O-O Bg7 7. h3 O-O 8. exd6
+exd6 (8... Qxd6 {was played in Kuala-Wielecki, Bielsko-Biala 1991.}) 9. Re1 Nc7
+10. Bg5 Bf6 11. Bh6 Re8 12. Rxe8+ Nxe8 13. Bb3 $5 d5 $5 14. c4 dxc4 15. Bxc4
+Nd6 16. Bb3 Nf5 17. Qd2 $1 Nd7 ({Kasparov has seen} 17... Nxd4 $5 18. Nxd4 Qxd4
+19. Qe1 $1 Qe5 20. Nc3 {with a dynamic equality.}) 18. Nc3 Nxh6 19. Qxh6 Nf8
+20. Rd1 Be6 21. d5 cxd5 22. Nxd5 Rc8 ({Risk takes} 22... Bxb2 $5 23. Qf4 Qa5
+24. Ne5 {(Kasparov)}) 23. Qe3 b6 24. Ne5 Rc5 25. Ng4 Bxg4 26. hxg4 Kg7 27. f4
+h6 ({No good is} 27... Bxb2 $2 28. Qf2 $1 Ba3 29. Qd4+ {(Kasparov).}) 28. f5 g5
+({Gary finds} 28... Bxb2 $2 29. f6+ $1 Bxf6 30. Nxf6 Qxf6 31. Rf1) ({
+but he misses} 28... gxf5 $1 29. gxf5 Bxb2 $1 30. Ne7 Qc7 31. Qe2 Bf6 {
+and Black draws.}) 29. Qe2 $1 {Ivanchuk stands at the edge of the ravine.}
+29... Nh7 $2 ({Shamkovich regards} 29... Rc8 30. Qa6 Bxb2 31. Qxa7 Nd7 $1 32.
+Nf4 {as won for White, but} 32... gxf4 33. Qxd7 Qxd7 34. Rxd7 Kf6 $1 {draws.})
+30. Nxf6 Qxf6 31. Rd7 Re5 32. Rxf7+ $1 Qxf7 33. Qxe5+ Qf6 34. Qc7+ Kh8 35. Kh1
+a5 36. Be6 1-0
+
+[Event "Las Palmas"]
+[Site "?"]
+[Date "1996.??.??"]
+[Round "7"]
+[White "Topalov, Veselin"]
+[Black "Kramnik, Vladimir"]
+[Result "1-0"]
+[ECO "E92"]
+[WhiteElo "2750"]
+[BlackElo "2765"]
+[Annotator "JvR"]
+[PlyCount "77"]
+[EventDate "1996.??.??"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. Be3 c6 8. d5 Ng4
+9. Bg5 f6 10. Bh4 c5 $5 {Kramnik accepts passivity.} 11. O-O Nh6 12. Ne1 Nd7
+13. Rb1 b6 14. a3 g5 $1 15. Bg3 f5 $1 {The counteraction starts timely.} 16.
+exf5 Nxf5 17. Ne4 h6 18. Nc2 Nf6 19. Bd3 Qe8 $6 ({Better is} 19... Bd7 20. Ne3
+Nxe4 21. Bxe4 {(Dolmatov)} 21... Nd4 $1) 20. Ne3 Nxe4 21. Bxe4 h5 22. Qd3 Qf7
+23. f3 Nxe3 24. Qxe3 Bh6 25. Be1 Qg7 $6 ({More actively defends} 25... Qf4 $1
+26. Qd3 g4) 26. Bd2 $1 Rf6 27. Qd3 g4 $2 {
+Black opens the position, although his pieces are underdeveloped.} (27... a5 $1
+{keeps the status quo (Dolmatov).}) 28. Bxh6 Qxh6 29. fxg4 Bxg4 30. Rxf6 Qxf6
+31. Rf1 Qg7 32. h3 Bd7 33. Qf3 $1 {White controls the kingside.} 33... Be8 34.
+Qf5 Qf7 35. Qg5+ Qg7 36. Qh4 {Black has no defence against 37.Rf6 anyway.}
+36... Qh6 37. Rf6 Qe3+ 38. Kh2 Kg7 39. Rf3 {
+Kramnik loses a second game in a tournament!} 1-0
+
+[Event "Las Palmas"]
+[Site "?"]
+[Date "1996.??.??"]
+[Round "8"]
+[White "Ivanchuk, Vassily"]
+[Black "Anand, Viswanathan"]
+[Result "1/2-1/2"]
+[ECO "D30"]
+[WhiteElo "2730"]
+[BlackElo "2735"]
+[Annotator "JvR"]
+[PlyCount "58"]
+[EventDate "1996.??.??"]
+
+1. d4 d5 2. Nf3 e6 3. c4 dxc4 4. Qa4+ c6 5. Qxc4 Nf6 6. Bg5 Be7 7. e3 O-O 8.
+Be2 Qa5+ 9. Nc3 Nbd7 10. O-O e5 $1 {
+Black plays the liberating move in the centre.} 11. Ne4 $5 (11. a3 $1 {
+strives for an expansion on the queenside.}) 11... exd4 12. Qxd4 Qb6 13. Rfd1
+Re8 14. Rac1 h6 15. Bh4 Qxd4 16. Rxd4 Nxe4 17. Rxe4 Kf8 18. a3 $5 {
+White shows some ambition, but Black equalises easily.} 18... Nf6 19. Re5 g5
+20. Bg3 Nh5 21. Nd4 Nxg3 22. hxg3 Rd8 23. g4 Bf6 {
+He gains a plus that bears little weight.} 24. Re4 Rd6 25. Rc2 a5 26. Nf5 Bxf5
+27. gxf5 Rad8 28. Rec4 Rd2 29. b3 Be7 1/2-1/2
+
+[Event "Las Palmas"]
+[Site "?"]
+[Date "1996.??.??"]
+[Round "8"]
+[White "Karpov, Anatoly"]
+[Black "Topalov, Veselin"]
+[Result "1/2-1/2"]
+[ECO "A70"]
+[WhiteElo "2775"]
+[BlackElo "2750"]
+[Annotator "JvR"]
+[PlyCount "140"]
+[EventDate "1996.??.??"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 c5 4. d5 d6 5. Nc3 exd5 6. cxd5 g6 7. e4 Bg7 8. h3
+O-O 9. Bd3 b5 $5 10. Bxb5 Nxe4 11. Nxe4 Qa5+ 12. Nfd2 Qxb5 13. Nxd6 Qa6 14.
+N2c4 Nd7 15. O-O Nb6 16. Nxb6 Qxb6 17. Nxc8 Raxc8 18. Rb1 Rfd8 19. Bf4 Qb7 $1 {
+Topalov has prepared a surprising novelty in a sharp variation.} 20. d6 Bf8 21.
+Qd2 ({Theory will become} 21. Qd3 $1 Bxd6 22. Bxd6 Rc6 23. Rfd1 Qd7 $1 {
+(Komarov-Leko, 1997).}) 21... Bxd6 $1 {The pointe of the new idea.} 22. Bxd6
+Rc6 23. Rfd1 Qa6 $1 {Black avoids the exchange of two rooks for a queen.} 24.
+Qg5 Rdxd6 25. Rxd6 Rxd6 26. Qxc5 Qxa2 $1 {
+The endgame is even, but Karpov has just begun.} 27. Re1 Rd8 28. b4 a6 29. Qg5
+Rf8 30. h4 Qc4 31. Qe7 h5 32. g3 Rc8 33. Rd1 Qc6 34. Rd6 Qa8 35. Qe1 Qb7 36.
+Qd2 Re8 37. Qc3 Rc8 38. Qd2 Re8 39. Rd5 Qc6 40. Kh2 Qf6 41. Rd4 Qc6 42. Rd6 Qf3
+43. Qd4 Qe4 44. Qc3 Qb7 45. Rc6 Qb5 46. Rf6 Re7 $6 47. Qc8+ Re8 48. Qxa6 Qxb4
+49. Qa2 $1 Re6 $1 ({Avoids} 49... Qe7 $4 50. Rxg6+) 50. Rxe6 fxe6 51. Qxe6+ Kg7
+52. Qd7+ Kf6 53. Qc6+ Kg7 54. Qd5 Qc3 55. Kg2 Qf6 56. Qd7+ Kg8 57. Qc7 Qe6 58.
+Qf4 Qc6+ 59. Kf1 Qe6 60. Qe3 Qc4+ 61. Ke1 Qc2 62. Kf1 Qd1+ 63. Kg2 Qd5+ 64. f3
+Qa2+ 65. Kh3 Qb1 66. g4 hxg4+ 67. fxg4 Qf1+ 68. Kg3 Qf6 69. Qc5 Qe6 70. Qc3 Qe4
+1/2-1/2
+
+[Event "Las Palmas"]
+[Site "?"]
+[Date "1996.??.??"]
+[Round "8"]
+[White "Kramnik, Vladimir"]
+[Black "Kasparov, Gary"]
+[Result "1/2-1/2"]
+[ECO "D56"]
+[WhiteElo "2765"]
+[BlackElo "2785"]
+[Annotator "JvR"]
+[PlyCount "115"]
+[EventDate "1996.??.??"]
+
+1. Nf3 Nf6 2. c4 e6 3. Nc3 d5 4. d4 Be7 5. Bg5 O-O 6. e3 h6 7. Bh4 Ne4 8. Bxe7
+Qxe7 9. Rc1 c6 10. Bd3 Nxc3 11. Rxc3 dxc4 12. Bxc4 Nd7 13. O-O b6 14. Bd3 c5
+15. Be4 Rb8 16. Qa4 Bb7 17. Bxb7 Rxb7 18. Qc2 $1 ({He improves on} 18. Qc6 {
+(Anand-Kramnik, German television 1996).}) 18... Rc8 $6 ({Kramnik prefers} 
+18... a5 $1) 19. Rc1 Rbc7 20. b4 $1 e5 $5 21. dxc5 ({After} 21. bxc5 $1 exd4
+22. exd4 bxc5 23. Rc4 $1 {Kramnik evaluates the position as won for White, but}
+23... Rc6 24. h3 Rd6 $1 25. dxc5 Rdc6 {creates a strong blockade.}) 21... bxc5
+22. Rc4 e4 $1 {Kasparov gives a pawn for useful exchanges.} 23. Qxe4 ({
+A nice point of the combination is} 23. Rxe4 cxb4 $1) 23... Qxe4 24. Rxe4 cxb4
+25. Re8+ Rxe8 26. Rxc7 Ne5 $1 27. Nxe5 Rxe5 28. Rxa7 h5 29. h3 Rb5 30. g4 hxg4
+31. hxg4 g6 32. Kg2 b3 33. axb3 Rxb3 34. g5 Kg7 35. Kg3 Rc3 36. Re7 Ra3 37. Rd7
+Kf8 38. Rc7 Kg7 39. Rc8 Kh7 40. Rc7 Kg7 41. Re7 Kf8 42. Re5 Kg7 43. f4 Rd3 44.
+Kf3 Rd2 45. Ke4 Rd1 46. Rd5 Re1 47. Rd3 Kf8 48. Ke5 Kg7 49. e4 Re2 50. Rd7 Re1
+51. Rc7 Re2 52. Ra7 Re1 53. Ra4 Re2 54. Kd6 Rd2+ 55. Ke7 Rf2 56. e5 Rf1 57. Ra6
+Rxf4 58. e6 1/2-1/2
+
+[Event "Las Palmas"]
+[Site "?"]
+[Date "1996.??.??"]
+[Round "9"]
+[White "Kasparov, Gary"]
+[Black "Karpov, Anatoly"]
+[Result "1-0"]
+[ECO "E32"]
+[WhiteElo "2785"]
+[BlackElo "2775"]
+[Annotator "JvR"]
+[PlyCount "87"]
+[EventDate "1996.??.??"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 O-O 5. a3 Bxc3+ 6. Qxc3 b6 7. Bg5 Bb7 8.
+e3 d6 9. f3 Nbd7 10. Nh3 $5 c5 11. dxc5 bxc5 12. Be2 Qb6 13. O-O d5 14. Rad1
+Bc6 15. Nf2 h6 16. Bh4 Ba4 17. Rd2 Bb3 18. Ng4 $1 {Kasparov shows ambition.}
+18... Nxg4 19. fxg4 Rab8 $1 20. g5 hxg5 21. Bxg5 Rb7 {
+The rook protects the kingside.} 22. Be7 Re8 23. Bh4 Nf8 24. Bg3 Rd8 25. Bh4
+Rdd7 26. cxd5 Rxd5 27. e4 Rxd2 28. Qxd2 Ba4 29. Bh5 Be8 30. Bf2 $6 Qb5 $6 ({
+Karpov misses the easy} 30... Qxb2 31. Qxb2 Rxb2 32. Bxc5 Rb5 $1 33. Bxf8 Kxf8
+{Black has a plus.}) 31. Qd8 Bc6 32. Bg3 {Black can apply a fine defence.}
+32... Rd7 $2 {This leads to a lost endgame.} ({Right is} 32... c4 $1 33. Bd6
+Qxh5 34. Qxf8+ Kh7 35. Rf3 c3 $1 36. b4 c2 37. Bf4 e5 38. Be3 Bd7 {(Kasparov).}
+) 33. Qe8 $1 Qxf1+ $1 34. Kxf1 Rd1+ 35. Bxd1 Bxe8 36. Bf2 Bb5+ 37. Be2 Bxe2+
+38. Kxe2 Nd7 39. Kd3 a6 40. Bg1 $1 ({White avoids} 40. Kc4 Ne5+ 41. Kxc5 $4
+Nd3+ {(Ftacnik).}) 40... f5 41. exf5 exf5 42. Kc4 Ne5+ 43. Kxc5 Nd3+ 44. Kb6
+1-0
+
+[Event "Las Palmas"]
+[Site "?"]
+[Date "1996.??.??"]
+[Round "9"]
+[White "Kramnik, Vladimir"]
+[Black "Ivanchuk, Vassily"]
+[Result "1-0"]
+[ECO "A16"]
+[WhiteElo "2765"]
+[BlackElo "2730"]
+[Annotator "JvR"]
+[PlyCount "99"]
+[EventDate "1996.??.??"]
+
+1. Nf3 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. Qa4+ Bd7 6. Qh4 Nxc3 7. dxc3 Nc6
+8. e4 e5 9. Bg5 Be7 10. Bc4 h6 11. Bxe7 Qxe7 12. Qg3 O-O-O 13. O-O Qf6 ({
+Prophylaxis shows} 13... g5 $1 14. Rfd1 f6 {
+(Kharitonov-Yandemirov, Kolontaevo 1994).}) 14. Rad1 Rhe8 15. Bd5 $1 Re7 16.
+Nd2 Qf4 17. Nc4 Bg4 $2 ({Stronger defends} 17... Qxg3 18. fxg3 $1 Be6 19. Rf6
+Bxd5 20. exd5 e4 $1 {(Kramnik).}) 18. Rd2 Red7 19. f3 Qxg3 20. hxg3 Be6 21.
+Rfd1 $1 h5 22. a3 Kb8 23. Kf2 a6 24. Bxc6 $1 Rxd2+ 25. Rxd2 Rxd2+ 26. Nxd2 bxc6
+27. f4 $1 {Kramnik has a decisive advantage in the endgame.} 27... exf4 28.
+gxf4 Kc8 29. Kg3 $6 (29. e5 $1 Bd5 30. c4 Be6 31. b3 {
+improves white's position.}) 29... Kd7 30. Kh4 f6 31. e5 $1 fxe5 32. fxe5 Bd5
+$6 (32... Bf5 $1 33. Kg5 Ke6 34. Kf4 c5 {gives hope.}) 33. g3 Ke6 34. Kg5 Kxe5
+$5 ({No hope gives} 34... Kf7 35. c4 Be6 36. b4) 35. Kxg6 h4 36. gxh4 Kf4 37.
+h5 Ke3 38. c4 Bg2 39. Nb3 Bf1 40. h6 Bxc4 41. Nc5 Ba2 42. Kg7 Bb1 43. Nxa6 Kd4
+44. Nxc7 Kc4 45. Ne6 Kb3 46. Nd4+ Kxb2 47. Nxc6 Kxa3 48. Ne5 Kb4 49. Ng6 Bxg6
+50. Kxg6 1-0
+
+[Event "Las Palmas"]
+[Site "?"]
+[Date "1996.??.??"]
+[Round "9"]
+[White "Topalov, Veselin"]
+[Black "Anand, Viswanathan"]
+[Result "1/2-1/2"]
+[ECO "B85"]
+[WhiteElo "2750"]
+[BlackElo "2735"]
+[Annotator "JvR"]
+[PlyCount "77"]
+[EventDate "1996.??.??"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e6 7. O-O Nc6 8. Be3
+Be7 9. f4 Qc7 10. Kh1 O-O 11. Bf3 Re8 12. a4 Bd7 13. Qd2 Rab8 14. Nb3 b6 15. g4
+Bc8 16. Qf2 $5 (16. g5 {is usual.}) 16... Na5 17. Rad1 Nc4 18. Bc1 b5 19. g5
+Nd7 20. axb5 axb5 21. Bg2 b4 22. Ne2 Nc5 23. f5 $1 {
+Topalov restarts the attack.} 23... Bf8 24. g6 Nxb3 25. cxb3 Ne5 26. gxf7+ $6 (
+{Attack and defence are balanced in} 26. gxh7+ Kxh7 27. f6 Kg8 28. fxg7 Bxg7
+29. Rg1 Kf8) 26... Qxf7 27. Nd4 exf5 28. exf5 Bb7 29. Ne6 Rbc8 $1 30. Ng5 Qe7
+31. Qd2 Kh8 32. Rde1 Qd7 33. Ne6 Qb5 34. Rd1 Be7 35. Bxb7 ({Not} 35. Nxg7 $2
+Rg8 $1 36. f6 Bxf6 37. Rxf6 Rxg7 38. Rf2 Rcg8) 35... Qxb7+ 36. Qd5 Qxd5+ 37.
+Rxd5 Nf7 38. Bd2 Bf6 39. Bxb4 1/2-1/2
+
+[Event "Las Palmas"]
+[Site "?"]
+[Date "1996.??.??"]
+[Round "10"]
+[White "Anand, Viswanathan"]
+[Black "Kasparov, Gary"]
+[Result "1/2-1/2"]
+[ECO "B85"]
+[WhiteElo "2735"]
+[BlackElo "2785"]
+[Annotator "JvR"]
+[PlyCount "66"]
+[EventDate "1996.??.??"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e6 7. a4 Be7 8. O-O
+O-O 9. Be3 Nc6 10. f4 Re8 11. Bf3 Rb8 12. Kh1 Qc7 13. g4 Nxd4 14. Bxd4 e5 15.
+fxe5 dxe5 16. Ba7 Ra8 17. g5 Rd8 18. Qe2 Ne8 19. Be3 Be6 20. Qf2 Rdc8 21. Rad1
+{A new move is made at last.} 21... Bc5 22. Bxc5 Qxc5 23. Nd5 Bxd5 24. Rxd5
+Qxc2 25. Rxe5 Qxf2 26. Rxf2 g6 {The endgame is even.} 27. Rd5 Nc7 28. Rd7 Ne6
+29. Bg4 Nxg5 30. h4 Nxe4 31. Rfxf7 Rc1+ 32. Kg2 Rc2+ 33. Kg1 Rc1+ 1/2-1/2
+
+[Event "Las Palmas"]
+[Site "?"]
+[Date "1996.??.??"]
+[Round "10"]
+[White "Ivanchuk, Vassily"]
+[Black "Topalov, Veselin"]
+[Result "0-1"]
+[ECO "B81"]
+[WhiteElo "2730"]
+[BlackElo "2750"]
+[Annotator "JvR"]
+[PlyCount "46"]
+[EventDate "1996.??.??"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e6 7. g4 h6 8. f4 b5
+9. Bg2 Bb7 10. g5 $5 ({Known is} 10. a3 Nbd7 11. g5 {
+from Shirov-Van Wely, Tilburg 1996.}) 10... hxg5 11. fxg5 b4 $1 12. Na4 Nh5 $2
+({Risk takes} 12... Nxe4 $6 13. Qg4 d5 14. O-O-O {(Shamkovich).}) ({
+Properly defends} 12... Nfd7 $1 13. g6 Qh4+ 14. Kd2 Qe7) 13. O-O Nd7 14. g6 $1
+Nhf6 15. c3 Ne5 (15... bxc3 $2 16. gxf7+ Kxf7 17. Qb3 {(Ftacnik).}) 16. gxf7+
+Kxf7 17. cxb4 Rh4 $1 {Black counters.} 18. Qb3 Qe8 19. Rac1 $2 (19. Bf4 Rg4 20.
+Rae1 {consolidates the advantage.}) 19... Bxe4 20. Rc7+ $2 ({
+Useful exchanges are made in} 20. Rf4 Rxf4 21. Bxf4 Bxg2 22. Kxg2) 20... Kg8
+21. Nxe6 (21. Qxe6+ Qxe6 22. Nxe6 Rg4 23. Rf2 Nd5 {(Ivanchuk).}) 21... Rg4 22.
+Rxf6 {Ivanchuk expects to deliver mate.} (22. Nf4+ $1 d5 23. Nc3 Bxg2 24. Nxg2
+Nc4 $1 $19) 22... Rxg2+ 23. Kf1 ({But he is mated in} 23. Kh1 Rg3+ 24. Rf3
+Bxf3#) 23... Qb5+ 0-1
+
+[Event "Las Palmas"]
+[Site "?"]
+[Date "1996.??.??"]
+[Round "10"]
+[White "Karpov, Anatoly"]
+[Black "Kramnik, Vladimir"]
+[Result "1/2-1/2"]
+[ECO "D46"]
+[WhiteElo "2775"]
+[BlackElo "2765"]
+[Annotator "JvR"]
+[PlyCount "76"]
+[EventDate "1996.??.??"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. e3 Nbd7 6. Qc2 Bd6 7. Bd3 O-O 8. O-O
+e5 9. cxd5 cxd5 10. e4 exd4 11. Nxd5 Nxd5 12. exd5 h6 13. Nxd4 Qh4 14. Nf3 Qh5
+15. Bh7+ Kh8 16. Qf5 g5 $5 {Kramnik plays risky.} ({Exchanges by} 16... Qxf5
+17. Bxf5 Nf6 18. Bc2 Bg4 19. Bb3 Bxf3 20. gxf3 {
+lead to a plus for White (Sokolov-Piket, Nussloch 1996).}) 17. h4 $1 ({
+Little advantage brings} 17. Be3 Kg7 18. Bd4+ f6) 17... Nb6 18. Qf6+ Kxh7 19.
+Qxd6 Bg4 20. Nh2 {The knight would stand exposed on e5.} 20... Rad8 21. Qb4 Bf5
+22. hxg5 Nxd5 23. Qxb7 hxg5 24. Qb3 $1 Rh8 (24... Rb8 25. Qa3 Kg6 26. Qg3 {
+(Karpov).}) 25. Qf3 g4 26. Qg3 Nf6 27. f3 $1 Rd3 {
+The game has reached a climax.} 28. Nxg4 $1 ({A draw results from} 28. fxg4
+Rxg3 29. gxh5 Be4 $1 30. Rxf6 Rxg2+ 31. Kf1 Rxh2 32. Rh6+ Kg7 33. Rxh8 Rh1+ 34.
+Kf2 Kxh8 35. b3 Rxh5) 28... Bxg4 29. fxg4 Qg6 $2 ({Correct is} 29... Qc5+ $1
+30. Qf2 Qxf2+ 31. Kxf2 Re8 $1 {(Kramnik).}) 30. Qc7 Kg8 31. Bf4 ({
+Karpov prefers} 31. g5 $1) 31... Rh4 $1 32. Bg3 $6 ({Better is} 32. g5 {
+(Kramnik)} 32... Ng4 33. Rae1 $1) 32... Rxg3 $1 {
+The 'Patzer' has to give a check!} 33. Qxg3 $2 ({Correct is} 33. Qb8+ $1 Kh7
+34. Qxg3 Qh6 35. Qd3+ $1 {White benifits from the previous check.} 35... Kg7
+36. Qd4 Rxg4 37. Qc3 $1) 33... Qh6 $1 34. Qf3 Rh1+ 35. Kf2 Qd2+ 36. Kg3 Qd6+
+37. Kf2 (37. Qf4 $4 Ne4+ 38. Kf3 Qd3+ 39. Qe3 Nd2+) 37... Qd2+ 38. Kg3 Qd6+ {
+Karpov and Ivanchuk lost during the second cycle. Topalov came back.} 1/2-1/2
+

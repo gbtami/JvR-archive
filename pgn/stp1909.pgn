@@ -1,0 +1,490 @@
+[Event "St. Petersburg"]
+[Site "?"]
+[Date "1909.??.??"]
+[Round "1"]
+[White "Duras, Oldrich"]
+[Black "Bernstein, Ossip"]
+[Result "0-1"]
+[ECO "C65"]
+[Annotator "JvR"]
+[PlyCount "76"]
+[EventDate "1909.??.??"]
+
+{New analyses have been added to selected games of St. Petersburg 1909. All
+games between the six best players are presented firstly. Jan van Reek.} 1. e4
+e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 d6 5. c4 g6 6. d4 exd4 7. Nxd4 Bd7 8. Nc3 Bg7 9.
+Bxc6 bxc6 10. Bg5 h6 11. Bh4 O-O 12. O-O Re8 13. Re1 Rb8 14. Rb1 c5 15. Nb3 Bc6
+16. Qd3 Qc8 17. Nd2 Nd7 18. b3 Qa6 19. Qc2 Qa5 20. Ne2 $6 (20. Nd5 {
+is more active.}) 20... Nf8 21. f3 Ne6 22. Bf2 Bd7 23. Nf1 Nd4 24. Qd3 Nc6 25.
+Nc1 Qa3 $1 26. Ne3 Nb4 27. Qd2 a5 28. Nd5 Nxd5 29. exd5 $2 ({Equality keeps} 
+29. cxd5 $1 a4 {(Lasker)} 30. Qa5 $1) 29... Rxe1+ 30. Bxe1 Bf5 31. Nd3 Bxd3 32.
+Qxd3 Qxa2 33. h3 a4 34. b4 cxb4 35. Rxb4 Rxb4 36. Bxb4 Qb3 37. Qd2 a3 38. Bxa3
+Qxa3 0-1
+
+[Event "St. Petersburg"]
+[Site "?"]
+[Date "1909.??.??"]
+[Round "3"]
+[White "Rubinstein, Akiba"]
+[Black "Lasker, Emanuel"]
+[Result "1-0"]
+[ECO "D30"]
+[Annotator "JvR"]
+[PlyCount "79"]
+[EventDate "1909.??.??"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 e6 4. Bg5 c5 5. cxd5 exd5 6. Nc3 cxd4 $5 7. Nxd4 Nc6
+$2 {Lasker lacks opening experience.} ({Correct is} 7... Be7) 8. e3 $6 ({
+Better is} 8. Bxf6 Qxf6 9. Ndb5 $1 {(Dashkevich-Novikov, Minsk 1955).}) 8...
+Be7 9. Bb5 Bd7 10. Bxf6 Bxf6 11. Nxd5 Bxd4 12. exd4 Qg5 13. Bxc6 ({Avoids} 13.
+Nc7+ $2 Kd8 14. Nxa8 $2 Qxb5 15. Qd2 Re8+ 16. Kd1 Nxd4 $1 17. Qxd4 Qe2+ 18. Kc1
+Re4) 13... Bxc6 14. Ne3 O-O-O $2 ({Lasker prefers} 14... Bxg2 15. Rg1 Qa5+ 16.
+Qd2 Qxd2+ 17. Kxd2 Be4) 15. O-O Rhe8 16. Rc1 $1 {
+Rubinstein defends brilliantly.} 16... Rxe3 $5 17. Rxc6+ $1 bxc6 18. Qc1 $1
+Rxd4 19. fxe3 Rd7 20. Qxc6+ Kd8 21. Rf4 $1 f5 22. Qc5 Qe7 ({No use has} 22...
+Rd1+ 23. Kf2 Rd2+ 24. Ke1 Qxg2 25. Qa5+ {(Lasker).}) 23. Qxe7+ Kxe7 24. Rxf5
+Rd1+ 25. Kf2 Rd2+ 26. Kf3 Rxb2 27. Ra5 Rb7 28. Ra6 Kf8 29. e4 Rc7 30. h4 Kf7
+31. g4 Kf8 32. Kf4 Ke7 33. h5 h6 34. Kf5 Kf7 35. e5 Rb7 36. Rd6 Ke7 37. Ra6 Kf7
+38. Rd6 Kf8 39. Rc6 Kf7 40. a3 {The rook ending is an easy win.} 1-0
+
+[Event "St. Petersburg"]
+[Site "?"]
+[Date "1909.??.??"]
+[Round "5"]
+[White "Spielmann, Rudolf"]
+[Black "Lasker, Emanuel"]
+[Result "1/2-1/2"]
+[ECO "C29"]
+[Annotator "JvR"]
+[PlyCount "111"]
+[EventDate "1909.??.??"]
+
+1. e4 e5 2. Nc3 Nf6 3. f4 d5 4. d3 $6 ({Theory is} 4. fxe5 Nxe4 5. Nf3 {
+(Loewenthal-Staunton, London 1856).}) 4... exf4 $1 5. Bxf4 Bb4 6. exd5 Nxd5 7.
+Bd2 Bxc3 8. bxc3 O-O 9. Nf3 Re8+ 10. Be2 Qe7 11. c4 $1 Nf6 12. Bg5 Nc6 ({
+More pressure keeps} 12... Nbd7 $1 13. Qd2 b6) 13. Bxf6 Qxf6 14. O-O Bg4 15.
+Qd2 Nd4 16. Rae1 Bxf3 17. Bxf3 Rxe1 18. Qxe1 Nxc2 19. Qf2 Nd4 20. Bxb7 Qxf2+
+21. Kxf2 Rb8 22. Bd5 Re8 23. Bf3 Re6 24. Rb1 Rb6 25. Rxb6 axb6 26. c5 $1 {
+Spielmann solves his difficulties elegantly.} 26... Kf8 (26... bxc5 $2 27. a4
+Nb3 28. Bd5 Na5 29. Ke3 {endangers Black.}) 27. cxb6 cxb6 28. Bd5 Ke7 29. Ke3
+Ne6 30. d4 f5 31. h4 g6 32. Bf3 h6 33. Bd5 g5 34. hxg5 hxg5 35. Bc4 Kf6 36. Bb3
+Nf4 37. Kf3 Ng6 38. g3 Ne7 39. Bc4 Nc6 40. Ke3 Nb4 41. Bb3 Ke7 42. Kf3 Nc6 43.
+Ke3 Kd6 44. Bc2 Ne7 45. Bb3 Nd5+ 46. Kf3 Nc3 47. Ke3 b5 48. Kf3 b4 49. Ke3 Ke7
+50. Kf3 Kf6 51. Ke3 g4 52. d5 $1 Ke5 53. d6 f4+ 54. gxf4+ Kxd6 55. f5 Ke5 56.
+f6 $1 {The pawn sacrifices were helpful in the defence.} 1/2-1/2
+
+[Event "St. Petersburg"]
+[Site "?"]
+[Date "1909.??.??"]
+[Round "5"]
+[White "Teichmann, Richard"]
+[Black "Duras, Oldrich"]
+[Result "0-1"]
+[ECO "C88"]
+[Annotator "JvR"]
+[PlyCount "52"]
+[EventDate "1909.??.??"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+Bg4 9. d3 h6 $5 10. Nbd2 Na5 11. Bc2 Nh7 $5 12. a4 c5 13. axb5 axb5 14. Qe2 Ng5
+15. Bd1 $6 (15. d4 c4 16. Qe3 {gains the initiative.}) 15... O-O 16. Qf1 Ne6
+17. h3 Bh5 18. g3 $2 ({Passivity ends} 18. d4 $1 exd4 19. Qxb5 Nc6 20. Rxa8
+Qxa8) 18... Qc7 19. Qg2 c4 20. Be2 Bg6 21. Qf1 Rac8 22. Nh2 f5 23. exf5 $6 (23.
+Qg2 {protects the centre.}) 23... Bxf5 24. Ng4 Bg5 25. Ne4 $4 Nb3 26. Nxg5 Nxa1
+0-1
+
+[Event "St. Petersburg"]
+[Site "?"]
+[Date "1909.??.??"]
+[Round "8"]
+[White "Duras, Oldrich"]
+[Black "Rubinstein, Akiba"]
+[Result "0-1"]
+[ECO "C77"]
+[Annotator "JvR"]
+[PlyCount "130"]
+[EventDate "1909.??.??"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. d3 d6 6. c4 $5 g6 7. d4 exd4 8.
+Nxd4 Bd7 9. Nxc6 Bxc6 10. O-O Bg7 11. Nc3 O-O 12. f3 (12. Bxc6 bxc6 13. Be3 {
+is more active.}) 12... Nd7 $5 13. Be3 Ne5 14. Bb3 b6 15. f4 Nd7 16. Bd4 Nc5
+17. Bxg7 Kxg7 18. Bc2 a5 19. Qg4 $6 ({The exchanges by} 19. Qd4+ Qf6 $6 20.
+Qxf6+ Kxf6 {(Lasker)} 21. Nd5+ $1 Bxd5 22. cxd5 {are good for White.}) 19...
+Nxe4 $1 20. Nxe4 f5 21. Qf3 fxe4 22. Bxe4 Bxe4 23. Qxe4 Qf6 24. Rf2 $6 ({
+Equality keeps} 24. Qc6 $1 Qd4+ 25. Kh1 {(Yusupov).}) 24... Rae8 25. Qd5 Qf5
+26. Rd1 Re4 27. g3 Rfe8 28. Kg2 h5 29. b3 Re3 30. Rd4 Kf6 {
+Black controls the position.} 31. h3 $2 ({A defence line creates} 31. Rd1 $1 h4
+$1 32. Qxf5+ gxf5 33. gxh4 Rh8 34. Rf3 Re2+ 35. Rf2 Re4 36. h3 Rxh4 37. Kg3 Rh7
+38. Rd3) 31... h4 $1 32. Qxf5+ gxf5 33. gxh4 Rg8+ 34. Kf1 (34. Kh1 a4 $1) 34...
+Rxh3 35. Ke2 Re8+ 36. Kd2 Rxh4 37. Rg2 Reh8 38. Kc3 Rh3+ 39. Rd3 Rxd3+ 40. Kxd3
+Rh3+ 41. Kd4 $6 Rf3 $1 42. Kd5 Rxf4 43. Kc6 Rg4 $1 44. Rf2 Rg7 45. Kd5 Re7 46.
+Rf1 Kg5 47. Rg1+ Kf4 48. a3 Kf3 49. Rf1+ Kg4 50. Rg1+ Kh3 51. Rf1 Re5+ $1 52.
+Kc6 Kg2 53. Rf4 Kg3 54. Rf1 Rc5+ $1 55. Kb7 f4 56. Rc1 d5 57. Rg1+ Kf2 58. Rb1
+d4 59. Rc1 d3 60. b4 axb4 61. axb4 d2 62. Rc2 Ke3 63. bxc5 d1=Q 64. Rc3+ Kd4
+65. cxb6 Kxc3 {Again Rubinstein won a rook ending with a pawn up.} 0-1
+
+[Event "St. Petersburg"]
+[Site "?"]
+[Date "1909.??.??"]
+[Round "9"]
+[White "Teichmann, Richard"]
+[Black "Bernstein, Ossip"]
+[Result "1-0"]
+[ECO "C66"]
+[Annotator "JvR"]
+[PlyCount "93"]
+[EventDate "1909.??.??"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. Bb5 d6 5. d4 Bd7 6. O-O Be7 7. Re1 exd4 8.
+Nxd4 O-O 9. Bxc6 bxc6 10. b3 Re8 11. Bb2 Bf8 12. Qd3 g6 {
+The players chose a quiet opening.} (12... Qb8 {
+is played in Speyer-Lasker during the same round.}) 13. Rad1 Bg7 14. f3 Qb8 15.
+Bc1 Qb6 16. Na4 Qb7 17. Nb2 c5 18. Ne2 Bb5 19. c4 Bc6 20. Nc3 Nd7 21. Be3 Nb6
+22. Rb1 a5 23. Bf2 a4 $6 {Problems begin for Black.} 24. Nbxa4 Nxa4 25. bxa4
+Qa6 26. Re2 Bxa4 27. Nd5 Ra7 28. Bh4 Bd4+ 29. Kh1 Kg7 30. Bf2 Bxf2 31. Rxf2 Qa5
+32. Qd2 f6 $4 {Suddenly Bernstein blunders.} ({Right is} 32... Qxd2 33. Rxd2
+Bc6) 33. Qb2 Rf8 34. g4 $1 h6 35. h4 g5 36. f4 $1 gxh4 37. Nxf6 $1 Rf7 38. g5
+Bc6 39. Rg1 Qa3 40. gxh6+ Kxh6 41. Rh2 Bxe4+ 42. Nxe4 Qf3+ 43. Qg2 Qxg2+ 44.
+Rhxg2 Rxf4 45. Rg6+ Kh7 46. Nf6+ Rxf6 47. Rxf6 1-0
+
+[Event "St. Petersburg"]
+[Site "?"]
+[Date "1909.??.??"]
+[Round "10"]
+[White "Bernstein, Ossip"]
+[Black "Lasker, Emanuel"]
+[Result "1/2-1/2"]
+[ECO "C66"]
+[Annotator "JvR"]
+[PlyCount "78"]
+[EventDate "1909.??.??"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O d6 5. d4 Bd7 6. Nc3 Be7 7. Bg5 exd4 8.
+Nxd4 O-O 9. Bxc6 bxc6 10. Qd3 c5 $6 ({The preferable} 10... Ng4 11. Bxe7 Qxe7 {
+will be played in round seventeen (Lasker-Cohn).}) 11. Nf5 $1 Bxf5 12. exf5 Nd7
+13. Bxe7 Qxe7 14. Rae1 Qd8 15. Re2 Nf6 16. Rfe1 Qd7 17. h3 Rfe8 18. Ne4 $1 {
+White conquers the centre.} 18... Nxe4 19. Rxe4 Kf8 {
+Black has no convincing defence.} 20. f6 $1 gxf6 21. Qe3 f5 22. Qh6+ Kg8 23.
+R4e3 Re6 24. Rxe6 fxe6 25. Rxe6 Rf8 {Black's weaknesses are obvious.} 26. Qg5+
+$6 ({Bernstein can play for a win with} 26. Qe3 f4 27. Qe4 Rf7 28. c4) ({or} 
+26. Re3 f4 27. Ra3) 26... Qg7 27. Qxg7+ Kxg7 28. Re7+ Rf7 29. Rxf7+ Kxf7 {
+Black escapes in a pawn ending.} 30. Kf1 c4 $1 31. Ke2 c5 32. Ke3 d5 33. f3 Kf6
+34. Kf4 a5 35. g4 fxg4 36. fxg4 (36. hxg4 $1 a4 $1 37. Kg3 d4 38. Kf4 d3 39.
+cxd3 cxd3 40. Ke3 c4 41. f4 {results in a draw.}) 36... a4 37. h4 d4 38. Ke4
+Kg6 39. Kf4 Kf6 1/2-1/2
+
+[Event "St. Petersburg"]
+[Site "?"]
+[Date "1909.??.??"]
+[Round "10"]
+[White "Duras, Oldrich"]
+[Black "Spielmann, Rudolf"]
+[Result "0-1"]
+[ECO "C50"]
+[Annotator "JvR"]
+[PlyCount "66"]
+[EventDate "1909.??.??"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d3 Bc5 5. Nc3 d6 6. Be3 Bb6 7. h3 Be6 8. O-O
+$5 Bxc4 9. dxc4 $2 ({No pawn loses} 9. Bxb6 Bxd3 10. Bxc7 Bxc2 11. Qxd6) 9...
+Ba5 $1 10. Nd5 ({Or} 10. Qd3 Bxc3 11. bxc3) 10... Nxe4 11. Qd3 f5 12. c3 O-O
+13. Rad1 Bb6 14. b4 Bxe3 15. Nxe3 Qf6 16. Rfe1 Ng5 17. Nxg5 Qxg5 18. b5 Na5 19.
+Nd5 e4 20. Qe2 Rf7 21. Rd4 c6 22. Nb4 Rd8 23. Nc2 Qf6 24. Ne3 Qe5 25. Red1 Rf6
+26. Qc2 h5 $2 ({Correct is} 26... b6) 27. Qa4 f4 28. Qxa5 b6 29. Qa3 $2 ({
+White misses the opportunity} 29. Qxa7 fxe3 30. fxe3 Qg3 31. Qe7 Qxe3+ 32. Kh2
+Qf4+ 33. Kh1) 29... fxe3 30. fxe3 Qg3 31. Kh1 Rdf8 32. Qc1 Rf2 33. Rg1 R8f3 $1
+{Black threatens ..Qxh3+ and mate.} 0-1
+
+[Event "St. Petersburg"]
+[Site "?"]
+[Date "1909.??.??"]
+[Round "12"]
+[White "Teichmann, Richard"]
+[Black "Rubinstein, Akiba"]
+[Result "1/2-1/2"]
+[ECO "C00"]
+[PlyCount "33"]
+[EventDate "1909.??.??"]
+
+1. e4 e6 2. d4 d5 3. exd5 exd5 4. Nf3 Nf6 5. Bd3 Bd6 6. O-O O-O 7. Bg5 Bg4 8.
+Nbd2 Nbd7 9. c3 c6 10. Qc2 Qc7 11. Rfe1 Rfe8 12. h3 Bxf3 13. Nxf3 h6 14. Bxf6
+Nxf6 15. Rxe8+ Rxe8 16. Re1 Rxe1+ 17. Nxe1 1/2-1/2
+
+[Event "St. Petersburg"]
+[Site "?"]
+[Date "1909.??.??"]
+[Round "14"]
+[White "Teichmann, Richard"]
+[Black "Spielmann, Rudolf"]
+[Result "0-1"]
+[ECO "D02"]
+[Annotator "JvR"]
+[PlyCount "68"]
+[EventDate "1909.??.??"]
+
+1. d4 d5 2. Nf3 c5 3. e3 Nc6 4. c4 e6 5. Nc3 Nf6 6. Bd3 dxc4 7. Bxc4 a6 8. O-O
+b5 9. Bd3 Bb7 10. a4 c4 11. Be2 $6 ({Equality keeps} 11. axb5 axb5 12. Rxa8
+Bxa8 13. Be2 {(Lasker).}) 11... b4 $1 12. Nb1 Na5 13. Nbd2 Rc8 14. Ne5 Bd5 15.
+b3 $6 c3 16. Ndc4 Bd6 17. f3 $2 ({Correct is} 17. Nxa5 Qxa5 18. Nc4 Qc7 19. h3
+{(Lasker).}) 17... Bxe5 18. dxe5 Bxc4 19. Bxc4 Qxd1 20. Rxd1 Nxc4 21. exf6 Na5
+22. fxg7 Rg8 23. Rd3 Nxb3 24. Rb1 Nxc1 25. Rxc1 Rxg7 26. Rd4 b3 27. Rb4 Rd8 $5
+28. Rxb3 Rd2 29. Rcxc3 ({The pointe is} 29. g3 c2 30. Rf1 f6 31. Rb8+ Kd7 32.
+Rb7+ Kc8 33. Rxg7 Rd1) 29... Rgxg2+ 30. Kh1 Rxh2+ 31. Kg1 Rdg2+ 32. Kf1 Ra2 33.
+Kg1 Rhg2+ 34. Kh1 Rgf2 0-1
+
+[Event "St. Petersburg"]
+[Site "?"]
+[Date "1909.??.??"]
+[Round "15"]
+[White "Lasker, Emanuel"]
+[Black "Duras, Oldrich"]
+[Result "1-0"]
+[ECO "D26"]
+[PlyCount "107"]
+[EventDate "1909.??.??"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 dxc4 4. e3 c5 5. Bxc4 e6 6. Nc3 a6 7. O-O b5 8. Bd3
+Bb7 9. Qe2 Nbd7 10. Rd1 Qb6 11. Bc2 Rc8 12. a3 Be7 13. e4 cxd4 14. Nxd4 Ne5 15.
+Bg5 O-O 16. Nf3 Qc5 17. Be3 Qc4 18. Nxe5 Qxe2 19. Nxe2 Rxc2 20. Nd4 Rc5 $6 (
+20... Rxb2 $4 21. Nd3) ({No problems gives} 20... Rc7) 21. Nd3 Rc4 22. f3 Rd8
+23. Nb3 Rc2 24. Bc5 Kf8 25. Bxe7+ Kxe7 26. Na5 Rc7 27. Nb4 Rxd1+ 28. Rxd1 Ba8
+29. Kf2 Ne8 30. Ke3 Nd6 31. Rd2 f5 32. exf5 $6 ({The advantage keeps} 32. e5
+Nf7 33. f4) 32... Nxf5+ 33. Kf2 Bd5 $2 (33... e5 {strengthens the position.})
+34. Nxa6 $1 Rc1 ({The pointe is} 34... Ra7 35. Rxd5 Rxa6 36. Rxb5) 35. Nb4 Kd6
+36. Nb3 Rh1 37. h3 Rb1 38. g4 Ne7 39. Nd4 Kc5 40. Ne2 $2 ({Right is} 40. Nxd5
+exd5 41. Ne6+ Kc4 42. Nxg7 Kb3 43. Nf5 {(Lasker).}) 40... Rh1 41. Kg2 Ra1 42.
+Rc2+ Bc4 43. Nc3 Nd5 44. Ne4+ Kd4 $4 ({Correct is} 44... Kb6 {(Lasker).}) 45.
+Rxc4+ $1 {White wins a piece.} 45... Kxc4 46. Nd2+ Kd4 47. Nb3+ Ke3 48. Nxd5+
+exd5 49. Nxa1 Kd2 50. Nb3+ Ke3 51. h4 g6 52. Kg3 Kd3 53. Kf4 Kc4 54. Nc1 1-0
+
+Kc4 54. Nc1 1-0
+
+[Event "St. Petersburg"]
+[Site "?"]
+[Date "1909.??.??"]
+[Round "15"]
+[White "Rubinstein, Akiba"]
+[Black "Bernstein, Ossip"]
+[Result "1/2-1/2"]
+[ECO "D30"]
+[PlyCount "78"]
+[EventDate "1909.??.??"]
+
+1. d4 d5 2. Nf3 e6 3. c4 Nf6 4. Bg5 Be7 5. Nc3 Nbd7 6. e3 a6 $6 7. c5 Ne4 8.
+Bxe7 Qxe7 9. Qc2 f5 10. Be2 c6 11. O-O O-O 12. Nxe4 $6 fxe4 13. Ne1 e5 {
+Black opens a road to the kingside.} 14. Qd2 exd4 15. exd4 Nf6 16. Rc1 Bg4 17.
+Rc3 Rf7 18. f3 exf3 19. Bxf3 Ne4 20. Bxe4 Rxf1+ 21. Kxf1 Qxe4 22. Re3 Qf4+ 23.
+Kg1 Rf8 24. Nf3 Bxf3 25. gxf3 {Black has forced a weakness.} 25... h6 26. Qd3
+Rf5 27. Re8+ Kf7 28. Qe3 Qg5+ $6 ({Pressure keeps} 28... Kg6 $1 29. Re6+ Kh5
+30. Kg2 Qxe3 31. Rxe3 Rf4) 29. Kf2 Qh4+ 30. Kg2 Rg5+ 31. Kh1 Rg6 $6 ({
+Correct is} 31... Qh3) 32. a3 a5 33. b4 a4 34. b5 $6 (34. f4 $1 {
+keeps a plus (Lasker).}) 34... cxb5 35. Rb8 Re6 36. Rxb7+ Re7 37. c6 Ke8 38.
+Rb8+ Kf7 39. Rb7 Ke8 1/2-1/2
+
+b7 Ke8 1/2-1/2
+
+[Event "St. Petersburg"]
+[Site "?"]
+[Date "1909.??.??"]
+[Round "17"]
+[White "Spielmann, Rudolf"]
+[Black "Rubinstein, Akiba"]
+[Result "0-1"]
+[ECO "C88"]
+[Annotator "JvR"]
+[PlyCount "150"]
+[EventDate "1909.??.??"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+Bg4 9. h3 Bh5 10. d3 O-O 11. Nbd2 d5 $5 12. exd5 Nxd5 13. Nf1 Bf6 14. g4 $5 Bg6
+15. g5 Be7 16. Nxe5 Nxe5 17. Rxe5 Nb6 18. d4 Nd7 19. Re1 Bxg5 20. Bxg5 Qxg5+
+21. Qg4 Qd8 $1 22. Ng3 Nf6 23. Qf3 Qd7 24. Kh2 a5 25. a3 Rab8 26. Re5 Rfe8 27.
+Rg1 b4 28. Rxa5 bxc3 29. Qxc3 Ne4 30. Nxe4 Rxe4 31. Rd5 Qe7 32. Rc5 Re2 33. Qg3
+Qd6 $2 ({Equality keeps} 33... Qf6) 34. Qxd6 $2 ({
+Spielmann can decide the game, but he misses the sacrifice} 34. Bxf7+ $1 Bxf7
+35. Re5 $1 {(Lasker).}) 34... cxd6 35. Rc7 Rxb2 36. Rgc1 Kf8 37. Bc2 Ra2 38.
+Bxg6 hxg6 39. R1c2 Rxc2 40. Rxc2 Ra8 $1 41. Rc3 Ra4 42. Rd3 Ke7 43. Kg3 {
+White remains passive.} 43... Ke6 44. Kf3 Kd5 45. Ke2 g5 ({Black avoids} 45...
+Rxd4 46. Ke3 $11) 46. Rb3 f6 47. Ke3 Kc4 48. Rd3 d5 49. Kd2 Ra8 50. Kc2 Ra7 $1
+51. Kd2 Re7 $1 {White suffers from restriction.} 52. Rc3+ $2 ({
+The effect of zugzwang becomes apparent in} 52. Kc2 $2 Re2+ 53. Rd2 Rxd2+ 54.
+Kxd2 Kb3) ({Better is} 52. a4 $1 Ra7 (52... Kb4 53. Rc3 Kxa4 54. Rc5 Rd7 55.
+Ke3 Kb4 56. Kf3) 53. Ra3 Kxd4 54. a5 Kc4 55. a6 Kb5 56. Kd3 Rxa6 57. Rxa6 Kxa6
+58. Kd4 {and White draws despite two minus pawns.}) 52... Kxd4 53. a4 Ra7 54.
+Ra3 Ra5 55. Ra1 Kc4 56. Ke3 $2 ({The last chance} 56. Rc1+ Kb3 57. Rb1+ Kxa4
+58. Kd3 Rc5 59. Kd4 Rc2 60. Rb7 Rxf2 61. Rxg7 {
+might give a draw (Levenfish & Smyslov).}) 56... d4+ 57. Kd2 Rf5 58. Ke1 Kb4
+59. Ke2 Ka5 60. Ra3 Rf4 61. Ra2 Rh4 62. Kd3 Rxh3+ 63. Kxd4 Rh4+ 64. Kd3 Rxa4
+65. Re2 Rf4 66. Ke3 Kb6 67. Rc2 Kb7 68. Rc1 Ra4 69. Rh1 Kc6 70. Rh7 Ra7 71. Ke4
+Kd6 72. Kf5 g6+ 73. Kxg6 Rxh7 74. Kxh7 Ke5 75. Kg6 g4 0-1
+
+[Event "St. Petersburg"]
+[Site "?"]
+[Date "1909.??.??"]
+[Round "19"]
+[White "Lasker, Emanuel"]
+[Black "Teichmann, Richard"]
+[Result "1-0"]
+[ECO "C86"]
+[Annotator "JvR"]
+[PlyCount "54"]
+[EventDate "1909.??.??"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Qe2 b5 7. Bb3 d6 8. c3
+O-O 9. d4 exd4 10. cxd4 Bg4 11. Rd1 d5 12. e5 Ne4 13. Nc3 Nxc3 14. bxc3 f6 $2 (
+{Correct is} 14... Qd7 {(Brinckmann-Vajda, Budapest 1929).}) 15. h3 $1 Bh5 16.
+g4 Bf7 17. e6 $1 Bg6 18. Nh4 Na5 19. Nxg6 hxg6 20. Bc2 f5 21. Kh1 $1 Bd6 22.
+gxf5 Qh4 23. Qf3 gxf5 24. Rg1 $1 f4 25. Rg4 Qh6 26. e7 Bxe7 27. Bxf4 Qe6 {
+Black resigned before White could play 28.Rxg7+.} 1-0
+
+[Event "St. Petersburg"]
+[Site "?"]
+[Date "1909.??.??"]
+[Round "19"]
+[White "Spielmann, Rudolf"]
+[Black "Bernstein, Ossip"]
+[Result "0-1"]
+[ECO "B74"]
+[Annotator "JvR"]
+[PlyCount "50"]
+[EventDate "1909.??.??"]
+
+1. e4 c5 2. d4 cxd4 3. Nf3 Nc6 4. Nxd4 Nf6 5. Nc3 d6 6. Be2 g6 7. Be3 Bg7 8.
+O-O O-O 9. Nb3 a6 10. f4 b5 11. Bf3 Bb7 12. e5 ({Spielmann played} 12. Qe2 {
+against Dus Chotimirsky previously.}) 12... dxe5 13. Nc5 Qc7 14. Nxb7 $2 ({
+More active is} 14. fxe5 Qxe5 15. Qc1 b4 16. N3a4 Qc7 17. Nxb7 Qxb7 18. Nc5)
+14... exf4 15. Bxf4 Qxb7 16. Qe2 Rae8 17. a4 $6 b4 $1 18. Nd5 Nd4 19. Nxf6+
+Bxf6 20. Qc4 Nxf3+ 21. Rxf3 Bxb2 22. Raf1 Rc8 23. Qb3 Bd4+ 24. Kh1 Rc3 25. Rxc3
+Bxc3 {Rubinstein had an outstanding score against the strongest players. Duras
+did poorly.} 0-1
+
+[Event "St. Petersburg+"]
+[Site "?"]
+[Date "1909.??.??"]
+[Round "1"]
+[White "Schlechter, Carl"]
+[Black "Lasker, Emanuel"]
+[Result "1/2-1/2"]
+[ECO "C66"]
+[Annotator "JvR"]
+[PlyCount "141"]
+[EventDate "1909.??.??"]
+
+{Carl Schlechter suffered from a flu during the tournament. His shared eighth
+place endangered his match with Lasker. He started well against the world
+champion.} 1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O d6 5. d4 Bd7 6. Nc3 Be7 7. Re1
+exd4 8. Nxd4 O-O 9. Nde2 $5 a6 10. Ba4 Re8 11. f3 h6 12. Be3 Bf8 13. Qd2 Ne5
+14. Bb3 c5 $5 15. Bd5 Rb8 16. Nf4 b5 17. a3 Nxd5 18. Ncxd5 f5 19. exf5 Bxf5 20.
+Bf2 Qd7 21. Ne3 Bh7 22. Nfd5 Qf7 23. Rad1 Nc6 24. Bg3 Rbd8 25. Bh4 Rd7 26. Ng4
+Rxe1+ 27. Rxe1 $2 ({Correct is} 27. Bxe1 Nd4 28. Nge3 Bxc2 29. Nxc2 Qxd5 30.
+Bf2) 27... Nd4 28. Nge3 $6 ({White can try} 28. Nde3 g5 {(Lasker)} 29. c3 $1
+Ne6 30. Nd5 $1 gxh4 31. Ndf6+ Kh8 32. Nxd7 Qxd7 33. Nf6) 28... Bxc2 29. Nxc2
+Nxc2 30. Nf6+ gxf6 31. Qxc2 f5 32. f4 Bg7 33. h3 c4 34. g4 d5 $6 (34... fxg4
+35. hxg4 Qxf4 {brings an easy win (Lasker).}) 35. gxf5 d4 $2 ({The win forces} 
+35... Qh5 $1 36. f6 Qxh4 37. Re8+ Kf7 38. fxg7 Qg3+ 39. Qg2 Qxg2+ 40. Kxg2 Kxg7
+) 36. Qe4 d3 37. f6 Bf8 38. Kh2 d2 39. Rd1 Qh5 40. Qe6+ Kh8 41. f7 $2 ({
+The best defence gives} 41. Qe5 $1 Qg6 42. Bf2 Bd6 43. Qe3) 41... Qxf7 42. Bf6+
+Bg7 43. Qxf7 Rxf7 44. Bxg7+ Kxg7 45. Rxd2 Rxf4 46. Kg3 {
+Black has winning chances, if he cuts off the white king.} 46... Re4 $2 ({
+Correct is} 46... Rf6 47. Rd7+ Kg6 48. Kg4 h5+ $1 49. Kh4 Re6 50. Rd4 Re2 51.
+Rd6+ Kf5 $1 {The black king becomes active at the cost of a pawn.} 52. Kxh5
+Rxb2 53. Rxa6 c3 54. Rc6 Rb3 55. h4 Ke4 $1 $19) 47. Kf3 Re1 48. Rd7+ Kf6 49.
+Rd6+ Ke5 50. Rxa6 Rb1 51. Rxh6 Rxb2 52. Ke3 Rb3+ 53. Kd2 Kd4 54. Rd6+ Kc5 55.
+Ra6 Rxh3 56. Ra8 Rh2+ 57. Kc3 Ra2 58. Rc8+ Kb6 59. Rb8+ Kc6 60. Ra8 Kc5 61.
+Rc8+ Kb6 62. Rb8+ Kc6 63. Ra8 Kb7 64. Ra5 Kb6 65. Ra8 Kc6 66. Kd4 $1 ({
+Schlechter avoids} 66. Ra5 $2 Kc5 67. Ra8 Rxa3+ $1 68. Rxa3 b4+) 66... Kb7 67.
+Ra5 Rd2+ 68. Kc3 Rd5 69. Kb4 Kb6 70. a4 c3 71. axb5 1/2-1/2
+
+[Event "St. Petersburg+"]
+[Site "?"]
+[Date "1909.??.??"]
+[Round "9"]
+[White "Rubinstein, Akiba"]
+[Black "Dus Chotimirsky, Fedor"]
+[Result "0-1"]
+[ECO "D32"]
+[Annotator "JvR"]
+[PlyCount "58"]
+[EventDate "1909.??.??"]
+
+{Dus Chotimirsky got a special prize for his wins against the top two.} 1. d4
+d5 2. Nf3 c5 3. c4 e6 4. cxd5 exd5 5. Nc3 Be6 6. g3 Nf6 7. Bg2 Nc6 8. O-O c4 $5
+{Black plays the sharpest line against the Rubinstein variation.} 9. Bg5 Be7
+10. Ne5 Qb6 $2 ({Lasker suggests} 10... O-O) 11. Bxf6 gxf6 12. Nxc4 dxc4 13. d5
+O-O 14. dxe6 Qxb2 $6 ({Better is} 14... fxe6 15. Qd7 Kf7) 15. exf7+ Kh8 16. Nd5
+Rab8 17. Rb1 Qe5 18. Qa4 c3 19. Rfc1 b5 20. Rxb5 $2 {Rubinstein blunders.} ({
+Correct is} 20. Qg4 Nd4 21. e3 c2 22. Ra1) 20... Rxb5 21. Qxb5 Nd4 22. Qe8
+Nxe2+ 23. Kf1 Nxc1 24. Nxe7 Qe2+ 25. Kg1 Qd1+ 26. Bf1 Qd8 27. Qxd8 Rxd8 28. Nc6
+Rf8 29. Bc4 Ne2+ 0-1
+
+[Event "St. Petersburg+"]
+[Site "?"]
+[Date "1909.??.??"]
+[Round "16"]
+[White "Dus Chotimirsky, Fedor"]
+[Black "Lasker, Emanuel"]
+[Result "1-0"]
+[ECO "D37"]
+[Annotator "JvR"]
+[PlyCount "83"]
+[EventDate "1909.??.??"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 e6 4. Nc3 Be7 5. Bf4 O-O 6. e3 Nbd7 7. Bd3 c6 8. Qc2
+dxc4 9. Bxc4 Qa5 $2 ({Useful is} 9... Nd5) 10. O-O Nd5 11. Bg3 Nxc3 12. bxc3
+Nf6 13. Bd3 h6 14. Ne5 Qd8 15. f4 Nd5 16. Rf3 c5 17. e4 Nf6 18. Bf2 cxd4 19.
+cxd4 Bd7 20. Nxd7 Qxd7 21. h3 Rac8 22. Qe2 Rc7 23. f5 Nh7 $2 (23... Rfc8 24. e5
+Rc1+ 25. Rxc1 Rxc1+ 26. Kh2 Nd5 27. f6 $1 Bf8 28. fxg7 Bxg7 29. Qe4 f5 $1 30.
+exf6 Nxf6 31. Qg6 Qf7 {avoids a disaster.}) 24. e5 $1 {
+White's aggression has led to a great success.} 24... exf5 ({The pointe is} 
+24... Ng5 25. f6 $1 {(Lasker)} 25... Nxf3+ 26. Qxf3 Bd8 27. Qg4) 25. Bxf5 Qd8
+26. Rd1 g6 27. Bc2 Qc8 28. Bb3 Rc1 29. Kh2 Ng5 30. Rfd3 Rxd1 31. Rxd1 Bd8 32.
+h4 Ne6 33. d5 Nf4 34. Qe4 Qg4 35. g3 Bxh4 36. gxh4 Rc8 37. Rd3 Rc1 38. Qf3 Qf5
+39. Rd4 g5 40. e6 Qe5 41. Re4 Qd6 42. e7 1-0
+
+[Event "St. Petersburg+"]
+[Site "?"]
+[Date "1909.??.??"]
+[Round "16"]
+[White "Schlechter, Carl"]
+[Black "Salwe, G."]
+[Result "1-0"]
+[ECO "C90"]
+[Annotator "JvR"]
+[PlyCount "75"]
+[EventDate "1909.??.??"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+Na5 9. Bc2 c5 10. d3 Nc6 11. Nbd2 O-O 12. Nf1 Qc7 13. Bg5 Ne8 14. Ne3 Bxg5 15.
+Nxg5 Ne7 16. a4 Rb8 17. axb5 axb5 18. Qd2 h6 19. Nf3 Be6 20. d4 Nf6 21. Ra6 Ra8
+22. dxe5 $2 {A quiet Ruy Lopez explodes.} 22... Rxa6 $2 ({Matter wins} 22...
+Nxe4 $1 23. Qd3 Rxa6 24. Qxe4 Ng6 {(Tartakower).}) 23. exf6 gxf6 24. Nd5 Bxd5
+25. exd5 Kg7 26. Nh4 Re8 27. h3 ({Marco recommends} 27. Qd3 $1) 27... Qd8 28.
+Re3 Ng6 29. Nf5+ Kf8 $2 (29... Kg8 30. Nxh6+ Kg7 31. Nf5+ Kg8 {
+gives the last chance.}) 30. Re6 $3 Rxe6 31. dxe6 d5 32. Qxh6+ Ke8 33. exf7+
+Kxf7 34. Qh7+ Ke6 35. Qxg6 Ra2 36. b4 cxb4 37. Nd4+ Kd7 38. Bf5+ {
+Schlechter got the first brilliancy prize for this game.} 1-0
+
+[Event "St.Petersburg All-Russian"]
+[Site "?"]
+[Date "1909.??.??"]
+[Round "7"]
+[White "Alekhine, Alexander"]
+[Black "Gregory, B."]
+[Result "1-0"]
+[ECO "C28"]
+[Annotator "JvR"]
+[PlyCount "75"]
+[EventDate "1909.??.??"]
+
+{The All-Russian tournament was won by Alekhine before Rotlewi.} 1. e4 e5 2.
+Nc3 Nf6 3. Bc4 Nc6 4. d3 Bb4 5. Bg5 Nd4 $6 6. a3 $1 Bxc3+ 7. bxc3 Ne6 8. h4 $5
+{Alekhine attacks immediately.} 8... h6 ({Avoids} 8... Nxg5 $2 9. hxg5 Ng8 10.
+g6 $1 {(Alekhine)} 10... fxg6 11. Bxg8 Rxg8 12. Rxh7) 9. Bd2 d6 10. Qf3 $5 Bd7
+11. g4 Qe7 12. g5 $1 Ng8 $6 ({Exchanges are made in} 12... hxg5 13. hxg5 Rxh1
+14. Qxh1 Ng8 {(Alekhine).}) 13. Rb1 Bc6 14. Nh3 Kd7 $5 15. Qg4 $1 Rf8 16. f4 f5
+17. exf5 $1 Bxh1 18. fxe6+ Kc8 $2 ({A defence line creates} 18... Ke8 $1 19.
+Qg1 Bc6 20. Qxa7 Rf5) 19. Qg1 $1 c6 20. Qxa7 $5 c5 21. d4 Qc7 22. d5 Ne7 23.
+Rxb7 $1 Qxb7 24. Ba6 Bxd5 25. c4 $1 Qxa6 26. Qxa6+ Bb7 27. Qxd6 Nc6 28. gxh6
+gxh6 29. f5 $1 Rxf5 30. Qd7+ Kb8 31. e7 Nxe7 32. Qxe7 Rhf8 33. Qd6+ Ka8 34.
+Bxh6 R8f6 35. Qd8+ Ka7 36. Be3 Rf3 37. Bxc5+ Ka6 38. Qb8 1-0
+

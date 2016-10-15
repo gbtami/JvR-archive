@@ -1,0 +1,3358 @@
+[Event "Dos Hermanas"]
+[Site "1"]
+[Date "1992.??.??"]
+[Round "1"]
+[White "Akopian, Vladimir"]
+[Black "Montecatine Rios, Ricardo"]
+[Result "1-0"]
+[ECO "C54"]
+[WhiteElo "2605"]
+[BlackElo "2345"]
+[Annotator "JvR"]
+[PlyCount "74"]
+[EventDate "1992.05.??"]
+[SourceDate "1992.12.01"]
+
+{Dos Hermanas (two sisters) is situated near Sevilla. It is a holiday resort
+in the south of Spain. A series of annual chess contests started in the spring
+of 1989.   It became a super event in May 1992. Ten players carried out a
+closed tournament. We follow the wins by Yudasin, Akopian and Pia Cramling.} 1.
+e4 e5 2. Bc4 Nf6 3. d3 Nc6 4. Nf3 Bc5 5. O-O d6 6. c3 h6 7. Nbd2 O-O 8. Bb3 Re8
+9. Re1 Be6 10. Nf1 $5 d5 $1 11. Qc2 Qd7 12. Be3 Bb6 13. h3 Rad8 14. Ba4 Qd6 15.
+Rad1 Re7 $2 {E5 becomes weak.} ({Better is} 15... d4 16. cxd4 exd4 17. Bd2) 16.
+Bxc6 $1 bxc6 17. d4 $1 Nxe4 ({The pointe is} 17... exd4 18. e5 dxe3 19. exd6
+exf2+ 20. Kh1 fxe1=Q 21. dxe7 $1) 18. dxe5 Qd7 19. Bxb6 axb6 20. Rxe4 $1 Bf5
+21. Ng3 Bxe4 22. Nxe4 f6 23. e6 Qxe6 24. Ng3 c5 25. Qg6 Red7 26. Nf5 Kh8 27. h4
+Qe8 28. h5 Qxg6 29. hxg6 d4 $2 30. cxd4 cxd4 31. Rxd4 Rxd4 32. N3xd4 Rd5 33. g4
+$1 h5 $2 34. gxh5 c5 35. h6 $1 Rxd4 $5 36. hxg7+ Kg8 37. Nxd4 cxd4 {
+White has extra pawns in the endgame.} 1-0
+
+[Event "Dos Hermanas"]
+[Site "1"]
+[Date "1992.??.??"]
+[Round "1"]
+[White "Yudasin, Leonid"]
+[Black "Hodgson, Julian"]
+[Result "1-0"]
+[ECO "B07"]
+[WhiteElo "2580"]
+[BlackElo "2545"]
+[Annotator "JvR"]
+[PlyCount "79"]
+[EventDate "1992.05.??"]
+[SourceDate "1992.12.01"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 c6 4. f3 $5 e5 5. dxe5 dxe5 6. Qxd8+ Kxd8 7. Bc4 Ke8
+8. Nge2 Nbd7 9. a4 a5 10. g4 $5 ({Theory is} 10. Be3) 10... Nc5 11. h4 Be6 12.
+Bxe6 Nxe6 13. h5 Bc5 14. Nd1 Ke7 $5 15. Ne3 {The chances are equal.} g6 $5 ({
+Preferable is} 15... Ne8 16. Nc4 f6) 16. Nc4 $1 Nd7 17. Bd2 b6 $5 18. O-O-O $1
+Rhc8 $6 ({Correct is} 18... f6 $1 19. Kb1 $1 Rhd8) 19. Bc3 $1 b5 $6 ({
+Yudasin prefers} 19... Ng5 $1) 20. axb5 cxb5 21. Nxe5 $1 Nxe5 22. Bxe5 b4 23.
+hxg6 hxg6 24. f4 b3 $5 25. Rd3 $1 {Both sides attack.} a4 $1 26. Nc3 a3 $1 27.
+Nd5+ Kd7 $1 {He has to sacrifice an exchange,} 28. Nb6+ Kc6 29. Nxa8 $5 a2 $1
+30. Kd2 Rxa8 31. Ra1 Bb4+ $1 32. Kd1 $2 (32. Kc1 $1 Nc5 33. Rh3 {favours White.
+}) 32... Nc5 33. Rd4 Kb5 $2 (33... f6 $1 34. Rd6+ $1 ({not} 34. Bxf6 $2 Bc3 $1
+35. Rd6+ Kxd6 36. Bxc3 Kc6) 34... Kb5 35. Bxf6 Nxe4 {
+offers a strong resistance.}) 34. g5 $1 Ra4 $2 (34... Ra6 $1 35. Rd8 Kc4 {
+fights for the last chance.}) 35. Bd6 $1 Kc6 36. Bxc5 Kxc5 37. cxb3 Ra7 38.
+Rc4+ Kb5 39. Ke2 Bc5 $5 40. Ra4 {Yudasin won in a creative battle.} 1-0
+
+[Event "Dos Hermanas"]
+[Site "1"]
+[Date "1992.??.??"]
+[Round "3"]
+[White "Akopian, Vladimir"]
+[Black "Hodgson, Julian"]
+[Result "1-0"]
+[ECO "C92"]
+[WhiteElo "2605"]
+[BlackElo "2545"]
+[Annotator "JvR"]
+[PlyCount "87"]
+[EventDate "1992.05.??"]
+[SourceDate "1992.12.01"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+O-O 9. h3 Nd7 10. d4 Nb6 11. Nbd2 exd4 12. Nxd4 Nxd4 $5 (12... Bb7 {
+happened in Minic - Nikolac, Rovinj/Zagreb 1975.}) 13. cxd4 c5 14. Nf3 c4 $5 ({
+The natural alternative is} 14... Bb7) 15. Bc2 d5 $5 16. e5 $5 b4 $6 {
+Black does not bother about the defence.} (16... Be6 $1 17. Nh2 Rc8 {
+develops two pieces.}) 17. Nh2 a5 $6 18. Qh5 $1 g6 19. Qh6 Re8 20. h4 $1 Bf8 (
+20... Bxh4 $2 21. Nf3 Be7 {(Akopian)} 22. Bg5 $1 Bf8 23. Bxd8 Bxh6 24. Bxb6 {
+wins for White.}) 21. Qf4 a4 $5 22. h5 $1 b3 $6 (22... Be6 {defends.}) 23. Bd1
+$1 Bb4 $6 24. Re3 $1 Bf5 $5 {It is too late for resistance.} 25. Rg3 $1 Kh8 26.
+a3 Bf8 27. Bd2 Ra7 28. Ng4 Bxg4 29. Bxg4 f5 30. Be2 Re6 31. hxg6 hxg6 32. Rh3+
+Kg8 33. g4 $1 Rf7 34. Kg2 Bg7 35. Rah1 {
+All pieces are aimed at the hostile king.} fxg4 36. Qxg4 Rf5 37. Rf3 Qf8 38.
+Bb4 Qe8 39. Rxf5 gxf5 40. Qxf5 Qg6+ 41. Bg4 Qxf5 42. Bxf5 Rh6 43. Rxh6 Bxh6 44.
+e6 {The passed pawns cannot be stopped.} 1-0
+
+[Event "Dos Hermanas"]
+[Site "1"]
+[Date "1992.??.??"]
+[Round "4"]
+[White "Yudasin, Leonid"]
+[Black "De la Villa Garcia, Jesus"]
+[Result "1-0"]
+[ECO "C05"]
+[WhiteElo "2580"]
+[BlackElo "2450"]
+[Annotator "JvR"]
+[PlyCount "105"]
+[EventDate "1992.05.??"]
+[SourceDate "1992.12.01"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. c3 c5 6. f4 Nc6 7. Ndf3 Qb6 8. h4 a5
+9. a4 cxd4 10. cxd4 Bb4+ $5 11. Kf2 f6 12. Be3 h5 13. Nh3 f5 $6 ({Preferable is
+} 13... O-O) 14. Nhg5 {White has a positional advantage on the kingside.} Ndb8
+15. Be2 g6 16. Rh3 Bd7 17. Rg3 Ne7 18. Nd2 Na6 19. Nb1 Rc8 20. Na3 Ng8 $1 21.
+Nb5 Nh6 22. Bd2 Bxb5 23. Bxb5+ Ke7 24. Bxb4+ axb4 25. Rd3 Rc7 26. Rc1 Rhc8 27.
+Rxc7+ Rxc7 28. Qb3 Rc1 29. Nf3 Nf7 30. Rd1 Rc8 $5 {Exchange is more solid.} 31.
+Ne1 Nh6 32. Nc2 Kf7 33. Nxb4 {White has gained a pawn.} Kg7 $2 (33... Nc7 $1
+34. Nc2 Nxb5 35. axb5 Ng4+ {equalises.}) 34. Nc2 Ng4+ 35. Ke2 Kh6 $5 36. Rd3 $1
+Qd8 37. g3 Rxc2+ $5 38. Qxc2 Nb4 39. Qc5 Nxd3 40. Bxd3 Kg7 41. Bb5 Nh6 42. b4
+Nf7 43. a5 Kg8 44. Kd1 Kg7 45. Kc2 Kg8 46. Kb2 Kg7 47. Ba4 Kg8 48. Qb5 Qc7 49.
+Qe8+ Kg7 50. Bb5 Nd8 51. Qd7+ Qxd7 52. Bxd7 Kf7 53. b5 {
+The a-pawn will advance.} 1-0
+
+[Event "Dos Hermanas"]
+[Site "1"]
+[Date "1992.??.??"]
+[Round "5"]
+[White "Oll, Lembit"]
+[Black "Cramling, Pia"]
+[Result "0-1"]
+[ECO "A37"]
+[WhiteElo "2600"]
+[BlackElo "2530"]
+[Annotator "JvR"]
+[PlyCount "86"]
+[EventDate "1992.05.??"]
+[SourceDate "1992.12.01"]
+
+{Pia Cramling likes to play in Spain. She is married to Juan Bellon Lopez,
+another participant.} 1. c4 c5 2. Nf3 Nc6 3. Nc3 e5 4. g3 g6 5. Bg2 Bg7 6. O-O
+d6 7. Rb1 Nge7 8. a3 a5 9. d3 O-O 10. Ne1 Be6 11. Bg5 f6 12. Be3 Qd7 13. Nc2
+Bh3 $5 14. Bxh3 ({Theory will become} 14. b4) 14... Qxh3 15. Ne4 $5 Qd7 $1 16.
+f4 $5 f5 17. Ng5 $6 (17. Nc3 $1 {restores the position.}) 17... h6 18. Nh3 b6 {
+Black has a pleasant game.} 19. b4 axb4 20. axb4 Kh7 $5 21. Nf2 $5 Ng8 $5 (
+21... exf4 22. Bxf4 Ra2 {shows more aggression.}) 22. bxc5 bxc5 23. fxe5 Nxe5
+24. Bf4 Nc6 25. e4 g5 26. Bc1 Nge7 $5 27. Ne3 $2 (27. exf5 Nxf5 28. Ne4 {
+defends properly.}) 27... f4 $1 28. gxf4 gxf4 29. Nd5 $5 f3 $1 {
+Pia has a decisive attack.} 30. Kh1 Nxd5 31. cxd5 Nd4 32. Be3 Ne2 $1 33. Qb3
+Rf7 34. e5 Bxe5 35. Qc4 Ra4 36. Rb7 Qxb7 37. Qxa4 Qxd5 38. Qh4 Bf4 39. Bxf4
+Rxf4 40. Qe7+ Qf7 41. Qxf7+ Rxf7 42. Ne4 d5 43. Nxc5 Rg7 {
+Black threatens .. f2, ... Rg1+ and mate.} 0-1
+
+[Event "Dos Hermanas"]
+[Site "1"]
+[Date "1992.??.??"]
+[Round "6"]
+[White "Cramling, Pia"]
+[Black "Rodriguez Talavera, Juan"]
+[Result "1-0"]
+[ECO "D39"]
+[WhiteElo "2530"]
+[BlackElo "2375"]
+[Annotator "JvR"]
+[PlyCount "63"]
+[EventDate "1992.05.??"]
+[SourceDate "1992.12.01"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 dxc4 5. e4 Bb4 6. Bg5 c5 7. Bxc4 cxd4 8.
+Nxd4 Bxc3+ 9. bxc3 Qa5 10. Bb5+ Nbd7 11. Bxf6 Qxc3+ 12. Kf1 gxf6 13. h4 a6 14.
+Rh3 {White has a lot of fun for a pawn.} Qa5 15. Be2 Ke7 16. Rc1 Rd8 17. Qc2
+Ne5 18. Qb2 Rd6 19. Rb3 b5 20. f4 Nc4 21. Bxc4 bxc4 22. Rxc4 $1 {
+Cramling improves the theory.} (22. e5 $2 fxe5 23. fxe5 Rxd4 24. Qxd4 cxb3 25.
+Qd6+ Ke8 26. Qc6+ Ke7 27. Qd6+ {drew in Browne - Petursson, St Martin 1991.})
+22... Bd7 23. a4 $1 Rd8 {Black has no proper defence.} (23... Rc8 24. Rxc8 Bxc8
+25. e5 $1 fxe5 26. fxe5 Qxe5 27. Nc6+ {costs  a queen.}) 24. e5 fxe5 25. fxe5
+Rd5 26. Qa3+ Ke8 27. Rg3 $1 {Mate in one is threatened.} Bc8 28. Rg8+ Kd7 29.
+Rf8 Rxf8 30. Qxf8 Rxe5 ({Or} 30... Bb7 31. Qxf7+ Kd8 32. Nxe6# {(Ftacnik).})
+31. Qxc8+ Kd6 32. Qb8+ {
+Cramling played like a grandmaster and found the narrow path to victory.} 1-0
+
+[Event "Dos Hermanas"]
+[Site "1"]
+[Date "1992.??.??"]
+[Round "6"]
+[White "Yudasin, Leonid"]
+[Black "Oll, Lembit"]
+[Result "1-0"]
+[ECO "B01"]
+[WhiteElo "2580"]
+[BlackElo "2600"]
+[Annotator "JvR"]
+[PlyCount "77"]
+[EventDate "1992.05.??"]
+[SourceDate "1992.12.01"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qa5 4. d4 Nf6 5. Bc4 Bg4 6. f3 Bf5 7. Nge2 c6 8.
+g4 Bg6 $5 ({Known is} 8... Bc8) 9. Nf4 Nbd7 10. h4 $1 {
+A great fight is started.} e5 $1 11. h5 $1 Bf5 $2 (11... Bxc2 $1 12. Qxc2 exd4
+$1 {gives a sufficient counter-play (Yudasin).}) 12. gxf5 exf4 13. Qd3 $6 (13.
+Qe2+ $1 Be7 14. Bd2 {achieves a great advantage.}) 13... Qc7 14. Qe2+ Be7 15.
+Bd2 Nb6 16. Bb3 Rd8 $5 17. O-O-O $1 Rxd4 18. Qg2 Nc4 $5 19. Bxc4 Rxc4 20. Qxg7
+Rg8 21. Qh6 Qe5 22. Rhe1 Qxf5 23. Re2 Nd5 $2 (23... Kd7 $1 24. Bxf4+ Kc8 25.
+Rxe7 Qxf4+ {defends ingeniously.}) 24. Qd6 $1 f6 25. Qb8+ $1 Kf7 26. Qxb7 Rd8
+27. Re4 Rd7 28. Qa8 $2 ({Right is} 28. Qa6 $1 Rc5 29. Rde1) 28... Rc5 $4 (28...
+Nxc3 $1 29. Rxe7+ $1 Rxe7 30. Bxc3 Rxc3 31. bxc3 Qc5 {slightly favours Black.})
+29. Na4 $6 (29. Rg1 $1 Bd8 30. h6 $1 {wins at once.}) 29... Nc7 30. Qb7 Nb5 31.
+Qa6 Rcd5 32. c4 $1 Nc7 33. Qxc6 Rd3 34. Rde1 $1 Bf8 ({Or} 34... Rxd2 35. Rxe7+
+Rxe7 36. Rxe7+ Kxe7 37. Kxd2 {(Blatny).}) 35. Bxf4 Qa5 36. Bxc7 Bh6+ 37. f4
+Qxc7 38. Qe6+ Kg7 39. Rg1+ {Yudasin took the lead.} 1-0
+
+[Event "Dos Hermanas"]
+[Site "1"]
+[Date "1992.??.??"]
+[Round "7"]
+[White "Akopian, Vladimir"]
+[Black "Bellon Lopez, Juan"]
+[Result "1-0"]
+[ECO "B01"]
+[WhiteElo "2605"]
+[BlackElo "2435"]
+[Annotator "JvR"]
+[PlyCount "91"]
+[EventDate "1992.05.??"]
+[SourceDate "1992.12.01"]
+
+1. e4 d5 2. exd5 Nf6 3. d4 Nxd5 4. c4 Nb6 5. Nf3 g6 6. Nc3 Bg7 7. h3 O-O 8. Be2
+Nc6 9. Be3 e5 10. d5 Ne7 11. O-O h6 12. Qd2 Kh7 $6 ({Theory is} 12... Nf5) 13.
+Rad1 Nf5 14. c5 $1 {White uses the extra tempo for an advance.} Nd7 15. Rfe1
+Re8 16. Bb5 a6 17. Ba4 b5 18. Bc2 $6 (18. cxb6 cxb6 19. Bc6 {
+keeps the initiative.}) 18... Nxe3 19. Qxe3 b4 $2 (19... f5 $1 20. b4 e4 21.
+Nd4 Ne5 {counters in the centre.}) 20. Ne4 $1 Nf6 21. d6 $1 c6 22. Nxf6+ Bxf6
+23. Ba4 Bd7 24. Nd2 Bg7 25. Nc4 e4 26. Nb6 Rb8 27. Qb3 f5 28. Qf7 $5 Rb7 29.
+Nxd7 Rxd7 30. Qc4 Qa8 31. Qxb4 {White captures the extra pawn.} a5 32. Qc4 Re5
+33. Re3 Rd8 34. Rb3 f4 35. Rb6 e3 36. Bxc6 Qc8 37. f3 Rg5 38. h4 Rh5 39. d7 Qc7
+40. Qc2 $5 e2 41. Qxe2 Rxc5 42. Qa6 $1 Rh5 43. Rb7 Qe5 44. Be4 Qc5+ 45. Kf1 Kg8
+46. Qe6+ {Akopian scored his third win.} 1-0
+
+[Event "Dos Hermanas"]
+[Site "1"]
+[Date "1992.??.??"]
+[Round "7"]
+[White "Rodriguez Talavera, Juan"]
+[Black "Yudasin, Leonid"]
+[Result "0-1"]
+[ECO "B22"]
+[WhiteElo "2375"]
+[BlackElo "2580"]
+[Annotator "JvR"]
+[PlyCount "120"]
+[EventDate "1992.05.??"]
+[SourceDate "1992.12.01"]
+
+1. e4 c5 2. c3 Nf6 3. e5 Nd5 4. d4 cxd4 5. Nf3 Nc6 6. Bc4 e6 7. cxd4 d6 8. O-O
+Nb6 9. Bb3 Be7 10. Nc3 O-O 11. a3 dxe5 12. dxe5 Na5 $5 13. Bc2 Qxd1 14. Rxd1
+Bd7 {The chances are equal.} 15. Be4 Bc6 16. b4 Bxe4 17. Nxe4 Nac4 18. Bg5 Bxg5
+19. Nexg5 Rfd8 20. Rac1 Rac8 21. Ne4 Nxa3 22. Nc5 Nb5 23. Nxb7 Rxc1 24. Rxc1
+Rd5 25. Na5 Nc3 26. Ra1 Rd7 27. g3 Nbd5 28. Nc6 Nb5 29. Ra5 Ndc3 30. Nb8 Rd1+
+31. Kg2 h6 32. Nc6 Rd7 33. h4 g6 34. Nb8 Rc7 35. Na6 Rc4 36. Nd2 Rd4 37. Nf3
+Rd1 38. Nc5 Rb1 39. Nd3 Kf8 40. Ra6 Nd5 41. Ra5 Ndc7 42. Nfe1 Ke7 43. Kf3 Nd4+
+44. Kg2 Nc6 45. Ra2 Nb5 46. Nc2 Rb3 47. Nc5 Rc3 48. Ne4 $6 ({Better is} 48. f4
+Nxb4 49. Nxb4 Rxc5 50. Ra5) 48... Rc4 49. Nd6 Nxd6 50. exd6+ Kxd6 {
+Black has gained a pawn.} 51. b5 Nb8 52. Ne3 Rc7 53. Rd2+ Ke7 54. Rb2 Nd7 55.
+Nc2 Kd6 56. Ne3 Nb6 57. Rd2+ Nd5 58. Ng4 Rc4 59. Nf6 $6 ({Right is} 59. Nxh6)
+59... Kc5 $6 60. Nd7+ $4 (60. Nxd5 exd5 61. Ra2 Kxb5 62. Rxa7 f5 63. Rd7 Kc5
+64. Rd8 {fights for a draw.}) 60... Kxb5 {Yudasin kept the sole lead.} 0-1
+
+[Event "Dos Hermanas"]
+[Site "1"]
+[Date "1992.??.??"]
+[Round "8"]
+[White "Yudasin, Leonid"]
+[Black "Montecatine Rios, Ricardo"]
+[Result "1-0"]
+[ECO "C42"]
+[WhiteElo "2580"]
+[BlackElo "2345"]
+[Annotator "JvR"]
+[PlyCount "35"]
+[EventDate "1992.05.??"]
+[SourceDate "1992.12.01"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 Nxe4 4. Qe2 Qe7 5. Qxe4 d6 6. d4 dxe5 7. dxe5 Nc6
+8. Bb5 Bd7 9. Nc3 O-O-O 10. Bf4 f6 $2 ({Better is} 10... a6 {
+(Sax - Hulak, Budapest 1975).}) 11. exf6 Qxf6 12. O-O-O a6 $6 13. Nd5 $1 Qf7
+14. Bc4 Re8 15. Qf3 Be6 16. Rhe1 Bc5 $2 17. Rxe6 $1 Rxe6 ({Or} 17... Qxe6 18.
+Nxc7 Qxc4 19. Qg4+ Kb8 20. Nxe8+) 18. Nxc7 {Yudasin increased his lead. The
+final standings became: Yudasin 7/9, Akopian 6, Campora and De la Villa Garcia
+51/2, Cramling 5, Oll and Bellon Lopez 4, Hodgson 31/2, Rodriguez Talavera 21/
+2, Montecatine Rios 2.} 1-0
+
+[Event "Dos Hermanas"]
+[Site "2"]
+[Date "1993.??.??"]
+[Round "1"]
+[White "Magem Badals, Jordi"]
+[Black "Polgar, Judit"]
+[Result "0-1"]
+[ECO "B84"]
+[WhiteElo "2510"]
+[BlackElo "2595"]
+[Annotator "JvR"]
+[PlyCount "90"]
+[EventDate "1993.04.??"]
+[SourceDate "1992.12.01"]
+
+{The second important Dos Hermanas tournament was played in April and May 1993.
+A race between Judit Polgar and Anatoly Karpov developed.} 1. e4 c5 2. Nf3 e6
+3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 Qc7 6. Be2 a6 7. O-O Nf6 8. Be3 Be7 9. f4 d6 10.
+a4 O-O 11. Kh1 Bd7 12. Bf3 Rab8 13. Qe1 Na5 14. Qg3 Nc4 15. Bc1 b5 16. axb5
+axb5 17. b3 $5 (17. e5 $1 dxe5 18. fxe5 Nxe5 $2 19. Bf4 {
+happened in Peters - Sandager, Los Angeles 1987.}) 17... e5 $6 18. fxe5 $6 (18.
+Ncxb5 $1 Bxb5 19. Nf5 $1 Ne8 20. bxc4 Bxc4 {favours White.}) 18... Nxe5 19. Bh6
+Ng6 $1 20. Bd2 Qc5 21. Nce2 Rfe8 22. Qf2 Ne5 23. Nf4 Ra8 24. Nd3 Qc7 25. Bb4
+Bf8 26. Qg3 Rxa1 27. Rxa1 Qb6 28. Bc3 g6 29. Re1 $5 Bg7 $1 30. Qf2 Rc8 31. Bb2
+Nfg4 32. Bxg4 Nxg4 33. Qg1 Qa5 $5 34. h3 Ne5 35. Qf2 Rf8 36. Nf4 Kh8 37. Nd5 $5
+Qa2 38. Bc3 Nd3 $1 39. Qg3 $2 {White misses a forced draw.} (39. Qh4 Nxe1 40.
+Nf5 $1 Bxf5 41. Bxg7+ Kxg7 42. Qf6+ Kh6 $1 43. Qh4+ {leads to perpetual check.}
+) 39... Nxe1 40. Qxe1 Rc8 41. Qd1 Qa7 42. Ne2 Be6 43. Bxg7+ Kxg7 44. Nef4 Ra8
+45. Kh2 Qa1 {Black has a decisive material advantage.} 0-1
+
+[Event "Dos Hermanas"]
+[Site "2"]
+[Date "1993.??.??"]
+[Round "2"]
+[White "Izeta Txabarri, Felix"]
+[Black "Karpov, Anatoly"]
+[Result "0-1"]
+[ECO "B17"]
+[WhiteElo "2505"]
+[BlackElo "2725"]
+[Annotator "JvR"]
+[PlyCount "80"]
+[EventDate "1993.04.??"]
+[SourceDate "1992.12.01"]
+
+1. e4 c6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Nd7 5. Bc4 Ngf6 6. Ng5 e6 7. Qe2 Nb6 8.
+Bd3 h6 9. N5f3 c5 10. dxc5 Bxc5 11. Ne5 Nbd7 12. Ngf3 Qc7 13. O-O O-O 14. Re1
+Bd6 15. Nc4 Be7 16. Nce5 $5 ({Known is} 16. c3) 16... Nc5 $5 {
+Karpov wants no repetition.} 17. Bc4 a6 18. a3 b5 19. Ba2 Bb7 20. Be3 Nce4 21.
+Bd4 Rad8 22. c3 Bc5 23. Nd3 $5 ({Preferable is} 23. Bxc5 Nxc5 24. Nd4) 23...
+Bxd4 24. Nxd4 Rd6 $5 25. Rac1 Rfd8 26. f3 Nc5 27. Ne5 $5 Bd5 $1 28. b3 $6 (28.
+Bxd5 Nxd5 {(Ftacnik)} 29. Qc2 {defends properly.}) 28... Qb6 29. Kh1 Ncd7 30.
+Bb1 Nxe5 31. Qxe5 Bb7 32. Qe2 Qc5 33. b4 Qg5 $1 34. Qf2 Nh5 35. Rcd1 $4 (35.
+Qe3 Qxe3 36. Rxe3 {offers more resistance.}) 35... e5 $1 36. Qc2 g6 $1 ({Not} 
+36... exd4 $4 37. Qh7+ Kf8 38. Qh8#) 37. Nb3 Qh4 38. Kg1 e4 $5 39. fxe4 $5 Bxe4
+40. Qc1 Qg4 {Karpov has a mate attack.} 0-1
+
+[Event "Dos Hermanas"]
+[Site "2"]
+[Date "1993.??.??"]
+[Round "3"]
+[White "Karpov, Anatoly"]
+[Black "Adams, Michael"]
+[Result "1-0"]
+[ECO "A31"]
+[WhiteElo "2725"]
+[BlackElo "2630"]
+[Annotator "JvR"]
+[PlyCount "81"]
+[EventDate "1993.04.??"]
+[SourceDate "1992.12.01"]
+
+1. Nf3 Nf6 2. c4 c5 3. Nc3 b6 4. d4 cxd4 5. Nxd4 Bb7 6. f3 e6 7. e4 Nc6 8. Be3
+Bc5 9. Qd2 O-O 10. O-O-O Qb8 $5 ({Usual is} 10... Qe7) 11. Be2 Rd8 12. Bf4 Qc8
+$5 13. Nxc6 Bxc6 (13... dxc6 $5 14. Qxd8+ Qxd8 15. Rxd8+ Rxd8 16. e5 {(Karpov).
+}) 14. e5 Ne8 15. Bg5 f6 16. exf6 Nxf6 17. Bd3 Be7 18. Kb1 a6 19. Rhe1 Qb7 $6 (
+{Preferable is} 19... Qc7) 20. Bc2 b5 $2 ({Correct is} 20... Rac8 21. Qd3 g6)
+21. Nd5 $1 Bxd5 ({A pointe ia} 21... Nxd5 $2 22. cxd5 Bxg5 23. dxc6 $1 Bxd2 24.
+cxb7 {and White wins (Karpov).}) 22. cxd5 Nxd5 23. Be4 $1 Bxg5 24. Qxg5 Qb6 25.
+Bxd5 exd5 26. Re7 $1 Qg6+ 27. Qxg6 hxg6 28. Rxd5 {
+White has a positional advantage in the double rook endgame.} Ra7 29. Rd6 $1
+Kh7 ({Or} 29... Kf8 30. Re1 Kf7 31. Red1 {and Black will be outplayed.}) 30.
+Re4 Rc7 $5 31. Rxa6 d5 32. Rh4+ Kg8 33. Rd4 Kf7 34. Rf4+ Kg8 35. Rd4 Kf7 36.
+Rb6 Rc4 37. Rd2 b4 38. b3 Rf4 39. Kc2 g5 40. h3 Rd7 41. Kd1 {
+The white king is going to support an advance on the kingside.} 1-0
+
+[Event "Dos Hermanas"]
+[Site "2"]
+[Date "1993.??.??"]
+[Round "3"]
+[White "Khalifman, Alexander"]
+[Black "Polgar, Judit"]
+[Result "0-1"]
+[ECO "E97"]
+[WhiteElo "2630"]
+[BlackElo "2595"]
+[Annotator "JvR"]
+[PlyCount "92"]
+[EventDate "1993.04.??"]
+[SourceDate "1992.12.01"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 Bg7 4. Nc3 O-O 5. e4 d6 6. Be2 e5 7. O-O Nc6 8. d5
+Ne7 9. Nd2 a5 10. a3 Nd7 11. Rb1 f5 12. b4 Kh8 13. f3 axb4 14. axb4 Ng8 15. Qc2
+Bh6 16. c5 dxc5 17. Nb5 $5 ({Theory is the natural} 17. bxc5 Nxc5 18. Nb5)
+17... c6 18. dxc6 bxc6 19. Nd6 cxb4 20. exf5 Ndf6 $5 ({Or} 20... gxf5 21. Rxb4
+Ne7) 21. Nxc8 gxf5 $1 22. Nc4 Bxc1 23. Rfxc1 Rxc8 24. Rxb4 Qd4+ 25. Kh1 Rcd8
+26. Rb7 ({Not} 26. Qxf5 $2 Nd5) 26... Nh5 $6 (26... e4 $1 27. Na5 Qe3 28. Nc4
+Qd4 {draws.}) 27. g3 $1 Rf6 $1 28. Rg1 Re8 29. Rbb1 $5 Rh6 $1 30. Kg2 $2 ({
+Better is} 30. Bf1 f4 31. Rd1 Qa7 32. gxf4 Nxf4 33. Rg3) 30... Ree6 $1 31. Bd3
+({The pointe is} 31. Qxf5 $2 Nf4+ $1 32. gxf4 Reg6+ 33. Kh1 Rxh2+ $1 34. Kxh2
+Qf2+ {(Ftacnik).}) 31... e4 32. fxe4 fxe4 33. Bf1 $5 Nhf6 $5 34. Rd1 $5 Ng4 $1
+{Black threatens mate in one.} 35. h4 $5 Qf6 36. Qe2 Qg7 $5 37. Kh1 $5 e3 $5
+38. Bh3 Nf2+ 39. Kh2 Re7 40. Nxe3 $2 {
+White makes the last error during time pressure.} ({Better is} 40. Rd8 $1)
+40... Nxd1 41. Rxd1 Qe5 42. Rd3 Rxh4 $1 43. Qf3 Rh6 44. Rb3 Rf6 45. Qg2 h5 46.
+Qd2 Rf3 {Karpov and Polgar had won two games.} 0-1
+
+[Event "Dos Hermanas"]
+[Site "2"]
+[Date "1993.??.??"]
+[Round "4"]
+[White "Karpov, Anatoly"]
+[Black "Fernandez Garcia, Jose"]
+[Result "1-0"]
+[ECO "D85"]
+[WhiteElo "2725"]
+[BlackElo "2475"]
+[Annotator "JvR"]
+[PlyCount "53"]
+[EventDate "1993.04.??"]
+[SourceDate "1992.12.01"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Be3 c5 8.
+Qd2 O-O 9. Nf3 Qa5 10. Rc1 b6 11. d5 Bg4 12. Ng5 $5 {
+Karpov delivers an interesting novelty.} Na6 ({The pointe is} 12... h6 $6 13.
+h3 $1 Bd7 14. Nf3 {(Karpov).}) 13. h3 Bd7 14. Be2 Rad8 $6 ({Preferable is} 
+14... c4 $1) 15. O-O e6 16. Bf4 Ba4 $6 (16... Bc6 $1 17. c4 Qxd2 18. Bxd2 h6 {
+equalises.}) 17. Rfe1 exd5 $2 (17... Bc6 $1 {corrects a previous error.}) 18.
+exd5 b5 19. d6 $1 h6 20. Ne4 Kh7 21. h4 Qb6 $5 22. Bd3 c4 23. Bb1 $1 Nc5 24. h5
+$1 Nd3 $5 25. Bxd3 cxd3 26. Qxd3 Qc6 27. Qh3 $1 {Karpov took the sole lead.}
+1-0
+
+[Event "Dos Hermanas"]
+[Site "2"]
+[Date "1993.??.??"]
+[Round "5"]
+[White "Magem Badals, Jordi"]
+[Black "Karpov, Anatoly"]
+[Result "0-1"]
+[ECO "C92"]
+[WhiteElo "2510"]
+[BlackElo "2725"]
+[Annotator "JvR"]
+[PlyCount "66"]
+[EventDate "1993.04.??"]
+[SourceDate "1992.12.01"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+O-O 9. h3 Bb7 10. d4 Re8 11. Ng5 Rf8 12. Nf3 Re8 13. Nbd2 Bf8 14. Bc2 g6 15. d5
+Nb8 16. b3 c6 17. c4 Qc7 18. Nf1 Nbd7 19. Be3 Nc5 $5 20. Ng3 a5 21. Qd2 Nfd7
+22. cxb5 $5 cxd5 $1 23. exd5 Nf6 24. Rac1 Nxd5 {Black has equalised.} 25. Bxc5
+$5 dxc5 26. Bd3 $5 Rad8 $1 27. Bc4 Bg7 $5 28. Ne4 Nf6 29. Qc2 $2 ({Correct is} 
+29. Nxf6+ Bxf6 {(Karpov)} 30. Qh6 $1 Bxf3 31. gxf3) 29... Nxe4 30. Rxe4 Bxe4
+31. Qxe4 {White has lost an exchange.} Bh6 $1 32. Re1 Kg7 $1 33. g4 Bf4 $1 {
+Karpov has a material and a positional advantage.} 0-1
+
+[Event "Dos Hermanas"]
+[Site "2"]
+[Date "1993.??.??"]
+[Round "5"]
+[White "Polgar, Judit"]
+[Black "Rivas Pastor, Manuel"]
+[Result "1-0"]
+[ECO "B07"]
+[WhiteElo "2595"]
+[BlackElo "2515"]
+[Annotator "JvR"]
+[PlyCount "29"]
+[EventDate "1993.04.??"]
+[SourceDate "1992.12.01"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 Nbd7 4. f4 e5 5. Nf3 exd4 6. Qxd4 c6 7. Be3 d5 8.
+exd5 Bc5 9. Qd3 Qe7 10. Nd4 Nb6 $5 11. dxc6 O-O $6 ({Better is} 11... bxc6 $5
+12. Be2 Nbd5 13. Nxd5 Nxd5 14. Bd2 Bd7) 12. O-O-O bxc6 13. Bg1 $1 Qc7 14. g3
+Rd8 $4 ({Solid is} 14... Bd7) 15. Ndb5 $1 {
+Judit gains material by wonderful tactics.} (15. Ndb5 $1 Rxd3 16. Nxc7 Rxd1+
+17. Nxd1 Bxg1 18. Nxa8 {wins an exchange (Ftacnik).}) 1-0
+
+[Event "Dos Hermanas"]
+[Site "2"]
+[Date "1993.??.??"]
+[Round "6"]
+[White "Epishin, Vladimir"]
+[Black "Polgar, Judit"]
+[Result "0-1"]
+[ECO "E97"]
+[WhiteElo "2620"]
+[BlackElo "2595"]
+[Annotator "JvR"]
+[PlyCount "78"]
+[EventDate "1993.04.??"]
+[SourceDate "1992.12.01"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. O-O Nc6 8. d5
+Ne7 9. Nd2 a5 10. Rb1 Nd7 11. a3 f5 12. b4 Kh8 13. f3 Ng8 14. Qc2 Ngf6 15. Bd3
+f4 16. Nb5 b6 17. Bb2 Ne8 18. Be2 h5 19. Rfc1 g5 20. c5 bxc5 $5 21. bxc5 Nxc5
+22. a4 g4 $1 {Both parties are active on a flank.} 23. Ba3 $1 Na6 24. Qc3 $5 ({
+The alternative is} 24. Nb3 $1) 24... Rg8 25. Nf1 $5 g3 $5 26. hxg3 $6 (26. h3
+Bd7 {(Knaak)} 27. Nd2 {closes the position timely.}) 26... Bh6 $6 (26... fxg3
+$1 27. Ne3 h4 28. Bf1 Bh6 {charges.}) 27. Rc2 (27. Qxa5 fxg3 28. Rc6 Qh4 {
+fights a hard battle.}) 27... fxg3 28. Bc1 Bxc1 29. Rbxc1 $6 Qf6 $1 30. Qe3 Bd7
+31. Nc3 Nb4 32. Rd2 h4 33. Bb5 Rd8 $5 34. Qa7 $1 Bxb5 35. Nxb5 $2 (35. axb5 $1
+h3 $1 36. Qxa5 Rd7 37. Qxb4 Rh7 38. Ne2 hxg2 39. Kxg2 Ng7 {
+Black has sacrificed a piece for a sharp attack.}) 35... h3 $1 36. Rc3 $5 Rd7
+$1 37. Qxa5 Rh7 $1 {She wants the white king.} 38. Ne3 Qh6 39. gxh3 Qxh3 {
+Judit has a mate attack.} 0-1
+
+[Event "Dos Hermanas"]
+[Site "2"]
+[Date "1993.??.??"]
+[Round "6"]
+[White "Karpov, Anatoly"]
+[Black "Yudasin, Leonid"]
+[Result "1-0"]
+[ECO "E15"]
+[WhiteElo "2725"]
+[BlackElo "2610"]
+[Annotator "JvR"]
+[PlyCount "111"]
+[EventDate "1993.04.??"]
+[SourceDate "1992.12.01"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Ba6 5. b3 d5 6. Bg2 Bb4+ 7. Bd2 Bd6 8. cxd5
+exd5 9. Nc3 O-O 10. O-O Nbd7 11. Re1 c5 $5 ({Theory is} 11... Re8) 12. Be3 Bb7
+13. Nh4 Ng4 $6 (13... g6 $5 14. dxc5 Bxc5 15. Bg5 $2 {
+was regarded as favourable by Karpov, but} Bxf2+ $1 16. Kxf2 Ng4+ {
+costs a pawn.}) 14. Nxd5 $1 Bxd5 (14... Nxe3 15. Nxe3 Bxg2 16. Kxg2 cxd4 17.
+Nef5 $1 Be5 18. Nxd4 Nc5 19. Nhf3 {favours White (Karpov).}) 15. Bxd5 Nxe3 16.
+fxe3 Rc8 17. Qd3 Nf6 18. Bc4 g6 $5 19. Rf1 Kg7 20. Rf3 Ng4 21. h3 $1 Nh6 22.
+Ng2 Nf5 23. Raf1 $5 b5 $1 24. Bd5 $1 Qg5 $6 (24... Nxg3 $1 25. Rxf7+ Kh6 26.
+Qd2 $2 {(Karpov) is refuted by} Nxf1 $1 27. Rxf1 Bh2+ $1) 25. dxc5 $5 Bxc5 26.
+h4 Qe7 27. Rxf5 $5 {Anatoly delivers an elegant sacrifice.} gxf5 28. Rxf5 f6 $5
+29. Kh2 Bd6 30. Qxb5 Kh8 31. Qd3 Qc7 $6 (31... Rfe8 $1 {
+puts pressure on the white centre.}) 32. Nf4 $1 Rce8 $5 33. Kg2 Re7 34. Bf3 Rg7
+35. g4 Bxf4 36. exf4 Rd8 37. Qc4 Qe7 38. Qc3 Rd6 39. Rc5 Rd8 40. Rc6 Rd6 41.
+Rc4 Rd8 42. Rc6 Rd6 43. Rc5 Rd8 44. b4 Rdg8 45. Kf2 Qd6 46. Rf5 Rf8 47. Qc5 Qd8
+48. Rd5 Qb8 49. Qd4 Qc8 50. b5 Rxg4 $5 51. Bxg4 Qxg4 52. f5 Qh3 53. Ke1 Rf7 54.
+Kd2 Qg3 55. a4 Kg7 56. Rd7 {Karpov kept the lead.} 1-0
+
+[Event "Dos Hermanas"]
+[Site "2"]
+[Date "1993.??.??"]
+[Round "8"]
+[White "Karpov, Anatoly"]
+[Black "Polgar, Judit"]
+[Result "1-0"]
+[ECO "E62"]
+[WhiteElo "2725"]
+[BlackElo "2595"]
+[Annotator "JvR"]
+[PlyCount "101"]
+[EventDate "1993.04.??"]
+[SourceDate "1992.12.01"]
+
+{Karpov leads by half-a-point on Polgar, when the penultimate round begins.} 1.
+Nf3 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 O-O 5. O-O d6 6. d4 Nc6 7. Nc3 e5 8. d5 Ne7
+9. b4 Nd7 10. Rb1 $5 ({Known is} 10. e4) 10... a5 11. a3 h6 12. e4 f5 13. exf5
+gxf5 14. Nh4 e4 15. Qb3 Ne5 16. f3 exf3 17. Nxf3 Nd3 $2 {
+Black exposes a knight.} ({More solid is} 17... axb4 18. axb4 Nxf3+ 19. Bxf3
+Ng6) 18. Bd2 $1 axb4 19. axb4 Ng6 20. Ne2 $5 Nde5 $6 ({Preferable is} 20...
+Nge5 $5 21. Nxe5 Nxe5 22. Nf4 {(Karpov)} Bd7) 21. Nfd4 $1 Qf6 22. c5 Rf7 23.
+Kh1 dxc5 24. bxc5 Qa6 25. c6 $2 (25. d6 $1 Qa2 26. Bb4 {wins for White.}) 25...
+bxc6 26. dxc6 Ne7 27. Bf4 Qc4 $2 ({Correct is} 27... N5xc6 28. Nxc6 Nxc6 29.
+Bd5 Nd8) 28. Qxc4 Nxc4 29. Rfc1 $2 (29. Rb7 $1 Nd6 30. Rxc7 Ne4 31. g4 {
+decides the game.}) 29... Ne5 $1 30. Rb3 Ra4 31. Nb5 N5xc6 $5 32. Rxc6 $5 Nxc6
+33. Bxc6 Be6 34. Re3 Bc4 $2 (34... Bd7 $1 35. Bxd7 Rxd7 {defends properly.})
+35. Na3 Ra6 $5 (35... Rxa3 $1 36. Rxa3 Bxe2 37. Bd5 {(Karpov)} c6 38. Ra8+ Bf8
+{oiffers more resistance.}) 36. Nxc4 Rxc6 37. Ne5 Bxe5 38. Rxe5 Rc4 39. Bxh6
+Re4 40. Rxe4 fxe4 41. Bf4 c5 42. Nc3 c4 43. Nxe4 Ra7 44. Nc3 Rb7 45. Kg1 Rb2
+46. h4 $1 Kf7 47. h5 $1 Ke6 48. h6 Kf6 49. Ne4+ Kg6 50. Kf1 Rh2 51. Ke1 {
+Karpov had won the tournament.} 1-0
+
+[Event "Dos Hermanas"]
+[Site "2"]
+[Date "1993.??.??"]
+[Round "9"]
+[White "Polgar, Judit"]
+[Black "Fernandez Garcia, Jose"]
+[Result "1-0"]
+[ECO "B07"]
+[WhiteElo "2595"]
+[BlackElo "2475"]
+[Annotator "JvR"]
+[PlyCount "73"]
+[EventDate "1993.04.??"]
+[SourceDate "1992.12.01"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 Nbd7 4. Be3 e5 5. f3 c6 6. Qd2 Be7 7. O-O-O Qa5 8. g4
+b5 9. Kb1 Nb6 10. b3 Rb8 $5 ({Known is} 10... b4 11. Nce2 c5) 11. Qe1 b4 12.
+Nce2 Be6 $6 ({Preferable is} 12... O-O $5 13. g5 Ne8) 13. g5 Nfd7 14. f4 $1
+exf4 15. Nxf4 Na4 (15... Bxg5 $5 16. d5 $1 Bg4 17. dxc6 {favours White.}) 16.
+Nge2 $1 Bc4 17. Bd2 $6 ({Better is} 17. h4 $1) 17... Bxg5 $1 18. Rg1 Bxe2 19.
+Nxe2 Bxd2 20. Rxd2 Nc3+ 21. Nxc3 bxc3 22. Rd3 O-O $6 23. Qh4 $1 Qd8 24. Qh3 $2
+(24. Qh6 $1 Qf6 25. Rxg7+ $1 Qxg7 26. Rg3 {wins for White.}) 24... g6 $1 25.
+Rxc3 Nf6 26. Bg2 Re8 27. Qh6 Rb4 $5 28. d5 $6 cxd5 29. exd5 Ng4 $5 30. Qd2 Qb6
+31. Rf1 Rd4 32. Qg5 Re5 $2 (32... Nxh2 $1 33. Rh1 Ng4 {gains an advantage.})
+33. Qh4 $1 Qb4 $2 (33... f6 $1 34. h3 Rh5 35. Qg3 Ne5 36. Rxf6 Rd1+ 37. Kb2 Qd4
+{avoids an immediate loss.}) 34. Rc8+ Kg7 35. Qxh7+ $1 ({Or} 35. Rxf7+ $1 Kxf7
+36. Qxh7+ Kf6 37. Rf8+ Kg5 38. h4#) 35... Kxh7 36. Rxf7+ Kh6 37. Rh8+ {
+Judit delivers mate in one. The final standings became: Karpov 71/2/9, J.
+Polgar 61/2, Khalifman, Rivas Pastor and Epishin 5, Yudasin and Magem Badals 4,
+Adams 31/2, Izeta Txabarri 21/2, Fernandez Garcia 2.} 1-0
+
+[Event "Dos Hermanas"]
+[Site "3"]
+[Date "1994.??.??"]
+[Round "1"]
+[White "Gelfand, Boris"]
+[Black "Gulko, Boris"]
+[Result "1-0"]
+[ECO "E12"]
+[WhiteElo "2685"]
+[BlackElo "2615"]
+[Annotator "JvR"]
+[PlyCount "55"]
+[EventDate "1994.04.??"]
+[SourceDate "1992.12.01"]
+
+{The third super tournament was played in April 1994. Again ten peoples
+participated. The level increased each time. Fourteen decided games by Gelfand,
+Karpov and Gulko were selected. Four more games have been added.} 1. d4 Nf6 2.
+c4 e6 3. Nf3 b6 4. a3 Bb7 5. Nc3 d5 6. Qc2 dxc4 7. e4 c5 8. dxc5 Bxc5 9. Bxc4
+Qc7 $6 ({Usual is} 9... Nbd7) 10. Nb5 $1 {White wins a tempo.} Qd7 $5 11. Bf4
+$6 (11. b4 $1 Bxe4 12. Qd1 Be7 13. Qxd7+ Nbxd7 14. Nc7+ {gains an advantage.})
+11... Bxe4 12. Qe2 O-O $1 13. Rd1 $1 Qb7 14. Nc7 e5 $2 ({Preferable is} 14...
+b5 $3 15. Bd3 Bxd3 16. Qxd3 Nd5 $1 17. Ng5 $1 g6 {(Gelfand).}) 15. Bxe5 Nbd7 $2
+(15... Ng4 $1 16. Bg3 $1 Nxf2 17. Ng5 Nxh1 18. Qxe4 Qxe4+ 19. Nxe4 Nxg3 20.
+hxg3 Be7 $1 {fights for the last chance.}) 16. Ba6 Bxf3 17. gxf3 Qb8 ({Or} 
+17... Qc6 18. Bb5) 18. Bg3 Qxc7 19. Bxc7 Rfe8 20. b4 Rxe2+ 21. Kxe2 Be7 22.
+Rhe1 Nf8 23. Kf1 Ng6 24. f4 Bf8 25. Bb7 Re8 26. Rxe8 Nxe8 27. Bb8 a5 28. Rd8 {
+Gelfand made a great start.} 1-0
+
+[Event "Dos Hermanas"]
+[Site "3"]
+[Date "1994.??.??"]
+[Round "2"]
+[White "Topalov, Veselin"]
+[Black "Rivas Pastor, Manuel"]
+[Result "1-0"]
+[ECO "C41"]
+[WhiteElo "2640"]
+[BlackElo "2505"]
+[Annotator "JvR"]
+[PlyCount "81"]
+[EventDate "1994.04.??"]
+[SourceDate "1992.12.01"]
+
+1. e4 e5 2. Nf3 d6 3. d4 Nf6 4. Nc3 Nbd7 5. Bc4 Be7 6. O-O O-O 7. a4 a6 8. a5
+$5 exd4 9. Qxd4 b5 10. axb6 Nxb6 11. Ba2 Bb7 12. Re1 Nfd7 13. Bf4 Bf6 14. e5
+dxe5 15. Nxe5 Nxe5 16. Qxd8 Raxd8 17. Bxe5 Bxe5 18. Rxe5 {
+White has a plus in the endgame.} Rfe8 19. Rae1 Kf8 $5 (19... Rxe5 20. Rxe5 Na4
+$1 {equalises.}) 20. f3 f6 21. Rxe8+ Rxe8 22. Rd1 Ke7 23. Ne2 f5 $5 24. Kf2 Kf6
+25. h4 g6 26. Nf4 a5 27. Rd3 $1 Re7 28. Ra3 a4 29. Rc3 Rd7 30. Rc5 h6 $6 (30...
+Ba8 $5 {makes a useful waiting move.}) 31. g4 $1 fxg4 32. fxg4 g5 33. hxg5+
+hxg5 34. Rf5+ Ke7 35. Re5+ $1 Kd6 $2 (35... Kf6 $1 36. Re6+ Kg7 37. Rg6+ {
+(Topalov)} Kf8 $1 38. Rxg5 Rd2+ {fights for survival.}) 36. Re6+ Kc5 37. Nd3+
+$1 Kb5 38. Re5+ Bd5 39. Rxg5 c5 40. c4+ $1 Bxc4 $2 (40... Nxc4 41. Bxc4+ Bxc4
+42. Rxc5+ Kb6 43. Rxc4 Rxd3 44. Rxa4 {leads to a won rook ending (Topalov).})
+41. Rxc5+ {White will gain a piece.} 1-0
+
+[Event "Dos Hermanas"]
+[Site "3"]
+[Date "1994.??.??"]
+[Round "3"]
+[White "Gelfand, Boris"]
+[Black "Topalov, Veselin"]
+[Result "1-0"]
+[ECO "A89"]
+[WhiteElo "2685"]
+[BlackElo "2640"]
+[Annotator "JvR"]
+[PlyCount "95"]
+[EventDate "1994.04.??"]
+[SourceDate "1992.12.01"]
+
+1. d4 f5 2. g3 Nf6 3. Bg2 g6 4. c4 Bg7 5. Nc3 O-O 6. Nf3 d6 7. O-O Nc6 8. d5
+Na5 9. Qa4 c5 10. dxc6 bxc6 11. c5 dxc5 $5 {
+The acceptance of the gift is a new move.} 12. Ne5 {
+White has a positional compensation.} Qb6 13. Qc2 $5 (13. Be3 $1 Be6 14. Rac1 {
+gains an edge.}) 13... Qc7 14. Nd3 c4 15. Nc5 $1 Rb8 16. Bd2 Rd8 17. N3a4 Nd5
+18. Rad1 $1 e5 19. e4 $1 Nb4 $2 ({More solid is} 19... fxe4 20. Qxe4 Rb5) 20.
+Bxb4 Rxb4 21. Rxd8+ Qxd8 22. Rd1 Qf8 23. Qd2 $5 Rb5 24. Qd8 $1 {
+Gelfand charges.} Bf6 25. Qc7 Be7 $5 (25... f4 $1 26. Bf1 $1 Be7 27. Nd7 Bxd7
+28. Rxd7 Rb7 29. Qxe5 Rxd7 30. Qe6+ Qf7 31. Qxd7 fxg3 32. hxg3 Bf6 {
+also favours White.}) 26. Bh3 $1 {Black suffers from restraint.} Kg7 $5 27.
+exf5 gxf5 28. Qxe5+ Kg6 29. Qc7 $1 a6 ({Or} 29... Bxc5 30. Nxc5 Rxc5 31. Rd6+ {
+(Gelfand).}) 30. Nd7 Bxd7 31. Qxd7 Qf6 32. Re1 $1 Rb7 33. Qc8 Kg7 34. Bxf5 Qd4
+35. Bb1 Bb4 36. Rf1 Rf7 37. Qh3 h6 38. Qh5 Rf6 39. Nc3 $1 Bxc3 40. bxc3 Qxc3
+41. Rd1 Qf3 42. Rd7+ Kf8 43. Rd8+ Kg7 44. Rd7+ Kf8 45. Qc5+ Kg8 46. Bh7+ $1 Kh8
+47. Qa7 Rf8 48. Bc2 {Gelfand won for the second time.} ({
+Gelfand gives the elegant decision} 48. Bc2 Qc3 49. Rd8 $1) 1-0
+
+[Event "Dos Hermanas"]
+[Site "3"]
+[Date "1994.??.??"]
+[Round "3"]
+[White "Morovic Fernandez, Ivan"]
+[Black "Karpov, Anatoly"]
+[Result "0-1"]
+[ECO "A26"]
+[WhiteElo "2605"]
+[BlackElo "2740"]
+[Annotator "JvR"]
+[PlyCount "75"]
+[EventDate "1994.04.??"]
+[SourceDate "1992.12.01"]
+
+1. c4 Nf6 2. Nc3 e5 3. Nf3 Nc6 4. a3 g6 5. g3 Bg7 6. Bg2 O-O 7. O-O d6 8. d3
+Nd4 9. Nd2 c6 10. b4 Be6 11. Bb2 Qd7 $5 12. e3 Nf5 13. Nde4 Nxe4 14. dxe4 $5
+Ne7 15. Qe2 Nc8 $1 16. Rfd1 Rd8 $5 17. Na4 Qe8 18. Rd2 $5 a6 $1 19. Bc3 b5 20.
+Nb2 Nb6 21. cxb5 axb5 22. Qd1 d5 23. a4 Nc4 $5 24. Nxc4 dxc4 25. a5 Bf8 26. a6
+$2 {The passed pawn becomes vulnerable.} ({Correct is} 26. Rxd8 Rxd8 27. Qf3)
+26... f6 27. f4 c5 28. Rxd8 Qxd8 29. Qe1 $5 (29. Qxd8 Rxd8 30. bxc5 Bxc5 31.
+Bf1 b4 $1 {also wins for Black.}) 29... Qb6 30. fxe5 fxe5 31. Bxe5 Rxa6 32. Rd1
+$5 Bg4 33. Rb1 Qe6 34. Bc3 Ra2 $1 35. bxc5 Bxc5 36. Bd4 Rxg2+ $1 37. Kxg2 Qxe4+
+38. Kg1 {White overstepped the time limit.} ({Or} 38. Kg1 Bh3 $1) 0-1
+
+[Event "Dos Hermanas"]
+[Site "3"]
+[Date "1994.??.??"]
+[Round "4"]
+[White "Epishin, Vladimir"]
+[Black "Polgar, Judit"]
+[Result "1-0"]
+[ECO "E62"]
+[WhiteElo "2675"]
+[BlackElo "2630"]
+[Annotator "JvR"]
+[PlyCount "131"]
+[EventDate "1994.04.??"]
+[SourceDate "1992.12.01"]
+
+1. d4 Nf6 2. c4 g6 3. Nf3 Bg7 4. g3 O-O 5. Bg2 d6 6. O-O Nc6 7. Nc3 e5 8. d5
+Ne7 9. e4 Nd7 10. Ne1 f5 11. Nd3 Nf6 12. Bg5 fxe4 13. Nxe4 Nf5 14. Qd2 $6 ({
+Known is} 14. Rc1) (14. Kh1 {
+will be played in Epishin - Polgar, Las Palmas during the next month.}) (14.
+Re1 {will occur in Karpov - Polgar, Las Palmas 1994.}) 14... Nxe4 $1 15. Bxe4
+Qe8 16. Rae1 Nd4 17. Kg2 $5 b5 $1 18. c5 Bf5 19. f3 Qd7 20. c6 Qc8 21. Qd1 $5 {
+This is supposed to be a highly subtle move.} Bh3+ 22. Kg1 Bxf1 {
+Black 'sacrifices' a bishop for a rook.} 23. Rxf1 Qh3 24. Qd2 $1 Rae8 25. Nf2
+Qc8 26. Kg2 Qa6 27. b3 b4 $2 {Weakening a pawn helps White.} 28. Nd3 Qb5 29.
+Qxb4 Qa6 $5 30. Qd2 Nf5 31. Rf2 Qb6 32. Qb4 Ne3+ 33. Kg1 Qd4 34. Bxe3 $5 Qxe3
+35. Kg2 Bh6 36. Qe1 Qd4 $5 37. Re2 Rb8 38. Nf2 Rb5 39. Ng4 Bg7 40. Rd2 Qb4 41.
+Qe3 Rc5 42. h4 Rc3 $6 {She stimulates a counter.} 43. Qg5 $1 Rc1 44. h5 $1 gxh5
+$2 {The position is opened for an attack.} 45. Nh6+ $1 Kh8 46. Nf5 $1 Bf6 $5 (
+46... Rg8 47. Ne7 Rf8 48. Rf2 Qe1 49. Qxh5 {wins for White (Epishin).}) 47. Qh6
+Rf7 48. a3 $2 (48. Re2 $1 Re1 49. Rxe1 Qxe1 50. Qxh5 {decides the game.}) 48...
+Qc3 49. Re2 Kg8 $2 (49... Qa1 $1 50. Qxh5 Rg1+ 51. Kh3 Rh1+ 52. Rh2 Qg1 {
+battles.}) 50. Qxh5 Bg7 51. Qg5 Kh8 52. Qd8+ Bf8 53. Nh6 Rg1+ 54. Kxg1 Qc1+ 55.
+Kg2 Qxh6 56. b4 Qc1 57. Qe8 Kg7 58. Qe6 Qxa3 59. Rf2 Qc1 60. Bxh7 $1 Qg5 61.
+Be4 Be7 62. Ra2 Qe3 63. b5 $1 Bg5 $5 64. b6 $1 cxb6 ({Or} 64... axb6 65. Qg6+
+Kf8 66. Ra8+ $1) 65. Rc2 Bd8 66. Qxd6 {Battling fortune switched sides.} 1-0
+
+[Event "Dos Hermanas"]
+[Site "3"]
+[Date "1994.??.??"]
+[Round "4"]
+[White "Gulko, Boris"]
+[Black "Lautier, Joel"]
+[Result "1-0"]
+[ECO "A84"]
+[WhiteElo "2615"]
+[BlackElo "2625"]
+[Annotator "JvR"]
+[PlyCount "51"]
+[EventDate "1994.04.??"]
+[SourceDate "1992.12.01"]
+
+1. c4 Nf6 2. d4 c6 3. Bf4 d5 4. e3 e6 5. Nc3 Be7 6. Nf3 Nbd7 7. c5 Nh5 8. Bd3
+O-O 9. O-O f5 10. b4 $5 a6 11. a4 h6 12. b5 axb5 13. axb5 Rxa1 14. Qxa1 g5 $5 {
+Black could exchange on f4 at last.} 15. bxc6 Nxc5 $2 ({Right is} 15... bxc6
+16. Bd6 Bxd6 17. cxd6 Ndf6 {(Gulko).}) 16. c7 $1 Qe8 17. Bb5 $1 Bd7 18. Be5 $1
+{White continues to make powerful moves.} Ne4 19. Bxd7 Qxd7 20. Qa4 $1 Nhf6 21.
+Bxf6 $1 Nxf6 22. Qxd7 Nxd7 23. Rb1 $1 Ra8 24. Rxb7 Kf7 25. g3 Ke8 26. Nb5 {
+The passed pawn cannot be stopped.} 1-0
+
+[Event "Dos Hermanas"]
+[Site "3"]
+[Date "1994.??.??"]
+[Round "4"]
+[White "Karpov, Anatoly"]
+[Black "Illescas Cordoba, Miguel"]
+[Result "1-0"]
+[ECO "A21"]
+[WhiteElo "2740"]
+[BlackElo "2590"]
+[Annotator "JvR"]
+[PlyCount "101"]
+[EventDate "1994.04.??"]
+[SourceDate "1992.12.01"]
+
+1. c4 e5 2. Nc3 Bb4 3. Nd5 Be7 4. d4 d6 5. e4 Nf6 6. Nxe7 $5 ({Known is} 6.
+Nxf6+ Bxf6 7. d5) 6... Qxe7 7. f3 exd4 8. Qxd4 c5 $6 ({Preferable is} 8... Nc6
+9. Qc3 O-O) 9. Qd2 Be6 10. Bd3 Nc6 11. Ne2 O-O 12. O-O a6 13. b3 Rab8 14. Nc3
+Nd4 15. Bb2 b5 16. Nd5 $1 {White has a pleasant game.} Bxd5 17. cxd5 Qa7 18.
+Rad1 $5 c4 19. Qf2 $5 Nxf3+ $1 20. gxf3 Qxf2+ 21. Kxf2 cxd3 22. Rg1 $5 {
+He does not want to exchange the bishop.} Nh5 $1 23. Ke3 Rfc8 $5 (23... f5 24.
+e5 $1 {(Karpov)} Rbc8 25. Rc1 dxe5 26. Bxe5 Rxc1 27. Rxc1 Nf6 28. Kd4 {
+also favours White.}) 24. Kxd3 f6 25. Ba3 $5 (25. Rc1 Kf7 26. Rc6 Rxc6 27. dxc6
+Rc8 28. Rc1 Ke6 {will be hard to win (Karpov).}) 25... b4 $1 26. Bb2 Kf7 27.
+Rc1 Nf4+ 28. Ke3 g5 29. Bd4 Ke7 30. Rc6 $1 Rxc6 31. dxc6 Rc8 32. Rc1 Ne6 $2 (
+32... Ng2+ $1 33. Kd2 Nh4 34. Ke2 Ng6 35. Bb6 Ne5 36. c7 Kd7 {defends well.})
+33. Bb6 $1 {Pawn b4 becomes vulnerable.} Nc5 34. c7 $1 Ne6 35. Rc4 Kd7 36. Rxb4
+Nxc7 37. Rc4 $5 (37. Ba5 $1 Ne6 38. Rb7+ {wins for White.}) 37... Ne8 38. Rxc8
+Kxc8 {Black has a number of weak pawns in the bishop versus knight ending.} 39.
+Kd4 Kb7 40. Ba5 Kc6 41. Kc4 Kd7 42. Bc3 h5 43. a4 Ke6 44. Bd4 f5 $5 {
+Black makes a last try.} 45. exf5+ Kxf5 46. Kd5 $1 Kf4 47. b4 Kxf3 48. Kc6 $1
+g4 49. b5 $1 axb5 50. a5 Ke4 51. a6 $1 {Karpov caught up with Gelfand.} 1-0
+
+[Event "Dos Hermanas"]
+[Site "3"]
+[Date "1994.??.??"]
+[Round "5"]
+[White "Gelfand, Boris"]
+[Black "Epishin, Vladimir"]
+[Result "1-0"]
+[ECO "E55"]
+[WhiteElo "2685"]
+[BlackElo "2675"]
+[Annotator "JvR"]
+[PlyCount "77"]
+[EventDate "1994.04.??"]
+[SourceDate "1992.12.01"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Nf3 c5 7. O-O dxc4 8. Bxc4
+Nbd7 9. Qe2 a6 10. Bd3 b5 11. a3 Ba5 12. b4 cxb4 13. Nxb5 $5 {
+Gelfand delivers a fine novelty.} ({Theory is} 13. axb4 Bxb4 14. Nxb5) 13...
+Bb7 ({The pointe is} 13... axb5 $2 14. axb4) 14. Nd6 Bxf3 15. Qxf3 Bc7 16. Nb7
+$1 {White has gained a great advantage.} Qe7 $5 ({Or} 16... Qc8 17. axb4 Nd5
+18. Na5) 17. axb4 e5 18. Bxa6 exd4 19. exd4 Qxb4 20. Be3 Rfb8 21. Rab1 Qe7 22.
+Bb5 Ra3 23. Bc6 Nb6 24. Rfc1 h5 25. h3 Qe6 26. Rb5 $2 (26. Nc5 $1 Qd6 27. Bf4
+$1 {wins for White (Gelfand).}) 26... Qa2 $2 (26... Nc4 $1 27. Nc5 Qd6 $1 {
+counters.}) 27. Qd1 $2 ({He misses the immediate win} 27. Rg5 $1) 27... Nbd5 $1
+28. Rc2 Nc3 $1 29. Rxa2 Rxa2 $1 30. Qf1 Nxb5 31. g4 ({Not} 31. Qxb5 $4 Ra1+)
+31... Nd6 $2 {Epishin misses the great escape.} (31... hxg4 $1 32. hxg4 Nc3 {
+equalises.}) 32. Nxd6 Bxd6 33. g5 Ne8 34. g6 Nf6 35. gxf7+ Kf8 36. Qc4 Ra7 37.
+Qe6 Rd8 38. Bb5 Re7 39. Qf5 {Black overstepped the time limit in a lost
+position. Gelfand took the sole lead again.} 1-0
+
+[Event "Dos Hermanas"]
+[Site "3"]
+[Date "1994.??.??"]
+[Round "5"]
+[White "Polgar, Judit"]
+[Black "Gulko, Boris"]
+[Result "1-0"]
+[ECO "C42"]
+[WhiteElo "2630"]
+[BlackElo "2615"]
+[Annotator "JvR"]
+[PlyCount "121"]
+[EventDate "1994.04.??"]
+[SourceDate "1992.12.01"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Nc6 7. O-O Be7 8.
+Nbd2 Nxd2 9. Qxd2 O-O $5 10. c3 Bd6 11. Bc2 Qf6 12. Qd3 Qg6 13. Nh4 Qxd3 14.
+Bxd3 g6 15. f4 f6 16. h3 Bd7 17. g4 a6 18. b4 Ne7 19. a4 Nc8 20. f5 g5 21. Nf3
+Nb6 22. a5 Nc4 23. h4 gxh4 24. Nxh4 Kf7 25. Nf3 Rae8 26. Kf2 Bb5 27. Rh1 Rh8
+28. Rh3 Ne3 29. Bxe3 Bxd3 30. Rah1 Kg7 31. Nd2 Bb5 32. Rh6 Ref8 33. R1h3 Rf7
+34. Nb3 b6 35. axb6 cxb6 36. g5 Rff8 37. gxf6+ Rxf6 38. Rxf6 Kxf6 39. Rh6+ Ke7
+40. Bg5+ Kd7 41. Bf6 Rf8 42. Ke3 Ba4 43. Nd2 Bc2 44. Rxh7+ Kc8 45. Be5 Bxe5 46.
+dxe5 Rxf5 47. Re7 Bd1 48. Kd3 a5 49. c4 Kd8 50. Re6 dxc4+ 51. Nxc4 axb4 52. Ne3
+Rf3 53. Ke4 Be2 54. Rd6+ Ke8 55. Rxb6 Rh3 56. Kd4 {
+The young lady exhausts the middle-aged man.} Rh1 $6 (56... Rh4+ $1 57. Kd5 Kd7
+58. e6+ Kc7 59. Rc6+ Kb7 {keeps the equality.}) 57. e6 Bf3 $5 58. Nf5 Rd1+ 59.
+Ke5 Bg4 $2 (59... Kd8 60. e7+ Kd7 61. Rb8 Rd5+ 62. Kf6 Rxf5+ 63. Kxf5 Kxe7 {
+draws (Montecatine).}) 60. Rb8+ Rd8 61. Nd6+ $1 {White will gain a rook.} 1-0
+
+[Event "Dos Hermanas"]
+[Site "3"]
+[Date "1994.??.??"]
+[Round "6"]
+[White "Epishin, Vladimir"]
+[Black "Gulko, Boris"]
+[Result "1-0"]
+[ECO "D94"]
+[WhiteElo "2675"]
+[BlackElo "2615"]
+[Annotator "JvR"]
+[PlyCount "97"]
+[EventDate "1994.04.??"]
+[SourceDate "1992.12.01"]
+
+1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. e3 g6 5. Nf3 Bg7 6. Be2 O-O 7. O-O Be6 8. cxd5
+cxd5 9. Qb3 Qb6 10. Qxb6 axb6 11. b3 Bg4 12. Na4 $5 (12. Bb2 {
+drew in Horvath - Gulko, Manila 1992.}) 12... Nfd7 13. h3 Bxf3 14. Bxf3 e6 15.
+Bd2 Nc6 16. Be2 Na7 17. Rfc1 {White has a plus by the two bishops.} Rfc8 18.
+Kf1 Bf8 19. b4 $6 ({Preferable is} 19. a3 $1) 19... Rxc1+ 20. Rxc1 Rc8 $6 (
+20... Nc8 $1 21. Bb5 Nf6 $1 {puts pressure on the white position.}) 21. Rxc8
+Nxc8 22. Bd3 Nd6 23. Be1 f5 $5 {He defends the centre.} 24. Ke2 Kf7 25. f3 $1
+Ke8 26. Bg3 Kd8 27. Nc3 Nf6 28. a3 Be7 29. Bf4 h5 $2 {
+Pawn g6 becomes a weakness.} ({More active is} 29... Nc4 $5) 30. h4 Nfe8 31. g3
+Nf6 32. Kd2 Kd7 33. Kc2 Kc6 34. Kb3 Bf8 35. a4 Be7 36. Be5 Kd7 37. Ne2 Ke8 38.
+Nf4 Kf7 39. Nh3 Bf8 40. Be2 Nd7 41. Bf4 $1 Nf6 42. a5 $1 bxa5 43. bxa5 {
+The queenside has been opened at last.} Ke8 44. Ka4 Be7 $2 (44... Nd7 $1 45.
+Bb5 $5 Nxb5 46. Kxb5 Ba3 {tries a passive defence.}) 45. Ng5 Kd7 46. Bb5+ $1
+Nxb5 47. Kxb5 Ng8 $6 (47... Ne8 $1 48. Nf7 Kc8 49. Ka4 $1 Bf6 50. Ne5 $1 Bxe5
+$5 51. Bxe5 Nc7 52. Bxc7 $1 Kxc7 53. Kb5 {wins for White.}) 48. Nf7 $1 Bf6 49.
+Kb6 $1 {White has won the battle for the queenside.} 1-0
+
+[Event "Dos Hermanas"]
+[Site "3"]
+[Date "1994.??.??"]
+[Round "6"]
+[White "Karpov, Anatoly"]
+[Black "Polgar, Judit"]
+[Result "1-0"]
+[ECO "B07"]
+[WhiteElo "2740"]
+[BlackElo "2630"]
+[Annotator "JvR"]
+[PlyCount "83"]
+[EventDate "1994.04.??"]
+[SourceDate "1992.12.01"]
+
+1. e4 c5 2. c3 d6 3. d4 Nf6 4. Bd3 Qc7 5. Nf3 g6 6. O-O Bg7 7. Re1 O-O 8. Bf4
+$5 (8. h3 {drew in Lobron - Piket, Hamburg 1991.}) 8... Nbd7 9. Nbd2 e5 10.
+dxe5 dxe5 11. Bg3 Nh5 12. a4 $5 b6 13. a5 bxa5 $5 14. Qa4 Nb6 15. Qxa5 Bg4 $5 (
+{Preferable is} 15... Nxg3 16. hxg3 Rd8) 16. Be2 Rfd8 17. Nc4 $1 Nf4 $6 (17...
+Nxg3 18. hxg3 Be6 {makes a useful exchange.}) 18. Bxf4 exf4 19. e5 $1 h6 $5 20.
+Nd6 Rd7 ({Not} 20... Bxe5 $2 21. Nxe5 Bxe2 22. Ndxf7) 21. h3 Be6 22. Ne4 Bd5 $2
+(22... c4 $1 {(Karpov)} 23. Nc5 Re7 24. Nxe6 Rxe6 {defends properly.}) 23. Nxc5
+$1 Re7 24. Na6 $1 Qb7 25. Nb4 $1 Bc4 26. Bd1 Rc8 27. Nd4 Nd7 28. Bf3 Qc7 29.
+Nbc6 Nxe5 $5 {Polgar makes a desperate attempt.} 30. Nxe7+ Qxe7 31. Qxa7 Rc7
+32. Qb8+ Kh7 33. Be4 $1 Qd7 34. Nf3 Nc6 35. Bxc6 Qxc6 36. Ra8 h5 37. Re8 $1 g5
+38. Ne5 Bxe5 39. Rxe5 f6 40. Ra7 $1 Rxa7 41. Qxa7+ Kg6 42. Re7 {
+Karpov joined the lead with Gelfand again.} 1-0
+
+[Event "Dos Hermanas"]
+[Site "3"]
+[Date "1994.??.??"]
+[Round "7"]
+[White "Gulko, Boris"]
+[Black "Karpov, Anatoly"]
+[Result "1-0"]
+[ECO "B12"]
+[WhiteElo "2615"]
+[BlackElo "2740"]
+[Annotator "JvR"]
+[PlyCount "107"]
+[EventDate "1994.04.??"]
+[SourceDate "1992.12.01"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Be7 7. cxd5 cxd5 8. Bd3 $5
+{The exchange of the strong bishop makes a fine novelty.} Bxd3 9. Qxd3 Nc6 10.
+Nf3 Nb4 $5 (10... Bb4 11. O-O Nge7 {develops properly.}) 11. Qe2 Rc8 12. O-O
+Nc6 $5 13. g3 Qd7 14. Bd2 $1 Nh6 15. Bxh6 $1 Rxh6 16. Rac1 Kf8 17. Na4 $5 Rc7
+18. Rc3 Rg6 19. Rfc1 Rg4 $1 20. Qd3 {
+The chances are even. Both sides strive for the initiative.} Kg8 21. a3 f6 22.
+Nc5 Bxc5 23. Rxc5 Qf7 24. b4 a6 25. Qc3 Rd7 $2 ({Correct is} 25... Qg6 $1 26.
+exf6 gxf6) 26. a4 Ne7 27. Nh2 Rg6 28. Qd3 Nf5 29. Rc8+ Kh7 30. Kh1 $6 (30. Nf3
+Rg4 31. R1c3 {keeps a plus.}) 30... Nh6 $2 31. R1c2 $2 (31. g4 $1 {
+starts a winning attack.}) 31... Nf5 32. b5 axb5 33. axb5 Qe7 $5 34. R2c5 $5 b6
+35. R5c6 Ra7 36. Nf3 Ra3 37. Qd1 $5 Rg4 $2 (37... fxe5 $1 38. dxe5 Nxh4 $1 39.
+Nd4 $1 Qb4 40. Qxh5+ Rh6 41. Qxh6+ Kxh6 42. Rh8+ Kg6 43. Rxh4 {brings equality.
+}) 38. exf6 Qxf6 39. Ng5+ Rxg5 $5 40. hxg5 Qxg5 41. Rxe6 h4 42. Ree8 $1 {
+Gulko attacks elegantly.} ({Not} 42. g4 $4 Qf4 $1 {(Gulko).}) 42... hxg3 43.
+Rh8+ Kg6 44. f4 $1 Ne3 45. Rc6+ Kf7 46. fxg5 Nxd1 47. g6+ Ke7 48. Kg2 Ne3+ 49.
+Kxg3 Nf5+ 50. Kf4 Nxd4 51. Rxb6 Ne6+ 52. Ke5 Re3+ 53. Kxd5 Re1 54. Rxe6+ $1 {
+Karpov lost the lead.} 1-0
+
+[Event "Dos Hermanas"]
+[Site "3"]
+[Date "1994.??.??"]
+[Round "7"]
+[White "Morovic Fernandez, Ivan"]
+[Black "Epishin, Vladimir"]
+[Result "0-1"]
+[ECO "E18"]
+[WhiteElo "2605"]
+[BlackElo "2675"]
+[Annotator "JvR"]
+[PlyCount "80"]
+[EventDate "1994.04.??"]
+[SourceDate "1992.12.01"]
+
+1. Nf3 Nf6 2. c4 e6 3. g3 b6 4. Bg2 Bb7 5. O-O Be7 6. Nc3 O-O 7. d4 Ne4 8. Nxe4
+Bxe4 9. Ne1 Bxg2 10. Nxg2 d5 11. Qa4 Bf6 12. Be3 c6 13. Rac1 a5 $5 14. Rfd1
+dxc4 15. Qxc4 Ra7 16. Rd3 Rd7 17. Rcd1 Qc8 18. Ne1 Qb7 19. Nf3 Rc8 20. h4 Na6
+21. Bg5 Nb4 22. R3d2 c5 $5 23. dxc5 Rxd2 24. Rxd2 bxc5 25. Bxf6 gxf6 26. h5 h6
+27. Qc3 $5 Kg7 28. a3 Nc6 {Black has to protect pawn a5.} 29. Rc2 Rd8 30. Qxc5
+Rd1+ 31. Kg2 Nd4 32. Rc4 e5 $1 33. Qc8 Qe4 34. Rc1 $6 (34. Rc7 Nxf3 35. exf3
+Qe1 36. Qg4+ Kf8 37. Qc8+ {leads to perpetual check.}) 34... Rxc1 35. Qxc1 Qxe2
+36. Nh4 $6 Qxh5 37. Qd2 a4 38. Qd3 Qg4 $1 39. f3 $6 Qc8 $1 40. g4 $2 Qc1 $1 (
+40... Qc1 41. Qc3 Qxc3 42. bxc3 Nb5 {wins for Black (Montecatine).}) 0-1
+
+[Event "Dos Hermanas"]
+[Site "3"]
+[Date "1994.??.??"]
+[Round "7"]
+[White "Polgar, Judit"]
+[Black "Topalov, Veselin"]
+[Result "1-0"]
+[ECO "C02"]
+[WhiteElo "2630"]
+[BlackElo "2640"]
+[Annotator "JvR"]
+[PlyCount "73"]
+[EventDate "1994.04.??"]
+[SourceDate "1992.12.01"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Bd7 6. Be2 f6 7. O-O Qb6 8. dxc5
+Bxc5 9. b4 Be7 10. Bf4 fxe5 11. Nxe5 Nxe5 12. Bxe5 Nf6 13. a4 $5 a5 14. bxa5 $5
+Rxa5 15. Nd2 O-O 16. Rb1 Qa7 17. Bb5 Bxb5 18. axb5 Ra2 {
+Black takes the initiative.} 19. Bd4 Qb8 $5 20. Re1 $5 Qf4 21. Re2 Bd6 22. g3
+$6 ({Preferable is} 22. Nf3 Rxe2 23. Qxe2) 22... Qf5 23. f4 Qd3 $2 (23... g5 $1
+24. fxg5 Ng4 {
+conquers the control over square e5 and breaks up the blockade of the centre.})
+24. Rf2 Rfa8 25. Qe1 Qf5 26. Rd1 Qg4 27. Kg2 $5 Nh5 $5 28. Kh1 Rc2 29. Qe2 $5
+Qh3 $5 30. Qe3 Nf6 31. Re1 Bf8 $2 (31... e5 $1 32. fxe5 Ng4 33. Qd3 Raa2 34.
+exd6 Nxf2+ 35. Bxf2 Rxd2 36. Re8+ Kf7 37. Re7+ Kg8 {leads to perpetual check.})
+32. Bxf6 gxf6 33. Ne4 Raa2 $2 (33... Rxf2 34. Nxf2 Qf5 35. Qxe6+ Qxe6 36. Rxe6
+Ra1+ {only costs a pawn.}) 34. Nxf6+ Kh8 ({Or} 34... Kf7 35. f5 $1) 35. Qe5 $1
+Rxf2 36. Ng4+ $1 Kg8 37. Qxe6+ {Both players fought hard.} (37. Qxe6+ Kh8 38.
+Qe5+ Kg8 39. Qxd5+ Kh8 40. Nxf2 {wins for White (Polgar).}) 1-0
+
+[Event "Dos Hermanas"]
+[Site "3"]
+[Date "1994.??.??"]
+[Round "8"]
+[White "Topalov, Veselin"]
+[Black "Gulko, Boris"]
+[Result "1-0"]
+[ECO "C18"]
+[WhiteElo "2640"]
+[BlackElo "2615"]
+[Annotator "JvR"]
+[PlyCount "67"]
+[EventDate "1994.04.??"]
+[SourceDate "1992.12.01"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. Nf3 b6 8. Bb5+
+Bd7 9. Bd3 Ba4 10. h4 h6 11. h5 Qc7 12. O-O Nd7 13. Re1 Qc6 $5 {
+Gulko has plans on the queenside.} 14. Rb1 a6 15. Nd2 cxd4 16. cxd4 Bb5 $5 {
+He carries out the prepared move.} 17. Rxb5 $5 {Topalov shows ambition.} axb5
+18. Qe2 Ra4 $6 (18... O-O $1 19. Bxb5 Qb7 20. a4 Rfc8 {is alright for Black.})
+19. Nb3 $1 Rc4 $1 20. Bd2 Nf5 $6 ({More solid is} 20... O-O 21. Bb4 Re8 22. c3
+Nf5) 21. Bb4 Nxd4 22. Nxd4 Rxd4 23. Bxb5 Qc8 24. Rd1 $1 Rxb4 $2 (24... Rxd1+ $5
+25. Qxd1 Kd8 26. c4 {(Topalov)} dxc4 27. Qd4 c3 28. Bxc3 Qb7 {tries to survive.
+}) 25. axb4 Qc3 26. Qg4 Qxe5 27. c4 f5 28. Qg6+ Ke7 29. cxd5 exd5 30. Bxd7 Kxd7
+31. Qf7+ Kc8 ({Or} 31... Kc6 32. b5+ Kc5 33. Qd7) 32. Qa7 Re8 33. Rc1+ Kd8 34.
+Qb7 {White has a mate attack.} 1-0
+
+[Event "Dos Hermanas"]
+[Site "3"]
+[Date "1994.??.??"]
+[Round "9"]
+[White "Gulko, Boris"]
+[Black "Rivas Pastor, Manuel"]
+[Result "1-0"]
+[ECO "A21"]
+[WhiteElo "2615"]
+[BlackElo "2505"]
+[Annotator "JvR"]
+[PlyCount "59"]
+[EventDate "1994.04.??"]
+[SourceDate "1992.12.01"]
+
+1. d4 d6 2. c4 e5 3. Nf3 e4 4. Ng5 f5 5. Nc3 c6 6. Nh3 Be7 7. Bf4 g5 $5 {
+Black seeks for wild complications.} 8. Bd2 h6 9. e3 Nf6 10. f3 a6 $6 {
+He spoils time.} 11. fxe4 fxe4 12. Nf2 d5 13. Qb3 b5 14. cxd5 cxd5 15. Rc1 Bb7
+$2 ({Better is} 15... Kf8 16. Be2 Kg7) 16. Be2 Nc6 17. Ncxe4 $3 {
+White forces the win by wonderful tactics.} dxe4 18. Nxe4 Kf8 $6 (18... Nxe4 $5
+19. Bh5+ Kd7 20. Qd5+ $1 Nd6 21. Bg4+ Ke8 22. Qe6 Qc7 $1 {
+(Gulko) should be followed by the subtle} 23. O-O $1 {and wins.}) 19. Nxf6 $1
+Bxf6 20. Bh5 $1 Rh7 21. O-O $1 Qd6 22. Rxf6+ Qxf6 23. Rf1 Qxf1+ 24. Kxf1 Re7
+25. d5 Ne5 26. Bb4 Rd8 27. e4 Rdd7 28. Qc3 Kg7 29. Bxe7 Rxe7 30. d6 {
+Gulko played a great game.} 1-0
+
+[Event "Dos Hermanas"]
+[Site "3"]
+[Date "1994.??.??"]
+[Round "9"]
+[White "Karpov, Anatoly"]
+[Black "Topalov, Veselin"]
+[Result "1-0"]
+[ECO "A43"]
+[WhiteElo "2740"]
+[BlackElo "2640"]
+[Annotator "JvR"]
+[PlyCount "71"]
+[EventDate "1994.04.??"]
+[SourceDate "1992.12.01"]
+
+{When the last round begibs, Karpov trails on Gelfand.} 1. d4 Nf6 2. Nf3 c5 3.
+d5 e6 4. Nc3 Nxd5 5. Nxd5 exd5 6. Qxd5 Be7 7. e4 O-O 8. Be2 $5 {
+Karpov makes a more timid move.} ({Usual is} 8. Bc4) 8... d6 9. O-O Nc6 10. c3
+Be6 11. Qh5 $1 h6 12. Rd1 Re8 13. Bf4 Bf8 $1 14. Nd2 g6 15. Qf3 d5 16. Qg3 Qe7
+17. exd5 Bxd5 18. Bf1 {The chances are equal.} Qf6 19. Nb3 Rad8 20. Rd2 Be6 21.
+Bc7 $1 Rxd2 22. Nxd2 Bf5 $5 ({Preferable is} 22... Bd5 $5 {(Karpov).}) 23. Nc4
+$1 Re4 $5 24. Ne3 $1 Bc8 25. Rd1 Re8 26. h3 $5 Qg5 $6 ({Better is} 26... Be6)
+27. Qf3 $1 Kg7 $2 (27... Be6 $1 28. Nd5 Bxd5 29. Rxd5 Qe7 {defends properly.})
+28. Bf4 $1 Qe7 29. Nd5 $1 Qe4 $2 (29... Qh4 {prevents the following tactics.})
+30. Nf6 $3 Kxf6 ({The pointe is} 30... Qxf3 31. Nxe8+) 31. Be5+ $1 {
+Tolya sacrifices two pieces.} Kxe5 32. Qxe4+ Kxe4 33. Re1+ Kf5 34. Rxe8 Be6 35.
+Rxf8 Bxa2 36. Rc8 {Will Karpov catch up?} 1-0
+
+[Event "Dos Hermanas"]
+[Site "3"]
+[Date "1994.??.??"]
+[Round "9"]
+[White "Polgar, Judit"]
+[Black "Gelfand, Boris"]
+[Result "0-1"]
+[ECO "B87"]
+[WhiteElo "2630"]
+[BlackElo "2685"]
+[Annotator "JvR"]
+[PlyCount "80"]
+[EventDate "1994.04.??"]
+[SourceDate "1992.12.01"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. O-O b5 8. Bb3
+Be7 9. Qf3 Qb6 10. Be3 Qb7 11. Qg3 b4 12. Na4 Nbd7 13. f3 O-O 14. Bh6 $2 {
+Polgar blunders a piece. Karpov cannot catch up with Gelfand, because Boris
+has an easy day.} Nh5 $1 15. Qh3 gxh6 $1 16. Qxh5 Qa7 17. Rad1 e5 $1 18. c3
+exd4 19. cxd4 Kg7 $5 20. Qg4+ Kh8 $1 21. Qf4 Kg7 $5 22. Kh1 $5 {
+If Polgar repeats the moves, Gelfand will not follow.} Nf6 23. Qg3+ Kh8 24. Qf4
+Ng8 $1 25. e5 dxe5 26. Qxe5+ Bf6 27. Qf4 Qb8 28. Qe4 Bg7 29. Nc5 Ra7 30. d5 Qb6
+31. Rc1 Re7 32. Qd3 Rd8 33. Qd2 Nf6 34. Rfd1 Ne8 35. Na4 Qb8 36. Rc6 a5 37. Qf2
+Qe5 38. Rc5 Nd6 39. Rxa5 Rde8 40. h3 Qf4 {The final standings became: Gelfand
+61/2/9, Karpov 6, Epishin 51/2, Topalov 41/2, Illescas Cordoba, Lautier, Gulko
+and Polgar 4, Morovic Fernandez 31/2, Rivas Pastor 3.} 0-1
+
+[Event "Dos Hermanas"]
+[Site "4"]
+[Date "1995.??.??"]
+[Round "1"]
+[White "Kamsky, Gata"]
+[Black "Piket, Jeroen"]
+[Result "1-0"]
+[ECO "C83"]
+[WhiteElo "2710"]
+[BlackElo "2670"]
+[Annotator "JvR"]
+[PlyCount "69"]
+[EventDate "1995.04.??"]
+[SourceDate "1992.12.01"]
+
+{The fourth super event was played in April and May 1995. Again ten
+grandmasters participated in Dos Hermanas. The decided games plus one draw
+have been selected.} 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4
+b5 7. Bb3 d5 8. dxe5 Be6 9. Be3 Be7 10. c3 O-O 11. Nbd2 Qd7 12. Re1 Rad8 13.
+Bc2 Nxd2 14. Qxd2 Bg4 $5 ({Theory is} 14... Bf5) 15. Qd3 $1 g6 16. Bh6 {
+White has the initiative.} Rfe8 17. Rad1 Na5 $6 ({Preferable is} 17... Qe6 $5
+18. Bf4 Na5) 18. h3 Bxf3 19. Qxf3 c5 20. Qg3 Nc4 $2 {
+Piket neglects the defence.} ({Better is} 20... Bf8) 21. b3 $1 Na3 22. e6 $1
+Qc6 ({The pointe is} 22... fxe6 $2 23. Bxg6 $1) 23. Bf5 $1 Bf6 24. Bg5 Bxg5 25.
+Qxg5 Rd6 (25... Kg7 26. exf7 Kxf7 27. Re6 $1 {wins for White (Tischbierek).})
+26. Qf6 Rdxe6 ({Or} 26... gxf5 27. exf7+ {and mate.}) 27. Bxe6 fxe6 28. h4 b4
+29. cxb4 Nc2 30. Re5 Nd4 31. h5 Rf8 32. Qg5 Nf5 33. hxg6 h6 34. Qc1 Qd6 35.
+Rde1 {Kamsky attacked elegantly.} 1-0
+
+[Event "Dos Hermanas"]
+[Site "4"]
+[Date "1995.??.??"]
+[Round "1"]
+[White "Shirov, Alexei"]
+[Black "Lautier, Joel"]
+[Result "0-1"]
+[ECO "C75"]
+[WhiteElo "2710"]
+[BlackElo "2655"]
+[Annotator "JvR"]
+[PlyCount "81"]
+[EventDate "1995.04.??"]
+[SourceDate "1992.12.01"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 d6 5. c3 Bd7 6. d4 Nge7 7. O-O Ng6 8. d5
+Nb8 9. Bc2 Be7 10. h3 h6 $5 11. c4 Bg5 12. Nbd2 a5 $1 13. b3 Na6 14. a3 Nc5 15.
+Rb1 Nf4 $1 16. Ne1 O-O 17. b4 $6 ({Correct is} 17. Ndf3 $1) 17... axb4 18. axb4
+Na4 19. Rb3 $1 (19. Ra1 $2 Nc3 $1 20. Rxa8 Nfe2+ 21. Kh1 Qxa8 {
+costs a queen (Ftacnik).}) 19... b5 20. Ra3 bxc4 $5 21. h4 $5 Be7 $5 {
+Pawn h4 could be captured instead.} (21... Bxh4 $1 22. g3 Nh3+ 23. Kh2 c3 24.
+Ndf3 Nb2 25. Bxb2 cxb2 26. Rxa8 Bxg3+ 27. fxg3 Qxa8 28. Qb1 Bb5 {
+gains the initiative.}) 22. g3 $6 Nh3+ $1 23. Kg2 Nb6 24. Rc3 Qc8 25. Rh1 Ra1
+26. Nxc4 $6 Nxc4 27. Rxc4 Bxh4 $1 28. f4 Bxg3 $5 29. Kxg3 Nxf4 $2 ({Right is} 
+29... exf4+ $1) 30. Rh2 $2 (30. Nd3 $1 {equalises.}) 30... Bb5 31. Rc3 Qd8 32.
+Qd2 Qg5+ 33. Kf3 Qg1 34. Bd1 f5 35. Rxc7 fxe4+ 36. Kxe4 Be8 37. Rf2 Bg6+ 38.
+Ke3 Nh3 39. Nf3 Qg3 40. Rg2 $2 Qf4+ 41. Ke2 {Black delivers mate in two.} 0-1
+
+[Event "Dos Hermanas"]
+[Site "4"]
+[Date "1995.??.??"]
+[Round "2"]
+[White "Lautier, Joel"]
+[Black "Gelfand, Boris"]
+[Result "0-1"]
+[ECO "E32"]
+[WhiteElo "2655"]
+[BlackElo "2700"]
+[Annotator "JvR"]
+[PlyCount "146"]
+[EventDate "1995.04.??"]
+[SourceDate "1992.12.01"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 O-O 5. a3 Bxc3+ 6. Qxc3 b6 7. Bg5 Bb7 8.
+f3 h6 9. Bh4 d5 10. e3 c5 11. dxc5 bxc5 12. Bxf6 Qxf6 13. Qxf6 gxf6 14. Rc1 Nd7
+15. cxd5 Bxd5 16. Ne2 $5 ({Preferable is} 16. Bb5 {
+(Bareev - Luther, Tilburg 1994).}) 16... Rab8 {Pawn b2 is vulnerable.} 17. Rc2
+Rb6 18. Nc3 $6 ({Better is} 18. e4 $5 Bc6 19. Nc1) 18... Rfb8 19. Nd1 Bb3 $1
+20. Rd2 Bxd1 21. Kxd1 Ne5 22. Kc1 c4 $1 23. Rc2 a5 $6 (23... Kg7 $5 24. Be2 $1
+Nd3+ 25. Bxd3 cxd3 26. Rd2 Rb3 {keeps a plus.}) 24. a4 $2 ({Right is} 24. Bxc4
+Nxc4 25. Rxc4 Rxb2 26. Rc8+ $1 {and equality (Gelfand).}) 24... Rb4 $1 25. Be2
+Rxa4 {Black has gained a pawn.} 26. Kb1 Rab4 27. Ka1 Rb3 28. f4 $5 Nd3 29. Bxd3
+cxd3 30. Rd2 e5 $1 31. e4 $5 R8b4 $5 32. Re1 Rd4 33. f5 h5 34. Re3 Kg7 35. g3
+Kh6 36. h4 Kg7 37. Ka2 Rbb4 $2 {Gelfand blunders under time pressure.} (37...
+a4 $1 {wins immediately.}) 38. Rdxd3 Rxd3 39. Rxd3 Rxe4 40. Ka3 $5 Re2 41. b3
+Rf2 42. Ka4 Rxf5 43. Re3 $1 Kg6 44. Kxa5 e4+ 45. Kb4 (45. Ka4 Re5 46. b4 f5 47.
+b5 f4 $1 48. gxf4 Re8 49. Kb3 Kf5 50. Kc2 Kxf4 51. Kd2 f5 $1 {
+also wins for Black.}) 45... Re5 46. Kc4 Re8 47. b4 $1 f5 $1 {
+The pawns start a race.} 48. Kd4 Rd8+ $1 49. Kc4 Kf6 50. b5 Ke5 51. b6 f4 52.
+gxf4+ Kxf4 53. Re1 f5 54. b7 e3 $1 55. Rd1 $5 Rb8 56. Kd3 Rxb7 57. Rf1+ Kg3 58.
+Rxf5 Re7 59. Ke2 Kxh4 60. Rf3 Kg4 61. Rf8 h4 62. Rg8+ Kh3 63. Rg1 Re4 64. Kf3
+Kh2 $1 65. Rg2+ Kh1 66. Re2 Re8 67. Kg4 Kg1 68. Kf3 Rg8 $1 (68... h3 $2 69.
+Re1+ Kh2 70. Re2+ {draws (Dautov).}) 69. Re1+ Kh2 70. Re2+ Kh1 71. Kf4 Rg3 72.
+Rb2 Kg1 73. Ra2 Kf1 {It took a great effort to win the rook endgame.} 0-1
+
+[Event "Dos Hermanas"]
+[Site "4"]
+[Date "1995.??.??"]
+[Round "3"]
+[White "Adams, Michael"]
+[Black "Piket, Jeroen"]
+[Result "1-0"]
+[ECO "C54"]
+[WhiteElo "2655"]
+[BlackElo "2670"]
+[Annotator "JvR"]
+[PlyCount "121"]
+[EventDate "1995.04.??"]
+[SourceDate "1992.12.01"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d3 a6 6. Nbd2 O-O 7. Bb3 d6 8. h3
+Be6 9. Bc2 h6 10. O-O Re8 $5 (10... Ba7 11. Re1 Re8 {
+leads to a well-known position.}) 11. Qe2 $6 Nh5 $1 12. Kh2 Nf4 13. Qd1 Qf6 14.
+Ng1 Rad8 $6 (14... Qg6 $1 15. Qf3 Ba7 {gains an edge.}) 15. Qf3 Qg6 16. Nb3 Nh5
+17. Nxc5 dxc5 18. Be3 b6 19. Ne2 Nf6 20. Qg3 Qxg3+ 21. Nxg3 c4 22. Rfd1 cxd3
+23. Bxd3 a5 24. Bc2 Rxd1 25. Bxd1 Rd8 26. Be2 Ne8 27. Nf1 Nd6 28. Nd2 f6 29.
+Kg1 Kf7 30. Kf1 Ke7 31. Ke1 Bf7 32. f3 Be6 33. Bf2 g6 34. b3 Kf7 35. Bd3 Nc8
+36. Ke2 N8e7 37. h4 h5 38. Be3 Rd7 39. a3 Rd8 40. a4 Ra8 41. Nc4 Rd8 42. Rg1
+Nc8 43. Rb1 Nd6 44. Nxd6+ Rxd6 45. Kd2 Ne7 46. Kc2 Bd7 47. Rg1 Be6 48. Be2 Rd8
+49. Rf1 $1 {Black has done little. White has achieved a plus.} Nc8 50. f4 $1
+Nd6 51. Bd3 exf4 52. Bxf4 Ne8 53. Bb5 Nd6 54. Bc6 Kg7 $2 {
+Counter-play was needed.} (54... Bd7 $1 55. Bd5+ Be6 56. Bg5 Ne8 {
+defends properly.}) 55. e5 $1 Bf5+ 56. Kb2 Nf7 57. exf6+ Kxf6 58. g3 Rc8 59.
+Re1 Rd8 $2 (59... Be6 $1 {would have been a fine waiting move.}) 60. Bxc7 $1
+Rc8 61. Bxb6 {White wins two pawns.} ({Notice} 61. Bxb6 Rxc6 62. Bd4+ $1 {
+(a nasty surprise)} Ne5 63. Rxe5) 1-0
+
+[Event "Dos Hermanas"]
+[Site "4"]
+[Date "1995.??.??"]
+[Round "3"]
+[White "Karpov, Anatoly"]
+[Black "Salov, Valery"]
+[Result "1-0"]
+[ECO "E15"]
+[WhiteElo "2780"]
+[BlackElo "2715"]
+[Annotator "JvR"]
+[PlyCount "109"]
+[EventDate "1995.04.??"]
+[SourceDate "1992.12.01"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Ba6 5. b3 Bb4+ 6. Bd2 Be7 7. Bg2 c6 8. Bc3
+d5 9. Ne5 Ne4 10. O-O Bb7 11. Bb2 Nd7 $5 12. Qc2 Nxe5 13. dxe5 Nc5 14. Nd2 O-O
+15. Rad1 a5 16. e4 dxc4 $5 17. Nxc4 Qc7 18. Nd6 $1 {
+White occupies an advanced post.} Ba6 19. Rfe1 Rad8 20. Qc3 f6 $2 (20... Rd7 $1
+21. f4 Rfd8 22. Bh3 Bf8 {defends against the outpost in the right way. Black
+consolidates, before he considers a counter.}) 21. exf6 $1 Bxd6 22. e5 Nd3 23.
+exd6 Rxd6 24. fxg7 $2 (24. Ba3 $1 c5 25. Re3 Nb4 26. Rxd6 Qxd6 27. fxg7 {
+gains an advantage.}) 24... Rxf2 25. Rxd3 $2 Rxg2+ $2 (25... Rxd3 $1 26. Qe5 $1
+Qxe5 27. Bxe5 Rf5 28. Bxc6 Rd2 {leads to a plus for Black.}) 26. Kxg2 Bxd3 $2 (
+26... Rxd3 27. Qf6 Rd2+ {(Karpov)} 28. Kf3 Qf7 29. Qxf7+ Kxf7 {defends well.})
+27. Qf6 Qf7 28. Qxf7+ Kxf7 29. Be5 Rd5 30. g4 Kg8 31. h4 h5 $2 {
+Salov gives away an important defender.} ({Better is} 31... a4 $5 32. Bf6 e5
+33. Bxe5 axb3 34. axb3 Bg6 35. h5 Bf7) 32. gxh5 Bf5 33. Kf3 Rd7 34. Kf4 c5 35.
+Kg5 Kf7 36. Re2 Kg8 37. h6 Kh7 38. Rf2 Rd5 39. Kf6 Rd7 40. Rg2 Kg8 41. h7+ Bxh7
+42. Kxe6 Rf7 43. Bf6 Rc7 44. Rd2 Rc6+ 45. Ke7 Rc7+ 46. Kd6 Rc8 47. Rf2 Bd3 48.
+Be5 Re8 49. h5 c4 50. h6 cxb3 51. axb3 Ra8 52. Ke7 Ra7+ 53. Ke6 Ra8 54. Bd6
+Re8+ 55. Kd7 {Karpov competed at the top.} 1-0
+
+[Event "Dos Hermanas"]
+[Site "4"]
+[Date "1995.??.??"]
+[Round "3"]
+[White "Shirov, Alexei"]
+[Black "Polgar, Judit"]
+[Result "0-1"]
+[ECO "E98"]
+[WhiteElo "2710"]
+[BlackElo "2630"]
+[Annotator "JvR"]
+[PlyCount "84"]
+[EventDate "1995.04.??"]
+[SourceDate "1992.12.01"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Be2 O-O 6. Nf3 e5 7. O-O Nc6 8. d5
+Ne7 9. Ne1 Ne8 10. Be3 f5 11. f3 f4 12. Bf2 h5 13. c5 g5 14. a4 Kh8 15. a5 dxc5
+16. Bxc5 Nd6 17. Nd3 Ng8 18. a6 $5 bxa6 19. Nb4 Nh6 20. Bxa6 Bxa6 21. Rxa6 g4
+22. Qe2 Rg8 23. Bxd6 cxd6 24. Nb5 Bf8 25. Nc6 Qc8 26. Rxa7 Rxa7 27. Nbxa7 Qd7
+28. Nb5 Nf7 29. Nc3 Ng5 $1 30. Kh1 $2 (30. Kf2 $1 gxf3 31. gxf3 Nh3+ 32. Ke1 {
+lets the king escape timely.}) 30... gxf3 $1 31. Rxf3 ({The pointe is} 31. gxf3
+Nh3 $1) 31... Nxf3 32. Qxf3 h4 33. b4 h3 34. gxh3 Qh7 $1 35. b5 Qh4 $1 36. Qf1
+f3 $1 {Black has a mate attack.} 37. Nd1 $5 Qxe4 38. Nf2 Qe2 39. Qxe2 fxe2 40.
+Nd3 e4 41. Ne1 Bh6 42. Ne7 Bd2 {Shirov missed a 'petite combinaison'.} 0-1
+
+[Event "Dos Hermanas"]
+[Site "4"]
+[Date "1995.??.??"]
+[Round "4"]
+[White "Illescas Cordoba, Miguel"]
+[Black "Kamsky, Gata"]
+[Result "1-0"]
+[ECO "A17"]
+[WhiteElo "2595"]
+[BlackElo "2710"]
+[Annotator "JvR"]
+[PlyCount "145"]
+[EventDate "1995.04.??"]
+[SourceDate "1992.12.01"]
+
+1. Nf3 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 O-O 5. a3 Bxc3 6. Qxc3 c5 7. b4 b6 8. g3
+Bb7 9. Bg2 d6 10. O-O Nc6 11. Bb2 $5 Qc7 12. d3 e5 13. e3 {
+White prevents ..Nd4.} Rfe8 14. Nh4 Ne7 15. e4 $1 {
+He allows the knight manoeuvre at a loss of time.} Nc6 16. Qd2 Nd4 $5 17. Bxd4
+cxd4 18. Bh3 $5 Bc8 19. Bxc8 Raxc8 20. f4 Nd7 21. fxe5 dxe5 22. Nf5 Nf8 $2 {
+Kamsky misses a trick.} ({Right is} 22... f6 $1) 23. c5 $1 bxc5 24. bxc5 Rcd8 (
+{The pointe is} 24... Qxc5 $2 25. Rfc1 Qb6 26. Rxc8 Rxc8 27. Ne7+ {(Ribli).})
+25. Nd6 Re7 26. Qa2 Qd7 27. Rxf7 $1 Rxf7 28. Rf1 Qe6 29. Qxe6 Nxe6 30. Nxf7 Rc8
+31. Nxe5 Rxc5 32. Nc4 {White has an extra pawn in the endgame.} Rb5 33. Rf5 Rb3
+34. Re5 $1 Kf7 35. Ra5 {Pawn d3 has an indirect protection.} Kf6 36. Ne5 h5 37.
+h4 a6 38. Kf2 Nc7 39. a4 Ne6 40. Ke2 Rb2+ {They passed the time control.} 41.
+Ke1 Rb1+ 42. Kf2 Rb2+ 43. Kf1 Rb1+ 44. Kf2 Rb2+ 45. Kf1 Rb1+ 46. Ke2 Rb2+ 47.
+Ke1 Rb1+ 48. Kd2 $1 Rb2+ 49. Kc1 $1 {He plays for a win of course.} Rg2 50. Nc6
+Rxg3 51. Rf5+ $1 Kg6 52. Ne7+ Kh6 53. Ra5 Rg1+ 54. Kc2 g6 55. Rxa6 Rg2+ 56. Kd1
+Nc5 57. Ra7 g5 58. hxg5+ $2 Rxg5 $2 ({He misses the opportunity} 58... Kxg5 $1
+59. Ra5 Rg1+ $1 60. Ke2 Rc1 61. Rb5 h4 {drawn.}) 59. Nf5+ Kg6 60. Rg7+ Kf6 61.
+Rxg5 Kxg5 62. a5 Kg4 63. Ke2 h4 64. Kf1 Kf3 65. Nxd4+ Ke3 66. Nb3 $1 {
+Illescas finds the elegant way.} Na6 {Capture loses quickly.} 67. e5 Nc7 68. d4
+Ke4 69. Kg2 Kd5 70. Kh3 Kc4 71. Kxh4 $1 Kxb3 72. d5 $1 Nxd5 73. a6 $1 {
+One pawn will queen soon.} 1-0
+
+[Event "Dos Hermanas"]
+[Site "4"]
+[Date "1995.??.??"]
+[Round "4"]
+[White "Lautier, Joel"]
+[Black "Karpov, Anatoly"]
+[Result "0-1"]
+[ECO "E05"]
+[WhiteElo "2655"]
+[BlackElo "2780"]
+[Annotator "JvR"]
+[PlyCount "60"]
+[EventDate "1995.04.??"]
+[SourceDate "1992.12.01"]
+
+1. d4 Nf6 2. c4 e6 3. g3 d5 4. Bg2 Be7 5. Nf3 O-O 6. O-O dxc4 7. Nc3 Nc6 8. e3
+Bd6 9. Nd2 $5 (9. Qa4 {happened in Lautier - Kortschnoj, Moscow 1994.}) 9... e5
+10. Nxc4 exd4 11. exd4 Bg4 12. Qb3 $5 ({More solid is} 12. Qd3 $1 Bc5 $1 13.
+Bxc6 bxc6 14. Be3) 12... Nxd4 13. Qxb7 Bf3 $1 14. Qa6 $2 (14. Bxf3 Rb8 15. Qxa7
+Nxf3+ 16. Kg2 {keeps the equality (Karpov).}) 14... Bb4 $1 15. Be3 Bxg2 16.
+Rfd1 $1 c5 17. Bxd4 cxd4 18. Kxg2 Rc8 $1 {Black has gained an advantage.} 19.
+Kg1 Re8 20. Rac1 Qd7 $6 (20... Ng4 $1 {starts an attack on the kingside.}) 21.
+Nb5 $6 (21. Ne3 $1 {creates confusion.} Ne4 $1 22. Nxe4 Rxc1 23. Rxc1 dxe3 24.
+Qc4 Qe7 {keeps winning chances for Black.}) 21... d3 $1 22. Ne3 Rxc1 23. Rxc1
+d2 $1 24. Rd1 Nd5 25. Qa4 a6 $1 26. Qxa6 Nxe3 27. fxe3 Qd3 28. Qc6 Qxe3+ 29.
+Kg2 Qe2+ 30. Kh3 Qh5+ {Karpov scored his second win.} 0-1
+
+[Event "Dos Hermanas"]
+[Site "4"]
+[Date "1995.??.??"]
+[Round "4"]
+[White "Salov, Valery"]
+[Black "Adams, Michael"]
+[Result "0-1"]
+[ECO "B37"]
+[WhiteElo "2715"]
+[BlackElo "2655"]
+[Annotator "JvR"]
+[PlyCount "134"]
+[EventDate "1995.04.??"]
+[SourceDate "1992.12.01"]
+
+1. d4 Nf6 2. c4 c5 3. Nf3 cxd4 4. Nxd4 Nc6 5. Nc3 g6 6. Nc2 Bg7 7. e4 d6 8. Be2
+Nd7 9. Bd2 O-O 10. O-O Nc5 11. b4 Ne6 12. Rb1 a5 13. b5 $5 ({The alternative is
+} 13. a3) 13... Ncd4 14. b6 $5 {Salov wants to fight.} Nxc2 15. Qxc2 Bd7 16.
+Nd5 Bc6 17. Bg4 Nc5 18. Bg5 Bxd5 $6 ({Preferable is} 18... Re8 $5) 19. cxd5 h5
+20. Be2 Rc8 21. Be3 a4 22. Rb4 a3 23. Rfb1 Qd7 24. Bb5 Qd8 25. Be2 Qd7 26. Rc4
+$1 {Salov has a plus and wants no repetition.} e6 27. Rd1 $6 (27. dxe6 $1 Nxe6
+28. Rc1 {achieves an edge.}) 27... exd5 28. Rxd5 Qe6 29. Bf4 Rc6 30. Bxd6 $5
+Rxd6 31. Rxd6 Qxd6 32. Rxc5 Qxb6 33. Rb5 Qe6 $1 34. Rb4 ({Not} 34. Rxb7 $2 Rc8
+35. Qb1 Bb2) 34... Rc8 35. Rc4 Rd8 $1 36. g3 h4 $1 {
+This time Adams shows ambition.} 37. Bf1 $5 Bd4 38. Qe2 $2 ({Correct is} 38.
+Rb4 b6 39. Bc4) 38... b5 39. Rc2 $5 b4 40. Qf3 hxg3 $5 41. hxg3 Bc3 {
+Black has gained an advantage.} 42. Bb5 Rd4 43. Re2 Rd1+ 44. Kg2 Kg7 45. e5 Rb1
+46. Re4 $5 Bxe5 $1 47. Bc4 Qf6 48. Rxe5 $2 {Salov's tactics are refuted.} (48.
+Qxf6+ Bxf6 49. Re3 {defends properly.}) 48... Rg1+ $1 ({The trap is} 48... Qxe5
+$4 49. Qxf7+ Kh6 50. Bd3 {(Adams).}) 49. Kxg1 Qxf3 50. Re7 Kf8 51. Ra7 f5 $1
+52. Bb3 Qe4 53. Rf7+ Ke8 54. Rg7 Qc6 55. Kh2 Kd8 56. Rf7 Kc8 57. Kg1 Qd6 58.
+Rg7 Kb8 59. Rf7 Qe5 60. Rd7 Qe1+ 61. Kg2 Qe4+ 62. Kg1 g5 $1 63. Rf7 f4 64. Kh2
+f3 65. Kh3 Qd4 $1 66. Rf5 Qxf2 67. Bd5 Qf1+ {Adams won a second game.} 0-1
+
+[Event "Dos Hermanas"]
+[Site "4"]
+[Date "1995.??.??"]
+[Round "4"]
+[White "Shirov, Alexei"]
+[Black "Gelfand, Boris"]
+[Result "0-1"]
+[ECO "B96"]
+[WhiteElo "2715"]
+[BlackElo "2710"]
+[Annotator "JvR"]
+[PlyCount "137"]
+[EventDate "1995.04.??"]
+[SourceDate "1992.12.01"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Nbd7 8. Qe2
+Qc7 9. O-O-O b5 10. g3 b4 11. Nd5 exd5 12. Bg2 $5 ({Theory is} 12. exd5+ Be7
+13. Nf5 {(Yudasin - Gelfand, Manila 1990).}) 12... Be7 13. Nf5 $6 (13. Rhe1 $1
+O-O 14. e5 dxe5 15. fxe5 Nxe5 16. Qxe5 {regains a piece.}) 13... Nb6 $5 14.
+Nxg7+ Kf8 $5 15. Bh6 Kg8 16. Nh5 Ng4 $6 ({More useful is} 16... Qc4 17. Qxc4
+Nxc4 18. Nxf6+ Bxf6) 17. Bg7 $1 Qc4 18. Qxc4 Nxc4 19. e5 $6 (19. Rde1 $1 {
+supports the attack.}) 19... Nge3 $1 20. exd6 Nxd6 $1 21. Rhe1 $3 Ndf5 $5 22.
+Bxd5 $5 Nxd5 23. Bxh8 Nfe3 $6 (23... Nde3 $1 24. Bf6 Nxd1 25. Bxe7 Nxe7 26.
+Rxe7 Be6 $1 {gains an edge.}) 24. Nf6+ Bxf6 25. Rxd5 $1 Kxh8 {
+Capture of the rook is punished by mate.} 26. Rxe3 {
+A rook and two pawns battle against two bishops.} Be6 27. Rd6 Kg7 28. a4 h5 29.
+a5 Bf5 30. c3 bxc3 31. bxc3 Rc8 32. Kd2 Rc5 $5 33. Rxa6 Rb5 34. Ra8 $6 Rb2+ 35.
+Ke1 Rxh2 $1 36. a6 Ra2 37. a7 $2 {
+White will have to give up the a-pawn eventually.} Ra1+ $5 38. Kd2 Ra2+ 39. Kc1
+Kh7 40. c4 Ra1+ 41. Kd2 Ra2+ 42. Kd1 Kg7 43. Rg8+ $1 {
+The exchange of rooks costs a pawn.} Kxg8 44. Re8+ Kg7 45. a8=Q Bg4+ $1 46. Kc1
+Rxa8 47. Rxa8 Bd4 48. Kd2 Bf2 49. Ra3 Kf6 50. Rd3 Ke6 51. Kc3 Be2 52. Rd8 Ke7
+53. Rd5 f6 54. Kd2 Bg4 55. Rd3 Ke6 56. Ra3 Kd7 57. Ra6 $5 Bxg3 58. Rxf6 Ke7 59.
+Ra6 h4 $5 60. Ke3 h3 61. c5 h2 62. Ra1 Kf6 $1 63. Rb1 $5 (63. Ke4 $1 Kg6 $1 64.
+c6 Kh5 65. c7 Kh4 66. Ke3 Kh3 67. Rc1 Kg2 68. Rc2+ Kf1 {
+wins for Black (Gelfand).}) 63... Kf5 64. c6 Bxf4+ 65. Kf2 Bh3 66. Kf3 Bc7 67.
+Rb5+ $5 Kf6 68. Rb1 Be6 69. Rd1 {
+Gelfand, Karpov and Adams joined the lead by a score of 3/4.} 0-1
+
+[Event "Dos Hermanas"]
+[Site "4"]
+[Date "1995.??.??"]
+[Round "6"]
+[White "Lautier, Joel"]
+[Black "Piket, Jeroen"]
+[Result "1-0"]
+[ECO "E85"]
+[WhiteElo "2655"]
+[BlackElo "2670"]
+[Annotator "JvR"]
+[PlyCount "83"]
+[EventDate "1995.04.??"]
+[SourceDate "1992.12.01"]
+
+1. c4 g6 2. d4 Bg7 3. e4 d6 4. Nc3 e5 5. Nf3 exd4 6. Nxd4 Nf6 7. f3 O-O 8. Be3
+Nc6 9. Qd2 Be6 10. Be2 Nxd4 11. Bxd4 Nh5 12. Bxg7 Nxg7 13. O-O c6 14. Kh1 Qc7
+$5 {Black has a weak pawn.} ({Known is} 14... Qe7) 15. Rad1 Rad8 16. Qd4 a6 17.
+Rd2 f5 18. Rfd1 Rd7 19. b4 Qd8 $5 (19... c5 $1 20. bxc5 dxc5 21. Qe3 Rxd2 22.
+Rxd2 {makes useful exchanges.}) 20. Qe3 Rff7 21. Na4 fxe4 22. fxe4 Qh4 23. Nb6
+Rde7 $6 ({More solid is} 23... Rd8 24. c5 d5) 24. Rxd6 {
+White has gained a pawn, but it will be hard to make progress.} h6 $5 25. Qg3
+$5 Qxg3 26. hxg3 Kh7 27. Kg1 Ne8 28. R6d4 Nf6 29. Rf1 Kg7 30. e5 $1 Nh7 31. Bd3
+$5 Ng5 32. Re1 h5 $6 (32... Rf3 $1 33. gxf3 Nxf3+ 34. Kf2 Nxd4 {
+regains the pawn.}) 33. Rd6 Bf5 34. c5 Bxd3 35. Rxd3 Ne6 36. Nc4 Rd7 37. Red1
+Rxd3 38. Rxd3 h4 $2 39. Rd6 $2 Ng5 $2 (39... Nf8 {stops the passed pawb.}) 40.
+gxh4 Ne4 41. Rd3 Rf4 42. Rd4 {Jeroen collapsed at the end.} 1-0
+
+[Event "Dos Hermanas"]
+[Site "4"]
+[Date "1995.??.??"]
+[Round "6"]
+[White "Shirov, Alexei"]
+[Black "Karpov, Anatoly"]
+[Result "0-1"]
+[ECO "C22"]
+[WhiteElo "2710"]
+[BlackElo "2780"]
+[Annotator "JvR"]
+[PlyCount "46"]
+[EventDate "1995.04.??"]
+[SourceDate "1992.12.01"]
+
+1. e4 e5 2. d4 exd4 3. Qxd4 {Shirov plays a rare gambit.} Nc6 4. Qe3 Nf6 5. Nc3
+Bb4 6. Bd2 O-O 7. O-O-O Re8 8. Qg3 d6 9. f3 Ne5 10. h4 Kh8 $5 {
+Karpov defends quietly by a new move.} 11. Nh3 Nh5 12. Qh2 $5 ({
+A novelty will become} 12. Qf2 $5) 12... c6 13. a3 $5 Ba5 14. Be2 $6 Bxh3 $1
+15. Qxh3 Bxc3 16. bxc3 $5 {White has to accept a great weakness.} ({
+The pointe is} 16. Bxc3 $2 Nf4) 16... Nf6 17. c4 $2 {
+White has a surprising defence.} (17. h5 $1 Qa5 18. Kb2 Qc5 19. Qh4 {
+uses the queenside pawns as a screen.}) 17... Qb6 {
+Black attacks the open queenside.} 18. f4 $2 {
+A knight is chased in the wrong direction.} (18. g4 Qd4 {(Karpov)} 19. Kb1 {
+offers more resistance.}) 18... Ned7 $1 19. Bd3 Nc5 20. e5 Na4 $1 21. Bb4 dxe5
+22. c5 Qc7 23. Bc4 a5 {Karpov will gain a second pawn. He took the sole lead.}
+0-1
+
+[Event "Dos Hermanas"]
+[Site "4"]
+[Date "1995.??.??"]
+[Round "7"]
+[White "Adams, Michael"]
+[Black "Shirov, Alexei"]
+[Result "1-0"]
+[ECO "B08"]
+[WhiteElo "2655"]
+[BlackElo "2710"]
+[Annotator "JvR"]
+[PlyCount "119"]
+[EventDate "1995.04.??"]
+[SourceDate "1992.12.01"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 c6 4. Nf3 d6 5. Be3 Nf6 6. Qd2 O-O 7. Bh6 b5 8. Bd3
+Bg4 9. Bxg7 Kxg7 10. e5 dxe5 $5 11. dxe5 Nfd7 12. Qe3 Qc7 {
+Black has a pleasant game.} 13. e6 $1 {White has to liberate his position.}
+Bxe6 $5 ({The alternative is} 13... Bxf3 $1 14. gxf3 fxe6) 14. Ng5 $5 Qe5 15.
+Nxe6+ fxe6 16. a4 Qxe3+ 17. fxe3 b4 18. Ne4 Rf5 19. Nd2 Rd5 20. Bc4 Re5 21.
+O-O-O Nc5 22. Rhe1 Nbd7 23. Nf3 Re4 24. Bd3 Rg4 25. Bf1 e5 26. g3 b3 27. e4
+bxc2 28. Kxc2 Rf8 29. Bg2 a5 30. b3 Nb8 31. Rd2 Nca6 32. Nxe5 Nb4+ 33. Kc3 Rg5
+34. Nf3 Rg4 35. Rd4 Na2+ 36. Kc4 Na6 37. e5 Rb8 38. Rxg4 Rb4+ 39. Kd3 Rxg4 40.
+Ke3 Rb4 $6 {Hereafter, matters go wrong for Black.} ({Correct is} 40... Nc5)
+41. Nd4 Nc5 42. Bxc6 Nxb3 43. Ne6+ Kh6 44. Rd1 Rb6 45. Bd7 g5 $2 ({Better is} 
+45... Nc3 46. Rd3 Nb1 {(Adams).}) 46. g4 $1 {White wants to play for mate.} Rb4
+47. Rg1 Nc3 48. h4 $1 Nd5+ 49. Kf2 gxh4 50. Be8 $1 {He threatens mate in one.}
+Rf4+ 51. Nxf4 Nxf4 52. g5+ $1 Kg7 53. Rg4 Nd3+ 54. Ke3 Nxe5 55. Rxh4 Nc5 56.
+Rf4 Nb7 57. Re4 Ng6 58. Bxg6 Kxg6 59. Re5 $1 Nd6 60. Kf4 {
+Adams shared the lead with Karpov. Shirov lost his fifth game.} 1-0
+
+[Event "Dos Hermanas"]
+[Site "4"]
+[Date "1995.??.??"]
+[Round "7"]
+[White "Kamsky, Gata"]
+[Black "Polgar, Judit"]
+[Result "1/2-1/2"]
+[ECO "D38"]
+[WhiteElo "2710"]
+[BlackElo "2630"]
+[Annotator "JvR"]
+[PlyCount "102"]
+[EventDate "1995.04.??"]
+[SourceDate "1992.12.01"]
+
+1. Nf3 e6 2. c4 d5 3. d4 Nd7 4. Nc3 Ngf6 5. Bg5 Bb4 6. cxd5 exd5 7. e3 c5 8.
+Bd3 Qa5 9. Qc2 c4 10. Bf5 O-O 11. O-O Re8 12. Nd2 g6 13. Bxd7 Nxd7 14. Rfe1 Nb6
+15. f3 Na4 $5 16. Rac1 $2 ({Better is} 16. Qxa4 Qxa4 17. Nxa4 Bxd2 18. Re2)
+16... Nxc3 17. bxc3 Ba3 18. Rb1 Bf5 $1 19. e4 Bd7 $1 {
+The centre remains closed. Black threatens ..Ba4.} 20. Nf1 dxe4 $1 {
+Polgar gains a pawn.} 21. f4 $1 b6 22. Ne3 Rac8 23. Rf1 f5 24. Bf6 Bf8 25. Be5
+Qa4 26. Qf2 Qc6 27. h3 Bg7 28. Kh2 Rf8 29. g4 Rce8 $2 (29... b5 $1 {
+starts an attack on the queenside (Polgar).}) 30. gxf5 Bxf5 31. Qg3 Re7 32. Rf2
+Ref7 33. Rbf1 b5 34. h4 $1 h5 $5 35. Rg2 Kh7 36. Rfg1 Bh6 37. d5 $1 Qd7 38. d6
+Bg4 $5 39. Nxg4 Qxg4 40. Qxg4 hxg4 41. Rxg4 Bxf4+ 42. Bxf4 Rxf4 43. Rxf4 Rxf4
+44. Rd1 {White survives in the rook ending.} Rf8 45. d7 Rd8 46. Kg3 Kg7 47. Kf4
+Kf6 48. Rd5 $5 ({Or} 48. Kxe4 Ke6 49. Rg1 Kf6 50. Rd1) 48... e3 49. Kxe3 Ke6
+50. Rxb5 Rxd7 51. Ra5 Rd3+ {Judit scored one win and eight draws.} 1/2-1/2
+
+[Event "Dos Hermanas"]
+[Site "4"]
+[Date "1995.??.??"]
+[Round "7"]
+[White "Piket, Jeroen"]
+[Black "Illescas Cordoba, Miguel"]
+[Result "1-0"]
+[ECO "D44"]
+[WhiteElo "2670"]
+[BlackElo "2595"]
+[Annotator "JvR"]
+[PlyCount "103"]
+[EventDate "1995.04.??"]
+[SourceDate "1992.12.01"]
+
+1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. Nf3 e6 5. Bg5 dxc4 6. e4 b5 7. e5 h6 8. Bh4 g5
+9. Nxg5 hxg5 10. Bxg5 Nbd7 11. exf6 Bb7 12. g3 c5 13. d5 Qb6 14. Bg2 O-O-O 15.
+O-O b4 16. Rb1 Bh6 17. Bxh6 $1 {Piket improves the theory.} Rxh6 18. b3 $3 {
+Piket and Van Wely had prepared this move.} cxb3 ({The pointe is} 18... bxc3 $2
+19. bxc4 Qa6 20. Rxb7 $1) 19. Na4 Qb5 20. axb3 exd5 21. Rc1 $1 Kb8 22. Re1 $2 (
+22. Bxd5 $1 Ne5 23. Rxc5 Qe8 {(Piket)} 24. f4 $1 {keeps a large advantage.})
+22... Rxf6 23. Re7 Qc6 24. h4 Qd6 25. Rxd7 $1 Rxd7 26. Nxc5 Rc7 27. Nxb7 Rxc1
+28. Qxc1 Kxb7 29. Qg5 Kc7 30. Bxd5 {The chances have become equal.} Qb6 31.
+Qe5+ Kd8 32. Bf3 a5 33. Kg2 Rd6 34. h5 a4 $6 {The sacrifice is wrong.} 35. bxa4
+b3 36. Qg5+ $5 Ke8 37. a5 $1 Qd4 $2 (37... Qa6 $1 38. Qc5 b2 39. Qe5+ Kf8 40.
+Qh8+ Ke7 41. Qxb2 Qxa5 {defends properly.}) 38. Qb5+ Kf8 39. Qxb3 Kg7 40. Qb5
+Kh6 41. g4 Qf6 42. Be2 Rd2 43. a6 Qe7 44. Qb6+ Kg7 45. Bf3 Rd7 46. Qb2+ Kh7 47.
+Qb5 Rd2 48. Qf5+ Kh8 49. Be4 f6 50. Qc8+ Kg7 51. h6+ $1 Kf7 52. Qc4+ {
+Jeroen came back after three losses.} 1-0
+
+[Event "Dos Hermanas"]
+[Site "4"]
+[Date "1995.??.??"]
+[Round "7"]
+[White "Salov, Valery"]
+[Black "Lautier, Joel"]
+[Result "0-1"]
+[ECO "A32"]
+[WhiteElo "2715"]
+[BlackElo "2655"]
+[Annotator "JvR"]
+[PlyCount "92"]
+[EventDate "1995.04.??"]
+[SourceDate "1992.12.01"]
+
+1. Nf3 c5 2. c4 Nf6 3. Nc3 e6 4. d4 cxd4 5. Nxd4 Bb4 6. Bd2 O-O 7. a3 Bc5 8.
+Nb3 Be7 9. g3 $5 ({Usual is} 9. e4) 9... d5 10. cxd5 exd5 11. Be3 Nc6 12. Bg2
+Be6 13. O-O Rc8 14. Nb5 Ne4 15. N3d4 Bd7 16. Rc1 Ne5 17. Rxc8 Qxc8 18. Nf5 Bf6
+$5 ({Better is} 18... Bxf5 $1 19. Qxd5 Ng4 {(Lautier).}) 19. Qxd5 Bxb5 20. Qxe4
+$5 Bxe2 21. Rc1 Qd7 $1 22. Nd4 Ba6 23. b4 Nc4 $1 24. Qd5 $6 {
+The exchange of queens favours Black.} Qxd5 25. Bxd5 Nxa3 26. Nf5 Nb5 27. Bc4
+Bb2 28. Rc2 $6 (28. Rd1 $1 Nc3 29. Rd4 Nd1 $5 30. Bxf7+ $1 Rxf7 31. Rd8+ Rf8
+32. Ne7+ Kf7 33. Rxd1 $1 Bf6 34. Nd5 {keeps the equality.}) 28... Na3 29. Rxb2
+Nxc4 30. Ra2 Nxe3 31. Nxe3 Ra8 32. Ra5 Be2 33. Kg2 b6 34. Ra2 Bb5 35. Kf3 a5
+36. Kf4 $2 (36. bxa5 bxa5 37. Ke4 {offers a strong resistance}) 36... a4 $1 37.
+Ra3 Rd8 38. Ke5 f6+ 39. Ke6 Kf8 40. h4 Be8 41. Rc3 Rd4 42. Rc8 a3 43. Nf5 a2 $1
+44. Nxd4 ({The pointe is} 44. Ra8 a1=Q 45. Rxa1 Bf7#) 44... a1=Q 45. Kd5 Qa2+
+46. Kd6 Qd2 {Salov lost his third game.} 0-1
+
+[Event "Dos Hermanas"]
+[Site "4"]
+[Date "1995.??.??"]
+[Round "8"]
+[White "Illescas Cordoba, Miguel"]
+[Black "Salov, Valery"]
+[Result "0-1"]
+[ECO "A09"]
+[WhiteElo "2595"]
+[BlackElo "2715"]
+[Annotator "JvR"]
+[PlyCount "96"]
+[EventDate "1995.04.??"]
+[SourceDate "1992.12.01"]
+
+1. Nf3 d5 2. c4 d4 3. e3 Nc6 4. exd4 Nxd4 5. Nxd4 Qxd4 6. Nc3 e5 7. d3 Ne7 8.
+Be2 c6 9. O-O Nf5 10. g4 Nh4 11. Be3 Qd6 12. Ne4 $5 Qg6 13. Ng3 $6 ({
+Preferable is} 13. Bg5 $1 Be7 14. Bxe7 Kxe7 15. Ng3) 13... Bd6 14. d4 e4 15.
+Qc2 $2 (15. c5 $1 Bxg3 16. fxg3 Nf3+ 17. Bxf3 exf3 {(Salov)} 18. Bf4 {
+keeps the equality.}) 15... Nf3+ 16. Bxf3 exf3 17. Qe4+ $1 Kf8 $6 {
+Exchange gains an edge.} 18. Bf4 Bxf4 19. Qxf4 Bxg4 20. Rfe1 h5 21. h4 Qf6 $5
+22. Qxf6 gxf6 {Black has a better endgame.} 23. Rad1 Rd8 24. d5 $1 cxd5 25.
+cxd5 $5 f5 26. Kh2 Rh6 27. Re5 $2 ({Correct is} 27. Rd4 $1 Rb6 28. b3 $1) 27...
+Rb6 $1 28. Rd2 ({The pointe is} 28. b3 $2 f4 $1 29. Nf1 Re6 $1) 28... f4 $1 29.
+Nf1 Re8 30. Rxe8+ Kxe8 31. b3 Rb4 32. Rd3 Re4 33. Nd2 Re2 34. Kg1 Re1+ 35. Kh2
+Rd1 36. b4 Bf5 37. Rd4 Bb1 $1 38. a3 Kd7 39. Nxf3 Rxd4 40. Nxd4 Bd3 $1 {
+Black has a superior bishop.} 41. Kg2 Kd6 42. Kf3 $6 (42. Nb3 $5 Be4+ 43. f3
+Bg6 44. Kf2 Kxd5 45. Ke2 b6 46. Kd2 Kc4 47. Nc1 {fights till the bitter end.})
+42... Kxd5 43. Nb3 Ke5 44. Nc5 Bc4 45. a4 b6 46. Nd7+ Kf5 47. Nb8 Bb3 48. a5
+Ba4 $1 {Salov won a game at last.} 0-1
+
+[Event "Dos Hermanas"]
+[Site "4"]
+[Date "1995.??.??"]
+[Round "8"]
+[White "Kamsky, Gata"]
+[Black "Karpov, Anatoly"]
+[Result "1-0"]
+[ECO "B12"]
+[WhiteElo "2710"]
+[BlackElo "2780"]
+[Annotator "JvR"]
+[PlyCount "75"]
+[EventDate "1995.04.??"]
+[SourceDate "1992.12.01"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nf3 e6 5. Be2 c5 6. Be3 Nd7 7. c4 dxc4 8. O-O a6
+9. Bxc4 $5 Ne7 10. Nc3 b5 $5 (10... Nc6 $5 11. d5 Ncxe5 {
+will be played in Bologan - Razuvaev, Biel 1995.}) 11. Bd3 c4 12. Bc2 Rc8 13.
+Re1 b4 14. Ne4 Nd5 15. Bg5 Qa5 $1 16. Nh4 (16. Nd6+ $5 Bxd6 17. Bxf5 Bf8 18.
+Be4 {brings no advantage.}) 16... Bxe4 17. Bxe4 g6 $5 (17... c3 $1 18. bxc3
+bxc3 {advances on the queenside.}) 18. Qg4 Bg7 19. f4 Qb6 20. Kh1 Qc6 $2 ({
+Better is} 20... f5 $1 21. exf6 N5xf6 22. Qh3 Nxe4 23. Rxe4 O-O) 21. f5 $1 N7b6
+22. Bf6 $6 (22. fxg6 $1 hxg6 23. Rf1 Rc7 24. Rac1 {
+starts a strong attack (after Karpov).}) 22... Bxf6 23. exf6 Kd8 24. fxg6 $6 (
+24. Bxd5 $1 exd5 25. fxg6 hxg6 26. Nxg6 $1 fxg6 27. Re6 {
+charges on the hostile king.}) 24... hxg6 {A messy segment follows.} 25. Bxg6
+Rc7 26. Be4 Kc8 27. Nf3 Nxf6 28. Qg7 Nxe4 29. Qxh8+ Kb7 30. Qh4 Nd6 31. Rac1 a5
+32. Qg5 Nd5 33. h4 Rc8 34. h5 Rh8 35. Kg1 Rh7 36. h6 Qc7 37. Nd2 Qb6 38. Qg4 {
+Karpov overstepped the time limit in a poor position. The standings at the end
+of the penultimate round became: Adams 51/2/9, Gelfand and Karpov 5, Kamsky,
+Polgar and Lautier 41/2, etc.} 1-0
+
+[Event "Dos Hermanas"]
+[Site "4"]
+[Date "1995.??.??"]
+[Round "9"]
+[White "Adams, Michael"]
+[Black "Kamsky, Gata"]
+[Result "0-1"]
+[ECO "C90"]
+[WhiteElo "2655"]
+[BlackElo "2710"]
+[Annotator "JvR"]
+[PlyCount "92"]
+[EventDate "1995.04.??"]
+[SourceDate "1992.12.01"]
+
+{Adams needs a draw in the last round.} 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4
+Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. d3 d6 9. c3 Na5 10. Bc2 c5 11. Nbd2 Re8
+12. Nf1 h6 13. d4 Qc7 14. d5 Nc4 15. a4 $5 ({Known is} 15. b3) 15... Bd7 16. b3
+Na5 17. Ne3 $5 c4 $1 18. bxc4 ({The pointe is} 18. b4 $2 Nb3 $1 19. Bxb3 cxb3
+20. Qxb3 Nxe4) 18... Nxc4 19. h3 Rec8 20. axb5 axb5 21. Rxa8 Rxa8 22. Nxc4 Qxc4
+$5 23. Bd2 Bd8 $1 24. Qb1 Bb6 $1 {He has activated a bishop.} 25. Bd3 Qa4 26.
+Be3 Bxe3 27. Rxe3 Qa1 28. Kh2 $5 Qxb1 29. Bxb1 Kf8 30. g3 Ke7 31. Kg2 Ra1 32.
+Nd2 Ne8 33. Bd3 Ra2 34. Re2 Nc7 {Black has the initiative.} 35. c4 $2 (35. g4 {
+makes a waiting move.}) 35... b4 $1 {The passed pawn decides the game.} 36. c5
+Nb5 $1 37. f4 $5 dxc5 38. fxe5 Nc3 39. Rf2 Nd1 40. Re2 Ra3 41. d6+ Ke8 42. Bc4
+Ne3+ 43. Kf2 Nxc4 44. Nxc4 Ra1 45. Rc2 Be6 46. Nd2 c4 $1 {
+Kamsky caught up with Adams.} (46... c4 47. Nxc4 b3 48. Rc3 Bxc4 49. Rxc4 b2 {
+wins for Black (Wedberg).}) 0-1
+
+[Event "Dos Hermanas"]
+[Site "4"]
+[Date "1995.??.??"]
+[Round "9"]
+[White "Lautier, Joel"]
+[Black "Illescas Cordoba, Miguel"]
+[Result "0-1"]
+[ECO "A29"]
+[WhiteElo "2655"]
+[BlackElo "2595"]
+[Annotator "JvR"]
+[PlyCount "80"]
+[EventDate "1995.04.??"]
+[SourceDate "1992.12.01"]
+
+1. c4 e5 2. Nc3 Nc6 3. Nf3 Nf6 4. g3 Bb4 5. Bg2 O-O 6. O-O e4 7. Ng5 Bxc3 8.
+bxc3 Re8 9. f3 e3 10. d3 d5 11. Qb3 Na5 12. Qa3 c6 13. cxd5 cxd5 14. f4 Bg4 15.
+Re1 h6 $5 ({The alternative is} 15... Nc6) 16. Nf3 Nc6 17. Rb1 Qd7 {
+The chances are about equal.} 18. d4 $5 Bh3 $1 19. Bh1 $2 Nh5 $1 20. Ne5 Nxe5
+21. fxe5 (21. dxe5 $5 Nxg3 $1 22. hxg3 Qg4 23. Kh2 Qh5 24. Bxe3 Bf5+ 25. Kg1
+Qg6 26. Kf2 Bxb1 {also favours Black.}) 21... Qg4 $2 (21... Nxg3 $1 22. hxg3
+Qg4 23. Kh2 Qh5 $1 {achieves a great advantage (Illescas Cordoba).}) 22. Bxe3
+Nxg3 23. Bf3 Qg6 24. hxg3 $2 ({Right is} 24. c4 $1 Re6 25. c5 Rf8 26. Qb3 Bf5
+27. Rb2 {and White tries to survive.}) 24... Qxg3+ 25. Kh1 Bg4 26. Qc1 ({Or} 
+26. Rf1 Qh3+ 27. Kg1 Re6) 26... Qh3+ $5 27. Kg1 Qg3+ 28. Kh1 Re6 $1 29. Bg2
+Qh4+ $1 30. Kg1 Bh3 $1 31. Bxh3 Rg6+ $1 32. Bg2 Qg3 33. Bg5 $5 Rxg5 34. Qxg5
+hxg5 35. Red1 Qxc3 36. Rxb7 Qc6 37. Rdb1 Qc4 $1 38. R1b4 Qc1+ 39. Kf2 Qf4+ 40.
+Kg1 a5 {The local hero carried out a great attack.} 0-1
+
+[Event "Dos Hermanas"]
+[Site "4"]
+[Date "1995.??.??"]
+[Round "9"]
+[White "Piket, Jeroen"]
+[Black "Gelfand, Boris"]
+[Result "1-0"]
+[ECO "E97"]
+[WhiteElo "2670"]
+[BlackElo "2700"]
+[Annotator "JvR"]
+[PlyCount "79"]
+[EventDate "1995.04.??"]
+[SourceDate "1992.12.01"]
+
+{If Gelfand wins this game, he will triumph in the tournament.} 1. d4 Nf6 2. c4
+g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 e5 6. Be2 O-O 7. O-O Nc6 8. d5 Ne7 9. Bd2 Nh5 10.
+Rc1 h6 11. Re1 Nf4 12. Bf1 g5 13. h4 g4 $1 (13... f6 {
+happened in Piket - Nunn, Monte Carlo 1995.}) 14. Nh2 h5 $5 15. c5 dxc5 16. Be3
+Neg6 $2 (16... b6 {strengthens the queenside.}) 17. Bxc5 Re8 18. g3 a6 19. Qb3
+b6 20. Be3 Bf8 21. Nd1 Bd7 22. Bd2 Bc5 23. Ne3 a5 24. a4 $6 ({Better is} 24.
+Nf5 $1 a4 25. Qd1 Qf6 26. Nxg4 $1 hxg4 27. Qxg4) 24... Qf6 25. Rxc5 $1 bxc5 26.
+Rc1 Reb8 27. Qa3 Kh7 $2 ({Piket recommends} 27... Rb4 $1 28. Bxb4 axb4 29. Qb3
+Rxa4) 28. Rxc5 Rb7 29. Qc3 Bxa4 30. Rxc7 Rb3 31. Qc1 Be8 $2 {
+Gelfand has lost the battle for the first place.} 32. Nf5 Nxd5 33. Bg5 Qe6 34.
+Bc4 Nxc7 35. Bxe6 Nxe6 36. Bf6 Ngf4 37. gxf4 Nxf4 38. Kh1 Ra6 39. Bxe5 Nd3 40.
+Qg5 {The final standings became: Kamsky, Karpov and Adams 51/2/9, Gelfand and
+Polgar 5, Illescas Cordoba and Lautier 41/2, Piket 4, Salv 31/2, Shirov 2.
+Kamsky had the best tie-break, because he defeated his two main rivals.} 1-0
+
+[Event "Dos Hermanas"]
+[Site "5"]
+[Date "1996.05.21"]
+[Round "1"]
+[White "Anand, Viswanathan"]
+[Black "Shirov, Alexei"]
+[Result "1-0"]
+[ECO "B06"]
+[WhiteElo "2725"]
+[BlackElo "2690"]
+[Annotator "JvR"]
+[PlyCount "115"]
+[EventDate "1996.05.??"]
+[SourceDate "1992.12.01"]
+
+{Kasparov only participated in 1996, when no super tournament took place in
+Linares. Ten top players starred from 21 v until 1 vi 1996 in Hotel La Motilla.
+} {The wins and losses by the top four have been selected.} 1. e4 g6 2. d4 Bg7
+3. Nc3 c6 4. Bc4 d6 5. Qf3 e6 6. Nge2 b5 7. Bb3 a5 8. a3 Ba6 9. d5 cxd5 10.
+exd5 e5 11. Ne4 h6 12. g4 Nf6 13. N2g3 Nxe4 14. Nxe4 O-O 15. Qh3 f5 16. gxf5
+Bc8 17. Ng3 Rxf5 $5 {Shirov started a new idea on move 15.} 18. Qg2 $5 (18.
+Nxf5 $5 Bxf5 19. Qg3 {will be played in Izmukhambetov-Bologan, Sevastopol 1997.
+}) 18... a4 19. Ba2 Rf4 $5 20. c3 $5 ({The critical line is} 20. Bxf4 exf4 21.
+Ne4) 20... Rh4 21. h3 Bf5 $2 ({Better is} 21... Nd7 {(Anand).}) 22. Nxf5 gxf5
+23. Qg6 Qf8 24. Be3 Kh8 25. O-O-O Nd7 26. Qe6 Rd8 27. Rdg1 f4 28. Ba7 $1 Nf6
+29. Bb1 Re8 30. Qf5 Qf7 $2 ({Right is} 30... Qe7 31. Bb6 Rh5) 31. Bb6 Rf8 32.
+Rg6 Rh5 33. Qe6 Rg5 34. Rxg5 hxg5 35. Rd1 $1 Qd7 36. Qxd7 Nxd7 37. Bc7 Rf6 38.
+Bd3 Nc5 39. Bxb5 e4 40. Bb6 Bf8 41. Bxc5 dxc5 42. Re1 $1 e3 43. fxe3 f3 44.
+Bxa4 c4 45. Bb5 Rh6 46. Bd7 $1 f2 47. Rf1 Bc5 48. e4 Rf6 49. Bb5 Rf4 50. Bxc4
+Rxe4 51. Bb5 Re3 52. d6 $1 Bxd6 53. Rxf2 Rxh3 54. Bd7 Rg3 55. Kc2 g4 56. Rd2
+Bc7 57. a4 Rg1 58. Bc6 {White has three passed pawns.} 1-0
+
+[Event "Dos Hermanas"]
+[Site "5"]
+[Date "1996.05.23"]
+[Round "3"]
+[White "Illescas Cordoba, Miguel"]
+[Black "Anand, Viswanathan"]
+[Result "0-1"]
+[ECO "A38"]
+[WhiteElo "2635"]
+[BlackElo "2725"]
+[Annotator "JvR"]
+[PlyCount "98"]
+[EventDate "1996.05.??"]
+[SourceDate "1992.12.01"]
+
+1. Nf3 Nf6 2. c4 c5 3. g3 Nc6 4. Bg2 g6 5. O-O d6 6. Nc3 Bg7 7. a3 O-O 8. Rb1
+d5 9. cxd5 Nxd5 10. Ng5 e6 11. Nge4 b6 12. d3 h6 13. Bd2 Bb7 14. Nxd5 exd5 15.
+Nc3 d4 16. Nd5 Rb8 17. b4 $2 ({Correct is} 17. e4 $1) 17... Nxb4 $1 18. Nxb4
+cxb4 19. axb4 Bxg2 20. Kxg2 Re8 21. Kg1 Rc8 22. Re1 Rc6 23. Qa4 Rce6 24. Qxa7
+Rxe2 25. Rxe2 Rxe2 26. Bf4 Qd5 27. Ra1 $6 ({More resistance is offered by} 27.
+Qxb6 Qf3 28. Rf1 Qxd3 29. Qd8+) 27... Qb5 28. Qa8+ Re8 29. Qa3 Bf8 30. h4 g5
+31. hxg5 hxg5 32. Bd2 Re2 33. Be1 Qf5 34. Qa8 Qxd3 35. Qd8 Qf3 36. Qxg5+ Bg7
+37. Qd8+ Kh7 38. Qh4+ Kg6 39. Qf4 Qxf4 40. gxf4 d3 41. Rd1 Kf5 42. Kf1 Ke4 43.
+b5 Bd4 44. Rb1 Ra2 45. Rd1 Ra1 46. Rxa1 Bxa1 47. Bd2 Kd4 48. Be3+ ({Or} 48. Ke1
+Bc3) 48... Kc3 49. Bxb6 Kc2 ({The pointe is} 49... Kc2 50. Be3 Bd4 $1 {(Hecht).
+}) 0-1
+
+[Event "Dos Hermanas"]
+[Site "5"]
+[Date "1996.05.23"]
+[Round "3"]
+[White "Kasparov, Gary"]
+[Black "Shirov, Alexei"]
+[Result "1-0"]
+[ECO "D17"]
+[WhiteElo "2775"]
+[BlackElo "2690"]
+[Annotator "JvR"]
+[PlyCount "59"]
+[EventDate "1996.05.??"]
+[SourceDate "1992.12.01"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4 5. a4 Bf5 6. Ne5 e6 7. f3 c5 8. e4
+cxd4 9. exf5 Bb4 10. Bxc4 Qd6 $6 (10... dxc3 $5 11. Qxd8+ Kxd8 {
+takes less risk (Genova-Prochazkova, Brno 1989).}) 11. Bb5+ Nc6 12. Nc4 $5 ({
+Even better is} 12. Bf4 $2 {(Gelfand-Shirov, Dortmund 1996).}) 12... Qc5 $2 {
+Shirov blunders.} ({Correct is} 12... Qd8) 13. Bd2 $1 O-O ({The pointe is} 
+13... dxc3 14. bxc3) 14. Na2 Bxd2+ 15. Qxd2 Ne7 16. Qb4 Qxb4+ 17. Nxb4 a6 18.
+Nb6 axb5 19. Nxa8 Rxa8 20. fxe6 bxa4 21. exf7+ Kxf7 22. Kd2 Ke6 23. Rhc1 Kd6
+24. b3 b5 25. bxa4 bxa4 26. Rc4 Nf5 27. Nc2 Nd7 28. Rcxa4 Rxa4 29. Rxa4 Nb6 30.
+Nxd4 $5 {Kasparov will win the endgame.} 1-0
+
+[Event "Dos Hermanas"]
+[Site "5"]
+[Date "1996.05.23"]
+[Round "3"]
+[White "Polgar, Judit"]
+[Black "Topalov, Veselin"]
+[Result "0-1"]
+[ECO "B53"]
+[WhiteElo "2675"]
+[BlackElo "2700"]
+[Annotator "JvR"]
+[PlyCount "73"]
+[EventDate "1996.05.??"]
+[SourceDate "1992.12.01"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Qxd4 Bd7 5. c4 Nc6 6. Qd2 g6 7. b3 Bg7 8. Nc3
+Nf6 9. Bb2 Bg4 10. Be2 O-O 11. h3 Bxf3 12. Bxf3 Nd7 13. O-O Qa5 14. Rab1 Rfd8
+15. Rfc1 a6 16. a3 Bf6 17. Bg4 e6 18. b4 Qg5 19. f4 Qh6 20. Ne2 Nde5 21. Rc2
+Nxg4 22. hxg4 Bxb2 23. Rbxb2 Qh4 24. g5 e5 25. b5 axb5 26. cxb5 Nd4 $1 27. Nxd4
+exd4 28. Rb3 Re8 29. g3 $1 Qg4 30. Qxd4 Ra4 $1 31. Rc4 Rxc4 32. Qxc4 Rc8 $1 {
+Black has found an opening in the hostile position.} 33. Qd3 $2 ({Right is} 33.
+Qf1 $1 {(Topalov).}) 33... Rc1+ 34. Kg2 ({Or} 34. Kf2 Qh3 {(Topalov).}) 34...
+Qh5 35. e5 Rd1 36. Qf3 Qh1+ 37. Kf2 {Black delivers mate in two.} 0-1
+
+[Event "Dos Hermanas"]
+[Site "5"]
+[Date "1996.05.25"]
+[Round "4"]
+[White "Anand, Viswanathan"]
+[Black "Ivanchuk, Vassily"]
+[Result "1-0"]
+[ECO "C92"]
+[WhiteElo "2725"]
+[BlackElo "2735"]
+[Annotator "JvR"]
+[PlyCount "91"]
+[EventDate "1996.05.??"]
+[SourceDate "1992.12.01"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+O-O 9. h3 Bb7 10. d4 Re8 11. Nbd2 Bf8 12. d5 Nb8 13. Nf1 Nbd7 14. Ng3 g6 15.
+Nh2 h5 16. Nf3 Nc5 17. Bc2 c6 18. b4 Ncd7 19. dxc6 Bxc6 20. Bb3 Nb6 21. Bg5 Bd7
+22. Nh4 Be6 23. Qf3 Nbd7 24. Rad1 Rc8 25. Rd3 Bxb3 26. axb3 Qe7 27. Red1 Qe6
+28. Nhf5 $1 Qxb3 $6 ({Best is} 28... gxf5 $1 29. Nxf5 Qxb3 30. Bh6 Bxh6 31.
+Nxh6+ Kf8 32. Nf5 Re6 33. Nxd6 Rxd6 34. Rxd6 Rxc3) 29. Nxd6 Bxd6 30. c4 Qxc4
+31. Rxd6 Nh7 32. Bh6 Ndf8 33. Rxa6 Re6 34. Rxe6 Nxe6 35. Nf5 $1 Qxb4 $6 (35...
+gxf5 $1 36. exf5 Neg5 37. Qxh5 Ne4 38. Qg4+ Neg5 39. Qh5 {draws (Anand).}) 36.
+Rd7 Nhg5 37. Bxg5 Qe1+ 38. Kh2 Nxg5 39. Qg3 $1 Nxe4 40. Nh6+ Kh7 41. Rxf7+ Kxh6
+42. Qxe5 Qd2 $2 ({Anand regards} 42... Rg8 $1 43. Qf4+ g5 44. Qf5 Rg6 45. Qe5
+$1 Qc3 46. Qxe4 {as won for White, but} Qc6 $1 47. Qb1 Qd5 48. Rf5 Qe6 49. Qxb5
+Rf6 {defends well.}) 43. Qg7+ Kg5 44. h4+ Kxh4 45. Qxg6 Rc3 46. Qxe4+ {
+Anand had scored his third win.} 1-0
+
+[Event "Dos Hermanas"]
+[Site "5"]
+[Date "1996.05.26"]
+[Round "5"]
+[White "Kramnik, Vladimir"]
+[Black "Anand, Viswanathan"]
+[Result "1-0"]
+[ECO "D85"]
+[WhiteElo "2775"]
+[BlackElo "2725"]
+[Annotator "JvR"]
+[PlyCount "201"]
+[EventDate "1996.05.??"]
+[SourceDate "1992.12.01"]
+
+1. Nf3 g6 2. d4 Nf6 3. c4 Bg7 4. Nc3 d5 5. cxd5 Nxd5 6. e4 Nxc3 7. bxc3 c5 8.
+Rb1 O-O 9. Be2 cxd4 10. cxd4 Qa5+ 11. Bd2 Qxa2 12. O-O Bg4 13. Bg5 h6 14. Be3
+Nc6 15. d5 Na5 16. Bc5 Bf6 17. e5 Bxe5 18. Rb4 Bxf3 19. Bxf3 Rae8 20. Be3 Nc4
+$2 ({Vishy diverts from} 20... Bc3 {played in Kramnik-Anand, Riga 1995).}) 21.
+Bxh6 Nd6 22. Bxf8 Rxf8 23. h4 $6 (23. Ra4 Qb2 24. Rxa7 {wins a pawn.}) 23...
+Rc8 24. Be4 $6 Qa5 25. Ra4 Qb5 $6 26. Bb1 Rc5 $6 {
+Hereafter White will win after adventures.} ({Better is} 26... Rc4) 27. Bd3 Qd7
+28. Rxa7 Rxd5 29. Ra8+ Kg7 30. h5 Rd4 31. Qe2 Bf6 32. hxg6 fxg6 33. Bb1 Qg4 34.
+Qa2 Nc4 35. Qb3 b5 36. Re1 Rd2 37. Ra2 Rd5 38. Be4 Re5 39. Rae2 Qh4 40. g3 Qh6
+41. Qd3 Nd6 42. Bd5 Rxe2 43. Qxe2 Qh3 44. Be6 Qh8 45. Qf3 Qb8 46. Kg2 b4 47.
+Rh1 Qb7 48. Bd5 Qb5 49. g4 Nf7 50. Bb3 Nh6 51. Re1 Qg5 52. Re4 Nf5 53. Qd1 Nh4+
+54. Kh3 Qc5 55. Qe2 g5 56. Qc4 Qxc4 57. Rxc4 Bc3 58. Rc5 Nf3 59. Kg3 Ne5 60.
+Rb5 Bd2 61. f3 Bc3 62. f4 gxf4+ 63. Kxf4 Nf7 64. Rd5 Bb2 65. Kf5 Bf6 66. Rd1
+Ng5 67. Rd3 Nf7 68. Rd7 Nd6+ 69. Kf4 Nf7 70. Rb7 Be5+ 71. Ke3 Bd6 72. Ke4 Ng5+
+73. Kf5 Nf3 74. Bd5 Nh4+ 75. Kg5 Ng6 76. Ra7 Nf8 77. Kf5 Bc5 78. Rb7 Bd6 79. g5
+Ng6 80. Ra7 Nf8 81. Bb3 Ng6 82. Ra8 Nf8 83. Kg4 Bc7 84. Kh5 Bd6 85. Rc8 Be5 86.
+Rc5 Ng6 87. Rc8 Nf8 88. Rc1 Bc3 89. Rf1 e6 90. Rd1 Kf7 91. Rd8 Ng6 92. Rd7+ Ke8
+93. Ba4 Ne5 94. Rb7+ Kf8 95. g6 Nd3 96. Kh6 Nc5 97. Rb8+ Ke7 98. Bc2 Nd7 99.
+Rb7 Kd6 100. g7 Bxg7+ 101. Kxg7 1-0
+
+[Event "Dos Hermanas"]
+[Site "5"]
+[Date "1996.05.26"]
+[Round "5"]
+[White "Topalov, Veselin"]
+[Black "Gelfand, Boris"]
+[Result "1-0"]
+[ECO "D17"]
+[WhiteElo "2700"]
+[BlackElo "2700"]
+[Annotator "JvR"]
+[PlyCount "81"]
+[EventDate "1996.05.??"]
+[SourceDate "1992.12.01"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4 5. a4 Bf5 6. Ne5 e6 7. f3 c5 8. e4
+cxd4 9. exf5 Nc6 10. Nxc6 bxc6 11. fxe6 fxe6 12. Qe2 $1 {
+A novel move introduces a favourable endgame.} dxc3 13. Qxe6+ Qe7 14. Bxc4 ({Or
+} 14. Qxe7+ $1 Bxe7) 14... Qxe6+ 15. Bxe6 cxb2 $6 ({Huebner prefers} 15... Bb4
+16. Ke2 Nd5) 16. Bxb2 Bb4+ 17. Ke2 Ke7 18. Bc4 Rhd8 19. Rhd1 Rab8 20. g3 h5 21.
+Rd4 Ba5 $2 {Black should have kept the control over the diagonal a3-f8.} ({
+Correct is} 21... Kf8 $1 22. Rxd8+ Rxd8 23. Rd1 Nd5) 22. Ba3+ Ke8 $6 ({
+The last chance gives} 22... Bb4 23. Rxd8 Kxd8 24. Rb1 a5 25. Bxb4 {(Huebner)}
+axb4 $1 26. a5 Kc7 27. Kd3 Kd6) 23. Rad1 Rxd4 24. Rxd4 Rb1 25. Bd3 Re1+ 26. Kf2
+Kf7 27. Bc5 Ra1 28. Bc4+ Ke8 29. Bd3 Kf7 30. Bxa7 Ra2+ 31. Kg1 Ra1+ 32. Kg2
+Ra2+ 33. Kh3 Ra3 34. f4 Be1 35. Bc5 Rc3 36. Bc4+ Ke8 37. Bb4 Rc1 38. Bxe1 Rxe1
+39. a5 Ra1 40. a6 Ke7 41. Rd2 {
+Topalov and Anand joined the lead with a score of plus two.} 1-0
+
+[Event "Dos Hermanas"]
+[Site "5"]
+[Date "1996.05.27"]
+[Round "6"]
+[White "Kamsky, Gata"]
+[Black "Topalov, Veselin"]
+[Result "0-1"]
+[ECO "A62"]
+[WhiteElo "2735"]
+[BlackElo "2700"]
+[Annotator "JvR"]
+[PlyCount "98"]
+[EventDate "1996.05.??"]
+[SourceDate "1992.12.01"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 c5 4. d5 d6 5. Nc3 exd5 6. cxd5 g6 7. g3 Bg7 8. Bg2
+O-O 9. O-O Na6 10. h3 Re8 11. Nd2 Nc7 12. a4 b6 13. e4 Ba6 14. Re1 Nd7 15. Nf3
+Qe7 $5 16. Bf4 Qf8 17. Qc2 h6 18. Rab1 g5 19. Bd2 Bb7 20. Nh2 Ne5 21. Ng4 Nc4
+22. Ne3 Nxe3 23. Bxe3 Na6 $6 24. Nb5 Nb4 25. Qd2 Red8 26. Kh2 a6 27. Nc3 Re8
+28. f4 gxf4 29. Bxf4 $1 Bc8 30. Re2 Bd7 31. Rbe1 c4 32. e5 dxe5 33. Bxe5 Rxe5
+34. Rxe5 Nd3 $1 35. Re7 Nxe1 36. Qxe1 Rd8 37. Qe4 b5 38. d6 bxa4 39. Qxc4 Be6
+40. Qxa4 Be5 41. Ne4 Bxd6 42. Ra7 Be5 43. b3 Qg7 44. Qxa6 Rd4 $6 ({Better is} 
+44... Bxb3 {(Topalov).}) 45. b4 $2 (45. Qb5 $1 {gains a plus.}) 45... Bf5 $1
+46. Qe2 $2 (46. Ra8+ $1 Kh7 47. Qe2 Rxe4 48. Qf2 $1 {
+timely protects pawn g3 (Topalov).}) 46... Bxe4 $1 47. Ra3 ({The point is} 47.
+Bxe4 {(no check)} Qxg3+ 48. Kh1 Rd1+ $1 49. Qxd1 Qh2#) 47... Bxg2 48. Kxg2 Rxb4
+49. Ra8+ Kh7 {Topalov led with plus three.} 0-1
+
+[Event "Dos Hermanas"]
+[Site "5"]
+[Date "1996.05.27"]
+[Round "6"]
+[White "Kasparov, Gary"]
+[Black "Kramnik, Vladimir"]
+[Result "0-1"]
+[ECO "D48"]
+[WhiteElo "2775"]
+[BlackElo "2775"]
+[Annotator "JvR"]
+[PlyCount "70"]
+[EventDate "1996.05.??"]
+[SourceDate "1992.12.01"]
+
+1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. Nf3 e6 5. e3 Nbd7 6. Bd3 dxc4 7. Bxc4 b5 8. Bd3
+Bb7 9. O-O a6 10. e4 c5 11. d5 c4 12. Bc2 Qc7 13. Nd4 Nc5 14. b4 $5 cxb3 15.
+axb3 b4 16. Na4 Ncxe4 17. Bxe4 $1 {Kasparov's novelty leads to sharp play.}
+Nxe4 18. dxe6 Bd6 $1 (18... fxe6 $2 19. Nxe6 Qe5 20. Nxf8 {
+gives unfavourable complications for Black.}) 19. exf7+ Qxf7 $1 20. f3 Qh5 $2
+21. g3 O-O $2 (21... Nxg3 $1 22. hxg3 O-O $1 23. Ra2 $1 Bxg3 24. Rg2 Be5 {
+brings an unclear position (Kramnik).}) 22. fxe4 Qh3 23. Nf3 $2 (23. Qe2 $1
+Bxg3 {(Kramnik)} 24. Nf5 $1 Be5 25. Bb2 {wins for White.}) 23... Bxg3 $1 {
+Vladimir delivers a sacrifice festival.} 24. Nc5 $2 (24. Qe2 $1 Rxf3 $1 25.
+Rxf3 Bxh2+ {(Kramnik)} 26. Qxh2 Qxf3 27. Qg2 Qd1+ 28. Kh2 Qh5+ {
+leads to perpetual check.}) 24... Rxf3 $1 25. Rxf3 Qxh2+ 26. Kf1 Bc6 $1 27. Bg5
+Bb5+ $1 28. Nd3 Re8 $1 29. Ra2 Qh1+ (29... Bxd3+ $1 30. Rxd3 Qh1+ 31. Ke2 Qg2+
+32. Ke3 Rxe4# {wins more quickly.}) 30. Ke2 Rxe4+ 31. Kd2 Qg2+ 32. Kc1 Qxa2 33.
+Rxg3 Qa1+ 34. Kc2 Qc3+ 35. Kb1 Rd4 {
+Kramnik had defeated the world champion with Black.} 0-1
+
+[Event "Dos Hermanas"]
+[Site "5"]
+[Date "1996.05.29"]
+[Round "7"]
+[White "Polgar, Judit"]
+[Black "Kasparov, Gary"]
+[Result "0-1"]
+[ECO "B82"]
+[WhiteElo "2675"]
+[BlackElo "2775"]
+[Annotator "JvR"]
+[PlyCount "180"]
+[EventDate "1996.05.??"]
+[SourceDate "1992.12.01"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f4 e6 7. Qf3 Qb6 8. a3
+Nc6 9. Nxc6 bxc6 10. b3 Bb7 11. Bb2 d5 12. Bd3 c5 13. exd5 exd5 14. O-O-O O-O-O
+15. Na4 Qc7 16. Bf5+ Kb8 17. Be5 Bd6 18. Qc3 d4 19. Bxd6 Qxd6 20. Qxc5 Qxf4+
+21. Kb1 Rd5 22. Rdf1 Qe5 23. Qc4 Rb5 24. Qxf7 Bd5 $2 ({He misses} 24... Bxg2
+25. Qxg7 (25. Bd3 Rb7 26. Qc4 {(Kasparov)} Rc8 27. Re1 Rxc4 28. Rxe5 Rxa4)
+25... Rg8 26. Qh6 Bxh1 27. Bd3 Be4 28. Rxf6 Rxb3+ $1) 25. Qxg7 Rg8 26. Qh6 Bxb3
+27. cxb3 Rxb3+ 28. Kc1 Qc7+ 29. Bc2 d3 30. Qf4 Rc8 31. Qxc7+ Rxc7 32. Rf2 Ne4
+$2 {Gary misses the win for the second time.} ({Correct is} 32... dxc2 33. Rxc2
+Rxa3 34. Nc5 Rxc5 $1 35. Rxc5 Ra1+ 36. Kb2 Rxh1 {(Kasparov).}) 33. Rf8+ Ka7 34.
+Rf7 Rbb7 35. Rxc7 Rxc7 36. Rd1 Rxc2+ 37. Kb1 Rxg2 38. Rxd3 Rxh2 39. Rd7+ Kb8
+40. Re7 Nd2+ 41. Kc1 Nb3+ 42. Kd1 h5 43. Re3 Nd4 44. Nc5 a5 45. Nb3 Nc6 46. Rc3
+Kb7 47. Ke1 Kb6 48. Kf1 Rh4 49. Kg2 Nd4 50. Nxa5 Kxa5 51. Rc5+ Kb6 52. Re5 Kc6
+53. Kg3 Rh1 54. Kg2 Kd6 55. Ra5 Rh4 56. Kg3 Rg4+ 57. Kh3 Ne2 58. Rxh5 Rg3+ 59.
+Kh4 Rxa3 {The frustrated Kasparov continues in a drawn endgame.} 60. Kg4 Ke6
+61. Rb5 Rg3+ 62. Kh4 Rg1 63. Rg5 Rf1 64. Ra5 Kf6 65. Ra8 Rg1 66. Rf8+ Ke5 67.
+Re8+ Kf4 68. Rf8+ Ke4 69. Re8+ Kf3 70. Kh5 ({A nice end would have been} 70.
+Rf8+ Nf4 71. Rg8 $1 Rh1+ 72. Kg5 Rg1+ 73. Kh4 Rxg8 {stalemate.}) 70... Ng3+ 71.
+Kh6 Nf5+ 72. Kh7 Kf4 73. Rb8 Rg7+ 74. Kh8 Rd7 75. Re8 Kg5 76. Re6 Nd4 77. Re1
+Kf6 78. Rd1 $6 Rd5 $1 {Black has been allowed to make progress.} 79. Ra1 $4 ({
+Theory is} 79. Rf1+ $1 Nf5 80. Rf2 Rd4 81. Kg8 $1 {drawn.}) 79... Ne6 $1 80.
+Ra6 Kf7 81. Ra7+ Kg6 82. Ra8 Rd7 83. Rb8 Rc7 84. Kg8 Rc5 85. Ra8 Rb5 86. Kh8
+Rb7 87. Rc8 Nc7 88. Rg8+ Kh6 89. Rg1 $6 Rb8+ 90. Rg8 Ne8 $1 (90... Ne8 91. Rf8
+Kg6 92. Rg8+ Kf7 {
+and the knight will go to f6. Kasparov grabbed his third chance.}) 0-1
+
+[Event "Dos Hermanas"]
+[Site "5"]
+[Date "1996.05.30"]
+[Round "8"]
+[White "Anand, Viswanathan"]
+[Black "Gelfand, Boris"]
+[Result "1-0"]
+[ECO "B90"]
+[WhiteElo "2725"]
+[BlackElo "2700"]
+[Annotator "JvR"]
+[PlyCount "83"]
+[EventDate "1996.05.??"]
+[SourceDate "1992.12.01"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e5 7. Nf3 Be7 8. Bc4
+O-O 9. O-O Nc6 10. Bg5 Be6 11. Bb3 Na5 12. Bxf6 Bxf6 13. Nd5 Bg5 14. Qd3 Rc8
+15. Rfd1 Kh8 16. Nc3 Be7 17. Nd5 Bg5 18. Kh1 Bh6 19. Nc3 Nxb3 20. axb3 Qb6 21.
+Kg1 Rc6 22. Qe2 Qc7 23. Ne1 f5 24. Nd3 fxe4 25. Qxe4 Qf7 26. Qe2 Qg6 27. f3 Bf5
+28. Nb4 Rc7 29. Nbd5 Rcf7 30. Ne4 Bg5 31. Ndc3 Be7 32. Rd3 Rc8 33. Rad1 Rc6 34.
+Nd5 Bf8 35. Rc3 h5 36. Kh1 h4 37. h3 Kg8 38. Rc4 Qh5 39. Ne3 {
+Anand has little lust to play but he wins anyway.} d5 $2 ({Correct is} 39...
+Bd7 $1 40. Rxc6 Bxc6 41. Nxd6 Bxd6 42. Rxd6 e4 $1) 40. Nxd5 Bxh3 $2 41. gxh3
+Rxf3 42. Nef6+ ({The purpose is} 42. Nef6+ gxf6 43. Rg4+ {(Anand).}) 1-0
+
+[Event "Dos Hermanas"]
+[Site "5"]
+[Date "1996.05.30"]
+[Round "8"]
+[White "Ivanchuk, Vassily"]
+[Black "Kramnik, Vladimir"]
+[Result "0-1"]
+[ECO "B66"]
+[WhiteElo "2735"]
+[BlackElo "2775"]
+[Annotator "JvR"]
+[PlyCount "64"]
+[EventDate "1996.05.??"]
+[SourceDate "1992.12.01"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6 7. Qd2 a6 8.
+O-O-O h6 9. Be3 Be7 10. f4 Nxd4 11. Bxd4 b5 12. Qe3 Qc7 13. e5 dxe5 14. Bxe5
+Ng4 $5 {The exchange is sacrificed by a novelty.} 15. Qf3 Nxe5 16. Qxa8 Nd7 $5
+17. g3 $2 {White should not open the long diagonal.} ({Better is} 17. Qf3 Bb7 {
+(Kramnik).}) 17... Nb6 18. Qf3 Bb7 19. Ne4 f5 20. Qh5+ Kf8 21. Nf2 Bf6 $1 ({
+Kramnik avoids} 21... Bc5 $2 22. Nh3 $3 Bxh1 23. Ng5 hxg5 24. Qxh8+ Kf7 25.
+Qh5+ {and perpetual check.}) 22. Bd3 Na4 23. Rhe1 Bxb2+ 24. Kb1 Bd5 $3 25. Bxb5
+$1 ({Or} 25. Bxf5 Bxa2+ $1 26. Kxa2 Qc4+ 27. Kb1 Nc3+ $1 28. Kxb2 Qb4+ 29. Kc1
+Na2# {(Kramnik).}) 25... Bxa2+ $1 26. Kxa2 axb5 27. Kb1 Qa5 $2 {
+The position has become razor-sharp.} ({Right is} 27... Qe7 $1 28. Rd3 Qb4 $1
+29. Rd8+ Ke7 {(Kramnik).}) 28. Nd3 $2 ({Best is} 28. c3 $1 Nxc3+ $1 29. Kxb2
+Na4+ $1 30. Ka2 $1 Qb4 $1 31. Rd8+ Ke7 32. Re8+ $1 Rxe8 33. Rxe6+ Kxe6 34.
+Qxe8+ Qe7 {(Kramnik)} 35. Qxe7+ Kxe7 36. Kb3 Kd6 37. Kb4 Nb2 $1 38. Kxb5 Kd5 {
+and Black might win the knight ending.}) 28... Ba3 $1 29. Ka2 Nc3+ 30. Kb3 Nd5
+31. Ka2 Bb4+ 32. Kb1 Bc3 {
+Kramnik, Topalov and Anand were the leaders with a score of plus three.} 0-1
+
+[Event "Dos Hermanas"]
+[Site "5"]
+[Date "1996.06.01"]
+[Round "9"]
+[White "Gelfand, Boris"]
+[Black "Kasparov, Gary"]
+[Result "0-1"]
+[ECO "A34"]
+[WhiteElo "2700"]
+[BlackElo "2775"]
+[Annotator "JvR"]
+[PlyCount "114"]
+[EventDate "1996.05.??"]
+[SourceDate "1992.12.01"]
+
+1. Nf3 c5 2. c4 Nc6 3. Nc3 e5 4. e3 Nf6 5. d4 cxd4 6. exd4 e4 7. Ng5 Bb4 8. d5
+Ne5 9. Qb3 a5 $5 10. Bd2 O-O 11. O-O-O d6 12. Ngxe4 Nxe4 13. Nxe4 Bf5 14. Ng3
+Bd7 $5 15. Kb1 Qe8 $6 ({Better is} 15... Bxd2 16. Rxd2 Rc8) 16. Bxb4 Ba4 17.
+Qe3 axb4 18. b3 Bd7 19. Be2 Qc8 20. Rd2 Re8 21. Qb6 Bf5+ 22. Ka1 Nd7 23. Qxb4
+Nc5 {Black has an attack as compensation for the two pawns.} 24. Kb2 Bg6 25.
+Qc3 Qc7 26. f4 Qb6 27. Kc1 Be4 28. Bd1 Nd3+ $1 29. Rxd3 Bxd3 30. Qxd3 Rxa2 31.
+Bc2 g6 $2 ({Right is} 31... Re3 $3 32. Qxh7+ Kf8 33. Qh8+ Ke7 34. Nf5+ Kd7 35.
+Nxe3 Qxe3+ 36. Kb1 Rxc2 $1 37. Kxc2 Qe2+ {drawn (Kasparov).}) 32. Ne4 Ra1+ 33.
+Bb1 Rxe4 34. Qxe4 Qxb3 35. Qc2 Qe3+ 36. Kd1 Qxf4 37. Re1 Qd4+ 38. Ke2 Qf6 39.
+Qd2 Qe5+ {Boris has never won of Gary.} 40. Kf1 $4 (40. Kf2 $1 Rxb1 41. Rxe5 {
+(Gelfand) would have led to the first victory.}) 40... Rxb1 $1 41. Rxb1 Qf5+
+42. Ke2 Qxb1 43. Qf4 Qc2+ 44. Kf1 Qb1+ 45. Ke2 Qb4 46. Kf3 Qc3+ 47. Ke2 Qe5+
+48. Qxe5 dxe5 49. c5 Kf8 50. Kd3 f5 51. Kc4 e4 52. Kb5 e3 53. c6 bxc6+ 54. dxc6
+Ke7 55. Kb6 e2 56. c7 e1=Q 57. c8=Q Qe6+ {
+Only the highlights of the blunders have been shown.} 0-1
+
+[Event "Dos Hermanas"]
+[Site "5"]
+[Date "1996.06.01"]
+[Round "9"]
+[White "Kamsky, Gata"]
+[Black "Anand, Viswanathan"]
+[Result "1-0"]
+[ECO "B17"]
+[WhiteElo "2735"]
+[BlackElo "2725"]
+[Annotator "JvR"]
+[PlyCount "71"]
+[EventDate "1996.05.??"]
+[SourceDate "1992.12.01"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. Ng5 Ngf6 6. Bd3 e6 7. N1f3 Bd6 8.
+Qe2 h6 9. Ne4 Nxe4 10. Bxe4 Nf6 11. Bd3 Qc7 12. Bd2 b6 13. Ne5 c5 $5 {
+Anand plays a novelty.} 14. Bb5+ $1 Ke7 $1 15. c3 Bb7 16. O-O Rhd8 17. f4 Ne4
+18. Be3 Kf8 19. Rae1 Kg8 20. Qg4 Nf6 21. Qg3 cxd4 22. cxd4 Nd5 23. Bd2 a6 24.
+Bd3 f5 $2 ({Anand should have simplified by} 24... Bb4 25. Re2 Bxd2 26. Rxd2
+Ne7) 25. Qg6 $1 Re8 26. g4 $1 {The defence line has been crushed.} Nf6 27. gxf5
+Bxe5 28. fxe5 Qc6 29. Re3 $5 Qh1+ 30. Kf2 Qxh2+ 31. Ke1 Ne4 32. Bxe4 Qh4+ 33.
+Kd1 Bxe4 34. Be1 Qh2 35. Rxe4 Qh3 36. Ke2 {Kramnik became winner on the
+Sonneborn-Berger score. Topalov scored 6/9 points too. Anand and Kasparov
+shared the third place (51/2). The others were Illescas Cordoba 41/2, Kamsky
+and Gelfand 4, Ivanchuk 31/2, Shirov and Polgar 3.} 1-0
+
+[Event "Dos Hermanas"]
+[Site "6"]
+[Date "1997.04.01"]
+[Round "1"]
+[White "Gelfand, Boris"]
+[Black "Short, Nigel"]
+[Result "1-0"]
+[ECO "E41"]
+[WhiteElo "2700"]
+[BlackElo "2690"]
+[Annotator "JvR"]
+[PlyCount "73"]
+[EventDate "1997.04.01"]
+[EventRounds "9"]
+[SourceDate "1992.12.01"]
+
+{The sixth super tournament in Dos Hermanas happened from 1 until 11 iv 1997.
+Ten great players participated. The decided games and one draw have been
+selected.} 1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 c5 6. Nf3 Nc6 7. O-O
+Bxc3 8. bxc3 d6 9. e4 e5 10. d5 Ne7 11. Nh4 h6 12. f3 g5 $6 {
+This risky move will be repeated in future games.} 13. Nf5 Nxf5 14. exf5 Bd7
+15. Bd2 $5 Kg7 16. g4 Rh8 {The king gets a road to escape.} 17. Rb1 Rb8 18. Kg2
+a6 $6 ({Preferable is} 18... b5 $1 19. cxb5 Nxd5 20. c4 Nf4+ 21. Bxf4 gxf4) 19.
+a4 b6 $5 20. Rh1 $1 Nh7 21. Qc2 Rb7 $6 ({More useful is} 21... Qe7 $5 22. Be3
+Nf6) 22. Be3 Qf6 $6 23. h4 $1 gxh4 $1 24. Bf2 Ng5 25. Rxh4 Qd8 26. Rbh1 $1 f6
+27. Be3 b5 $5 {Too late!} 28. axb5 axb5 29. Kg3 $1 {
+All preparations of the attack have been made.} bxc4 $5 30. Qh2 $1 Nf7 ({Or} 
+30... cxd3 31. Bxg5 $1 fxg5 32. Rxh6 {(Gelfand).}) 31. Bxh6+ Kg8 32. Be4 Be8
+33. Be3 Rxh4 34. Qxh4 Kf8 35. Bh6+ Ke7 36. Bg7 Kd7 37. Qxf6 {
+The g-pawn will advance victoriously.} 1-0
+
+[Event "Dos Hermanas"]
+[Site "6"]
+[Date "1997.04.01"]
+[Round "1"]
+[White "Kramnik, Vladimir"]
+[Black "Anand, Viswanathan"]
+[Result "1/2-1/2"]
+[ECO "D39"]
+[WhiteElo "2740"]
+[BlackElo "2765"]
+[Annotator "JvR"]
+[PlyCount "81"]
+[EventDate "1997.04.01"]
+[EventRounds "9"]
+[SourceDate "1992.12.01"]
+
+1. Nf3 Nf6 2. c4 e6 3. Nc3 d5 4. d4 dxc4 5. e4 Bb4 6. Bg5 c5 7. Bxc4 cxd4 8.
+Nxd4 Bd7 9. O-O Nc6 10. Rc1 h6 $5 (10... O-O {
+drew quickly in a recent game between the same opponents (Linares 1997).}) 11.
+Bf4 $1 O-O 12. e5 Qb8 $6 ({Preferable is} 12... Bxc3 13. Rxc3 Nd5) 13. Bg3 Nxe5
+$1 {Black is going to make a sacrifice.} 14. Re1 Bd6 15. Ndb5 $1 Nxc4 16. Nxd6
+Nxd6 17. Bxd6 Qd8 18. Bxf8 Kxf8 {White has a material advantage.} 19. b4 $6 (
+19. Qd6+ Qe7 20. Qxe7+ Kxe7 21. f3 {gains more advantage (Kramnik).}) 19... a6
+20. a4 Be8 21. Qxd8 Rxd8 22. Red1 Rb8 $5 {Black avoids the exchange of rooks.}
+23. f3 Bc6 24. b5 axb5 25. axb5 Be8 26. Ra1 g5 $6 ({More solid is} 26... Rc8)
+27. Ra7 Kg7 28. Rda1 $1 Rc8 29. R1a3 Rc7 $1 30. b6 $6 (30. Kf2 $1 Rd7 31. Ke3 {
+activates the white king.}) 30... Re7 31. R3a5 Bc6 $1 {
+The bishop has been liberated.} 32. Rc5 Re8 $1 33. Ne2 $5 Bd5 $5 34. Rc7 Rd8
+35. Kf2 Rd6 36. Nc3 Rxb6 37. Nxd5 Rb2+ 38. Kg1 $6 (38. Kg3 $1 Nxd5 39. Raxb7
+Rxb7 40. Rxb7 {keeps an edge (Kramnik).}) 38... Rb1+ 39. Kf2 Rb2+ 40. Kg1 Rb1+
+41. Kf2 {
+The moves are repeated. This result became important for the final standings.}
+1/2-1/2
+
+[Event "Dos Hermanas"]
+[Site "6"]
+[Date "1997.04.02"]
+[Round "2"]
+[White "Anand, Viswanathan"]
+[Black "Shirov, Alexei"]
+[Result "1-0"]
+[ECO "D15"]
+[WhiteElo "2765"]
+[BlackElo "2690"]
+[Annotator "JvR"]
+[PlyCount "69"]
+[EventDate "1997.04.01"]
+[EventRounds "9"]
+[SourceDate "1992.12.01"]
+
+1. Nf3 {Anand opens in a surprising way.} d5 2. d4 c6 3. c4 Nf6 4. Nc3 a6 5.
+Bg5 Ne4 6. Bf4 Nxc3 7. bxc3 dxc4 8. g3 g6 9. Bg2 Bg7 10. Ne5 Be6 11. Qb1 Qc8
+12. a4 a5 $5 ({Known is} 12... Nd7) 13. O-O O-O 14. Ra2 $5 Nd7 $5 15. Nxd7 Qxd7
+16. Rb2 Ra7 17. Rb6 {Anand has the initiative.} f5 $1 18. Qb2 Bd5 19. Bxd5+
+cxd5 20. Rb1 Rd8 ({Not} 20... Qxa4 $4 21. Rb5 $1 {and Ra1 (Anand).}) 21. Qa2 $5
+{Capture on b7 would be fine too.} Rc8 22. R6b5 Bf6 23. h4 Kf7 24. R1b2 Rc6 $2
+(24... Kg7 {makes a better waiting move.}) 25. Bb8 $1 Raa6 26. Rxb7 Qe6 27. Qb1
+$2 g5 $2 {Both players miss a 'petite combinaison'.} (27... Bxd4 $1 28. cxd4 c3
+29. R2b3 c2 30. Qc1 Qxe2 31. Bf4 Qd1+ 32. Kg2 Re6 33. Rc3 Re1 34. Rxc2 Rg1+ 35.
+Kh2 Rh1+ {leads to perpetual check.}) 28. g4 gxh4 $5 29. gxf5 Qc8 $6 (29... Qe4
+$5 {prolongs the game.}) 30. Kh2 Qg8 31. Qh1 $1 Qd8 32. Bf4 Rcb6 33. Rb8 $1
+Rxb8 34. Rxb8 Qd7 35. Qg2 $1 {Anand has a mate attack.} 1-0
+
+[Event "Dos Hermanas"]
+[Site "6"]
+[Date "1997.04.02"]
+[Round "2"]
+[White "Short, Nigel"]
+[Black "Topalov, Veselin"]
+[Result "0-1"]
+[ECO "B23"]
+[WhiteElo "2690"]
+[BlackElo "2725"]
+[Annotator "JvR"]
+[PlyCount "130"]
+[EventDate "1997.04.01"]
+[EventRounds "9"]
+[SourceDate "1992.12.01"]
+
+1. e4 c5 2. Nc3 e6 3. f4 Nc6 4. Nf3 d5 5. Bb5 Nge7 6. Ne5 Bd7 7. Nxd7 Qxd7 8.
+exd5 exd5 9. O-O $5 O-O-O 10. a3 Nf5 11. Be2 $2 (11. b4 $1 cxb4 12. axb4 Bxb4
+13. Na4 {fives a pawn for a counter.}) 11... c4 12. Bf3 Bc5+ 13. Kh1 h5 $1 14.
+Bxd5 h4 $1 {Black threatens ..Ng3+.} 15. h3 Ng3+ 16. Kh2 Nxf1+ 17. Qxf1 Rhe8 {
+Black has gained an exchange.} 18. Bxc4 Qd4 $6 (18... Nd4 $1 {attacks.}) 19. d3
+Qf2 20. Qxf2 Bxf2 21. Bd2 $1 {White has to develop the queenside.} f5 22. Bb5
+Rd6 23. Rf1 Bg3+ 24. Kg1 a6 25. Bxc6 Rxc6 26. Rc1 b5 27. Kf1 Rce6 $1 {
+He prevents the liberating moves Ne2 and Be1.} 28. Rd1 Kb7 29. d4 Rd6 30. d5
+Kb6 31. b4 Kb7 32. Bc1 $6 (32. a4 $1 bxa4 33. Ra1 Rd7 34. Rxa4 {
+forces an opening at the queenside.}) 32... Rd7 33. Ne2 Red8 34. Nc3 $5 Rc8 35.
+Rd3 $5 Re7 36. Be3 Rce8 37. Nd1 Re4 38. d6 Kc6 39. d7 Rd8 40. Nc3 Re6 41. Ne2
+Rxd7 42. Rc3+ (42. Nd4+ $2 Rxd4 $1 {wins nicely.}) 42... Kb7 43. Nxg3 hxg3 44.
+Ke2 $5 Rc7 $5 (44... g5 $1 {wins at once.}) 45. Rxc7+ Kxc7 46. Kf3 Kd7 47. Bd4
+Rg6 48. Ke3 Ke8 49. Kf3 Kf7 50. c3 Ke6 51. Ke3 Kd5 52. Kd3 Re6 $1 53. Bxg7 Re1
+54. Bd4 Ke6 55. Kd2 Ra1 56. Ke2 Rxa3 57. Be5 a5 58. bxa5 Rxa5 59. h4 Ra3 60. h5
+Kf7 61. Bd4 Kg8 62. h6 Kh7 63. Bg7 Kg6 64. Kd2 Ra2+ 65. Ke3 Rf2 $1 {
+It is zugzwang.} ({The pointe is} 65... Rf2 66. Bf8 Rxg2 67. Kf3 Rc2 {(Hecht).}
+) 0-1
+
+[Event "Dos Hermanas"]
+[Site "6"]
+[Date "1997.04.04"]
+[Round "3"]
+[White "Illescas Cordoba, Miguel"]
+[Black "Short, Nigel"]
+[Result "0-1"]
+[ECO "C66"]
+[WhiteElo "2635"]
+[BlackElo "2690"]
+[Annotator "JvR"]
+[PlyCount "70"]
+[EventDate "1997.04.01"]
+[EventRounds "9"]
+[SourceDate "1992.12.01"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Be7 5. Re1 d6 6. c3 O-O 7. d4 Bd7 8. d5
+Nb8 9. Bxd7 Nbxd7 10. c4 Ne8 {This was regarded as a novelty in 1997.} 11. Nc3
+g6 12. Rb1 $5 {The first really new move is made.} ({Usual is} 12. Bh6 Ng7 13.
+Qd2) 12... f5 13. b4 $5 f4 $1 {An attack begins.} 14. a4 Rf7 15. Ba3 g5 16. Nd2
+Nef6 17. f3 $6 (17. a5 a6 18. Na4 g4 19. c5 {counters.}) 17... Rg7 $1 18. Kh1
+g4 $1 19. Qe2 Kh8 20. Rec1 Rg6 21. c5 $6 {White becomes desperate.} dxc5 $1 22.
+bxc5 Bxc5 $1 23. Bxc5 Nxc5 24. Nb5 $5 b6 $5 25. a5 Qe7 26. Nb3 gxf3 27. gxf3
+Nxb3 28. Rxb3 Rag8 $1 29. Qf2 ({Or} 29. Nxc7 $2 Qxc7 30. Rxc7 Rg1# {(Wedberg).}
+) 29... Qg7 30. Rbb1 Rg2 $1 31. Qh4 Qg6 32. Nc3 b5 $1 33. Re1 b4 34. Ne2 Nxe4
+35. fxe4 Rg1+ $1 {White will be mated.} 0-1
+
+[Event "Dos Hermanas"]
+[Site "6"]
+[Date "1997.04.04"]
+[Round "3"]
+[White "Kramnik, Vladimir"]
+[Black "Karpov, Anatoly"]
+[Result "1-0"]
+[ECO "E32"]
+[WhiteElo "2740"]
+[BlackElo "2760"]
+[Annotator "JvR"]
+[PlyCount "69"]
+[EventDate "1997.04.01"]
+[EventRounds "9"]
+[SourceDate "1992.12.01"]
+
+1. Nf3 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 O-O 5. a3 Bxc3 6. Qxc3 b6 7. b4 Bb7 8.
+Bb2 d6 9. e3 Nbd7 10. d4 Ne4 11. Qb3 a5 12. Be2 axb4 13. axb4 Rxa1+ 14. Bxa1
+Ndf6 15. O-O Qd7 16. b5 Ra8 17. Bb2 c6 $2 ({Known is} 17... Qd8 $5) ({
+Preferable is} 17... h6) 18. bxc6 Qxc6 {Pawn b6 has become weak.} 19. Rc1 $1
+Nd7 ({The pointe is} 19... Nd2 $5 20. Qb4 $1 Nxf3+ 21. Bxf3 Ne4 {
+and White has an advantage.}) 20. Ne1 Qa4 21. Qxa4 Rxa4 22. f3 Nef6 23. Bd1 $1
+Ra2 24. Nd3 Kf8 25. Bb3 Ra8 26. e4 $1 Nb8 {Karpov wants to regroup.} 27. c5 $5
+{Kramnik wants to overwhelm Karpov.} bxc5 28. dxc5 dxc5 $2 ({Better is} 28...
+d5 $1 29. Bxf6 $5 dxe4 $1) 29. Nxc5 Bc8 30. e5 $5 Ne8 $2 {
+The black pieces are vulnerable at the last rank.} ({Right is} 30... Nd5 $1 31.
+Bxd5 exd5 32. Nd3 {(Kramnik)} Be6) 31. Ba4 $1 Nc7 32. Ba3 Kg8 33. Ne4 $1 Rxa4
+34. Rxc7 Ba6 35. Nc5 $1 {
+Kramnik gains material or delivers mate. He played a great positional game.}
+1-0
+
+[Event "Dos Hermanas"]
+[Site "6"]
+[Date "1997.04.05"]
+[Round "4"]
+[White "Illescas Cordoba, Miguel"]
+[Black "Polgar, Judit"]
+[Result "0-1"]
+[ECO "B88"]
+[WhiteElo "2635"]
+[BlackElo "2645"]
+[Annotator "JvR"]
+[PlyCount "64"]
+[EventDate "1997.04.01"]
+[EventRounds "9"]
+[SourceDate "1992.12.01"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. O-O Be7 8. Bb3
+O-O 9. f4 Nc6 10. Be3 Nxd4 11. Bxd4 b5 12. e5 dxe5 13. fxe5 Nd7 14. Ne4 Bb7 15.
+Nd6 Bxd6 16. exd6 Qg5 17. Qe2 Kh8 18. Rad1 Qg6 19. c4 $5 ({Known is} 19. Rd3 $6
+e5 20. Bc3 f5) 19... bxc4 20. Bxc4 f5 21. Bc3 $5 ({Preferable is} 21. Bd3 $1 e5
+22. Be3) 21... f4 $1 22. Bd3 $6 (22. Kh1 {moves the king from the g-file.})
+22... f3 $1 23. Qf2 Qh5 $5 (23... fxg2 $4 24. Qxf8+ Nxf8 25. Rxf8+ Rxf8 26.
+Bxg6 {(Polgar)} hxg6 27. d7 Bd5 28. Ba5 {wins for White.}) 24. Qg3 e5 25. gxf3
+Bxf3 26. Rde1 Rae8 27. Re3 Bc6 28. Rfe1 $6 (28. Qh3 $1 Rxf1+ 29. Kxf1 Qd1+ 30.
+Re1 Qxd3+ 31. Qxd3 Bb5 {defends properly.}) 28... Qf7 29. Bxe5 $4 {
+Illescas allows a crushing tactics.} (29. Qh4 $1 h6 30. Be4 Bxe4 31. Qxe4 {
+seemd to bring a survival.}) 29... Nxe5 30. Rxe5 Qa7+ $1 31. R5e3 Rf3 $1 32.
+Qh4 h6 $1 {Judit avoids mate in one and gains a rook.} 0-1
+
+[Event "Dos Hermanas"]
+[Site "6"]
+[Date "1997.04.05"]
+[Round "4"]
+[White "Karpov, Anatoly"]
+[Black "Shirov, Alexei"]
+[Result "1-0"]
+[ECO "E63"]
+[WhiteElo "2760"]
+[BlackElo "2690"]
+[Annotator "JvR"]
+[PlyCount "63"]
+[EventDate "1997.04.01"]
+[EventRounds "9"]
+[SourceDate "1992.12.01"]
+
+1. d4 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 O-O 5. Nc3 d6 6. Nf3 Nc6 7. O-O a6 8. Re1
+Rb8 9. Rb1 b5 10. cxb5 axb5 11. b4 e6 12. e4 Ne7 13. Nd2 $5 {
+Karpov confuses Shirov by a new move.} c5 $2 {
+Shirov gives a pawn and never sees it back.} (13... Nd7 14. Nb3 c6 {
+will become an improvement.}) 14. bxc5 dxc5 15. dxc5 Nd7 16. Nxb5 Nxc5 17. Nc4
+$6 ({Better is} 17. Ba3 $1) 17... Nd3 $6 (17... Ba6 $5 18. Ncd6 Bxb5 $1 19.
+Nxb5 Nd3 {counters effectively (Karpov).}) 18. Re2 Ba6 19. a4 Nxc1 20. Qxc1 Rc8
+21. Rc2 $1 {White has consolidated his advantage.} Bxb5 $6 (21... Rb8 22. e5
+Qd7 {offers more resistance.}) 22. axb5 Qd4 23. b6 Rb8 24. Rd2 Qc5 25. Rd7 $1
+Bd4 26. Rc7 Bxf2+ 27. Kh1 Qh5 28. Rxe7 Bxg3 29. h3 Rbd8 30. e5 Qh4 31. Rc7 Bf2
+32. Qa3 {Karpov has an extra piece and a passed pawn.} 1-0
+
+[Event "Dos Hermanas"]
+[Site "6"]
+[Date "1997.04.05"]
+[Round "4"]
+[White "Salov, Valery"]
+[Black "Topalov, Veselin"]
+[Result "1-0"]
+[ECO "B07"]
+[WhiteElo "2665"]
+[BlackElo "2725"]
+[Annotator "JvR"]
+[PlyCount "181"]
+[EventDate "1997.04.01"]
+[EventRounds "9"]
+[SourceDate "1992.12.01"]
+
+1. d4 g6 2. e4 d6 3. c3 Nf6 4. Bd3 Bg7 5. Nf3 O-O 6. O-O Nc6 7. Re1 Bg4 8. Nbd2
+e5 9. h3 Bd7 10. dxe5 Nxe5 11. Nxe5 dxe5 12. Nc4 Re8 $5 ({Known is} 12... Nh5)
+13. a4 Nh5 14. Bf1 Nf4 15. Be3 Qe7 16. Kh2 a5 17. Qc2 h5 18. Rad1 h4 19. Rd2
+Bc6 20. Na3 Red8 21. Bb5 Rxd2 22. Bxd2 Bxb5 23. Nxb5 Ne6 24. Na3 Bf6 25. Nc4
+Bg5 26. Be3 Bf4+ 27. Kg1 Bxe3 28. Nxe3 Rd8 29. Rd1 c6 30. Kf1 Kg7 31. Ng4 Rxd1+
+32. Qxd1 Nc5 33. Qc2 Qg5 34. b4 axb4 35. cxb4 Ne6 36. Qc3 f6 37. Qe3 Kf7 38.
+Ke1 Qxe3+ 39. Nxe3 {
+An equal knight ending has been reached. The game begins for Salov.} Nf4 40.
+Kd2 Ke6 41. a5 f5 $6 {Pawn e5 has been weakened.} 42. f3 Nh5 43. Kd3 Nf6 44.
+Nd1 Kd6 45. Nb2 Nh5 46. Nc4+ Ke6 47. Kc3 Ng3 48. Kd3 Nh5 49. Ne3 Nf6 50. Nf1
+Nd7 51. Nd2 Kf6 52. Nb3 Kg5 53. Ke3 Kf6 54. Nc1 Ke7 55. Kd3 Kd6 56. Nb3 Kc7 57.
+Nd2 Kd6 58. Nc4+ Ke6 59. Nb2 Kd6 60. Na4 Kc7 61. Nb2 Kd6 62. Nc4+ Ke6 63. Ke3
+Nf6 64. Nb2 Nd7 65. Nd3 Kd6 66. f4 $1 {He takes the initiative at last.} fxe4
+67. fxe5+ Nxe5 68. Nc5 $1 Kd5 $2 ({Right is} 68... Nd7 $1 69. Nxb7+ Kc7 70. a6
+Kb6 71. Na5 c5 72. bxc5+ Nxc5 73. Nb7 Nxa6 74. Nd6 Nc5 75. Nxe4 Ne6 {
+and Black survives.}) 69. Nxb7 $1 Nc4+ 70. Ke2 Na3 71. a6 Nb5 72. Ke3 Na7 73.
+Na5 g5 74. Nb7 Kc4 $5 75. Kxe4 Kxb4 76. Kf5 Kb5 77. Kxg5 Kxa6 78. Nd6 c5 79.
+Kxh4 {White has gained a pawn.} Nb5 80. Nc4 Nd4 81. Kg5 Kb5 82. Ne3 c4 83. h4
+c3 84. h5 Ne6+ 85. Kf5 Ng7+ 86. Kg6 Ne6 87. Kf5 Ng7+ 88. Kg4 $1 Ne6 89. h6 Nf8
+90. Kf5 Kc5 91. g4 {A white pawn will queen.} 1-0
+
+[Event "Dos Hermanas"]
+[Site "6"]
+[Date "1997.04.06"]
+[Round "5"]
+[White "Anand, Viswanathan"]
+[Black "Salov, Valery"]
+[Result "1-0"]
+[ECO "B89"]
+[WhiteElo "2765"]
+[BlackElo "2665"]
+[Annotator "JvR"]
+[PlyCount "83"]
+[EventDate "1997.04.01"]
+[EventRounds "9"]
+[SourceDate "1992.12.01"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e6 5. Nc3 d6 6. Be3 Nf6 7. Bc4 Be7 8.
+Bb3 O-O 9. Qe2 a6 10. O-O-O Qc7 11. g4 Nd7 12. Nf5 Nc5 13. Nxe7+ Nxe7 14. Qd2
+Rd8 15. Bf4 $5 {Black cannot protect the weakling.} Ng6 ({The pointe is} 15...
+e5 16. Bxe5 $1) 16. Bxd6 Qc6 17. f4 b5 $6 ({Preferable is} 17... Nxb3+ 18. axb3
+e5 19. f5 Nf4 20. Rhf1 f6) 18. e5 $6 (18. f5 $1 Ne5 {(Anand)} 19. Bd5 $1 Ned3+
+20. cxd3 exd5 21. Be7 {favours White.}) 18... b4 $6 (18... Nxb3+ 19. axb3 Qf3 {
+counters.}) 19. Ne2 a5 20. Nd4 Nxb3+ 21. axb3 Qe4 22. f5 $6 ({Better is} 22.
+Rhf1 $1) 22... Nxe5 23. Bxe5 Qxe5 24. Rhe1 Qd6 25. fxe6 fxe6 26. Nxe6 Qxd2+ 27.
+Rxd2 Rxd2 28. Kxd2 Kf7 29. Nd4 Bxg4 30. Nc6 Bf5 $2 ({Right is} 30... Kf6) 31.
+Re5 $1 Kf6 32. Rxa5 Rxa5 33. Nxa5 {White has won a second pawn.} Be4 34. c3 g5
+35. Ke3 Bh1 36. Nc4 h5 37. Nd2 Bb7 $2 (37... Ke5 $1 38. Nf3+ Kf5 39. cxb4 g4
+40. Nd2 h4 41. b5 g3 {fights for a draw.}) 38. Ne4+ Kg6 39. cxb4 h4 $5 40. Nd6
+Bd5 41. b5 g4 42. Kf2 {Anand wins the ending. He scored his second victory.}
+1-0
+
+[Event "Dos Hermanas"]
+[Site "6"]
+[Date "1997.04.06"]
+[Round "5"]
+[White "Kramnik, Vladimir"]
+[Black "Illescas Cordoba, Miguel"]
+[Result "1-0"]
+[ECO "A17"]
+[WhiteElo "2740"]
+[BlackElo "2635"]
+[Annotator "JvR"]
+[PlyCount "154"]
+[EventDate "1997.04.01"]
+[EventRounds "9"]
+[SourceDate "1992.12.01"]
+
+1. Nf3 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 O-O 5. a3 Bxc3 6. Qxc3 b6 7. g3 Bb7 8.
+Bg2 c5 9. b4 d6 10. O-O Nbd7 11. Bb2 Qe7 12. d3 Rfc8 13. b5 a6 $5 14. a4 axb5
+15. axb5 Qf8 16. e4 {White controls more territory.} Rxa1 17. Rxa1 Ra8 18. Qc1
+Rxa1 19. Qxa1 Qa8 20. Qxa8+ Bxa8 {The heavy pieces have been exchanged.} 21.
+Nd2 {White has the two bishops. He can attack b6.} Ne8 22. Nb1 $1 Bb7 $6 (22...
+Ne5 $1 23. Bxe5 dxe5 24. Nc3 {(Kramnik)} Nf6 $1 25. f4 Nd7 26. f5 Kf8 {
+defends well.}) 23. f4 f6 24. Nc3 Kf7 25. Na4 Ke7 26. d4 Kd8 27. d5 $1 exd5 28.
+exd5 Nc7 $2 (28... f5 $1 29. Bh3 g6 {avoids a suffocation.}) 29. Bh3 Na8 30.
+Be6 Nf8 31. f5 {A bishop has an advanced position.} Bc8 32. Kf2 Bd7 33. g4 Ke7
+34. g5 $5 Nxe6 35. fxe6 Be8 $1 36. gxf6+ $5 gxf6 37. Ke3 Bg6 {
+Black has liberated a piece.} 38. Kd2 $1 Be4 39. Bc1 Bg2 40. Kc3 {
+The king protects c4.} Bf1 41. Bh6 Bg2 42. Bf4 Bf1 43. Nb2 Nc7 44. Nd1 Bg2 45.
+Ne3 $1 {The knight takes over the protection of c4 on a better square.} Be4 46.
+Bh6 Ne8 47. Kd2 Nc7 48. Ke2 Ne8 49. Kf2 Nc7 50. Kg3 Bd3 51. Kg4 {
+The king is on his way to the green fields beyond.} Ne8 52. Kf4 Bb1 53. Nf5+
+Kd8 $1 54. Bf8 Bd3 55. Be7+ {Capture on d6 draws.} Kc7 56. Ne3 Kc8 57. Kg4 Kc7
+58. Kh5 Ng7+ 59. Kh6 Ne8 60. h4 Kc8 61. h5 Kc7 62. Ng2 $1 {
+White delivers a semi-sacrifice.} Kc8 ({The pointe is} 62... Bxc4 $2 63. Kxh7)
+63. Nf4 Bc2 64. Bxf6 $2 {Kramnik makes the wrong sacrifice!} (64. Ng6 $1 hxg6
+65. hxg6 Bd3 66. g7 Nxg7 67. Kxg7 Bxc4 68. Bxd6 {wins for White (Kramnik).})
+64... Nxf6 65. Kg7 Ne8+ 66. Kf7 Nc7 $1 67. e7 h6 $5 68. Ne6 Bd1 $1 69. Kg6 Ne8
+70. Nf8 Be2 71. Kxh6 Bxc4 72. Kg6 Bxd5 $2 (72... Bd3+ $1 73. Kf7 c4 74. Kxe8 c3
+75. Kf7 Bxb5 76. h6 c2 77. h7 c1=Q 78. h8=Q Qf4+ {draws (Kramnik).}) 73. h6 c4
+$2 (73... Nc7 $1 74. Ne6 (74. Nh7 $5 Bc4 $1 75. Nf8 Bd5 {brings a repetition})
+74... Bxe6 75. h7 Kd7 76. h8=Q Kxe7 {will be hard to win for White.}) 74. h7
+Be4+ 75. Kf7 Bxh7 76. Kxe8 $1 Bg8 77. Nd7 $1 c3 {Black overstepped the time
+control in a lost position. Kramnik won his second game.} 1-0
+
+[Event "Dos Hermanas"]
+[Site "6"]
+[Date "1997.04.06"]
+[Round "5"]
+[White "Polgar, Judit"]
+[Black "Short, Nigel"]
+[Result "1-0"]
+[ECO "C18"]
+[WhiteElo "2645"]
+[BlackElo "2690"]
+[Annotator "JvR"]
+[PlyCount "131"]
+[EventDate "1997.04.01"]
+[EventRounds "9"]
+[SourceDate "1992.12.01"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Qc7 7. Qg4 f5 8. Qh5+
+g6 9. Qd1 Bd7 10. Nf3 cxd4 11. cxd4 Ba4 12. Bd2 Nc6 $5 13. Bd3 h6 $1 14. h4
+O-O-O 15. Kf1 Kb8 16. Rh3 Rc8 17. Qe1 Qd7 18. Rc1 Nge7 19. Kg1 Ka8 20. Rg3 Rh7
+21. Qe2 Rch8 22. Rh3 Nc8 23. c4 dxc4 24. Bxc4 Nb6 25. Ba2 g5 $1 {
+Nigel takes the initiative.} 26. d5 $1 g4 $1 27. dxc6 Bxc6 28. Rg3 gxf3 29.
+gxf3 Bd5 30. Be3 f4 $6 (30... Bxa2 31. Bxb6 axb6 32. Qxa2 {equalises.}) 31.
+Bxf4 Bxa2 32. Qxa2 Nd5 33. Qc4 Qd8 34. Qe4 Rd7 35. Bd2 Ne7 36. Be3 Nf5 37. Rg4
+Rd3 38. Rb1 Qd7 39. a4 Rc8 40. a5 Nxe3 41. fxe3 a6 42. Rg2 Rd5 43. f4 Rxa5 44.
+Rgb2 Rc7 45. Kh2 Rd5 46. Rb6 h5 47. Kh3 Qg7 48. Qg2 Qh7 49. R1b2 Qd3 $5 50. Kh2
+$1 Ka7 $2 ({Not} 50... Qxe3 $2 51. Qg8+ Ka7 52. Rxa6+ Kxa6 53. Qa8+ Qa7 54.
+Ra2+ {(Atlas).}) ({Better is} 50... Re7) 51. Rxe6 Qxe3 52. Qf2 $1 Qxf2+ 53.
+Rxf2 Rd4 54. Rg6 $1 Re4 55. e6 Rc6 56. f5 $1 Rxh4+ 57. Kg2 Re4 58. Rg8 $1 Rexe6
+59. fxe6 Rxe6 60. Rg7 Rb6 61. Rf5 h4 62. Rh5 Rb3 63. Kf2 h3 64. Rgh7 h2 65. Ke2
+Kb6 66. Kd2 {
+Polgar has a decisive advantage. Anand, Kramnik and Polgar shared the lead.}
+1-0
+
+[Event "Dos Hermanas"]
+[Site "6"]
+[Date "1997.04.08"]
+[Round "6"]
+[White "Illescas Cordoba, Miguel"]
+[Black "Shirov, Alexei"]
+[Result "0-1"]
+[ECO "E81"]
+[WhiteElo "2635"]
+[BlackElo "2690"]
+[Annotator "JvR"]
+[PlyCount "120"]
+[EventDate "1997.04.01"]
+[EventRounds "9"]
+[SourceDate "1992.12.01"]
+
+1. c4 Nf6 2. Nc3 g6 3. e4 d6 4. d4 Bg7 5. f3 O-O 6. Bg5 c5 7. d5 h6 8. Bf4 a6
+9. Nge2 $5 ({Usual is} 9. Qd2) 9... b5 10. Qd2 Kh7 11. cxb5 Nfd7 12. Ng3 Qa5
+13. b6 Nxb6 14. Qc2 N8d7 15. Bd2 c4 16. Nd1 Qc5 17. Bc3 Ne5 18. f4 Ng4 19. Bxg7
+Kxg7 20. Be2 Nf6 21. Qd2 Rb8 22. Rc1 a5 23. a3 h5 24. b4 axb4 25. axb4 Qb5 26.
+Bf3 Na4 27. e5 Nd7 28. exd6 exd6 29. O-O Ba6 30. Nc3 Qxb4 31. Qd4+ Kg8 32. Nxa4
+Qxa4 33. Bxh5 Qb4 34. Be2 Rfc8 35. Kh1 Qb2 36. Qa7 Nc5 37. Qe7 Nd3 38. f5 Qe5
+39. Qxe5 dxe5 40. Ra1 Bb5 {
+An equal position has been reached after a lot of adventures.} 41. fxg6 fxg6
+42. Ne4 Nf4 43. Bg4 $1 Rf8 $2 ({Better is} 43... c3 $1 44. Rfc1 Rc4 $1) 44. Nc3
+$1 Kg7 45. Kg1 Rfd8 46. Ra7+ Kh6 47. h4 $2 (47. Rd1 $1 Be8 48. g3 {
+keeps the initiative.}) 47... Be8 48. Be6 g5 49. hxg5+ Kxg5 50. Ne4+ Kh6 51.
+Bf5 Bg6 52. Bxg6 Kxg6 53. d6 $2 (53. Ra6+ $1 Kf5 54. Nd6+ Rxd6 55. Rxd6 Rg8 56.
+Rxf4+ exf4 {leads to equality.}) 53... Rb2 $1 {
+Suddenly Black has a decisive attack.} 54. Rf2 Rb1+ 55. Kh2 Re1 56. Nd2 c3 57.
+Nf3 Rh8+ 58. Kg3 Nh5+ 59. Kh4 Re4+ 60. Kh3 Nf6+ {Shirov delivers mate in one.}
+0-1
+
+[Event "Dos Hermanas"]
+[Site "6"]
+[Date "1997.04.08"]
+[Round "6"]
+[White "Polgar, Judit"]
+[Black "Kramnik, Vladimir"]
+[Result "0-1"]
+[ECO "C01"]
+[WhiteElo "2645"]
+[BlackElo "2740"]
+[Annotator "JvR"]
+[PlyCount "88"]
+[EventDate "1997.04.01"]
+[EventRounds "9"]
+[SourceDate "1992.12.01"]
+
+1. e4 e6 2. d4 d5 3. exd5 exd5 4. Nf3 Nc6 5. Bd3 Bd6 6. O-O Nge7 7. c4 dxc4 8.
+Bxc4 O-O 9. h3 Be6 $5 {A dull line gets new life.} 10. Bxe6 fxe6 {
+Black has accepted a slight weakness.} 11. Nc3 Qe8 $5 12. Re1 Qg6 13. Re4 $1 {
+White answers actively on black's provocative play.} Rae8 14. Qe2 Nd5 15. Rg4 (
+15. Bd2 $1 Bf4 16. Re1 $1 {develops two pieces.}) 15... Qf5 16. Bh6 Rf7 17. Nh4
+Nxc3 ({Not} 17... Qf6 $2 18. Bxg7 $1 Rxg7 19. Nxd5 {(Kramnik).}) 18. bxc3 Qa5
+19. Bd2 e5 $1 20. Nf3 Ree7 21. d5 $2 (21. Qc4 $1 exd4 22. cxd4 {gains an edge.}
+) 21... Qxd5 22. c4 Qc5 23. Ng5 Rf5 24. Ne4 $5 Nd4 25. Qf1 $2 ({Better is} 25.
+Qd3 $1 Qa3 26. Qb1) 25... Qc6 26. c5 $5 {Desperation has started.} Bxc5 27. Rc1
+b6 28. Qa6 $2 (28. Nxc5 bxc5 29. Qc4+ Ref7 30. Be3 Qf6 {favours Black.}) 28...
+h5 $1 29. Rh4 Qg6 $1 30. Qc4+ $5 Ref7 31. Rc3 Nf3+ 32. Rxf3 Rxf3 33. Be1 Be7
+34. Nd2 Bxh4 35. Nxf3 Bf6 36. Nd2 Kh7 37. Ne4 Rd7 38. Bc3 c5 39. Qe2 Kg8 40.
+Qc4+ Qf7 41. Qe2 c4 42. f4 Rd3 43. f5 Be7 44. g4 Rxh3 {
+Kramnik took the sole lead by this win.} 0-1
+
+[Event "Dos Hermanas"]
+[Site "6"]
+[Date "1997.04.08"]
+[Round "6"]
+[White "Short, Nigel"]
+[Black "Salov, Valery"]
+[Result "1-0"]
+[ECO "B01"]
+[WhiteElo "2690"]
+[BlackElo "2665"]
+[Annotator "JvR"]
+[PlyCount "125"]
+[EventDate "1997.04.01"]
+[EventRounds "9"]
+[SourceDate "1992.12.01"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nf3 Bg4 4. Be2 Nc6 5. O-O O-O-O 6. h3 Bxf3 $5 7. Bxf3
+Qd7 8. c3 Ne5 9. d4 Nxf3+ 10. Qxf3 Nf6 11. Nd2 Qd5 12. Qe2 e6 13. Nf3 Bd6 14.
+Re1 Qh5 15. c4 c6 16. Qe3 Nd7 17. Bd2 Rhg8 18. b4 g5 $5 {
+Salov gives a pawn for the initiative.} 19. Nxg5 Bc7 20. Kf1 Rg7 21. Ne4 Rdg8
+22. g4 Qh4 23. Qh6 Qd8 $5 24. Bf4 f5 $2 ({Correct is} 24... Rg6 25. Bxc7 Qxc7
+26. Qh4 f5) 25. gxf5 exf5 26. Bxc7 Rg1+ 27. Ke2 Rxe1+ 28. Rxe1 Qe7 ({Not} 28...
+Qxc7 $2 29. Nd6+ Kb8 30. Qxh7 {(Mueller).}) 29. Kf1 fxe4 30. Bg3 Qf7 31. Qd6 $1
+Rxg3 32. Qxg3 Qxc4+ 33. Kg2 Nf6 34. Qd6 Qf7 35. b5 Qg6+ 36. Kf1 Qf5 37. Kg1
+Qg5+ 38. Kh2 Qf5 39. Re2 Qxb5 40. Qe6+ Kc7 41. Qe5+ Kd7 42. Re3 Qxe5+ 43. dxe5
+Nd5 44. Rxe4 b5 45. Rh4 c5 46. Rxh7+ Ke6 47. Rxa7 c4 48. h4 c3 49. Ra6+ Kxe5
+50. h5 b4 51. h6 c2 52. h7 c1=Q 53. h8=Q+ Ke4 54. Re6+ Kd3 55. Qh7+ Kd4 56.
+Qg7+ Kd3 57. Qg3+ Kd4 58. Qe5+ Kc5 59. Rd6 $1 Qd2 60. Rxd5+ Qxd5 61. Qxd5+ Kxd5
+62. Kg3 Kd4 63. f4 $1 {White wins the pawn ending.} 1-0
+
+[Event "Dos Hermanas"]
+[Site "6"]
+[Date "1997.04.09"]
+[Round "7"]
+[White "Topalov, Veselin"]
+[Black "Illescas Cordoba, Miguel"]
+[Result "1-0"]
+[ECO "E15"]
+[WhiteElo "2725"]
+[BlackElo "2635"]
+[Annotator "JvR"]
+[PlyCount "79"]
+[EventDate "1997.04.01"]
+[EventRounds "9"]
+[SourceDate "1992.12.01"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Ba6 5. b3 Bb7 6. Bg2 Bb4+ 7. Bd2 a5 8. O-O
+O-O 9. Qc2 Bxd2 10. Nbxd2 d5 11. Rfd1 $5 Na6 12. cxd5 exd5 13. Nf1 Ne4 14. Ne5
+Qe7 $6 ({Preferable is} 14... Nb4 $1 15. Qb2 f6 16. Nf3 a4) 15. Bxe4 $5 dxe4 {
+Pawn e4 will blockade.} 16. a3 $5 c5 $6 ({Better is} 16... f6 17. Nc6 Qd6) 17.
+Nc4 $1 Rad8 18. d5 $1 b5 ({Or} 18... Bxd5 19. Nxb6) 19. d6 $1 Qe6 20. Nxa5 Ba8
+21. a4 bxa4 22. bxa4 Rxd6 23. Rxd6 Qxd6 24. Rd1 Qc7 25. Qc3 Rd8 26. Rxd8+ Qxd8
+27. Nb3 h6 28. Ne3 {White has positional advantages after the exchanges.} Qc8
+29. h4 h5 30. a5 g6 31. Qf6 Qc6 32. Qd8+ Kg7 33. Nd2 Nc7 $6 (33... Bb7 34. Ndc4
+Qf6 {defends well.}) 34. Ndc4 $1 {The white knights blockade.} Ne6 35. Qb8 Qa6
+36. Nd6 $2 ({Correct is} 36. Kf1 $1 Bb7 37. Nd6 Bc6 38. Nec4) 36... Bc6 $2 ({
+Right is} 36... Qxa5 $1 37. Ne8+ Kh7 38. Nf6+ Kg7 39. Qe5 {(Avrukh)} Kf8) 37.
+Qb6 $6 Qa8 $2 {The exchange of queens offers the last chance.} 38. a6 Nd4 39.
+Kf1 Ne6 40. a7 {
+Black has been outplayed in a fine positional game. Kramnik kept the lead.} 1-0
+
+[Event "Dos Hermanas"]
+[Site "6"]
+[Date "1997.04.10"]
+[Round "8"]
+[White "Gelfand, Boris"]
+[Black "Salov, Valery"]
+[Result "0-1"]
+[ECO "E13"]
+[WhiteElo "2700"]
+[BlackElo "2665"]
+[Annotator "JvR"]
+[PlyCount "84"]
+[EventDate "1997.04.01"]
+[EventRounds "9"]
+[SourceDate "1992.12.01"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 b6 4. Nc3 Bb4 5. Bg5 Bb7 6. e3 h6 7. Bh4 Bxc3+ 8.
+bxc3 d6 9. Nd2 Nbd7 10. f3 Nf8 11. Bd3 g5 $5 ({Usual is} 11... Ng6 12. Bf2 O-O
+{(Petran - Shipov, Balatonbereny 1993).}) 12. Bf2 Rg8 $5 13. Qa4+ $5 Qd7 14.
+Qa3 Ng6 15. O-O-O Nh4 16. Rhg1 c5 {Black closes the position.} 17. e4 Ng6 18.
+e5 $1 dxe5 19. Bxg6 Rxg6 20. dxe5 Nh5 21. Ne4 $1 Qc7 22. Nd6+ Kf8 23. Nxb7 $6 {
+Gelfand gives up the control of the central area.} (23. Qa4 $5 Bc6 24. Qc2 {
+improves the white position (Salov).}) 23... Qxb7 24. Qa4 Nf4 $1 {
+Salov counters.} 25. Qc2 Qa6 $1 26. g3 Nh3 27. Rgf1 Qxc4 $5 {
+Exchange of the bishop would have been more solid.} 28. Be3 Kg7 29. Kb2 Rf8 30.
+f4 $2 ({Correct is} 30. Rd3 Rd8 31. Rxd8 Qxf1 32. Qe4) 30... gxf4 {
+The opening of the g-file has a fatal effect.} 31. gxf4 $6 ({Preferable is} 31.
+Bxf4 $1 Rd8 $1 32. Rxd8 Qxf1 33. Bd2) 31... Rd8 $1 32. Rxd8 $2 (32. Rde1 $5 Qd3
+33. Qxd3 Rxd3 34. Re2 {prolongs the game.}) 32... Qxf1 33. Qa4 Rg2+ 34. Bd2
+Qxf4 $1 35. Qd7 Ng5 36. Ka3 Qxe5 37. Qe8 Kg6 38. Qd7 Rxh2 39. Rg8+ Kh7 40. Rd8
+Kg6 41. Rg8+ Kh5 42. Qd3 c4 $1 {Salov has gained four pawns.} 0-1
+
+[Event "Dos Hermanas"]
+[Site "6"]
+[Date "1997.04.10"]
+[Round "8"]
+[White "Short, Nigel"]
+[Black "Karpov, Anatoly"]
+[Result "0-1"]
+[ECO "B12"]
+[WhiteElo "2690"]
+[BlackElo "2760"]
+[Annotator "JvR"]
+[PlyCount "78"]
+[EventDate "1997.04.01"]
+[EventRounds "9"]
+[SourceDate "1992.12.01"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nf3 e6 5. a3 Ne7 6. Nbd2 Nd7 $5 7. Nh4 c5 8. c3
+a6 $5 9. Nxf5 Nxf5 10. Nf3 Rc8 11. Bd3 cxd4 12. Bxf5 exf5 13. Nxd4 g6 ({Not} 
+13... Nxe5 $2 14. O-O $1) 14. O-O Nc5 15. Be3 Bg7 16. Nf3 $5 O-O 17. Re1 Re8
+18. Re2 Ne4 19. Qb3 b5 20. Rd1 ({Karpov prefers} 20. a4 $1) 20... Rc4 21. Bd4
+Qb8 $1 22. Rd3 $5 f4 $1 23. Qd1 Rc6 $1 24. Ne1 $5 Rce6 $1 {
+Black has the initiative.} 25. Nc2 $6 (25. Nf3 {restores the position.}) 25...
+Qb7 26. f3 Nd6 $1 27. b3 Nf5 28. Qd2 h5 $1 29. Re1 ({The trap is} 29. Qxf4 $4
+Bh6) 29... a5 30. Kf1 Qc7 31. Kg1 Kh7 32. b4 a4 33. Kf1 $2 ({Or} 33. Bc5 Rxe5
+34. Rxe5 Qxe5 35. Rxd5 Qe2 {and Black attacks.}) 33... Qc4 $1 34. Kg1 Bxe5 35.
+Bxe5 Rxe5 36. Rxe5 Rxe5 37. Nd4 Re3 $1 38. Rxe3 fxe3 $1 39. Qd1 Qxc3 {
+Kramnik kept the lead at the end of the penultimate round.} 0-1
+
+[Event "Dos Hermanas"]
+[Site "6"]
+[Date "1997.04.11"]
+[Round "9"]
+[White "Anand, Viswanathan"]
+[Black "Polgar, Judit"]
+[Result "1-0"]
+[ECO "E97"]
+[WhiteElo "2765"]
+[BlackElo "2645"]
+[Annotator "JvR"]
+[PlyCount "143"]
+[EventDate "1997.04.01"]
+[EventRounds "9"]
+[SourceDate "1992.12.01"]
+
+{Anand trailed Kramnik by half-a-point, when the last round began. Kramnik
+played a solid draw against Topalov.} 1. Nf3 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6
+5. d4 O-O 6. Be2 e5 7. O-O Nc6 8. d5 Ne7 9. b4 a5 10. Ba3 b6 11. bxa5 Rxa5 12.
+Bb4 Ra8 13. a4 Nh5 14. a5 bxa5 15. Bxa5 Nf4 {
+Anand plays the expected King's Indian Defence.} 16. Nd2 $5 ({
+Known in this position is} 16. Ra2) 16... Qd7 $1 17. Re1 Bh6 $6 {
+The bishop goes to a wrong square.} ({Interesting tactics bring} 17... Nxg2 $1
+18. Kxg2 Rxa5 19. Rxa5 Qh3+ 20. Kg1 Qxc3 21. Ra7 Qd4 $1 {(Anand)} 22. Ra2 $1)
+18. Bf1 $1 c6 $6 ({Preferable is} 18... Ba6 $5) 19. c5 $1 {
+This would not work with the bishop on g7.} cxd5 20. exd5 $1 dxc5 21. Nde4 Bg7
+22. Bb5 Qb7 23. Nxc5 Qb8 $1 24. Bf1 $5 Bf5 25. d6 $1 Nc6 26. Bc7 Rxa1 27. Qxa1
+Qb4 28. N5e4 {
+White has an advantage, but it is not the won game that he had hoped for.} Qb3
+$5 29. Rb1 $1 Qe6 30. Qa4 Nd4 31. Bc4 $1 Qd7 32. Qxd7 Bxd7 33. Nd5 Be6 $5 34.
+Nb6 $2 {Anand gives away his advantage.} (34. d7 $5 Bxd5 35. Bxd5 Nxd5 36. d8=Q
+Rxd8 37. Bxd8 {gains material.}) 34... Bxc4 35. Nxc4 Nfe6 36. Nb6 f5 37. Nc3 e4
+38. Ncd5 Ne2+ 39. Kf1 Nc3 $1 40. Rc1 Nxd5 41. Nxd5 Be5 $6 (41... Kf7 $1 42. Bb6
+$1 Bd4 $1 43. Rc6 Bxb6 44. Nxb6 Rd8 45. d7 Ke7 {leads to a draw.}) 42. Bb6 Rf7
+43. Rc8+ Nf8 44. Ne7+ Kg7 45. Bc5 Nd7 46. Bb4 Kf6 47. Re8 {
+The black pieces are restricted.} Bb2 48. Nd5+ Kg7 49. Nc7 Ne5 $2 (49... g5 $1
+{opens a square for the king.}) 50. Bd2 h6 51. Rb8 $1 Ba1 52. Ra8 Nc4 (52...
+Bb2 53. Ra2 Nd3 54. Rxb2 $1 Nxb2 55. Bc3+ {wins for White.}) 53. Ne8+ $1 Kh7
+54. Rxa1 $1 Nxd2+ 55. Ke2 Nb3 56. Rd1 Nc5 {The rook cannot stop the pawn.} 57.
+d7 $1 Ne6 ({Or} 57... Nxd7 58. Rxd7 $1) 58. d8=Q Nxd8 59. Rxd8 g5 60. Rd7 Rxd7
+61. Nf6+ Kg6 62. Nxd7 Kf7 63. Kd2 Ke6 64. Nb6 h5 65. h4 $1 f4 66. hxg5 Kf5 67.
+Nc4 Kxg5 68. Nd6 e3+ 69. fxe3 h4 70. Ne4+ $1 Kg4 71. Ke2 Kf5 72. Nf2 {
+Anand had equalised with Kramnik.} 1-0
+
+[Event "Dos Hermanas"]
+[Site "6"]
+[Date "1997.04.11"]
+[Round "9"]
+[White "Salov, Valery"]
+[Black "Illescas Cordoba, Miguel"]
+[Result "1-0"]
+[ECO "D17"]
+[WhiteElo "2665"]
+[BlackElo "2635"]
+[Annotator "JvR"]
+[PlyCount "81"]
+[EventDate "1997.04.01"]
+[EventRounds "9"]
+[SourceDate "1992.12.01"]
+
+1. d4 Nf6 2. Nf3 d5 3. c4 c6 4. Nc3 dxc4 5. a4 Bf5 6. Ne5 e6 7. f3 Bb4 8. e4
+Bxe4 9. fxe4 Nxe4 10. Bd2 Qxd4 11. Nxe4 Qxe4+ 12. Qe2 Bxd2+ 13. Kxd2 Qd5+ 14.
+Kc2 Na6 15. Nxc4 b5 16. axb5 Nb4+ 17. Kc3 cxb5 18. Rd1 bxc4 {
+Black delivers a doubtful sacrifice.} 19. Rxd5 Nxd5+ 20. Kd2 $5 (20. Kc2 {
+drew in Topalov - Anand (round 3).}) 20... O-O 21. Qe5 $5 {
+White could have captured pawn c4 at once.} Rac8 22. Be2 Rfd8 (22... c3+ $5 23.
+bxc3 {(Vaulin - Delchev, Zadar 2000)} Rxc3 24. Ra1 Rc7 {
+tries to survive by a passive defence.}) 23. Rc1 Nb6+ 24. Ke1 Rd5 25. Qe3 Rb5
+26. Rc2 g6 27. g4 Rcc5 28. Rd2 Nd5 29. Qe5 Rb3 30. h4 h6 31. Kf2 a5 $2 (31...
+c3 $5 32. bxc3 Rcxc3 {grabs the last chance (Salov).}) 32. Bf3 $1 Rd3 33. Re2
+Rb3 34. Qd6 Nb4 35. Be4 Nd3+ 36. Kf1 $1 Re5 37. Qc7 Rc5 38. Qd8+ Kg7 39. Qd4+
+e5 ({Or} 39... Kg8 40. Bxg6 $1 fxg6 41. Rxe6 {(Kortschnoj).}) 40. Qd6 Rbb5 41.
+Bxd3 {Salov won his last two games.} 1-0
+
+[Event "Dos Hermanas"]
+[Site "6"]
+[Date "1997.04.11"]
+[Round "9"]
+[White "Shirov, Alexei"]
+[Black "Short, Nigel"]
+[Result "1-0"]
+[ECO "C87"]
+[WhiteElo "2690"]
+[BlackElo "2690"]
+[Annotator "JvR"]
+[PlyCount "99"]
+[EventDate "1997.04.01"]
+[EventRounds "9"]
+[SourceDate "1992.12.01"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Be7 5. Re1 d6 6. c3 O-O 7. d3 a6 8. Ba4
+Nd7 9. d4 Bf6 10. Bc2 Nb6 11. h3 Bd7 12. b3 $5 (12. Na3 {
+happened in Nunn - Morozevich, Amsterdam 1995.}) 12... exd4 13. cxd4 Nb4 14.
+Nc3 Nxc2 15. Qxc2 {White occupies the centre.} c6 16. Ba3 Be7 17. Rad1 Re8 18.
+d5 $5 cxd5 19. exd5 Rc8 20. Qd3 $1 h6 21. Ne4 $6 (21. Bb4 $5 Na8 22. Ne4 {
+gains a plus.}) 21... Bf5 $1 22. Qd4 Bf8 23. Ng3 Rxe1+ 24. Rxe1 Bh7 25. Nh5 Nd7
+$2 ({Correct is} 25... Rc2 $1 26. Bb2) 26. Bxd6 $1 {White gains a pawn.} Qb6 {
+He has to avoid mate.} 27. Bxf8 Qxd4 28. Nxd4 Kxf8 29. d6 Rd8 30. Re7 Nc5 31.
+b4 Ne4 32. Nxg7 $1 Nxd6 $6 ({Better is} 32... Rxd6 33. Ndf5 Rd1+ 34. Kh2 Nd6
+35. Rd7 Nxf5 36. Rxd1 Nxg7 $1 {and White has little advantage (Shirov).}) 33.
+Rc7 Bb1 34. a3 Ne8 35. Nxe8 Kxe8 36. Ne2 {
+White has a pawn and the initiative in the endgame.} Be4 37. Ng3 Bc6 38. Nf5
+Rd1+ 39. Kh2 Rd2 40. Kg3 Rd3+ 41. f3 Rxa3 42. Nxh6 Bd5 43. Nf5 $1 b5 $2 (43...
+Kd8 44. Rc2 Rd3 {offers more resistance.}) 44. h4 Kd8 45. Ra7 a5 46. h5 Be4 47.
+Kf4 axb4 48. h6 $1 Bxf5 49. Kxf5 Rxa7 50. h7 {The final standings became:
+Anand and Kramnik 6/9, Salov, Karpov and Topalov 5, Gelfand, Shirov and Polgar
+41/2, Short 3, Illescas Cordoba 11/2. Anand had the best tie-break.} 1-0
+
+[Event "Dos Hermanas"]
+[Site "7"]
+[Date "1999.04.06"]
+[Round "1"]
+[White "Adams, Michael"]
+[Black "Svidler, Peter"]
+[Result "1-0"]
+[ECO "B90"]
+[WhiteElo "2716"]
+[BlackElo "2713"]
+[Annotator "JvR"]
+[PlyCount "65"]
+[EventDate "1999.04.??"]
+[SourceDate "1992.12.01"]
+
+{An open tournament took place in 1998. The seventh and last super chess event
+happened in Dos Hermanas from 6 until 17 iv 1999. Ten players participated.
+Svidler was a replacement. The decided games and one draw have been selected.} 
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e5 7. Nb3 Be6 8. f3
+Nbd7 9. g4 b5 10. g5 b4 11. Ne2 Nh5 12. Qd2 Be7 13. Ng3 Nf4 14. h4 h6 15. Bxf4
+exf4 16. Nh5 Bxb3 17. axb3 g6 18. Nxf4 hxg5 19. Nd5 {The opening favours White.
+} Rxh4 $5 ({The alternative is} 19... g4 {(Marciano - Renet, Clichy 1995).})
+20. Rxh4 gxh4 21. O-O-O Nf6 22. Bc4 Nxd5 $2 ({Better is} 22... Rc8 $1 23. Nxb4
+Qa5 24. c3 Qh5) 23. Qxd5 Bg5+ 24. Kb1 Ra7 25. e5 $1 {
+He has a decisive centre attack.} Kf8 26. e6 $6 (26. f4 $1 Bxf4 27. Qd4 {
+wins at once.}) 26... Bf6 27. exf7 Qe7 28. f4 Qxf7 $6 (28... Rd7 $5 29. Rg1
+Qxf7 30. Qxf7+ Rxf7 31. Rxg6 {wins for White.}) 29. Qxd6+ Qe7 30. Qb8+ Kg7 31.
+Rg1 Kh6 32. Bd3 Rd7 33. Qg8 {Adams has a mate attack.} 1-0
+
+[Event "Dos Hermanas"]
+[Site "7"]
+[Date "1999.04.06"]
+[Round "1"]
+[White "Gelfand, Boris"]
+[Black "Kortschnoj, Viktor"]
+[Result "1-0"]
+[ECO "D26"]
+[WhiteElo "2690"]
+[BlackElo "2670"]
+[Annotator "JvR"]
+[PlyCount "127"]
+[EventDate "1999.04.??"]
+[SourceDate "1992.12.01"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 e6 4. e3 Nf6 5. Bxc4 c5 6. O-O Nc6 7. Qe2 cxd4 8.
+Rd1 Be7 9. exd4 O-O 10. a3 Nd5 11. Nc3 Re8 $5 12. Ba2 $6 (12. Qe4 Bf6 13. Be3 {
+keeps a plus.}) 12... Bxa3 $1 13. Nxd5 (13. Ng5 $5 Nxc3 14. Qh5 Qxg5 $1 15.
+Qxg5 Be7 16. Qh5 g6 17. Qf3 {leads to great complications.}) 13... exd5 14. Qb5
+Bd6 15. Bxd5 h6 $6 ({Preferable is} 15... Qc7 16. Be3 a6) 16. Ne5 $1 Bxe5 17.
+dxe5 Qc7 18. Bf4 Be6 19. Bf3 a6 20. Qc5 Rac8 21. Rac1 Qe7 22. Be3 Bb3 $5 23.
+Qxe7 Rxe7 24. Rd3 Ba4 $6 ({Correct is} 24... Ba2 $1 25. Bg4 Be6) 25. Bg4 Rd8
+26. Rd6 Ra8 27. f4 Nd8 28. Rc8 $5 Rxc8 29. Bxc8 Ne6 $5 30. f5 Nf8 $6 31. Bd4 $6
+(31. e6 $1 fxe6 32. fxe6 Re8 $1 33. Bxb7 Bb3 34. Rxa6 Nxe6 35. Rb6 {
+gains a pawn.}) 31... Rc7 32. Rd8 Bd7 33. Bxd7 Rxd7 34. Rxd7 Nxd7 35. Kf2 {
+White has the strong bishop in the endgame.} g6 36. g4 h5 37. e6 fxe6 38. fxe6
+Nb8 $1 39. Kf3 Nc6 40. Bf6 Kf8 41. gxh5 gxh5 42. Ke4 Na7 $5 43. Kd5 Ke8 44. Bd4
+Nb5 $2 ({More solid looks} 44... Nc6 $1 45. Bc3 Ke7 46. Be1 Ke8) 45. Bb6 $1 {
+A torture of Kortschnoj starts.} Ke7 46. Ke5 Ke8 47. h3 Ke7 48. h4 Ke8 49. Kf6
+Nd6 50. Kg6 Nc4 {It is a position of mutual zugzwang.} (50... Ke7 51. Bc5 Kxe6
+52. Bxd6 Kxd6 53. Kxh5 {leads to a theoretically won pawn ending (Gelfand).})
+51. Bc5 $3 ({Not} 51. Bd4 $2 Ke7 52. Kxh5 Kxe6 53. Kg6 Nd6 {(Gelfand).}) 51...
+b6 ({The pointe is} 51... Nxb2 52. Kxh5 Nd3 53. Bd6 b5 54. Kg5 $1 b4 55. h5)
+52. Bd4 $1 Ke7 53. Kxh5 Kxe6 54. Kg6 {White has achieved zugzwang.} Nd6 55.
+Bxb6 Nf5 56. h5 Ne7+ 57. Kg7 Nf5+ 58. Kg6 Nh4+ 59. Kg7 Nf5+ 60. Kf8 $1 Kf6 61.
+Bd8+ $1 Ke6 62. Kg8 Nh6+ 63. Kg7 Nf7 64. Bc7 $1 {
+Gelfand has won a wonderful ending of bishop versus knight.} 1-0
+
+[Event "Dos Hermanas"]
+[Site "7"]
+[Date "1999.04.06"]
+[Round "1"]
+[White "Polgar, Judit"]
+[Black "Anand, Viswanathan"]
+[Result "1-0"]
+[ECO "B81"]
+[WhiteElo "2677"]
+[BlackElo "2781"]
+[Annotator "JvR"]
+[PlyCount "67"]
+[EventDate "1999.04.??"]
+[SourceDate "1992.12.01"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e6 7. g4 e5 8. Nf5
+g6 9. g5 gxf5 10. exf5 d5 11. Qf3 d4 12. O-O-O Nbd7 13. Bd2 dxc3 14. Bxc3 {
+White has sacrificed two pieces for the attack.} Bg7 $5 (14... Qc7 {
+drew in Chiburdanidze - Cserma, Pristina 1983.}) 15. Rg1 O-O $6 {
+Black castles into danger.} 16. gxf6 Qxf6 17. Qe3 $6 (17. Qg3 Kh8 18. Kb1 {
+exerts more pressure.}) 17... Kh8 18. f4 Qb6 $6 {Black loses time.} ({
+Preferable is} 18... Re8 $1 19. Kb1 Bh6) 19. Qg3 Qh6 $2 (19... Rg8 $1 20. Bc4
+Nf6 21. Bxf7 {(Polgar)} Ne4 $1 22. Qg4 Nxc3 23. bxc3 Qe3+ {fights for a draw.})
+20. Rd6 $1 f6 $1 21. Bd2 e4 22. Bc4 $1 {Black suffers from restriction.} b5 $5
+23. Be6 (23. Bd5 $1 Rb8 24. Be3 {attacks.}) 23... Ra7 24. Rc6 $1 a5 25. Be3 Rb7
+26. Bd5 Rb8 27. Rc7 b4 28. b3 Rb5 29. Bc6 Rxf5 30. Rxc8 $1 Rxc8 31. Bxd7 Rcc5
+32. Bxf5 Rxf5 33. Rd1 $1 {
+Black faces a material equality and positional disaster.} Kg8 34. Qg2 {
+Judit won a great game.} 1-0
+
+[Event "Dos Hermanas"]
+[Site "7"]
+[Date "1999.04.07"]
+[Round "2"]
+[White "Kortschnoj, Viktor"]
+[Black "Polgar, Judit"]
+[Result "1-0"]
+[ECO "D90"]
+[WhiteElo "2673"]
+[BlackElo "2677"]
+[Annotator "JvR"]
+[PlyCount "85"]
+[EventDate "1999.04.??"]
+[SourceDate "1992.12.01"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. Bd2 Bg7 6. e4 Nb6 7. Be3 O-O 8.
+Be2 Nc6 9. Nf3 Bg4 10. d5 Bxf3 11. gxf3 Na5 12. Bd4 c5 13. Bxg7 Kxg7 14. Qc2 e5
+15. Nd1 Nd7 16. Qc3 $5 {White increases the pressure in the centre.} (16. Ne3 {
+drew in I.Sokolov - Atalik, New York 1997.}) 16... a6 $5 17. f4 $1 f6 $2 (17...
+b6 $1 18. h4 Qf6 19. fxe5 Nxe5 {defends quietly in the central area.}) 18. f5
+$1 g5 $6 ({Or} 18... gxf5 $2 19. Ne3 $1 f4 20. Nf5+ {(Kortschnoj).}) ({
+Preferable is} 18... b5 $5 19. fxg6 hxg6 20. Rg1 Nb7) 19. h4 h6 20. Ne3 Qb6 21.
+a3 c4 22. Rd1 Nc5 23. Qb4 $1 Qb5 24. f3 Rac8 25. Kf2 b6 26. Kg2 {
+He plan to open the h-file and attack decisively.} g4 $5 27. Nxg4 Ncb3 28. Rhg1
+Qxb4 29. axb4 Nb7 30. Kf2 Kh7 31. Ne3 Nd6 32. Rg6 h5 33. Nf1 Nd4 34. Ng3 c3 35.
+bxc3 Rxc3 36. Bd3 a5 37. bxa5 bxa5 38. Nxh5 Ne8 39. d6 Rf7 40. d7 Rxd7 41. Bb5
+Rc2+ 42. Kf1 Rf7 43. Bxe8 {Kortschnoj showed his great strength at 68.} 1-0
+
+[Event "Dos Hermanas"]
+[Site "7"]
+[Date "1999.04.09"]
+[Round "3"]
+[White "Adams, Michael"]
+[Black "Kortschnoj, Viktor"]
+[Result "1-0"]
+[ECO "C67"]
+[WhiteElo "2716"]
+[BlackElo "2673"]
+[Annotator "JvR"]
+[PlyCount "111"]
+[EventDate "1999.04.??"]
+[SourceDate "1992.12.01"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Nd6 6. Bxc6 dxc6 7. dxe5 Nf5
+8. Qxd8+ Kxd8 9. Nc3 h6 10. Rd1+ Ke8 11. h3 Bb4 12. Ne2 Be7 $6 {
+Black has lost a tempo.} ({Better is} 12... Be6 {
+(Van der Wiel - Brenninkmeijer, Hilversum 1988.}) 13. b3 h5 14. Bg5 $1 f6 $6 {
+He should exchange.} ({Preferable is} 14... Bxg5 15. Nxg5 f6 16. exf6 gxf6) 15.
+exf6 gxf6 16. Bf4 Nd6 17. c4 Kf7 {Black has a poor position.} 18. Rac1 Bf5 $6 (
+18... a5 $5 19. a4 h4 {strengthens the pawn structure.}) 19. Ng3 $1 Bh7 $5 20.
+Re1 $5 Ne8 $6 (20... Rad8 $1 21. Rcd1 Bg6 {protects weaknesses.}) 21. Rcd1 Bd6
+$6 (21... Rd8 22. Rxd8 Bxd8 {exchanges a rook.}) 22. Bxd6 cxd6 23. Rd2 $5 Ng7
+$5 (23... Bg6 24. Nh4 Ng7 25. f4 {brings White a decisive advantage.}) 24. Rxd6
+{Mickey has gained a pawn.} Rhd8 25. Red1 Rxd6 26. Rxd6 Ke7 27. Rd2 a5 28. a3
+a4 29. b4 b6 30. Nd4 c5 31. bxc5 bxc5 32. Nb5 Bg8 33. Ne4 Bxc4 34. Nbd6 Be6 35.
+Nxc5 Rb8 36. Nxe6 Kxe6 37. Ne4 Ke5 38. Nc5 Ra8 39. Rd7 $1 Nf5 40. g3 $1 {
+He threatens mate in one.} Nd6 41. f4+ Kd5 42. Nb7 Kc6 43. Rxd6+ Kxb7 44. Rd4
+Kc6 45. g4 h4 46. Kf2 Rb8 47. Ke3 Kc5 48. Rxa4 Rb3+ 49. Ke4 Rxh3 50. Ra6 Rg3
+51. Kf5 h3 52. Rxf6 Rxa3 53. Rh6 Kd4 54. g5 Rg3 55. g6 Ke3 56. Ke5 {
+Adams scored his second win and took the lead.} 1-0
+
+[Event "Dos Hermanas"]
+[Site "7"]
+[Date "1999.04.09"]
+[Round "3"]
+[White "Karpov, Anatoly"]
+[Black "Svidler, Peter"]
+[Result "1-0"]
+[ECO "D97"]
+[WhiteElo "2710"]
+[BlackElo "2713"]
+[Annotator "JvR"]
+[PlyCount "97"]
+[EventDate "1999.04.??"]
+[SourceDate "1992.12.01"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. Qb3 dxc4 6. Qxc4 O-O 7. e4 a6 8. e5
+b5 9. Qb3 Nfd7 10. e6 fxe6 11. Be3 Nf6 12. a4 bxa4 13. Rxa4 Nc6 $5 ({Usual is} 
+13... Nd5 $5) 14. Bc4 $1 Rb8 15. Bxe6+ Kh8 16. Qc4 Bxe6 17. Qxe6 Qd6 18. Ng5 $1
+Rxb2 19. O-O (19. Nf7+ $5 Rxf7 20. Qxf7 e5 $1 {
+brings chances for both parties (Karpov).}) 19... Nd8 20. Qh3 {
+The exchange of queens would restore the black pawn structure.} Qd7 $6 ({
+Preferable is} 20... h5) 21. Qxd7 $1 Nxd7 22. Rxa6 {
+Karpov has a better endgame.} Nb6 23. h4 $5 (23. Ra7 $1 h6 24. Nge4 {
+charges at the weak pawns.}) 23... Rc2 24. Nce4 h6 25. Nf3 Nc6 26. Raa1 Nb4 27.
+Rfc1 Rxc1+ $5 28. Rxc1 N4d5 29. Nc5 $1 Rf6 30. Bd2 Rd6 31. Nb7 Rf6 32. Ne5 Kh7
+33. g3 $1 Rf8 34. Nc5 Ra8 35. Rc2 Rd8 36. Kg2 Bxe5 $5 37. dxe5 Nd7 38. Nxd7
+Rxd7 39. Rc6 $1 {The exchanges have helped White.} Nb6 40. Bc1 Rd5 41. Re6 Nc8
+$6 (41... Rd7 $1 42. h5 gxh5 43. Rxh6+ Kg7 44. Rxh5 Rd3 {
+keeps better drawing chances.}) 42. h5 $5 gxh5 43. Rxh6+ Kg7 44. Rxh5 c5 45.
+Kf3 c4 $6 (45... e6 $1 46. Rh4 Ne7 {defends properly.}) 46. Be3 e6 $2 {
+Black blunders a pawn.} (46... Rd7 $1 47. Ke4 Rc7 {supports the advanced pawn.}
+) 47. Rh4 Ne7 (47... Rxe5 $2 48. Bd4 $1 {pins the rook.}) 48. Rxc4 Ng6 49. Bd4
+$1 {White has two extra pawns.} 1-0
+
+[Event "Dos Hermanas"]
+[Site "7"]
+[Date "1999.04.09"]
+[Round "3"]
+[White "Kramnik, Vladimir"]
+[Black "Anand, Viswanathan"]
+[Result "1-0"]
+[ECO "D27"]
+[WhiteElo "2751"]
+[BlackElo "2781"]
+[Annotator "JvR"]
+[PlyCount "139"]
+[EventDate "1999.04.??"]
+[SourceDate "1992.12.01"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 e6 4. e3 Nf6 5. Bxc4 c5 6. O-O a6 7. Bb3 cxd4 8.
+exd4 Nc6 9. Nc3 Be7 10. Re1 O-O 11. a3 Na5 12. Bc2 b5 13. d5 Re8 $5 14. Bg5 (
+14. Qd3 $5 {will be played in Illescas Cordaba - Anand (round8).}) 14... h6 15.
+Bh4 $1 Nxd5 $5 16. Nxd5 exd5 17. Qd3 g6 18. Qe3 Be6 19. Qxh6 Bxh4 20. Bxg6 $1
+Qf6 (20... fxg6 $2 21. Qxg6+ Kf8 22. Qh6+ Kf7 23. Qh7+ Kf6 24. Nxh4 {
+wins for White (Kramnik).}) 21. Bh7+ Kh8 22. Bg6+ Kg8 23. Qh7+ $1 Kf8 24. Nxh4
+Qg7 $6 ({Right is} 24... Qxb2 $1) 25. Qxg7+ Kxg7 26. Bd3 {
+White has gained a pawn.} Nc4 27. b4 Nb2 28. Bf1 d4 $5 29. Nf3 Rad8 30. Reb1
+Nc4 31. Rd1 Bg4 32. Rd3 $5 Nb2 33. Rxd4 Bxf3 34. Rxd8 Rxd8 35. gxf3 {
+The win will not be easy for White.} Rc8 $5 36. Ra2 $1 Na4 $5 37. Rd2 Rc6 38.
+f4 Nb6 39. Kg2 Nc4 40. Rd3 $5 Nb2 41. Rg3+ Kh8 $5 42. Be2 Rc2 43. Bh5 Rc7 44.
+f5 $5 Kh7 45. Be2 $5 Kh6 46. h4 Rc2 47. Bf3 Nc4 48. Bd5 Nd6 49. Rd3 $1 Kg7 ({Or
+} 49... Nxf5 50. Bb7 Nxh4+ 51. Kg3 $1) 50. Bf3 $5 Nxf5 51. Bb7 Nxh4+ 52. Kg1 $1
+Re2 53. Bxa6 Re5 54. Rc3 $1 Nf5 55. Rc5 $1 Rxc5 56. bxc5 Nd4 57. c6 $1 Nxc6 58.
+Bxb5 {The win has become simple in the ending of bishop versus knight.} Na5 59.
+Kg2 Kf6 60. Kf3 Ke5 61. Ke3 Nb7 62. Bc4 f6 63. a4 Na5 64. Bf7 Nc6 65. Kd3 Kd6
+66. Ke4 Ne7 (66... Na5 67. Bd5 $1 {dominates the knight.}) 67. a5 Kc5 68. a6
+Nc8 69. Bh5 Kd6 70. Bf3 $1 {Anand played a poor tournament.} 1-0
+
+[Event "Dos Hermanas"]
+[Site "7"]
+[Date "1999.04.09"]
+[Round "3"]
+[White "Polgar, Judit"]
+[Black "Illescas Cordoba, Miguel"]
+[Result "0-1"]
+[ECO "B33"]
+[WhiteElo "2677"]
+[BlackElo "2585"]
+[Annotator "JvR"]
+[PlyCount "122"]
+[EventDate "1999.04.??"]
+[SourceDate "1992.12.01"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6 8.
+Na3 b5 9. Bxf6 gxf6 10. Nd5 Bg7 11. c3 f5 12. exf5 Bxf5 13. Nc2 O-O 14. Nce3
+Be6 15. Bd3 f5 16. O-O Kh8 17. Qh5 Bf7 $5 ({The alternative is} 17... e4 18.
+Bc2 Ne7) 18. Qh3 e4 19. Bc2 Ne5 20. f3 $5 (20. Rfd1 $1 {gains an advantage.})
+20... exf3 21. gxf3 Bxd5 22. Nxd5 Qg5+ 23. Kh1 $2 (23. Qg2 Qxg2+ 24. Kxg2 {
+draws (Rogozenco).}) 23... Qd2 24. Bb3 $5 Nd3 $1 25. Qh5 $2 (25. Qg3 $1 Rae8
+26. Rad1 {almost equalises.}) 25... Rae8 $5 26. Qh4 Qxb2 27. Rad1 Qe2 28. Nf4
+Nxf4 29. Qxf4 Bxc3 {Black has gained two pawns.} 30. Qg3 Be5 31. Qh3 Qe3 32.
+Rg1 Rf6 33. Rde1 Rh6 34. Rxe3 Rxh3 35. Re2 Rxf3 36. Reg2 Rxb3 $2 {
+Strange things happen before the time control.} ({Right is} 36... h6 $1) 37.
+axb3 a5 38. Rc1 $2 (38. Ra2 Ra8 39. Rd1 {defends properly.}) 38... a4 39. bxa4
+bxa4 40. Ra2 a3 41. Rf1 Bb2 42. Rxf5 Kg7 43. Rd5 Re6 44. Kg2 Rf6 $1 45. Rd3 Kf7
+46. Kg3 Ke6 47. Kg4 Ke5 48. Re3+ Kd4 49. Rexa3 Bxa3 50. Rxa3 d5 51. Ra7 h6 52.
+h4 Ke5 53. Re7+ Kd6 54. Ra7 Ke5 55. Re7+ Re6 56. Rf7 d4 57. Kf3 Kd5 58. Rd7+
+Kc4 59. Rc7+ Kb3 60. Rd7 Kc3 61. Rc7+ Kd2 {Illescas wins the rook ending.} 0-1
+
+[Event "Dos Hermanas"]
+[Site "7"]
+[Date "1999.04.11"]
+[Round "5"]
+[White "Kramnik, Vladimir"]
+[Black "Illescas Cordoba, Miguel"]
+[Result "1-0"]
+[ECO "A81"]
+[WhiteElo "2751"]
+[BlackElo "2585"]
+[Annotator "JvR"]
+[PlyCount "109"]
+[EventDate "1999.04.??"]
+[SourceDate "1992.12.01"]
+
+1. Nf3 f5 2. d4 Nf6 3. c4 g6 4. g3 Bg7 5. b4 O-O 6. Bb2 c6 7. Bg2 Na6 8. a3 Nc7
+9. O-O d6 10. Nbd2 Kh8 11. a4 $5 {White has a pleasant position.} ({Known is} 
+11. Qc2) 11... a6 12. Ne1 $5 Qe8 13. Nd3 Be6 14. Rc1 g5 $5 15. e3 Rd8 16. Qe2
+Qf7 17. f3 Bc8 $6 ({More useful is} 17... Qh5) 18. e4 fxe4 19. fxe4 Qh5 20.
+Qxh5 Nxh5 21. Rxf8+ Rxf8 22. d5 $1 Bxb2 23. Nxb2 {
+The exchanges have led to a favourable endgame for White.} Bd7 24. a5 $5 Nf6
+25. Re1 e5 $5 26. c5 $1 dxc5 27. d6 $5 {Kramnik sacrifices a pawn.} (27. bxc5
+$1 cxd5 28. exd5 Nfxd5 29. Rxe5 Rf5 30. Rxf5 Bxf5 31. Nbc4 {
+brings a white advantage.}) 27... Ne6 $1 28. Nd3 cxb4 29. Nxe5 Nc5 30. Rc1 $1
+Na4 31. Nd3 Re8 32. e5 $1 Bf5 $2 ({Correct is} 32... Ng4) 33. Rf1 $2 (33. exf6
+$1 Bxd3 34. d7 Rd8 35. Re1 $1 {wins for White (Kramnik).}) 33... Bxd3 34. Rxf6
+Nc5 35. e6 Rxe6 $2 (35... Nxe6 36. d7 Rd8 37. Rxe6 Rxd7 {
+leads to chances for both sides (Kramnik).}) 36. d7 $1 Re1+ 37. Rf1 $1 Rxf1+
+38. Bxf1 Nxd7 39. Bxd3 {White has gained a piece for three pawns.} Ne5 {
+Black has weaknesses.} 40. Bf5 $1 c5 $2 (40... Nf7 $1 {
+utilises the black knight for the defence.}) 41. Be4 c4 42. Bxb7 b3 43. Nb1 Kg7
+44. Bxa6 Nc6 45. Bxc4 Nxa5 46. Bd5 Kf6 47. Kf2 Ke5 48. Bg8 h5 49. Ke3 b2 50.
+Nd2 Kf5 51. h3 h4 52. g4+ Kf6 53. Bd5 Ke5 54. Be4 Ke6 55. Kd4 $1 {
+Kramnik and Adams shared the lead.} 1-0
+
+[Event "Dos Hermanas"]
+[Site "7"]
+[Date "1999.04.11"]
+[Round "5"]
+[White "Polgar, Judit"]
+[Black "Topalov, Veselin"]
+[Result "0-1"]
+[ECO "B92"]
+[WhiteElo "2677"]
+[BlackElo "2700"]
+[Annotator "JvR"]
+[PlyCount "96"]
+[EventDate "1999.04.??"]
+[SourceDate "1992.12.01"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be7 8. O-O
+O-O 9. Kh1 b6 10. a4 Bb7 11. f3 Nc6 12. Nd5 Nxd5 13. exd5 Nb4 14. c4 a5 15. Bd2
+Na6 16. Bc3 $5 (16. f4 {drew in Adams - King, England 1997.}) 16... Bg5 17. Bd3
+Bc8 $5 18. Qc2 g6 19. g3 Bh3 $1 20. Rf2 Nb4 21. Qe2 $6 ({Preferable is} 21.
+Bxb4 $5 axb4 22. Nd2) 21... Qd7 $1 22. Nd2 f5 $1 {Black attacks.} 23. Bxb4 axb4
+24. b3 Qc7 25. Qe1 e4 $1 {Topalov delivers a great positional sacrifice.} 26.
+fxe4 Qg7 $1 27. e5 $1 dxe5 {The e-file has been closed.} 28. Bf1 $6 ({Better is
+} 28. Nf3 $1 Bf6 29. Ng1 e4 30. Rb1) 28... Bg4 $1 29. Be2 h5 $6 (29... e4 $1
+30. Nxe4 Be3 31. Bxg4 Bxf2 32. Nxf2 fxg4 {gains more advantage.}) 30. Bxg4 hxg4
+31. c5 $2 (31. Rd1 $1 e4 32. Nf1 {defends well.}) 31... bxc5 32. Nc4 e4 33. Rd1
+Bf6 {White has a poor position.} 34. d6 Bd4 35. Ra2 Rae8 36. a5 e3 $5 37. Qf1
+g5 38. Qg2 f4 39. Qd5+ Kh8 $1 40. gxf4 gxf4 41. d7 Rd8 42. Rxd4 $5 cxd4 43.
+Qh5+ Kg8 44. Rg2 ({Or} 44. Qd5+ Kh7 45. Qh5+ Qh6) 44... g3 45. Qd5+ Kh7 46.
+Qh5+ Qh6 47. Qd5 Qg6 48. a6 f3 $1 (48... f3 $1 49. Rxg3 Qb1+ 50. Rg1 Qxg1+ $1
+51. Kxg1 f2+ {will mate soon (Ftacnik).}) 0-1
+
+[Event "Dos Hermanas"]
+[Site "7"]
+[Date "1999.04.13"]
+[Round "6"]
+[White "Illescas Cordoba, Miguel"]
+[Black "Karpov, Anatoly"]
+[Result "1-0"]
+[ECO "B19"]
+[WhiteElo "2585"]
+[BlackElo "2710"]
+[Annotator "JvR"]
+[PlyCount "127"]
+[EventDate "1999.04.??"]
+[SourceDate "1992.12.01"]
+
+1. e4 c6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. h4 h6 7. Nf3 Nf6 8. Ne5
+Bh7 9. Bd3 Bxd3 10. Qxd3 e6 11. Bd2 Nbd7 12. f4 Bd6 13. O-O-O O-O 14. Kb1 Qc7
+15. Ne2 Rad8 16. Qf3 h5 17. g4 $1 {
+Illescas improves the theory by attacking immediately.} (17. Rhg1 {
+drew in Anand - Ivanchuk, Linares 1999.}) 17... Bxe5 $6 (17... hxg4 $5 18. Nxg4
+Nxg4 19. Qxg4 f5 20. Qg2 $1 {also favours White.}) 18. fxe5 Nxg4 19. Nf4 $1 {
+White has a lot of compensation for the pawn.} Ndxe5 $6 ({Preferable is} 19...
+c5 $1 20. Nxh5 f5 21. exf6 Ndxf6 22. Nxf6+ Nxf6 {(Illescas).}) 20. dxe5 Qxe5 {
+Black has three pawns for a piece.} 21. Bc1 $6 (21. Rhg1 $1 Qf5 22. Qg3 g6 23.
+Nd3 {prepares an attack.}) 21... Qf5 22. Rxd8 Rxd8 23. Rd1 Rxd1 $1 24. Qxd1 e5
+25. Qd8+ $5 Kh7 26. Nd3 e4 $1 27. Nf4 Ne5 $2 {Black loses time.} ({Right is} 
+27... e3 $1 28. Qd3 Qxd3 29. cxd3 g5 $1 30. hxg5 h4 {(Illescas).}) 28. Qe7 $1
+b5 29. Qxa7 Nf3 30. Qe7 c5 31. Ng2 $5 f6 32. Ne3 Qe5 33. Qd7 Nxh4 34. Qxb5 Nf5
+35. Nxf5 $5 Qxf5 36. b4 $1 h4 37. Qxc5 Qf3 38. b5 h3 39. b6 e3 40. Qb4 $1 h2 $6
+(40... e2 41. Bd2 Qg2 42. b7 h2 43. Qh4+ Kg6 44. b8=Q h1=Q+ 45. Qe1 $1 {
+(Illescas).} Qgf1 46. Qbg3+ {wins for White.}) 41. Qh4+ Kg8 42. Qxh2 e2 43. Qh4
+Qc6 44. Qb4 e1=Q 45. Qxe1 Qxb6+ 46. Bb2 g5 47. Qg3 Kh7 48. a4 Kg6 49. Qb3 Qg1+
+50. Ka2 Qc5 51. Qg8+ Kf5 52. Qh7+ Kf4 53. Qh2+ Kf5 54. Qh7+ Kf4 55. Qd3 Qc6 56.
+Qd4+ Kf5 57. Qd3+ Kg4 58. Kb3 Qb6+ 59. Qb5 Qe3+ 60. Bc3 f5 61. a5 f4 62. Qb6
+Qe4 63. a6 f3 64. Qd4 $1 {Illescas Cordoba scored a fine win.} 1-0
+
+[Event "Dos Hermanas"]
+[Site "7"]
+[Date "1999.04.13"]
+[Round "6"]
+[White "Polgar, Judit"]
+[Black "Adams, Michael"]
+[Result "0-1"]
+[ECO "C89"]
+[WhiteElo "2677"]
+[BlackElo "2716"]
+[Annotator "JvR"]
+[PlyCount "90"]
+[EventDate "1999.04.??"]
+[SourceDate "1992.12.01"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. c3
+d5 9. exd5 Nxd5 10. Nxe5 Nxe5 11. Rxe5 c6 12. d3 Bd6 13. Re1 Qh4 14. g3 Qh3 15.
+Re4 Qf5 16. Nd2 Qg6 17. Re1 f5 {They play the Marshall Attack.} 18. Qf3 $5 (18.
+a4 {was played in Anand - Adams (round 2).}) 18... Kh8 19. Bd1 f4 $1 {
+Black takes the initiative.} 20. g4 $1 h5 21. h3 Nf6 $1 22. Qg2 $1 {
+A passive defence by the queen is needed.} hxg4 23. hxg4 Bxg4 24. Re6 $1 {
+Now Polgar can counter.} Qh5 25. Bxg4 Nxg4 26. Rxd6 $5 {
+Judit wants to win. The game becomes a great adventure.} Rae8 27. Ne4 Ne5 28.
+f3 $5 (28. Bd2 Nf3+ 29. Kf1 Nh2+ 30. Kg1 Nf3+ {brings a perpetual (Adams).})
+28... Nxf3+ 29. Kf2 Nh4 30. Qh1 g5 31. b4 $2 {
+White develops the queenside too slowly.} (31. Bd2 g4 32. Kg1 Nf3+ 33. Kg2 Nh4+
+{leads to perpetual check.}) 31... g4 32. Bb2 g3+ 33. Kg1 Nf3+ 34. Kg2 Nh2 $1 {
+Adams wants more than a perpetual.} 35. c4+ (35. Kg1 Rf7 $1 36. c4+ Kg8 37. Bd4
+bxc4 {wins for Black.}) 35... Kg8 36. Qd1 $6 (36. Kg1 $5 Rf7 $1 37. Bd4 bxc4 {
+returns to the mentioned line.}) 36... f3+ 37. Kxg3 Qg4+ 38. Kf2 Qh4+ 39. Ke3
+Qf4+ 40. Kd4 $5 Qe5+ $1 41. Ke3 Ng4+ 42. Kd2 Qxb2+ 43. Qc2 Qxa1 44. Rg6+ Kh7
+45. Rxg4 f2 {Adams took the sole lead again.} 0-1
+
+[Event "Dos Hermanas"]
+[Site "7"]
+[Date "1999.04.16"]
+[Round "8"]
+[White "Gelfand, Boris"]
+[Black "Svidler, Peter"]
+[Result "0-1"]
+[ECO "A29"]
+[WhiteElo "2691"]
+[BlackElo "2713"]
+[Annotator "JvR"]
+[PlyCount "154"]
+[EventDate "1999.04.??"]
+[SourceDate "1992.12.01"]
+
+1. c4 Nf6 2. Nc3 e5 3. Nf3 Nc6 4. g3 Nd4 5. Bg2 Nxf3+ 6. Bxf3 Bb4 7. Qb3 Bc5 8.
+O-O O-O 9. d3 h6 10. Bd2 Re8 11. Bg2 $5 c6 $1 12. Rac1 Bb6 13. Qa4 d6 14. b4
+Be6 {The chances are equal.} 15. b5 d5 $1 16. bxc6 bxc6 17. cxd5 ({
+The pointe is} 17. Qxc6 $6 Rc8 18. Qa4 dxc4) 17... cxd5 18. Qa3 Rb8 $1 19. Na4
+$2 {The unfortunate knight will be pinned at the border.} ({Better is} 19. Rfd1
+) 19... Ba5 $1 20. Bc3 $2 (20. Nc3 $1 Bb4 21. Qxa7 Re7 22. Qa4 {
+tries to escape from the problems.}) 20... d4 $1 21. Bxa5 Qxa5 22. Rc5 Qa6 23.
+Rc6 Rb6 $1 {The queen's rook shows its use on the b-file.} 24. Rxb6 axb6 25.
+Qb4 Rc8 $1 26. a3 (26. Nxb6 $2 Rb8 27. Rb1 Nd7 {costs a piece (Ribli).}) 26...
+Rc2 27. Re1 Nd7 28. f4 $5 b5 29. Nb2 Rc3 $2 (29... exf4 30. gxf4 Bg4 31. Nd1
+Bxe2 32. Qxd4 Qa5 {keeps the advantage.}) 30. fxe5 Rb3 $5 31. Qxd4 Qxa3 32. Nd1
+{The knight has escaped.} Rb1 33. Rf1 $2 {He blunders a piece.} (33. Kf2 $1 {
+almost equalises.}) 33... Qa4 $1 34. Qxa4 bxa4 35. Nc3 Rxf1+ 36. Kxf1 a3 37. d4
+Nb6 $5 38. Ke1 a2 39. Nxa2 Bxa2 {White has two pawns for the knight.} 40. Kd2
+Kf8 41. e4 Nc4+ 42. Kd3 Ke7 43. Bf3 Kd7 44. Kc3 Nb6 45. d5 Ke7 46. Kd4 Nd7 47.
+Bg4 Bb3 48. Bh3 Nf8 49. Bg4 Ba4 50. Be2 Bd7 51. h4 Bh3 52. Bb5 Bg4 53. Bc4 Ng6
+54. Bb3 f6 $1 55. e6 $5 ({The alternative is} 55. d6+ Kd7 56. Ba4+ Kd8 57. exf6
+gxf6 58. Kd5) 55... Kd6 56. Bc2 Ne5 {Black pieces blockade three pawns.} 57.
+Ke3 $2 {'The mountain should not move'.} ({If White makes a waiting move by} 
+57. Ba4 $1 {it is unclear how Black can win.}) 57... Kc5 $1 58. Ba4 Ng6 59. Bb3
+Kd6 60. Kd4 f5 $1 61. e7 $5 ({Or} 61. exf5 Ne7 $1) 61... Kxe7 62. e5 f4 63.
+gxf4 Nxf4 64. Kc5 Ng6 65. e6 Nxh4 66. d6+ Kd8 67. e7+ Ke8 $1 68. Bc2 Bd7 69.
+Bd1 g6 70. Kd5 Nf5 71. Ke5 h5 72. Kf6 Nxd6 73. Kxg6 Bg4 74. Bc2 Kxe7 75. Kg5
+Nf7+ 76. Kh4 Kf6 77. Ba4 Nd6 {The h-pawn brings the decision.} 0-1
+
+[Event "Dos Hermanas"]
+[Site "7"]
+[Date "1999.04.17"]
+[Round "9"]
+[White "Kramnik, Vladimir"]
+[Black "Topalov, Veselin"]
+[Result "1/2-1/2"]
+[ECO "A40"]
+[WhiteElo "2751"]
+[BlackElo "2700"]
+[Annotator "JvR"]
+[PlyCount "97"]
+[EventDate "1999.04.??"]
+[SourceDate "1992.12.01"]
+
+{If Kramnik wins and Adams draws, they will equalise in score, but Kramnik
+will have a better tie-break.} 1. Nf3 c5 2. c4 g6 3. d4 Bg7 4. e4 d6 5. Be2 Nc6
+6. d5 Nd4 7. Nxd4 cxd4 8. O-O Qb6 9. Nd2 Nf6 10. Rb1 a5 11. b3 O-O 12. a3 $5 e5
+13. b4 axb4 14. axb4 Bd7 15. Bd3 $1 Qc7 16. Nb3 b6 $1 17. Bd2 Nh5 {
+The chances are equal.} 18. Rc1 $5 Ra3 $1 19. Ra1 Rxa1 20. Nxa1 Nf4 21. Bxf4
+exf4 22. Nc2 Ba4 23. Qd2 Bxc2 24. Qxc2 Ra8 25. Qb2 Qa7 26. Rd1 Be5 27. f3 Qa4
+28. Rd2 Ra7 29. Rc2 h5 {Black has the initiative.} 30. Kf1 Qe8 31. c5 $1 {
+White wants to take over.} bxc5 32. bxc5 dxc5 33. Rxc5 Qa8 34. Rc1 Ra2 35. Qb3
+Kg7 36. Rd1 Qa5 37. Qb5 Qa3 $1 38. d6 $2 {There is no need to sacrifice a pawn.
+} ({Solid is} 38. Qc4 Qb2 39. Be2) 38... Bxd6 39. e5 Bb4 $2 (39... Be7 $1 40.
+e6 Ra1 41. Qe5+ Bf6 {plays for a win.}) 40. e6 $1 Ra1 $1 ({Not} 40... fxe6 $4
+41. Qe5+ Kf7 42. Bc4) 41. Qe5+ f6 42. Qc7+ Be7 43. Rxa1 Qxa1+ 44. Ke2 Qa2+ 45.
+Kf1 Qxe6 46. Qxf4 Bd6 47. Qxd4 Bxh2 48. Qe4 Qf7 49. g4 $1 {
+Adams drew as well. So Kramnik achieved the second place.} 1/2-1/2
+
+[Event "Dos Hermanas"]
+[Site "7"]
+[Date "1999.04.17"]
+[Round "9"]
+[White "Svidler, Peter"]
+[Black "Polgar, Judit"]
+[Result "0-1"]
+[ECO "B92"]
+[WhiteElo "2713"]
+[BlackElo "2677"]
+[Annotator "JvR"]
+[PlyCount "66"]
+[EventDate "1999.04.??"]
+[SourceDate "1992.12.01"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be7 8. O-O
+O-O 9. Be3 Be6 10. Nd5 Nbd7 11. Qd3 Bxd5 12. exd5 Nc5 13. Qd2 Nfe4 14. Qb4 a5
+15. Qb5 Qc7 16. Rfd1 b6 $5 (16... a4 {
+happened in Svidler - Gelfand, Haifa 1998).}) 17. Qc4 $5 ({Preferable is} 17.
+f3 Nf6 18. Qc6 Qd8 19. Bf2) 17... f5 18. Bd3 Qd8 19. Nxc5 $5 Nxc5 20. a3 Rc8
+21. Qb5 $5 e4 22. Bf1 Bf6 23. Rab1 Be5 24. b4 axb4 25. Rxb4 $6 ({Better is} 25.
+axb4 $1 Nd7 26. Qe2) 25... Nd7 26. Rc4 Rxc4 27. Qxc4 Qe8 $6 (27... Bxh2+ $1 28.
+Kxh2 Ne5 29. Qb4 f4 30. Qxe4 fxe3 31. f3 $1 Qg5 $1 {begins a strong assault.})
+28. Re1 Nf6 29. h3 Nd7 30. Qc7 f4 $1 {Polgar attacks.} 31. Bc1 $2 ({Correct is
+} 31. Bxb6 $1 Nxb6 32. Qxb6 e3 $5 33. fxe3 fxe3 34. Rxe3 Qh5 {and equality.})
+31... e3 $6 (31... Nc5 $1 32. Re2 Qg6 {starts a winning attack.}) 32. Bb5 $6 (
+32. fxe3 $1 f3 $1 33. gxf3 Qg6+ 34. Bg2 Qg3 35. Kf1 Rxf3+ 36. Bxf3 Qxf3+ 37.
+Kg1 Qg3+ {charges at the king.}) 32... exf2+ 33. Kxf2 f3 $1 {The final standing
+s became: Adams 6/9, Kramnik 51/2, Topalov and Illescas Cordoba 5, Gelfand and
+Karpov 41/2, Kortschnoj 4, Anand, Svidler and Polgar 31/2. It was the last
+super tournament in Dos Hermanas. Hereafter, internet competitions were
+organised.} (33... f3 $1 34. Qxd7 Bg3+ $1 35. Kxg3 Qxe1+ {
+wins for Black (Polgar).}) 0-1
+
