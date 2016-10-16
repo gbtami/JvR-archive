@@ -1,0 +1,306 @@
+[Event "London"]
+[Site "?"]
+[Date "1883.??.??"]
+[Round "1"]
+[White "Chigorin, Mikhail"]
+[Black "Zukertort, Johannes"]
+[Result "0-1"]
+[ECO "C67"]
+[Annotator "JvR"]
+[PlyCount "58"]
+[EventDate "1883.??.??"]
+
+{Games of London 1883 are presented in this file. Jan van Reek.} 1. e4 e5 2.
+Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Be7 6. d5 Nd6 7. Bxc6 $2 ({Correct is} 7.
+Be2 e4 8. dxc6 exf3 9. cxd7+ Bxd7 10. Bxf3 $11 {(Robey-Anderssen, London 1862).
+}) 7... dxc6 8. dxc6 f6 $1 9. cxb7 Bxb7 10. Be3 O-O 11. Nbd2 Nf7 $1 12. Qe2 $2
+({The threatening attack can be stopped by} 12. Nh4 Qd7 13. Qh5) 12... f5 $1
+13. Nb3 f4 $1 14. Bc5 e4 $1 {Black has taken the centre by force.} 15. Nfd4 $2
+({More resistance offers} 15. Bxe7 {(Chigorin)} 15... Qxe7 16. Nfd2) 15... f3 (
+15... Bxc5 16. Ne6 f3 $1 17. Qb5 Qf6 {is even worse.}) 16. Qb5 Qc8 17. Rfd1 Ba6
+18. Qa4 Ng5 19. Nxf3 exf3 20. Rd7 fxg2 21. Rxe7 Nh3+ 22. Kxg2 Nf4+ 23. Kf3 Qh3+
+24. Ke4 Bb7+ 25. Kd4 Ne6+ 26. Kc4 Rf4+ 27. Nd4 Nxc5 28. Kxc5 Qh5+ 29. Kc4 Rxd4+
+{Zukertort started the tournament with an overwhelming victory.} 0-1
+
+[Event "London"]
+[Site "?"]
+[Date "1883.??.??"]
+[Round "3"]
+[White "Steinitz, Wilhelm"]
+[Black "Chigorin, Mikhail"]
+[Result "0-1"]
+[ECO "C25"]
+[Annotator "JvR"]
+[PlyCount "60"]
+[EventDate "1883.??.??"]
+
+1. e4 e5 2. Nc3 Nc6 3. f4 exf4 4. d4 Qh4+ 5. Ke2 d5 6. exd5 Qe7+ 7. Kf2 Qh4+ 8.
+g3 $5 ({The theory of the Steinitz Gambit is} 8. Ke2 Qe7+ $11 {
+(Winawer-Rosenthal, London 1883).}) 8... fxg3+ 9. Kg2 ({Chigorin advices} 9.
+hxg3 $5 Qxh1 10. Bg2 Qh2 11. dxc6 Bd6 12. Qf3) 9... Bd6 $1 10. Qe1+ $1 Nce7 $1
+11. hxg3 Qxd4 12. Rh4 $2 (12. Nf3 Qf6 13. Bg5 Qg6 14. Bb5+ {
+keeps the equality (Chigorin).}) 12... Qf6 13. Ne4 Qg6 14. Bd3 Bf5 15. Nxd6+
+cxd6 16. Bb5+ Kf8 $1 17. c4 Nf6 18. Nf3 Bg4 19. Nd4 Nf5 $2 ({Superior is} 19...
+a6 $1 20. Ba4 Qd3 $1) 20. Nxf5 Qxf5 21. Bf4 g5 $1 22. Bxd6+ Kg7 23. Rxg4 $1
+Nxg4 {White needs a fine counteraction.} 24. Qc3+ $2 (24. Qe2 $1 h5 25. Rf1
+Rae8 $1 26. Bxe8 Rxe8 27. Rxf5 $1 Rxe2+ 28. Kf1 {
+and Black only has a plus (Chigorin).}) 24... f6 25. Rf1 Qe4+ 26. Kg1 Qe2 27.
+Rf3 Rhe8 28. Bxe8 Rxe8 29. Bc5 Qh2+ 30. Kf1 Re2 0-1
+
+[Event "London"]
+[Site "?"]
+[Date "1883.??.??"]
+[Round "6"]
+[White "Zukertort, Johannes"]
+[Black "Blackburne, Joseph"]
+[Result "1-0"]
+[ECO "A13"]
+[Annotator "JvR"]
+[PlyCount "65"]
+[EventDate "1883.??.??"]
+
+{A replay games.} 1. c4 e6 2. e3 Nf6 3. Nf3 b6 4. Be2 Bb7 5. O-O d5 6. d4 Bd6
+7. Nc3 O-O 8. b3 Nbd7 9. Bb2 Qe7 10. Nb5 Ne4 11. Nxd6 cxd6 12. Nd2 Ndf6 $6 {
+White gains a plus after a timid opening.} (12... f5 {loses no time.}) 13. f3
+Nxd2 14. Qxd2 dxc4 15. Bxc4 d5 $6 16. Bd3 Rfc8 17. Rae1 Rc7 18. e4 Rac8 19. e5
+Ne8 20. f4 g6 21. Re3 $1 f5 $2 ({Properly defends} 21... Ng7 22. g4 f5 23. exf6
+Qxf6) 22. exf6 Nxf6 23. f5 $1 Ne4 24. Bxe4 dxe4 25. fxg6 $1 ({
+White has even better than} 25. f6) 25... Rc2 26. gxh7+ Kh8 27. d5+ e5 28. Qb4
+$3 {The sacrifices of heavy pieces begin in a legendary combination.} 28...
+R8c5 ({The pointe is} 28... Qxb4 29. Bxe5+ Kxh7 30. Rh3+ Kg6 31. Rg3+ {
+and mate in four (Minchin).}) 29. Rf8+ $1 Kxh7 ({Quickly ends} 29... Qxf8 30.
+Bxe5+ Kxh7 31. Qxe4+ {(Minchin).}) 30. Qxe4+ Kg7 31. Bxe5+ Kxf8 32. Bg7+ Kg8
+33. Qxe7 1-0
+
+[Event "London"]
+[Site "?"]
+[Date "1883.??.??"]
+[Round "8"]
+[White "Zukertort, Johannes"]
+[Black "Steinitz, Wilhelm"]
+[Result "0-1"]
+[ECO "C46"]
+[Annotator "JvR"]
+[PlyCount "62"]
+[EventDate "1883.??.??"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 g6 $5 4. d4 exd4 5. Nxd4 Bg7 6. Be3 Nf6 7. Be2 O-O
+8. O-O Re8 9. Qd3 $5 Qe7 10. Ndb5 $5 d6 11. Bg5 Ne5 $2 ({Minchin did not like} 
+11... Be6 12. f4 {, but} 12... a6 $1 13. f5 axb5 14. fxe6 Qxe6 15. Nxb5 Rac8 {
+favours Black.}) 12. Qd2 Be6 13. Qf4 Rec8 14. Qh4 c6 $2 15. f4 $2 (15. Nxd6 $1
+{wins a pawn (Minchin).}) 15... Ned7 16. Nd4 h6 17. Nxe6 Qxe6 18. Bxh6 Bxh6 19.
+Qxh6 Nxe4 20. Bg4 Qxg4 21. Nxe4 Qf5 22. Rae1 Re8 $2 ({Better defends} 22... Nf6
+$1 23. Nxf6+ Qxf6 24. f5 Re8) 23. Re3 $1 Rxe4 24. Rh3 Qf6 25. Qh7+ Kf8 26. Qh8+
+Ke7 27. Qxa8 Qd4+ 28. Kh1 Rxf4 29. Re1+ $6 Re4 $1 {
+Black has a lost position. He tries a 'Schwindle' under time pressure.} 30.
+Rxe4+ $4 ({Correct is} 30. Rg1 Qxb2 31. Rb3 $1) 30... Qxe4 31. Qxa7 b6 $1 {
+Zukertort has no proper defence against mate. Steinitz scored a lucky win.} 0-1
+
+[Event "London"]
+[Site "?"]
+[Date "1883.??.??"]
+[Round "9"]
+[White "Chigorin, Mikhail"]
+[Black "Blackburne, Joseph"]
+[Result "1-0"]
+[ECO "A02"]
+[Annotator "JvR"]
+[PlyCount "93"]
+[EventDate "1883.??.??"]
+
+1. f4 e6 2. e3 b6 3. Nf3 Bb7 4. b3 Be7 5. Bb2 Bf6 6. Nc3 Ne7 7. Bd3 Nd5 8. Qe2
+Nc6 9. a3 Nxc3 10. dxc3 e5 {Both sides develop strangely, but equality remains.
+} 11. O-O-O Qe7 12. Bf5 O-O-O 13. Rhe1 Rhe8 14. Qf2 g6 15. Bh3 Bg7 16. g3 f5
+17. e4 fxe4 18. Rxe4 Qf8 19. Re2 exf4 $6 (19... Nb8 $1 {
+protects d7 and increases the pressure.}) 20. Rxe8 Qxe8 21. gxf4 Qf8 22. Qd2
+Kb8 23. Kb1 d6 $2 24. Ng5 $1 Qf6 25. Nxh7 Qh4 26. Ng5 Bh6 27. Be6 Bxg5 28. fxg5
+Rf8 29. h3 Ne5 30. Bc1 Rf2 $2 ({Correct is} 30... Re8 $1 31. Qd4 Qxd4 32. cxd4
+Rxe6 33. dxe5 Rxe5) 31. Qd4 Be4 32. Rd2 Rf1 33. Qa4 {White threatens Qe8+.}
+33... a5 $2 ({The fight renews} 33... Nc6 $1 {(intends ..Qe1)} 34. Qa6 $1 Rf8
+35. Qe2) 34. Bd5 $1 Rxc1+ 35. Kxc1 Qe1+ 36. Kb2 Ka7 37. Rd4 Bf5 38. b4 c5 39.
+bxc5 dxc5 40. Rh4 Qd2 41. Rh7+ Ka6 42. Bb7+ Ka7 43. Bd5+ Ka6 44. Bb7+ Ka7 45.
+Bg2+ Ka6 46. Bf1+ c4 47. Bxc4+ 1-0
+
+[Event "London"]
+[Site "?"]
+[Date "1883.??.??"]
+[Round "10"]
+[White "Blackburne, Joseph"]
+[Black "Steinitz, Wilhelm"]
+[Result "1-0"]
+[ECO "C46"]
+[Annotator "JvR"]
+[PlyCount "53"]
+[EventDate "1883.??.??"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 g6 $5 4. d4 exd4 5. Nxd4 Bg7 6. Be3 Nf6 7. Be2 ({
+Nowadays} 7. Nxc6 bxc6 8. e5 Ng8 {is played.}) 7... O-O 8. O-O Ne7 $5 9. Bf3 d6
+$2 (9... d5 $1 10. e5 Nd7 {gains equality.}) 10. Qd2 Nd7 $5 11. Bh6 Ne5 12.
+Bxg7 Kxg7 13. Be2 $1 {White prepares the attack.} 13... f6 14. f4 Nf7 15. Rad1
+c6 16. Bc4 Bd7 17. Bxf7 Rxf7 18. f5 Nc8 {Blackburne shows romanticism.} 19. e5
+$5 (19. Rf3 $1 {charges ordinarily.}) 19... fxe5 ({Not} 19... dxe5 $2 20. Ne6+
+$1) 20. Ne6+ $1 Bxe6 21. fxe6 Re7 (21... Rf6 22. Rf2 $1 Rxe6 23. Rdf1 {
+White has a fierce assault.}) 22. Qg5 Qe8 $2 ({Correct is} 22... Nb6 $1 23.
+Qf6+ Kg8 {(Steinitz)} 24. h4 Qc7 25. h5 Rg7 26. Rd3 gxh5 27. Rdf3 Rg6 28. Qf8+
+Rxf8 29. Rxf8+ Kg7 30. R1f7+ Qxf7 31. Rxf7+ Kg8 32. Rxb7 Rxe6 33. Rxa7 $11) 23.
+Rd3 $1 Rxe6 24. Rh3 Qe7 25. Qh6+ Kg8 26. Rf8+ $1 Qxf8 27. Qxh7# 1-0
+
+[Event "London"]
+[Site "?"]
+[Date "1883.??.??"]
+[Round "16"]
+[White "Blackburne, Joseph"]
+[Black "Chigorin, Mikhail"]
+[Result "1-0"]
+[ECO "C54"]
+[Annotator "JvR"]
+[PlyCount "87"]
+[EventDate "1883.??.??"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d3 d6 6. Be3 Bb6 {
+The game has been opened quietly.} 7. Nbd2 Be6 8. Qe2 Qd7 9. Bb5 a6 10. Ba4
+Bxe3 11. fxe3 O-O 12. d4 b5 13. Bc2 Bg4 14. O-O Rae8 15. a4 Ne7 16. axb5 axb5
+17. Ra5 c6 18. Rfa1 Ng6 19. Ra7 Qc8 20. d5 cxd5 21. Qxb5 Bxf3 22. gxf3 dxe4 23.
+Bxe4 Nxe4 24. Nxe4 Nh4 25. Qe2 Qf5 26. Rf1 Re6 27. Ng3 Qh3 28. Rf2 f5 29. Qf1
+Qxf1+ 30. Nxf1 f4 31. e4 Rg6+ 32. Kh1 Rg5 $2 {The attack has no chance.} ({
+Correct is} 32... Rb8) 33. Nd2 Rf6 34. Ra1 Kf7 35. b4 Ke6 36. b5 Kd7 37. Nc4
+Rfg6 38. Nb6+ Ke6 39. Nd5 Rf6 40. Ra7 Ng6 41. Nxf6 gxf6 42. b6 Ne7 43. b7 Nc6
+44. Ra8 1-0
+
+[Event "London"]
+[Site "?"]
+[Date "1883.??.??"]
+[Round "17"]
+[White "Chigorin, Mikhail"]
+[Black "Steinitz, Wilhelm"]
+[Result "1-0"]
+[ECO "C51"]
+[Annotator "JvR"]
+[PlyCount "73"]
+[EventDate "1883.??.??"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. b4 Bxb4 5. c3 Ba5 6. O-O d6 7. d4 exd4 8.
+cxd4 Bb6 9. Nc3 Na5 10. Bg5 f6 11. Bf4 Nxc4 12. Qa4+ Qd7 13. Qxc4 Qf7 14. Nd5
+g5 $2 ({The right move} 14... Be6 {was played in the correspondence game
+Chigorin-Yakobovich, 1879. Steinitz will score poorly against Chigorin in
+games with the Evans Gambit.}) 15. Bg3 Be6 16. Qa4+ Bd7 17. Qa3 Rc8 18. Rfe1 $1
+g4 19. Nxb6 axb6 20. Nd2 Be6 $2 ({Correct is} 20... Ne7 {(Steinitz).}) 21. f4
+$2 ({White misses} 21. d5 $1 Bd7 22. Qa7) 21... gxf3 22. Nxf3 Ne7 23. e5 fxe5
+24. dxe5 d5 25. Rf1 Nf5 $2 ({Properly defends} 25... Nc6 $1 26. Ng5 Qe7 27. Qe3
+{(Chigorin) and now} 27... d4 $1) 26. Nd4 Qg6 27. Nxf5 Bxf5 {
+White can crush the defence.} 28. Bh4 $2 ({The sacrifices} 28. e6 $1 Qxe6 29.
+Rxf5 {open the bastion:} 29... Qxf5 30. Re1+ Kf7 31. Qe7+ Kg8 32. Re5 Qb1+ 33.
+Be1) 28... c5 $1 29. Rf3 Kd7 $2 ({The last chance gives} 29... Qe6 $1 30. Qa4+
+Qd7 31. Qf4 O-O 32. Raf1 Bg6 {and a fierce fight.}) 30. Raf1 Rhf8 31. Rg3 Qh6 (
+31... Qe6 32. Rg7+ Kc6 33. Qa4+ b5 34. Qa7 Rf7 35. Rc1 $1 c4 36. Rxf7 Qxf7 37.
+Bf2 $1) 32. Bf6 Be6 33. Qa7 Kc7 34. Rb3 Kd7 35. Qxb6 Rc6 36. Qxb7+ Rc7 37. Qa6
+1-0
+
+[Event "London"]
+[Site "?"]
+[Date "1883.??.??"]
+[Round "18"]
+[White "Chigorin, Mikhail"]
+[Black "Zukertort, Johannes"]
+[Result "0-1"]
+[ECO "C51"]
+[Annotator "JvR"]
+[PlyCount "104"]
+[EventDate "1883.??.??"]
+
+{A replay game.} 1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. b4 Bb6 {
+Zukertort avoids the theoretical lines of the Evans Gambit.} 5. O-O d6 6. a4 a6
+7. c3 Bg4 8. d3 Qf6 9. Be3 Nge7 10. Nbd2 Ng6 $1 {He wants to battle!} ({
+The quiet} 10... Bxe3 11. fxe3 O-O {leads to an equal position.}) 11. Bg5 Qxg5
+12. Nxg5 Bxd1 13. Bxf7+ Ke7 14. Bxg6 Be2 15. Rfe1 Bxd3 16. Nxh7 d5 $1 17. h4 $6
+({Zukertort condemns} 17. exd5 Bxg6 18. dxc6 Bxh7 19. cxb7 Rab8 20. Rxe5+ Kf6
+21. Rae1 Bf5 {, but} 22. Nf1 $1 Rxb7 23. Ng3 Bd7 24. Nh5+ Kg6 25. Nf4+ Kf6 26.
+Nh5+ {draws.}) 17... d4 $1 18. a5 $2 ({Correct is} 18. Rac1 dxc3 19. Rxc3 Nxb4
+20. Nf3) 18... dxc3 $1 19. axb6 cxd2 20. Red1 cxb6 21. Rxd2 Rhd8 22. Rb2 b5 23.
+Re1 Rd4 24. Re3 Rxb4 25. Rd2 Bc4 26. Rf3 Nd4 27. Rg3 Ne2+ 28. Rxe2 Bxe2 29. Bf5
+Rg8 30. Rg6 Bc4 31. Rb6 Rb8 32. Ng5 a5 33. Rg6 a4 34. Rxg7+ Kd6 35. Rd7+ Kc5
+36. Ne6+ Bxe6 37. Bxe6 Rxe4 38. h5 Rh8 39. g4 a3 40. Rd2 b4 41. f3 Rc4 42. Rd5+
+Kc6 43. Ra5 b5 44. Ra6+ Kb7 45. Bxc4 Kxa6 46. Bb3 Kb6 47. Kf2 Ra8 48. Ba2 b3
+49. Bxb3 a2 50. Bxa2 Rxa2+ 51. Ke3 b4 52. h6 Rh2 0-1
+
+[Event "London"]
+[Site "?"]
+[Date "1883.??.??"]
+[Round "20"]
+[White "Steinitz, Wilhelm"]
+[Black "Zukertort, Johannes"]
+[Result "0-1"]
+[ECO "C77"]
+[Annotator "JvR"]
+[PlyCount "178"]
+[EventDate "1883.??.??"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. d3 d6 6. c3 g6 7. d4 $5 b5 8. Bc2
+Bb7 9. d5 Ne7 10. a4 bxa4 $6 (10... Bg7 {continues the development.}) 11. Bxa4+
+Nd7 12. h4 h6 13. h5 g5 14. g4 Nc8 15. Be3 Be7 16. Nbd2 O-O 17. Bc2 $6 (17. Nc4
+Ncb6 18. Na5 $1 {keeps the initiative on the queenside.}) 17... c6 18. c4 Ncb6
+19. Ng1 Qc7 20. b3 Rfc8 21. dxc6 Qxc6 22. Ne2 a5 23. Nc3 a4 $5 24. Nxa4 Nxa4
+25. bxa4 Bd8 26. O-O Ba5 27. Qe2 Bxd2 28. Qxd2 Qxc4 29. Bd3 Qe6 30. f3 Nc5 31.
+Bxc5 $2 (31. Bc2 {avoids passivity.}) 31... dxc5 32. Rfb1 c4 $1 33. Bc2 $1 c3
+$1 34. Qe3 Ba6 35. Rb6 Rc6 36. a5 Rac8 37. Kf2 Qc4 38. Bb3 Qd4 39. Bd5 $5 (39.
+Bc2 {is okay.}) 39... Rxb6 40. axb6 c2 41. Qxd4 exd4 42. Rc1 d3 43. Ke3 Rb8 44.
+b7 Kg7 45. Kd2 $6 ({The problems are solved by} 45. e5 $1 f6 46. exf6+ Kxf6 47.
+Be4) 45... Bxb7 46. Bxb7 Rxb7 47. Kxd3 Rb3+ {
+Zukertort has a positional advantage.} 48. Kxc2 $2 ({The active} 48. Kd4 $1
+Rxf3 49. Rxc2 Rg3 50. e5 Rxg4+ 51. Kd5 Rg1 52. Rc7 Re1 53. Ra7 {seems to draw.}
+) 48... Rxf3 49. Rg1 Re3 50. Kd2 Rxe4 51. Kd3 Rf4 52. Ke3 Kf6 53. Rg2 Ke5 54.
+Rg1 f5 55. Ra1 fxg4 56. Ra5+ Kf6 57. Ra6+ Kg7 58. Ra7+ Rf7 59. Ra4 g3 60. Rg4
+Rf4 61. Rxg3 Rh4 62. Kf2 Rxh5 63. Ra3 Rh1 64. Ra6 Rb1 65. Kg3 Rb4 66. Rc6 Re4
+67. Ra6 h5 68. Rb6 h4+ 69. Kh3 Rf4 70. Ra6 Rf6 71. Ra8 Kg6 72. Rg8+ Kh5 73.
+Rh8+ Rh6 74. Rg8 Rh7 75. Ra8 g4+ 76. Kg2 Rf7 77. Rh8+ Kg5 78. Rg8+ Kf4 79. Rh8
+h3+ 80. Kh2 Kf3 81. Rg8 Rf5 82. Rg7 Kf4 83. Rg8 Rf7 84. Rg6 Ra7 85. Rf6+ Kg5
+86. Rf2 Kh4 87. Rf1 Ra4 88. Rb1 g3+ 89. Kh1 h2 0-1
+
+[Event "London"]
+[Site "?"]
+[Date "1883.??.??"]
+[Round "22"]
+[White "Zukertort, Johannes"]
+[Black "Blackburne, Joseph"]
+[Result "1-0"]
+[ECO "D05"]
+[Annotator "JvR"]
+[PlyCount "81"]
+[EventDate "1883.??.??"]
+
+1. d4 e6 2. Nf3 Nf6 3. e3 d5 4. Bd3 Be7 5. O-O O-O 6. b3 c5 7. Bb2 Nc6 8. Nbd2
+cxd4 9. exd4 b6 {They apply the positional rules of classical chess.} 10. c4
+Ba6 11. Re1 Rc8 12. Rc1 Na5 $6 13. Ne5 Bb4 14. c5 $5 {
+The battle for c4 has ended.} 14... Bxd3 15. Nxd3 Bxd2 16. Qxd2 Ne4 17. Qe3 Re8
+18. f3 Nf6 19. Rc2 Nd7 20. Rec1 bxc5 21. dxc5 Nb8 22. Ne5 f6 $5 23. c6 $1 {
+Zukertort attacks wonderfully.} 23... Rc7 $2 ({The pointe is} 23... fxe5 $2 24.
+c7 $1) ({Fine resistance offers} 23... d4 $1 24. Qd2 Qc7 25. Nd3 Naxc6 26. Bxd4
+) 24. Qd2 fxe5 25. Qxa5 Qc8 ({The game prolongs} 25... Qd6 26. b4 $1 a6) 26.
+Bxe5 Rf7 ({No good is} 26... Rxc6 27. Qxa7) 27. Bxb8 Qxb8 28. c7 Qc8 29. Qxa7
+e5 30. Rc5 e4 31. Rb5 Rff8 32. Rb8 Qd7 33. Rxe8 Rxe8 34. Qa4 Qxa4 35. bxa4 Rc8
+36. fxe4 dxe4 37. Kf2 Kf7 38. Ke3 Ke6 39. Kxe4 g6 40. Rc6+ Kd7 41. Kd5 1-0
+
+[Event "London"]
+[Site "?"]
+[Date "1883.??.??"]
+[Round "25"]
+[White "Steinitz, Wilhelm"]
+[Black "Blackburne, Joseph"]
+[Result "1-0"]
+[ECO "C00"]
+[Annotator "JvR"]
+[PlyCount "79"]
+[EventDate "1883.??.??"]
+
+1. e4 e6 2. e5 $5 b6 $5 3. f4 Bb7 4. Nf3 f6 5. d4 Nh6 6. Bd3 f5 7. O-O Be7 8.
+c4 c5 9. d5 $1 {White conquers the centre.} 9... exd5 10. cxd5 Bxd5 11. Bxf5
+Bb7 12. Bd3 O-O $6 13. Qc2 $1 Nc6 (13... g6 $2 14. Bxg6 $1) 14. Bxh7+ Kh8 15.
+Bg6 $6 ({Tension keeps} 15. Nc3 $1 d5 16. Rd1) 15... d5 16. Nc3 c4 17. Qe2 Bc5+
+18. Kh1 Bc8 19. Ng5 Bg4 20. Qe1 Ne7 21. Bc2 Qe8 22. Bd2 Qh5 23. Na4 Nef5 24.
+Nxc5 bxc5 25. e6 Rae8 26. Bd1 Re7 27. Bf3 Nd4 28. Qe5 $6 Nxf3 29. gxf3 Bxe6 30.
+Rae1 {Black has to make one move before the time control.} 30... Rfe8 $2 ({
+He can equalise by} 30... Nf7 $1 {(Steinitz)} 31. Nxf7+ Qxf7 32. Qd6 Rfe8) 31.
+Nxe6 $1 Qxe5 (31... Nf5 $1 32. Nxg7 Nxg7 33. Qxe7 $1 Rxe7 34. Rxe7) 32. Rxe5
+Rxe6 33. Rxd5 Rf6 34. Rg1 Nf5 35. Bc3 Nd4 36. Rxc5 Rxf4 37. Rxc4 Ne2 38. Rxf4
+Nxf4 39. Rxg7 Re1+ 40. Rg1+ 1-0
+

@@ -1,0 +1,321 @@
+[Event "Rotterdam"]
+[Site "?"]
+[Date "1990.??.??"]
+[Round "1"]
+[White "Gurevich, Mikhail"]
+[Black "Kortschnoj, Viktor"]
+[Result "1/2-1/2"]
+[ECO "A85"]
+[WhiteElo "2645"]
+[BlackElo "2625"]
+[Annotator "JvR"]
+[PlyCount "84"]
+[EventDate "1990.??.??"]
+
+{Games of the fourth VSB tournament are presented in this file. Jan van Reek.} 
+1. d4 e6 2. c4 f5 3. Nc3 Nf6 4. Nf3 Bb4 5. Qb3 Qe7 6. g3 Ne4 7. Bg2 Nc6 8. Qc2
+$6 ({Better is} 8. O-O Na5 9. Qa4 {(Dreev-Short, Manila 1990).}) 8... O-O 9.
+O-O Bxc3 10. bxc3 Na5 11. c5 b6 $5 12. Nd2 $6 ({A plus keeps} 12. Ng5 $1 {
+(Jongsma).}) 12... Nxd2 13. Bxd2 Bb7 14. Bxb7 Nxb7 15. Rab1 e5 16. Qd3 Qf7 17.
+Qa6 Na5 18. dxe5 Qxa2 19. Rfd1 Qe6 20. Bf4 h6 21. Qd3 Rad8 22. cxb6 axb6 23. h4
+Nc4 24. Qd5 Rfe8 25. Rb4 $2 ({Nicely draws} 25. Qxe6+ $1 Rxe6 26. Rb4 $1 Nxe5
+27. Rb5 Rde8 28. Bxe5 Rxe5 29. Rxe5 Rxe5 30. Rxd7) 25... Qxd5 26. Rxd5 c6 $1
+27. Rd1 b5 28. Rbb1 Nxe5 29. Ra1 d5 30. Ra6 Rc8 31. Ra7 Ng6 $6 32. Be3 Re7 $6
+33. Rda1 Rxa7 34. Rxa7 Nf8 35. Re7 Rd8 36. Rc7 d4 $6 37. Bxd4 Ne6 38. Rxc6 Nxd4
+39. cxd4 Rxd4 40. Rb6 (40. Rc5 $1 Rd2 $1 41. Rxf5 Rxe2 42. Rxb5 {
+wins a pawn but not the game.}) 40... b4 41. e3 Rc4 42. Rb7 h5 1/2-1/2
+
+[Event "Rotterdam"]
+[Site "?"]
+[Date "1990.??.??"]
+[Round "1"]
+[White "Short, Nigel"]
+[Black "Timman, Jan"]
+[Result "1/2-1/2"]
+[ECO "B63"]
+[WhiteElo "2635"]
+[BlackElo "2680"]
+[Annotator "JvR"]
+[PlyCount "83"]
+[EventDate "1990.??.??"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6 7. Qd2 Be7 8.
+O-O-O O-O 9. Nb3 Qb6 10. f3 Rd8 11. Kb1 a6 12. Be3 Qc7 13. Qf2 Nd7 14. h4 b5
+15. g4 Bb7 ({Timman diverts from} 15... Nce5 {in Mokry - Miralles, Haifa 1989.}
+) 16. Rg1 Nce5 17. f4 b4 $1 18. Na4 Nc4 19. Bxc4 Qxc4 20. Na5 $1 Qxe4 21. Rd4
+Qf3 22. Rxb4 Be4 23. Nc3 {A crucial position.} 23... Qxf2 $2 ({
+Unfavourable seems to be} 23... Bxh4 $1 24. Qxf3 Bxf3 25. g5 $1 {(Jongsma), but
+} 25... f6 $1 26. Rf1 Bg2 27. Rg1 Bf3 {draws.}) 24. Bxf2 d5 25. Rb7 Bc5 26.
+Nxe4 dxe4 27. Bxc5 Nxc5 28. Rc7 Rac8 29. Rxc8 Rxc8 30. Nc4 f5 $6 ({
+More solid is} 30... Kf8 31. Rd1 Ke7) 31. Ne3 Rf8 32. b4 Na4 33. gxf5 exf5 34.
+Nd5 Kf7 35. c4 Rc8 36. c5 $2 ({Excellent chances are offered by} 36. Rc1 Ke6
+37. a3 Rc6 38. Ka2 Nb6 39. Ne3 {(Jongsma).}) 36... Rd8 37. Ne3 g6 38. Rc1 Ke6
+39. c6 Rc8 40. c7 Kd7 41. Nd5 Ke6 42. Ne3 {
+The game ends with a repetition of moves.} 1/2-1/2
+
+[Event "Rotterdam"]
+[Site "?"]
+[Date "1990.??.??"]
+[Round "2"]
+[White "Short, Nigel"]
+[Black "Gurevich, Mikhail"]
+[Result "1/2-1/2"]
+[ECO "C11"]
+[WhiteElo "2635"]
+[BlackElo "2645"]
+[Annotator "JvR"]
+[PlyCount "86"]
+[EventDate "1990.??.??"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 dxe4 5. Nxe4 Be7 6. Bxf6 Bxf6 7. Nf3 O-O 8.
+c3 Nd7 9. Qc2 e5 10. O-O-O exd4 11. Nxd4 Bxd4 12. Rxd4 Qe7 13. h4 {
+This move stems from Ilyin Zhenevsky-Rauzer, Leningrad 1936.} 13... Ne5 $1 14.
+Ng5 g6 15. Qe2 Qf6 16. Ne4 Qf4+ 17. Nd2 Qf6 (17... f6 {
+drew in Glek-Lputian, Dortmund 1992.}) 18. h5 Bf5 19. hxg6 ({
+The critical variation is} 19. g4 $5 Nxg4 $1 (19... Nc6 20. Qf3 Nxd4 21. cxd4
+Qxd4 22. gxf5 {(Gurevich)}) 20. Rxg4 Rae8 $1 21. Qd1 Bxg4 22. Qxg4 Re1+ 23. Kc2
+Qxf2 {and a ferocious fight.}) 19... Bxg6 20. Ne4 Qe6 21. f3 Nc6 22. Ra4 a6 23.
+Qc4 Qe5 24. Qd5 Qxd5 25. Nf6+ Kg7 26. Nxd5 Rae8 27. Rah4 Re1+ 28. Kd2 Rb1 29.
+Bd3 Rxh1 ({Avoids} 29... Rxb2+ $4 30. Kc1 Bxd3 31. Kxb2) 30. Rxh1 Rd8 31. c4
+Ne5 32. Bxg6 hxg6 33. Kc3 c6 34. Nf4 g5 35. Rh5 Kf6 36. Rh6+ Ke7 37. Rh5 Kf6
+38. Rh6+ Ke7 39. Rh5 Nxc4 40. Rxg5 Nb6 41. b3 Kf6 42. Rh5 Rd1 43. a4 Nc8
+1/2-1/2
+
+[Event "Rotterdam"]
+[Site "?"]
+[Date "1990.??.??"]
+[Round "2"]
+[White "Timman, Jan"]
+[Black "Kortschnoj, Viktor"]
+[Result "1/2-1/2"]
+[ECO "E20"]
+[WhiteElo "2680"]
+[BlackElo "2625"]
+[Annotator "JvR"]
+[PlyCount "68"]
+[EventDate "1990.??.??"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. f3 c5 5. d5 d6 6. e4 O-O 7. Nge2 Re8 8. a3 Ba5
+9. Ng3 Bxc3+ $1 10. bxc3 Qa5 11. Bd2 Bd7 12. Be2 Ba4 13. Qb1 Nbd7 14. Ra2 Rab8
+15. O-O a6 16. Rb2 Qc7 17. Re1 Nf8 18. Bd3 Ng6 19. f4 e5 20. f5 Nf4 $5 21. Bf1
+Kh8 22. Qc1 b5 $5 {Korchnoi starts the fight with a pawn sacrifice.} 23. Bxf4
+exf4 24. Qxf4 Re5 25. Reb1 h6 26. cxb5 axb5 27. c4 b4 28. axb4 $6 (28. Qe3 $1
+b3 29. Be2 {keeps a plus.}) 28... cxb4 29. Qe3 b3 30. Ra1 Rb4 31. Bd3 Nd7 32.
+Ne2 Nc5 33. Nc3 $6 (33. Rc1 {protects the c-pawn.}) 33... Nxd3 34. Qxd3 Rxc4 {
+Black accepted the draw despite his slight advantage.} 1/2-1/2
+
+[Event "Rotterdam"]
+[Site "?"]
+[Date "1990.??.??"]
+[Round "3"]
+[White "Gurevich, Mikhail"]
+[Black "Timman, Jan"]
+[Result "1-0"]
+[ECO "E33"]
+[WhiteElo "2645"]
+[BlackElo "2680"]
+[Annotator "JvR"]
+[PlyCount "51"]
+[EventDate "1990.??.??"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 Nc6 5. Nf3 d6 6. Bd2 O-O 7. a3 Bxc3 8.
+Bxc3 Qe7 9. g3 e5 10. d5 Nd8 $6 ({More sense makes} 10... Nb8) 11. Bg2 Bg4 $6 {
+The bishop goes to a vulnerable square.} ({Better is} 11... a5 {
+(Mikenas-Eliskases, Buenos Aires 1939).}) 12. Nh4 c6 13. O-O cxd5 14. cxd5 Qd7
+$2 {Square d7 should remain open.} 15. f4 Qb5 16. e4 Be2 ({It is too late for} 
+16... Bd7 {due to} 17. fxe5 Ng4 18. exd6 Ne3 19. Qf2 Nxf1 20. Rxf1) 17. Rfe1
+Bd3 18. Qd2 Re8 19. Kh1 $5 g6 20. a4 Qa6 21. b3 Rc8 22. Bf3 $1 {
+White prevents ..Ng4.} 22... Nd7 23. Rad1 Nc5 24. fxe5 b5 (24... dxe5 25. Bb4)
+25. Bd4 bxa4 26. Bxc5 {Timman had an off-day.} 1-0
+
+[Event "Rotterdam"]
+[Site "?"]
+[Date "1990.??.??"]
+[Round "3"]
+[White "Kortschnoj, Viktor"]
+[Black "Short, Nigel"]
+[Result "1-0"]
+[ECO "A25"]
+[WhiteElo "2625"]
+[BlackElo "2635"]
+[Annotator "JvR"]
+[PlyCount "79"]
+[EventDate "1990.??.??"]
+
+1. c4 e5 2. g3 Nc6 3. Nc3 g6 4. Bg2 Bg7 5. e3 d6 6. Nge2 h5 $5 7. d4 h4 8. d5
+Nce7 9. e4 f5 10. Ng1 $5 Nf6 11. Bg5 ({White diverts from} 11. Nh3 {
+(Hort-Seirawan, Wijk aan Zee 1983).}) 11... hxg3 12. hxg3 Rxh1 13. Bxh1 Kf7 14.
+Qe2 Qh8 15. Bg2 Bd7 16. O-O-O Qh5 17. Qxh5 Nxh5 18. Nh3 Rh8 19. Rh1 Bf6 $6 ({
+Simpler is} 19... Nf6) 20. Bd2 Kg7 21. Nb5 $1 fxe4 22. Nc3 $5 {
+White's pieces are better placed.} 22... Ng8 $2 ({Equality gains} 22... e3 $1
+23. Bxe3 Nf5 $1 24. Bd2 Nd4 {(Short).}) 23. Nxe4 Be7 24. Nhg5 Ngf6 25. Ne6+ $1
+Bxe6 26. dxe6 c6 27. Ng5 Re8 28. Bf3 Bf8 29. Bxh5 $2 {
+The strong bishop and inactive knight should remain on the board.} 29... gxh5
+30. f4 exf4 31. gxf4 Kg6 32. Nf3 Ne4 ({Avoids the trap} 32... Rxe6 $2 33. f5+
+$1 Kxf5 34. Nd4+) 33. Be3 c5 $2 ({Black misses the terrific escape} 33... Kf5
+$1 34. Nd4+ Kg4 35. Rg1+ Ng3 36. Bf2 h4) 34. Nh4+ Kf6 35. f5 Be7 36. Rf1 Kg7
+37. Rg1+ Kf6 38. Bf4 Bd8 39. Kc2 a6 40. Rg2 {
+Korchnoi and Gurevich lead at the end of the first cycle.} 1-0
+
+[Event "Rotterdam"]
+[Site "?"]
+[Date "1990.??.??"]
+[Round "4"]
+[White "Kortschnoj, Viktor"]
+[Black "Gurevich, Mikhail"]
+[Result "1-0"]
+[ECO "A81"]
+[WhiteElo "2625"]
+[BlackElo "2645"]
+[Annotator "JvR"]
+[PlyCount "89"]
+[EventDate "1990.??.??"]
+
+1. d4 f5 2. g3 Nf6 3. Bg2 g6 4. Nh3 $1 d6 5. Nc3 $1 Bg7 6. Nf4 {Korchnoi plays
+as the founding fathers of the Leningrad learned him in 1947. He aims his
+troops at the weakness e6.} 6... c6 7. d5 e5 8. dxe6 d5 $2 ({Correct is} 8...
+O-O $1 9. h4 Qe7) 9. h4 Qe7 10. h5 g5 11. h6 Bf8 12. Nh5 $5 Rg8 13. Nxf6+ Qxf6
+14. Bxd5 $1 {A sacrifice opens black's screen.} 14... Bxe6 $6 ({
+More chances gives} 14... cxd5 15. Nxd5 Qd8 16. Qd4 Bxe6 17. Nf6+ Kf7 $2 18.
+Qxd8 Bb4+ 19. c3 Rxd8 20. Nxh7 Be7 21. Nxg5+ Bxg5 22. Bxg5 Rh8 {(Gurevich).})
+15. Bxe6 Qxe6 16. e4 $1 Bxh6 17. Qf3 fxe4 18. Qxe4 Rg6 19. Be3 Nd7 20. O-O-O
+O-O-O 21. Qa4 a6 22. Rxh6 Rxh6 23. Bxg5 Re8 24. Bxh6 Qxh6+ 25. Kb1 Qe6 26. Qd4
+Nf6 27. a3 h5 28. Na4 Qe5 29. Qd3 Kc7 30. Nc3 Kc8 31. f4 Qe7 32. Qd4 Rg8 33.
+Rd3 Re8 34. b4 Qe6 35. Kb2 Kc7 36. Na4 Nd5 37. c4 Nf6 38. Qb6+ Kc8 39. Nc5 Qe7
+40. Qa7 Qc7 41. Na4 (41. Nxa6 $1 {wins quickly.}) 41... Qh7 42. Qd4 h4 43. Qd6
+Re2+ 44. Kb3 Nd5 45. Nb6+ $1 1-0
+
+[Event "Rotterdam"]
+[Site "?"]
+[Date "1990.??.??"]
+[Round "4"]
+[White "Timman, Jan"]
+[Black "Short, Nigel"]
+[Result "1-0"]
+[ECO "B32"]
+[WhiteElo "2680"]
+[BlackElo "2635"]
+[Annotator "JvR"]
+[PlyCount "101"]
+[EventDate "1990.??.??"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e5 5. Nb5 d6 6. c4 Be7 7. N1c3 a6 8. Na3
+Be6 9. Be2 Nd4 10. O-O Rc8 $5 11. Bg4 Nf6 12. Bxe6 fxe6 13. Be3 Qb6 14. Nc2
+Rxc4 ({Avoids} 14... Qxb2 $2 15. Bxd4 $1 exd4 16. Na4 {(Timman).}) 15. Qd3 Qc7
+16. Bxd4 exd4 17. Nxd4 Kf7 $1 18. Rad1 Re8 19. Kh1 Bf8 20. f4 Kg8 21. f5 exf5
+22. exf5 Re5 23. Nf3 Rec5 24. Nd2 Rh4 25. Qg3 Rb4 26. a3 Rxb2 $5 27. Na4 Rxd2
+28. Rxd2 Rc4 $6 ({Troubles repels} 28... Rc1 $1 29. Qb3+ d5 30. Rxc1 Qxc1+ 31.
+Qd1 Qxd1+ 32. Rxd1 Bxa3) 29. Qb3 Kh8 (29... d5 $1 30. Nb6 Rc1 31. Rxc1 Qxc1+
+32. Rd1 Qxa3 {is better.}) 30. Nb6 Rc3 31. Nd5 Rxb3 32. Nxc7 Rxa3 33. Ne6 Be7
+34. Rc2 h5 35. Rc8+ Ng8 36. Nf4 Kh7 37. Ng6 $6 Re3 $2 ({
+The last chance of survival} 37... Bf6 $1 {is missed.}) 38. g3 d5 39. Rb8 b5
+40. Rc1 Rf3 41. Rxg8 Kxg8 42. Rc8+ Kf7 43. Ne5+ Kf6 44. Nxf3 Kxf5 45. Kg2 Bf6
+46. Ra8 Ke4 47. Rxa6 b4 48. Kf2 Kd3 49. Ne1+ Kd2 50. Ra5 d4 51. Ra2+ 1-0
+
+[Event "Rotterdam"]
+[Site "?"]
+[Date "1990.??.??"]
+[Round "5"]
+[White "Short, Nigel"]
+[Black "Kortschnoj, Viktor"]
+[Result "1/2-1/2"]
+[ECO "C11"]
+[WhiteElo "2635"]
+[BlackElo "2625"]
+[Annotator "JvR"]
+[PlyCount "69"]
+[EventDate "1990.??.??"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 dxe4 5. Nxe4 Nbd7 6. Nxf6+ Nxf6 7. Nf3 c5
+8. Bxf6 gxf6 9. Bb5+ Bd7 10. Bxd7+ Qxd7 {
+This position is known from Spassky-Pertrosian, Moscow 1967.} 11. Qe2 cxd4 12.
+O-O-O Bc5 13. Nxd4 O-O-O 14. Nb3 Qc6 15. f4 Bb6 16. g3 Rxd1+ 17. Rxd1 Rd8 18.
+Rxd8+ Kxd8 19. c3 Ke7 20. Nd2 Qd5 21. b3 f5 22. Kc2 f6 23. a4 (23. Qh5 Be3 $1
+24. Qxh7+ Kd8 25. Qg8+ Ke7 {leads to a perpetual.}) 23... Kf7 24. Qh5+ Kg7 25.
+Qf3 Qxf3 26. Nxf3 Kf7 27. Kd3 Ke7 28. b4 a5 29. Kc4 axb4 30. cxb4 Kd6 31. a5
+Bf2 32. b5 h5 33. Nd4 Bxd4 $5 34. Kxd4 e5+ 35. Kc4 1/2-1/2
+
+[Event "Rotterdam"]
+[Site "?"]
+[Date "1990.??.??"]
+[Round "5"]
+[White "Timman, Jan"]
+[Black "Gurevich, Mikhail"]
+[Result "1/2-1/2"]
+[ECO "C11"]
+[WhiteElo "2680"]
+[BlackElo "2645"]
+[Annotator "JvR"]
+[PlyCount "111"]
+[EventDate "1990.??.??"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. f4 c5 6. Nf3 Nc6 7. Be3 cxd4 8. Nxd4
+Bc5 9. Qd2 Nxd4 10. Bxd4 Bxd4 11. Qxd4 Qb6 12. Qxb6 Nxb6 {
+The endgame is unpleasant for Black, because he can only defend.} 13. Nb5 Ke7
+14. b3 $5 ({Timman deviates from} 14. Nd4 {
+in Nunn-Gurevich, Wijk aan Zee 1990. He restricts Nb6.}) 14... Bd7 15. Nd4 a6
+$2 {White gets a target on the queenside.} (15... f6 {
+starts a counterattack in the centre.}) 16. Bd3 g6 17. Kd2 h5 18. g3 Rac8 19.
+a4 Be8 20. a5 Nd7 21. b4 Nb8 22. b5 ({Even stronger is} 22. Rhb1 $1 Bc6 {
+(Timman)} 23. b5 $1 axb5 24. Nxb5) 22... Bxb5 23. Bxb5 axb5 24. Nxb5 Na6 25.
+Nd6 Rc7 26. Rhb1 Nc5 27. Rb5 Ne4+ $1 {The knights have to be exchanged.} 28.
+Nxe4 dxe4 29. Ra3 Rd8+ 30. Ke3 Rd5 $2 ({A bastion creates} 30... Kd7 $1 31.
+Kxe4 Kc8 {(Timman).}) 31. c4 Rdd7 {The critical position.} 32. Rc3 $2 ({
+White misses the win} 32. c5 $1 Kd8 {(Timman)} 33. Rxb7 $1 Rxb7 34. c6 Ra7 35.
+cxd7 Kxd7 36. Kxe4 Kc6 37. Kd4 Kb5 38. Rb3+) 32... Kd8 $1 33. Kxe4 Kc8 {
+Gurevich gets a fortress anyway.} 34. Ke3 Rd1 35. Rb6 Ra1 36. Rb5 Ra2 37. h3
+Rc6 38. g4 Rh2 39. Ke4 h4 40. c5 Re2+ 41. Kd3 Rh2 42. Kc4 Ra2 43. Kb4 Rb2+ 44.
+Kc4 Ra2 45. Kb3 Ra1 46. Kb4 Rb1+ 47. Kc4 Ra1 48. Kd4 Ra2 49. g5 Ra4+ 50. Rc4
+Ra3 51. Rc3 Ra4+ 52. Rc4 Ra3 53. Rcb4 Rc7 54. Rb3 Ra4+ 55. Ke3 Rc4 56. a6
+1/2-1/2
+
+[Event "Rotterdam"]
+[Site "?"]
+[Date "1990.??.??"]
+[Round "6"]
+[White "Gurevich, Mikhail"]
+[Black "Short, Nigel"]
+[Result "1-0"]
+[ECO "A85"]
+[WhiteElo "2645"]
+[BlackElo "2635"]
+[Annotator "JvR"]
+[PlyCount "67"]
+[EventDate "1990.??.??"]
+
+1. d4 e6 2. c4 f5 3. Nc3 Nf6 4. Nf3 Be7 5. Bf4 O-O 6. e3 d6 7. h3 Qe8 8. Qc2
+Nc6 9. O-O-O Bd8 $5 10. a3 $5 e5 $1 {Black has liberated his position.} 11. Bh2
+a6 12. d5 Ne7 13. Ng5 Ng6 14. g4 $5 Nxg4 $1 15. hxg4 $5 {
+White opens files at the cost of a pawn.} ({Greater turmoil creates} 15. Nxh7
+$1 Nxf2 16. Qxf2 Kxh7 17. h4 $1) 15... Bxg5 16. gxf5 Bxf5 17. Ne4 Bh6 18. Bd3
+Qd7 19. Bg3 Rf7 20. Kb1 Raf8 21. Ka1 Ne7 22. Rdg1 Bg6 23. Bh4 $1 Kh8 24. Rh2
+Bxe4 $1 {The attack and defence remain in balance.} 25. Bxe4 Nf5 26. Bg5 Bxg5
+27. Rxg5 h6 28. Rg1 c5 $1 29. Qd1 b5 30. Qh5 bxc4 31. Rg6 c3 $1 {
+Tactical problems are maltreated under time pressure.} 32. b3 $2 ({
+Equality keeps} 32. bxc3 c4 33. Kb2 Rf6 34. Kc1) 32... Rf6 $2 (32... c4 $1 33.
+Bxf5 Qxf5 34. Qxf5 Rxf5 {and Black wins.}) 33. Bxf5 Qxf5 $4 (33... Rxf5 34.
+Rxh6+ $1 gxh6 35. Qxh6+ Kg8 36. Rg2+ Kf7 37. Rg7+ Ke8 38. Rxd7 Kxd7 39. Qe6+
+Kc7 40. Qe7+ Kc8 41. Qxd6 Rxf2 {and Black escapes (Gurevich).}) 34. Qxh6+ $1 {
+Short resigned due to mate in one.} 1-0
+
+[Event "Rotterdam"]
+[Site "?"]
+[Date "1990.??.??"]
+[Round "6"]
+[White "Kortschnoj, Viktor"]
+[Black "Timman, Jan"]
+[Result "1/2-1/2"]
+[ECO "A33"]
+[WhiteElo "2625"]
+[BlackElo "2680"]
+[Annotator "JvR"]
+[PlyCount "34"]
+[EventDate "1990.??.??"]
+
+1. c4 c5 2. Nf3 Nf6 3. Nc3 Nc6 4. d4 cxd4 5. Nxd4 e6 6. Bg5 Qb6 $5 ({Solid is} 
+6... Be7 {(Korchnoi-Suetin, Yerevan 1962).}) 7. Nb3 Bb4 8. Bxf6 gxf6 9. e3 Ne5
+10. Rc1 Rg8 $5 11. a3 Bxc3+ 12. Rxc3 d6 13. c5 dxc5 14. Nxc5 Nd7 $6 15. Nb3 $6
+{Korchnoi needs a draw.} ({He can play for a win by} 15. Ne4 $1 f5 (15... Qxb2
+$2 16. Nd6+ Ke7 17. Rc7) 16. Nd6+ Ke7 17. Nc4) 15... Ne5 16. Nc5 Nd7 $6 17. Nb3
+$6 Ne5 {Korchnoi has won the tournament.} 1/2-1/2
+

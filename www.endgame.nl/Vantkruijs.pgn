@@ -1,0 +1,424 @@
+[Event "Amsterdam"]
+[Site "?"]
+[Date "1851.??.??"]
+[Round "4"]
+[White "De Heer, Klaas"]
+[Black "Van 't Kruijs, Maarten"]
+[Result "0-1"]
+[ECO "C41"]
+[PlyCount "84"]
+[EventDate "1851.??.??"]
+
+1. e4 e5 2. Nf3 d6 3. Bc4 c6 4. h3 h6 5. d3 a6 6. c3 d5 7. Bb3 Qd6 8. O-O Be6
+9. Re1 f6 10. Qe2 Nd7 11. Na3 Ne7 12. Be3 g6 13. Rad1 Bg7 14. Nc2 f5 15. exd5
+cxd5 16. c4 O-O 17. cxd5 Bxd5 18. Bxd5+ Nxd5 19. d4 e4 20. Nh2 f4 21. Bd2 Rae8
+22. Qg4 h5 23. Qe2 b5 24. f3 e3 25. Ba5 Nb8 26. Nf1 Nc6 27. Bc3 b4 28. Bxb4
+Ncxb4 29. Nxb4 Nxb4 30. Qc4+ Kh7 31. a3 Nd5 32. Re2 Rc8 33. Qd3 Rf7 34. Qe4 Re7
+35. Qd3 Rec7 36. g3 fxg3 37. Nxe3 Nf4 38. Qd2 Nxe2+ 39. Qxe2 Bxd4 40. Kh1 Qe5
+41. Qf1 Qxe3 42. b4 Rc1 0-1
+
+[Event "Amsterdam"]
+[Site "?"]
+[Date "1851.??.??"]
+[Round "4"]
+[White "Van 't Kruijs, Maarten"]
+[Black "De Heer, Klaas"]
+[Result "1-0"]
+[ECO "A01"]
+[PlyCount "54"]
+[EventDate "1851.??.??"]
+
+1. b3 e5 2. Bb2 Nc6 3. g3 d5 4. Bg2 Nf6 5. e3 Bf5 6. d3 Bc5 7. Ne2 Qd6 8. c3
+Rd8 9. O-O O-O 10. a3 a6 11. d4 exd4 12. cxd4 Bb6 13. b4 Ne7 14. Nbc3 Ba7 15.
+f3 Qe6 16. Qd2 Rfe8 17. Nf4 Qc6 18. Kh1 Nc8 19. Rfe1 Nb6 20. Bf1 Nc4 21. Bxc4
+dxc4 22. d5 g5 23. e4 Bg6 24. Nxg6 hxg6 25. Qxg5 Qd6 26. Nb5 axb5 27. Bxf6 Rd7
+1-0
+
+[Event "Amsterdam"]
+[Site "?"]
+[Date "1851.??.??"]
+[Round "5.1"]
+[White "Coopman, M.M.."]
+[Black "Van 't Kruijs, Maarten"]
+[Result "0-1"]
+[ECO "B00"]
+[PlyCount "104"]
+[EventDate "1851.??.??"]
+
+1. e4 b6 2. d3 Bb7 3. f4 c5 4. Nf3 e6 5. Nc3 Nc6 6. Be2 Be7 7. O-O Nf6 8. e5
+Ng8 9. Ne4 d5 10. exd6 Bxd6 11. Nfg5 Nf6 12. Bf3 Rb8 13. c3 O-O 14. Nxf6+ Qxf6
+15. Be4 g6 16. Qf3 Na5 17. Bxb7 Nxb7 18. Qh3 Qg7 19. Re1 Rfe8 20. Bd2 h6 21.
+Nf3 Na5 22. c4 Nc6 23. Bc3 Nd4 24. Bxd4 cxd4 25. g3 g5 26. fxg5 hxg5 27. Qg4 f5
+28. Qxg5 Qxg5 29. Nxg5 e5 30. Kg2 Kg7 31. Re2 Kg6 32. h4 Re7 33. g4 fxg4 34.
+Ne4 Bc7 35. Kg3 Rf8 36. Kxg4 Rf4+ 37. Kg3 Rh7 38. h5+ Rxh5 39. Rh2 Rxh2 40.
+Kxh2 Kf5 41. Re1 Rf3 42. Rd1 Rxd3 43. Ng3+ Rxg3 44. Kxg3 e4+ 45. Kf2 d3 46. b4
+Bf4 47. Kg1 Ke5 48. c5 Kd4 49. cxb6 axb6 50. a4 e3 51. a5 Bg3 52. Rf1 e2 {
+and Black wins.} 0-1
+
+[Event "Amsterdam"]
+[Site "?"]
+[Date "1851.??.??"]
+[Round "5.2"]
+[White "Van 't Kruijs, Maarten"]
+[Black "Coopman, M.M.."]
+[Result "0-1"]
+[ECO "D31"]
+[PlyCount "104"]
+[EventDate "1851.??.??"]
+
+1. d4 e6 2. c4 c6 3. Nc3 d5 4. e3 f5 5. a3 Nf6 6. Nf3 Bd6 7. Ne5 Nbd7 8. f4 O-O
+9. Be2 Ne4 10. Nxe4 fxe4 11. h4 Nxe5 12. dxe5 Be7 13. g3 b5 14. cxb5 cxb5 15.
+Bd2 Qb6 16. b4 Bd7 17. Kf2 Rac8 18. Qb3 Qc7 19. Qb2 Qc2 20. Qd4 Qc7 21. Rac1
+Qb7 22. Rxc8 Rxc8 23. Rc1 Rxc1 24. Bxc1 Qc7 25. Bb2 g6 26. Qd2 Kg7 27. h5 Be8
+28. hxg6 hxg6 29. g4 Bd8 30. g5 Qf7 31. Kg3 Bb6 32. Bg4 Kf8 33. Qc1 Qd7 34. Bd4
+Bxd4 35. exd4 Kg7 36. Qh1 Qc6 37. Qh6+ Kg8 38. Qh2 Qc3+ 39. Kh4 Bf7 40. Qh3
+Qxd4 41. Qf1 a6 42. Qc1 Qf2+ 43. Kh3 e3 44. Qc8+ Kg7 45. Qd8 Qxf4 46. Qf6+ Qxf6
+47. gxf6+ Kh6 48. Kh4 d4 49. Be2 g5+ 50. Kg3 Bg6 51. Bg4 Bf5 52. Bxf5 exf5 0-1
+
+[Event "Amsterdam"]
+[Site "?"]
+[Date "1851.??.??"]
+[Round "5.3"]
+[White "Coopman, M.M.."]
+[Black "Van 't Kruijs, Maarten"]
+[Result "0-1"]
+[ECO "B27"]
+[PlyCount "92"]
+[EventDate "1851.??.??"]
+
+1. e4 b6 2. Nf3 c5 3. d4 cxd4 4. Nxd4 e6 5. Bd3 Bb7 6. O-O Nc6 7. Nxc6 Bxc6 8.
+Nc3 Bc5 9. Qg4 g6 10. Be3 h5 11. Qe2 Ne7 12. Bxc5 bxc5 13. Bb5 Qb6 14. Rad1 a6
+15. Bxc6 Qxc6 16. Qf3 d6 17. Rd2 Rd8 18. Qf6 Rf8 19. Rfd1 Rd7 20. e5 d5 21. Ne4
+Nf5 22. Qg5 Re7 23. Nf6+ Kd8 24. c3 Kc8 25. b4 c4 26. a4 Rb7 27. Ne4 Qc7 28.
+Nc5 Ra7 29. Qf6 Qe7 30. Qxe7 Nxe7 31. f4 Kc7 32. Kf2 Kc6 33. h3 a5 34. g4 Rb8
+35. Rb1 axb4 36. cxb4 hxg4 37. hxg4 Rh8 38. Ke3 Kb6 39. Kd4 Nc6+ 40. Kc3 Rh3+
+41. Kc2 Nxb4+ 42. Rxb4+ Kxc5 43. Rb8 Rxa4 44. Rc8+ Kb6 45. Rb8+ Kc6 46. Rf8
+Ra2+ 0-1
+
+[Event "Amsterdam"]
+[Site "?"]
+[Date "1851.??.??"]
+[Round "6"]
+[White "Heijmans, F.G.."]
+[Black "Van 't Kruijs, Maarten"]
+[Result "0-1"]
+[ECO "B30"]
+[PlyCount "74"]
+[EventDate "1851.??.??"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 bxc6 5. b3 d5 6. e5 e6 7. Bb2 Ne7 8. O-O
+Ng6 9. c3 Qc7 10. d4 cxd4 11. cxd4 c5 12. Qc2 Qb6 13. Rc1 cxd4 14. Bxd4 Qb7 15.
+Bc5 Bxc5 16. Qxc5 Bd7 17. Nbd2 Rc8 18. Qd6 f6 19. h4 Kf7 20. exf6 gxf6 21. h5
+Ne7 22. Qf4 Qb8 23. Qxb8 Rxb8 24. Rc7 Rhd8 25. g4 h6 26. Re1 Nc6 27. Rc1 Rb6
+28. a4 Ke7 29. Kg2 Kd6 30. R7xc6+ Rxc6 31. Re1 e5 32. Kh3 Rg8 33. Nh2 Rc3+ 34.
+Kh4 e4 35. f4 f5 36. g5 hxg5+ 37. fxg5 f4 0-1
+
+[Event "Amsterdam"]
+[Site "?"]
+[Date "1851.??.??"]
+[Round "6"]
+[White "Van 't Kruijs, Maarten"]
+[Black "Heijmans, F.G.."]
+[Result "1-0"]
+[ECO "A85"]
+[PlyCount "89"]
+[EventDate "1851.??.??"]
+
+1. d4 f5 2. c4 Nf6 3. Nc3 e6 4. e3 Bb4 5. Bd3 b6 6. Nge2 Bb7 7. O-O Bd6 8. f3
+O-O 9. e4 fxe4 10. fxe4 Ng4 11. e5 Qh4 12. h3 Rf2 13. Ne4 Bxe4 14. Bxe4 Ne3 15.
+Bxe3 Rxf1+ 16. Qxf1 Qxe4 17. Qf3 Qxf3 18. gxf3 Be7 19. d5 Kf7 20. f4 d6 21. Kg2
+exd5 22. cxd5 c6 23. dxc6 Nxc6 24. Rc1 Nb4 25. a3 Nd3 26. Rc3 Nxb2 27. Bd4 Na4
+28. Rc7 dxe5 29. Bxe5 Kf8 30. Nd4 Bf6 31. Ne6+ Kg8 32. Nxg7 Bd8 33. Rc4 b5 34.
+Rb4 Be7 35. Rxb5 Bxa3 36. Nh5 Be7 37. Rb7 Kf8 38. f5 Nc5 39. Rc7 Ne4 40. f6
+Nxf6 41. Nxf6 Bxf6 42. Bxf6 a5 43. Rxh7 Ra6 44. Bd4 a4 45. Ra7 1-0
+
+[Event "Amsterdam"]
+[Site "Decisive game"]
+[Date "1852.??.??"]
+[Round "?"]
+[White "Heijmans, F.G.."]
+[Black "Van 't Kruijs, Maarten"]
+[Result "0-1"]
+[Annotator "JvR"]
+[SetUp "1"]
+[FEN "kqrnbbrn/pppppppp/8/8/8/8/PPPPPPPP/KQRNBBRN w - - 0 1"]
+[PlyCount "60"]
+[EventDate "1852.??.??"]
+
+{The initial position results from gambling.} 1. c4 g6 2. f3 c5 3. Bg3 d6 4.
+Nhf2 f5 5. e4 e6 6. f4 $6 Nc6 7. Nc3 Bg7 8. h4 h5 9. Re1 Bd7 10. Nh3 $6 Nf7 11.
+Qd1 Nd4 12. Ng5 Nxg5 13. hxg5 fxe4 14. Rxe4 $6 a6 15. Bf2 Qc7 16. g4 $6 hxg4
+17. Rxg4 Qa5 18. Rg3 b5 19. Bxd4 $6 cxd4 {
+Small errors have led to a disaster. White starts a desperate counterattack.}
+20. Nxb5 $5 axb5 21. Ra3 Qxa3 22. bxa3 d3+ $1 23. Kb1 bxc4 24. Qg4 Rb8+ $1 25.
+Kc1 Ba4 26. Bxd3 Bb2+ 27. Kb1 Bxa3+ 28. Ka1 Bb2+ 29. Kb1 Bd4+ 30. Kc1 cxd3 {
+A total of ten random chess games by Van 't Kruijs can be found in Sissa.} 0-1
+
+[Event "Amsterdam"]
+[Site "?"]
+[Date "1861.07.13"]
+[Round "1"]
+[White "Van 't Kruijs, Maarten"]
+[Black "Anderssen, Adolf"]
+[Result "1-0"]
+[ECO "A00"]
+[Annotator "JvR"]
+[PlyCount "123"]
+[EventDate "1861.??.??"]
+
+1. a3 {This move} ({and} 1. e3 e5 2. c4 {
+have been named after van 't Kruijs although both openings were known.}) 1...
+e5 2. c4 Bc5 3. Nc3 a5 4. e3 Nc6 5. Nge2 d6 6. d4 Bb6 7. Na4 Ba7 8. d5 Nce7 9.
+b4 f5 10. Nec3 Nf6 11. Be2 O-O 12. Nb5 Bb8 13. Nbc3 c6 14. b5 cxb5 15. cxb5 b6
+16. Bc4 Ng6 17. O-O f4 $6 {So far the players have manoeuvred well in a closed
+position. Andriessen criticizes the unprepared attack.} 18. Bd3 Nd7 {
+Pawn f4 gets extra protection.} 19. Qh5 Qe8 20. Ne4 Bc7 21. exf4 $6 exf4 22.
+Bb2 Nde5 $6 (22... Nge5 $1 {takes more advantage of the opened square.}) 23.
+Ng5 h6 24. Bxg6 Nxg6 25. Rfe1 Ne5 26. Qxe8 Rxe8 27. Bxe5 dxe5 28. Ne4 Bd7 29.
+Nac3 a4 $6 30. Rab1 Rec8 {The knights and passed pawn are strong.} 31. d6 $1
+Bd8 ({Not} 31... Bxd6 $2 32. Red1 {(Andriessen).}) 32. Rb4 Kf7 33. f3 Ke6 34.
+Rd1 g5 35. g4 $1 fxg3 36. hxg3 h5 37. Kf2 Ra7 38. Ke3 Be8 39. f4 exf4+ 40. gxf4
+g4 41. Rd5 {Van 't Kruijs occupies the centre. This results from awesome
+prophylactic chess.} 41... Bf6 $2 ({The last chave gives the counterattack} 
+41... h4 42. f5+ Kf7 $1) 42. f5+ Kf7 {
+The king cannot go to the desired square d7, because a bishop needs protection.
+} 43. Nxa4 Rb8 44. Nxf6 Kxf6 45. Kf4 Rg7 $6 ({Or} 45... Bd7 46. Re4 Ra5 47. Nc3
+Rxa3 48. Re3) 46. Nc3 Bd7 47. Ne4+ Kf7 48. f6 Rgg8 49. Rxh5 Rh8 50. Re5 Rbd8
+51. Re7+ Kf8 52. a4 Rh1 53. Rb2 Be8 54. Rd2 Bf7 55. Kxg4 Bb3 56. Ng5 Ra8 57.
+Nh7+ Kg8 58. Ng5 Rxa4+ 59. Kf5 Rf1+ 60. Kg6 Ra8 61. Rg7+ Kf8 62. d7 {
+This game lasted 4 1/4 hours in the afternoon.} 1-0
+
+[Event "Amsterdam"]
+[Site "?"]
+[Date "1861.07.15"]
+[Round "2"]
+[White "Anderssen, Adolf"]
+[Black "Van 't Kruijs, Maarten"]
+[Result "1-0"]
+[ECO "C00"]
+[PlyCount "61"]
+[EventDate "1861.??.??"]
+
+1. e4 e6 2. d4 d5 3. exd5 exd5 4. Nf3 Nf6 5. Bd3 c5 6. O-O Nc6 7. Bg5 c4 8.
+Re1+ Be7 9. Bxf6 gxf6 10. Be2 Bf5 11. Nc3 a6 12. Nh4 Be6 13. Bg4 Qd7 14. Bxe6
+fxe6 15. Qh5+ Kd8 16. Rad1 Kc7 17. Qf7 Kd6 18. Ne4+ dxe4 19. d5 Ne5 20. dxe6+
+Kc6 21. Rxd7 Nxf7 22. Rxe7 Nd6 23. f3 f5 24. g4 fxg4 25. fxe4 Rae8 26. Nf5 Nxf5
+27. Rxe8 Rxe8 28. exf5 Kd6 29. f6 Rxe6 30. Rd1+ Ke5 31. f7 1-0
+
+[Event "Amsterdam"]
+[Site "?"]
+[Date "1861.07.16"]
+[Round "3"]
+[White "Van 't Kruijs, Maarten"]
+[Black "Anderssen, Adolf"]
+[Result "0-1"]
+[ECO "A84"]
+[PlyCount "32"]
+[EventDate "1861.??.??"]
+
+1. c4 f5 2. d4 e6 3. Nc3 Bb4 4. f3 Bxc3+ 5. bxc3 Nf6 6. Bg5 c5 7. e4 fxe4 8.
+Bxf6 Qxf6 9. fxe4 Qh4+ 10. Kd2 O-O 11. Kd3 cxd4 12. Nf3 Qf4 13. cxd4 d5 14. Qe2
+Na6 15. e5 Bd7 16. Rb1 Qf5+ 0-1
+
+[Event "Amsterdam"]
+[Site "?"]
+[Date "1861.07.16"]
+[Round "4"]
+[White "Anderssen, Adolf"]
+[Black "Van 't Kruijs, Maarten"]
+[Result "1-0"]
+[ECO "C01"]
+[PlyCount "83"]
+[EventDate "1861.??.??"]
+
+1. e4 e6 2. d4 d5 3. exd5 exd5 4. Nf3 Bd6 5. Bd3 Nf6 6. O-O O-O 7. h3 h6 8. c4
+c6 9. Nc3 b6 10. cxd5 Nxd5 11. Nxd5 cxd5 12. Ne5 Bxe5 13. dxe5 f5 14. f4 Na6
+15. b4 Nxb4 16. Ba3 Nxd3 17. Bxf8 Ba6 18. Bd6 Bc4 19. Qh5 Qd7 20. Rf3 Qf7 21.
+Qh4 Nc5 22. Bxc5 bxc5 23. Rg3 Kh7 24. Rg5 Bd3 25. g4 Rb8 26. gxf5 Bxf5 27. Rg2
+Qe6 28. Qg3 g6 29. Kh2 Rb4 30. h4 h5 31. Qg5 a5 32. Rc1 c4 33. Qd8 Rb5 34. Rd2
+Qc6 35. a4 Rc5 36. Rcd1 Be6 37. Qe7+ Kh6 38. Rb2 Bc8 39. f5 Qc7 40. Qg5+ Kh7
+41. Qxg6+ Kh8 42. Qxh5+ 1-0
+
+[Event "Amsterdam"]
+[Site "?"]
+[Date "1861.07.16"]
+[Round "5"]
+[White "Van 't Kruijs, Maarten"]
+[Black "Anderssen, Adolf"]
+[Result "1/2-1/2"]
+[ECO "A85"]
+[PlyCount "83"]
+[EventDate "1861.??.??"]
+
+1. d4 f5 2. c4 e6 3. Nc3 Nf6 4. e3 Bb4 5. Bd2 c5 6. a3 cxd4 7. exd4 Ba5 8. b4
+Bb6 9. Bf4 a6 10. Nf3 Bc7 11. Bxc7 Qxc7 12. Bd3 b5 13. c5 Bb7 14. O-O O-O 15.
+h3 Nc6 16. Qb3 Ne7 17. Ne5 Ne4 18. Bxe4 fxe4 19. Rfe1 Nf5 20. Rad1 Rad8 21.
+Nxe4 Nxd4 22. Rxd4 Qxe5 23. Qe3 Rf4 24. g3 Rf3 25. Qxf3 Qxd4 26. Qc3 Qd5 27. f4
+Rf8 28. Qd2 Qf5 29. Nf2 Bc6 30. Re5 Qb1+ 31. Qe1 Qa2 32. Qe3 Rf6 33. g4 Qb1+
+34. Kh2 Qf1 35. Kg3 Qg2+ 36. Kh4 h6 37. Ne4 Bxe4 38. Rxe4 Kh7 39. Rd4 e5 40.
+fxe5 Rf3 41. Qe4+ Kh8 42. Qa8+ 1/2-1/2
+
+[Event "Amsterdam"]
+[Site "?"]
+[Date "1861.07.17"]
+[Round "6"]
+[White "Anderssen, Adolf"]
+[Black "Van 't Kruijs, Maarten"]
+[Result "1-0"]
+[ECO "B21"]
+[PlyCount "37"]
+[EventDate "1861.??.??"]
+
+1. e4 c5 2. d4 d5 3. exd5 Qxd5 4. dxc5 Qxc5 5. Be3 Qe5 6. Nc3 Nc6 7. Nf3 Qa5 8.
+Bb5 Bg4 9. Qd5 Qc7 10. Ne5 e6 11. Qc4 Qxe5 12. Bxc6+ bxc6 13. Qxc6+ Ke7 14.
+Qxa8 Nh6 15. O-O Nf5 16. Bg5+ f6 17. Qxa7+ Ke8 18. Rfe1 Qd4 19. Rxe6+ 1-0
+
+[Event "Amsterdam"]
+[Site "?"]
+[Date "1861.07.17"]
+[Round "7"]
+[White "Van 't Kruijs, Maarten"]
+[Black "Anderssen, Adolf"]
+[Result "1/2-1/2"]
+[ECO "A84"]
+[PlyCount "80"]
+[EventDate "1861.??.??"]
+
+1. c4 f5 2. d4 e6 3. a3 Nf6 4. Nc3 c5 5. d5 Qb6 6. f3 e5 7. e4 d6 8. Bd3 f4 9.
+g4 Be7 10. h4 Qd8 11. Qe2 Na6 12. Bd2 Nc7 13. b4 cxb4 14. axb4 O-O 15. b5 Nxg4
+16. fxg4 f3 17. Qf2 Bxg4 18. Nd1 Ne8 19. Qg3 h5 20. Nf2 Qb6 21. Ngh3 Nf6 22.
+Ng5 Qd4 23. O-O a6 24. bxa6 Rxa6 25. Rxa6 bxa6 26. Rb1 Bd8 27. Rb7 Bb6 28. Kf1
+Nd7 29. Be1 Qe3 30. Ne6 Rf7 31. c5 dxc5 32. Bxa6 c4 33. Bxc4 Qc1 34. Bd3 Qa1
+35. Ng5 Re7 36. d6 Re8 37. Bc4+ Kh8 38. Nf7+ Kh7 39. Ng5+ Kh8 40. Nf7+ Kh7
+1/2-1/2
+
+[Event "Amsterdam"]
+[Site "?"]
+[Date "1878.??.??"]
+[Round "?"]
+[White "Benima, Levi"]
+[Black "Van 't Kruijs, Maarten"]
+[Result "0-1"]
+[ECO "C33"]
+[PlyCount "118"]
+[EventDate "1878.??.??"]
+
+1. e4 e5 2. f4 exf4 3. Bc4 Qh4+ 4. Kf1 d5 5. Nf3 Qh5 6. Bxd5 Nf6 7. Nc3 c6 8.
+Bb3 Be6 9. d4 g5 10. h4 h6 11. Kg1 g4 12. Ne5 f3 13. g3 Bxb3 14. axb3 Nbd7 15.
+Nd3 Qg6 16. Nf4 Qh7 17. Qd3 Bb4 18. e5 Bxc3 19. bxc3 Ne4 20. Kh2 Ng5 21. Qxh7
+Rxh7 22. Re1 Ne6 23. Nxe6 fxe6 24. Re4 h5 25. Bg5 Rf7 26. Rf4 Nf8 27. Rxf7 Kxf7
+28. Kg1 Kg6 29. Kf2 Nd7 30. c4 a5 31. Bd2 b6 32. Bc3 Kf5 33. Ke3 c5 34. dxc5
+Nxc5 35. Bd4 Rc8 36. Re1 Rc6 37. Bxc5 Rxc5 38. Kd4 Rc8 39. Kc3 Rd8 40. b4 axb4+
+41. Kxb4 Rd4 42. Kb5 Re4 43. Rf1 Kxe5 44. Kxb6 Rxc4 45. Rf2 Kd5 46. Kb5 e5 47.
+Rd2+ Rd4 48. c4+ Kd6 49. c5+ Kc7 50. Ra2 e4 51. Ra7+ Kb8 52. Rf7 Rd1 53. Kb6
+Rb1+ 54. Kc6 e3 55. Rf8+ Ka7 56. Rf7+ Ka8 57. Rf8+ Rb8 58. Rf4 Re8 59. Ra4+ Kb8
+0-1
+
+[Event "Amsterdam"]
+[Site "?"]
+[Date "1878.??.??"]
+[Round "?"]
+[White "Pinedo, Joost"]
+[Black "Van 't Kruijs, Maarten"]
+[Result "0-1"]
+[ECO "B21"]
+[PlyCount "68"]
+[EventDate "1878.??.??"]
+
+1. e4 c5 2. d4 cxd4 3. Qxd4 Nc6 4. Qd1 e6 5. Nf3 Nf6 6. Bd3 d5 7. exd5 exd5 8.
+O-O Be6 9. Be3 Bd6 10. h3 h6 11. Nbd2 Qd7 12. Re1 O-O-O 13. Nf1 g5 14. Nd4 Rhg8
+15. Nxc6 bxc6 16. Ba6+ Kb8 17. Qd4 Ne4 18. b4 Ka8 19. f3 Ng3 20. b5 c5 21. Qb2
+Nxf1 22. Rxf1 Qc7 23. Rab1 Be5 24. Qa3 d4 25. Bd2 Rb8 26. Ba5 Rb6 27. Qd3 c4
+28. Qe4+ Kb8 29. Bxb6 axb6 30. a4 Rd8 31. a5 Rd5 32. axb6 Qxb6 33. Kh1 Bc7 34.
+Rb4 Qd6 0-1
+
+[Event "Amsterdam"]
+[Site "?"]
+[Date "1878.??.??"]
+[Round "?"]
+[White "Van 't Kruijs, Maarten"]
+[Black "Anderson, H.J.."]
+[Result "1-0"]
+[ECO "D20"]
+[PlyCount "83"]
+[EventDate "1878.??.??"]
+
+1. d4 d5 2. c4 dxc4 3. e4 e6 4. Bxc4 Bb4+ 5. Nc3 c6 6. a3 Bxc3+ 7. bxc3 Ne7 8.
+f4 Nd7 9. Nf3 h6 10. Qd3 Nb6 11. Be3 Nxc4 12. Qxc4 O-O 13. g4 b6 14. h4 a5 15.
+Qd3 f6 16. h5 c5 17. Rd1 Bb7 18. Kf2 f5 19. gxf5 exf5 20. Qc4+ Kh7 21. dxc5 Qc8
+22. Ne5 Bxe4 23. Rhg1 Nd5 24. Rxd5 Bxd5 25. Qxd5 bxc5 26. Qxc5 Qxc5 27. Bxc5
+Rfc8 28. Bd4 Rc7 29. Rb1 Kg8 30. a4 Kf8 31. Rb5 Rac8 32. Ng6+ Kf7 33. Rxf5+ Ke6
+34. Rxa5 Rxc3 35. f5+ Kf7 36. Ra7+ Ke8 37. Re7+ Kd8 38. Bb6+ R3c7 39. Ke3 Ra8
+40. a5 Kc8 41. Rxc7+ Kb8 42. Rxg7 1-0
+
+[Event "Amsterdam"]
+[Site "?"]
+[Date "1878.??.??"]
+[Round "?"]
+[White "Van 't Kruijs, Maarten"]
+[Black "Kothe, H.."]
+[Result "1-0"]
+[ECO "B44"]
+[PlyCount "59"]
+[EventDate "1878.??.??"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Be3 Nf6 6. Bd3 Be7 7. O-O O-O 8.
+c3 d5 9. exd5 exd5 10. Nd2 Ne5 11. Qc2 Nxd3 12. Qxd3 Bg4 13. h3 Bh5 14. f4 Bc5
+15. g4 Bxg4 16. hxg4 Nxg4 17. N2f3 Nxe3 18. Qxe3 Qf6 19. Rae1 Rae8 20. Qxe8
+Bxd4+ 21. cxd4 Qxf4 22. Qe5 Qg4+ 23. Kf2 Qd7 24. Rg1 g6 25. Rg5 Rd8 26. Qe7 a6
+27. Qxd7 Rxd7 28. Rge5 h5 29. Re7 Rxe7 30. Rxe7 1-0
+
+[Event "Amsterdam"]
+[Site "?"]
+[Date "1878.??.??"]
+[Round "?"]
+[White "Van 't Kruijs, Maarten"]
+[Black "Uden Masman, H.."]
+[Result "1-0"]
+[ECO "D30"]
+[PlyCount "83"]
+[EventDate "1878.??.??"]
+
+1. c4 e6 2. d4 d5 3. e3 Nf6 4. Nc3 Bb4 5. a3 Bxc3+ 6. bxc3 O-O 7. cxd5 exd5 8.
+Bd3 Nc6 9. Nf3 Ne7 10. Qc2 Ng6 11. h3 Re8 12. O-O Ne4 13. Bxe4 dxe4 14. Nh2 f5
+15. f4 b6 16. c4 a6 17. a4 Rb8 18. Rb1 Bd7 19. d5 Nh8 20. Rd1 Qf6 21. Bb2 Qg6
+22. Be5 Rec8 23. Rb2 Nf7 24. Rdb1 Nxe5 25. fxe5 Qg3 26. Qc3 Bxa4 27. Nf1 Qg6
+28. e6 Qe8 29. Qe5 g6 30. g4 Qe7 31. gxf5 Rf8 32. fxg6 Rf6 33. Qxe4 Rxg6+ 34.
+Rg2 Be8 35. Rbb2 a5 36. Ng3 Qg7 37. Kh2 Qf8 38. Rbf2 Qd6 39. Qf4 Rb7 40. Ne4
+Qe7 41. Nf6+ Kh8 42. Nxe8 1-0
+
+[Event "Amsterdam"]
+[Site "?"]
+[Date "1878.??.??"]
+[Round "?"]
+[White "Veraart, J.J.."]
+[Black "Van 't Kruijs, Maarten"]
+[Result "1-0"]
+[ECO "B44"]
+[PlyCount "81"]
+[EventDate "1878.??.??"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e6 5. Nb5 a6 6. Nd6+ Bxd6 7. Qxd6 Qe7 8.
+e5 f6 9. f4 Nh6 10. Bd3 Qxd6 11. exd6 Nf7 12. O-O Nxd6 13. Be3 Nf7 14. c3 O-O
+15. Nd2 d5 16. Rf3 e5 17. Rg3 e4 18. Be2 f5 19. Nb3 Rd8 20. Rd1 Nh6 21. c4 dxc4
+22. Bxc4+ Nf7 23. Rxd8+ Ncxd8 24. Nc5 b6 25. Bd5 Ra7 26. Na4 Be6 27. Bxb6 Rd7
+28. Bxd8 Rxd5 29. Bb6 Rd1+ 30. Kf2 Rd2+ 31. Ke1 Rd6 32. Bc5 Rc6 33. a3 g6 34.
+Re3 Nd8 35. b4 Nb7 36. Kd2 Kf7 37. Rc3 h6 38. Ke3 Nd6 39. Bxd6 Rxc3+ 40. Nxc3
+g5 41. g3 1-0
+
+[Event "Amsterdam"]
+[Site "?"]
+[Date "1878.??.??"]
+[Round "7"]
+[White "Van 't Kruijs, Maarten"]
+[Black "Veraart, J.J.."]
+[Result "1-0"]
+[ECO "A85"]
+[PlyCount "47"]
+[EventDate "1878.??.??"]
+
+1. d4 e6 2. c4 f5 3. Nc3 Nf6 4. e3 d5 5. Nf3 Nc6 6. a3 a5 7. b3 b6 8. Be2 Be7
+9. Bb2 Bb7 10. Qd2 Ne4 11. Nxe4 fxe4 12. Ne5 Nxe5 13. dxe5 c5 14. f4 exf3 15.
+Bxf3 Qd7 16. Rd1 O-O-O 17. O-O h5 18. Qe2 g6 19. Rd3 Qc6 20. Rfd1 Qc7 21. cxd5
+Ba6 22. d6 Qa7 23. dxe7 Bxd3 24. exd8=Q+ 1-0
+

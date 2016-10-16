@@ -1,0 +1,414 @@
+[Event "Dos Hermanas"]
+[Site "?"]
+[Date "1996.05.21"]
+[Round "1"]
+[White "Anand, Viswanathan"]
+[Black "Shirov, Alexei"]
+[Result "1-0"]
+[ECO "B06"]
+[WhiteElo "2725"]
+[BlackElo "2690"]
+[Annotator "JvR"]
+[PlyCount "115"]
+[EventDate "1996.??.??"]
+[Source "ChessBase"]
+
+{The wins and losses by the top four have been selected.} 1. e4 g6 2. d4 Bg7 3.
+Nc3 c6 4. Bc4 d6 5. Qf3 e6 6. Nge2 b5 7. Bb3 a5 8. a3 Ba6 9. d5 cxd5 10. exd5
+e5 11. Ne4 h6 12. g4 Nf6 13. N2g3 Nxe4 14. Nxe4 O-O 15. Qh3 f5 16. gxf5 Bc8 17.
+Ng3 Rxf5 $5 {Shirov started a new idea on move 15.} 18. Qg2 $5 (18. Nxf5 $5
+Bxf5 19. Qg3 {will be played in Izmukhambetov-Bologan, Sevastopol 1997.}) 18...
+a4 19. Ba2 Rf4 $5 20. c3 $5 ({The critical line is} 20. Bxf4 exf4 21. Ne4)
+20... Rh4 21. h3 Bf5 $6 ({Better is} 21... Nd7 {(Anand).}) 22. Nxf5 gxf5 23.
+Qg6 Qf8 24. Be3 Kh8 25. O-O-O Nd7 26. Qe6 Rd8 27. Rdg1 f4 28. Ba7 $1 Nf6 29.
+Bb1 Re8 30. Qf5 Qf7 $2 ({Right is} 30... Qe7 31. Bb6 Rh5) 31. Bb6 Rf8 32. Rg6
+Rh5 33. Qe6 Rg5 34. Rxg5 hxg5 35. Rd1 $1 Qd7 36. Qxd7 Nxd7 37. Bc7 Rf6 38. Bd3
+Nc5 39. Bxb5 e4 40. Bb6 Bf8 41. Bxc5 dxc5 42. Re1 $1 e3 43. fxe3 f3 44. Bxa4 c4
+45. Bb5 Rh6 46. Bd7 $1 f2 47. Rf1 Bc5 48. e4 Rf6 49. Bb5 Rf4 50. Bxc4 Rxe4 51.
+Bb5 Re3 52. d6 $1 Bxd6 53. Rxf2 Rxh3 54. Bd7 Rg3 55. Kc2 g4 56. Rd2 Bc7 57. a4
+Rg1 58. Bc6 1-0
+
+[Event "Dos Hermanas"]
+[Site "?"]
+[Date "1996.05.23"]
+[Round "3"]
+[White "Illescas Cordoba, Miguel"]
+[Black "Anand, Viswanathan"]
+[Result "0-1"]
+[ECO "A38"]
+[WhiteElo "2635"]
+[BlackElo "2725"]
+[Annotator "JvR"]
+[PlyCount "98"]
+[EventDate "1996.??.??"]
+[Source "ChessBase"]
+
+1. Nf3 Nf6 2. c4 c5 3. g3 Nc6 4. Bg2 g6 5. O-O d6 6. Nc3 Bg7 7. a3 O-O 8. Rb1
+d5 9. cxd5 Nxd5 10. Ng5 e6 11. Nge4 b6 12. d3 h6 13. Bd2 Bb7 14. Nxd5 exd5 15.
+Nc3 d4 16. Nd5 Rb8 17. b4 $2 ({Correct is} 17. e4 $1) 17... Nxb4 18. Nxb4 cxb4
+19. axb4 Bxg2 20. Kxg2 Re8 21. Kg1 Rc8 22. Re1 Rc6 23. Qa4 Rce6 24. Qxa7 Rxe2
+25. Rxe2 Rxe2 26. Bf4 Qd5 27. Ra1 $6 ({More resistance is offered by} 27. Qxb6
+Qf3 28. Rf1 Qxd3 29. Qd8+) 27... Qb5 28. Qa8+ Re8 29. Qa3 Bf8 30. h4 g5 31.
+hxg5 hxg5 32. Bd2 Re2 33. Be1 Qf5 34. Qa8 Qxd3 35. Qd8 Qf3 36. Qxg5+ Bg7 37.
+Qd8+ Kh7 38. Qh4+ Kg6 39. Qf4 Qxf4 40. gxf4 d3 41. Rd1 Kf5 42. Kf1 Ke4 43. b5
+Bd4 44. Rb1 Ra2 45. Rd1 Ra1 46. Rxa1 Bxa1 47. Bd2 Kd4 48. Be3+ ({Or} 48. Ke1
+Bc3) 48... Kc3 49. Bxb6 Kc2 ({The pointe is} 49... Kc2 50. Be3 Bd4 $1 {(Hecht).
+}) 0-1
+
+[Event "Dos Hermanas"]
+[Site "?"]
+[Date "1996.05.23"]
+[Round "3"]
+[White "Kasparov, Gary"]
+[Black "Shirov, Alexei"]
+[Result "1-0"]
+[ECO "D17"]
+[WhiteElo "2775"]
+[BlackElo "2690"]
+[Annotator "JvR"]
+[PlyCount "59"]
+[EventDate "1996.??.??"]
+[Source "ChessBase"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4 5. a4 Bf5 6. Ne5 e6 7. f3 c5 8. e4
+cxd4 9. exf5 Bb4 10. Bxc4 Qd6 $6 (10... dxc3 $5 11. Qxd8+ Kxd8 {
+takes less risk (Genova-Prochazkova, Brno 1989).}) 11. Bb5+ Nc6 12. Nc4 $5 ({
+Even better is} 12. Bf4 $2 {(Gelfand-Shirov, Dortmund 1996).}) 12... Qc5 $2 {
+Shirov blunders.} ({Correct is} 12... Qd8) 13. Bd2 $1 O-O ({The pointe is} 
+13... dxc3 14. bxc3) 14. Na2 Bxd2+ 15. Qxd2 Ne7 16. Qb4 Qxb4+ 17. Nxb4 a6 18.
+Nb6 axb5 19. Nxa8 Rxa8 20. fxe6 bxa4 21. exf7+ Kxf7 22. Kd2 Ke6 23. Rhc1 Kd6
+24. b3 b5 25. bxa4 bxa4 26. Rc4 Nf5 27. Nc2 Nd7 28. Rcxa4 Rxa4 29. Rxa4 Nb6 30.
+Nxd4 $5 1-0
+
+[Event "Dos Hermanas"]
+[Site "?"]
+[Date "1996.05.23"]
+[Round "3"]
+[White "Polgar, Judit"]
+[Black "Topalov, Veselin"]
+[Result "0-1"]
+[ECO "B53"]
+[WhiteElo "2675"]
+[BlackElo "2700"]
+[Annotator "JvR"]
+[PlyCount "73"]
+[EventDate "1996.??.??"]
+[Source "ChessBase"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Qxd4 Bd7 5. c4 Nc6 6. Qd2 g6 7. b3 Bg7 8. Nc3
+Nf6 9. Bb2 Bg4 10. Be2 O-O 11. h3 Bxf3 12. Bxf3 Nd7 13. O-O Qa5 14. Rab1 Rfd8
+15. Rfc1 a6 16. a3 Bf6 17. Bg4 e6 18. b4 Qg5 19. f4 Qh6 20. Ne2 Nde5 21. Rc2
+Nxg4 22. hxg4 Bxb2 23. Rbxb2 Qh4 24. g5 e5 25. b5 axb5 26. cxb5 Nd4 $1 27. Nxd4
+exd4 28. Rb3 Re8 29. g3 $1 Qg4 30. Qxd4 Ra4 $1 31. Rc4 Rxc4 32. Qxc4 Rc8 $1 {
+Black has found an opening in the hostile position.} 33. Qd3 $2 ({Right is} 33.
+Qf1 $1 {(Topalov).}) 33... Rc1+ 34. Kg2 ({Or} 34. Kf2 Qh3 {(Topalov).}) 34...
+Qh5 35. e5 Rd1 36. Qf3 Qh1+ 37. Kf2 {Black delivers mate in two.} 0-1
+
+[Event "Dos Hermanas"]
+[Site "?"]
+[Date "1996.05.25"]
+[Round "4"]
+[White "Anand, Viswanathan"]
+[Black "Ivanchuk, Vassily"]
+[Result "1-0"]
+[ECO "C92"]
+[WhiteElo "2725"]
+[BlackElo "2735"]
+[Annotator "JvR"]
+[PlyCount "91"]
+[EventDate "1996.??.??"]
+[Source "ChessBase"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+O-O 9. h3 Bb7 10. d4 Re8 11. Nbd2 Bf8 12. d5 Nb8 13. Nf1 Nbd7 14. Ng3 g6 15.
+Nh2 h5 16. Nf3 Nc5 17. Bc2 c6 18. b4 Ncd7 19. dxc6 Bxc6 20. Bb3 Nb6 21. Bg5 Bd7
+22. Nh4 Be6 23. Qf3 Nbd7 24. Rad1 Rc8 25. Rd3 Bxb3 26. axb3 Qe7 27. Red1 Qe6
+28. Nhf5 $1 Qxb3 $6 ({Best is} 28... gxf5 $1 29. Nxf5 Qxb3 30. Bh6 Bxh6 31.
+Nxh6+ Kf8 32. Nf5 Re6 33. Nxd6 Rxd6 34. Rxd6 Rxc3) 29. Nxd6 Bxd6 30. c4 Qxc4
+31. Rxd6 Nh7 32. Bh6 Ndf8 33. Rxa6 Re6 34. Rxe6 Nxe6 35. Nf5 $1 Qxb4 $6 (35...
+gxf5 $1 36. exf5 Neg5 37. Qxh5 Ne4 38. Qg4+ Neg5 39. Qh5 {draws (Anand).}) 36.
+Rd7 Nhg5 37. Bxg5 Qe1+ 38. Kh2 Nxg5 39. Qg3 $1 Nxe4 40. Nh6+ Kh7 41. Rxf7+ Kxh6
+42. Qxe5 Qd2 $2 ({Anand regards} 42... Rg8 $1 43. Qf4+ g5 44. Qf5 Rg6 45. Qe5
+$1 Qc3 46. Qxe4 {as won for White, but} 46... Qc6 $1 47. Qb1 Qd5 48. Rf5 Qe6
+49. Qxb5 Rf6 {defends well.}) 43. Qg7+ Kg5 44. h4+ Kxh4 45. Qxg6 Rc3 46. Qxe4+
+{Anand had scored his third win.} 1-0
+
+[Event "Dos Hermanas"]
+[Site "?"]
+[Date "1996.05.26"]
+[Round "5"]
+[White "Kramnik, Vladimir"]
+[Black "Anand, Viswanathan"]
+[Result "1-0"]
+[ECO "D85"]
+[WhiteElo "2775"]
+[BlackElo "2725"]
+[Annotator "JvR"]
+[PlyCount "201"]
+[EventDate "1996.??.??"]
+[Source "ChessBase"]
+
+1. Nf3 g6 2. d4 Nf6 3. c4 Bg7 4. Nc3 d5 5. cxd5 Nxd5 6. e4 Nxc3 7. bxc3 c5 8.
+Rb1 O-O 9. Be2 cxd4 10. cxd4 Qa5+ 11. Bd2 Qxa2 12. O-O Bg4 13. Bg5 h6 14. Be3
+Nc6 15. d5 Na5 16. Bc5 Bf6 17. e5 Bxe5 18. Rb4 Bxf3 19. Bxf3 Rae8 20. Be3 Nc4
+$2 ({Vishy diverts from} 20... Bc3 {played in Kramnik-Anand, Riga 1995).}) 21.
+Bxh6 Nd6 22. Bxf8 Rxf8 23. h4 $6 (23. Ra4 Qb2 24. Rxa7 {wins a pawn.}) 23...
+Rc8 24. Be4 $6 Qa5 25. Ra4 Qb5 $6 26. Bb1 Rc5 $6 {
+Hereafter White will win after adventures.} ({Better is} 26... Rc4) 27. Bd3 Qd7
+28. Rxa7 Rxd5 29. Ra8+ Kg7 30. h5 Rd4 31. Qe2 Bf6 32. hxg6 fxg6 33. Bb1 Qg4 34.
+Qa2 Nc4 35. Qb3 b5 36. Re1 Rd2 37. Ra2 Rd5 38. Be4 Re5 39. Rae2 Qh4 40. g3 Qh6
+41. Qd3 Nd6 42. Bd5 Rxe2 43. Qxe2 Qh3 44. Be6 Qh8 45. Qf3 Qb8 46. Kg2 b4 47.
+Rh1 Qb7 48. Bd5 Qb5 49. g4 Nf7 50. Bb3 Nh6 51. Re1 Qg5 52. Re4 Nf5 53. Qd1 Nh4+
+54. Kh3 Qc5 55. Qe2 g5 56. Qc4 Qxc4 57. Rxc4 Bc3 58. Rc5 Nf3 59. Kg3 Ne5 60.
+Rb5 Bd2 61. f3 Bc3 62. f4 gxf4+ 63. Kxf4 Nf7 64. Rd5 Bb2 65. Kf5 Bf6 66. Rd1
+Ng5 67. Rd3 Nf7 68. Rd7 Nd6+ 69. Kf4 Nf7 70. Rb7 Be5+ 71. Ke3 Bd6 72. Ke4 Ng5+
+73. Kf5 Nf3 74. Bd5 Nh4+ 75. Kg5 Ng6 76. Ra7 Nf8 77. Kf5 Bc5 78. Rb7 Bd6 79. g5
+Ng6 80. Ra7 Nf8 81. Bb3 Ng6 82. Ra8 Nf8 83. Kg4 Bc7 84. Kh5 Bd6 85. Rc8 Be5 86.
+Rc5 Ng6 87. Rc8 Nf8 88. Rc1 Bc3 89. Rf1 e6 90. Rd1 Kf7 91. Rd8 Ng6 92. Rd7+ Ke8
+93. Ba4 Ne5 94. Rb7+ Kf8 95. g6 Nd3 96. Kh6 Nc5 97. Rb8+ Ke7 98. Bc2 Nd7 99.
+Rb7 Kd6 100. g7 Bxg7+ 101. Kxg7 1-0
+
+[Event "Dos Hermanas"]
+[Site "?"]
+[Date "1996.05.26"]
+[Round "5"]
+[White "Topalov, Veselin"]
+[Black "Gelfand, Boris"]
+[Result "1-0"]
+[ECO "D17"]
+[WhiteElo "2700"]
+[BlackElo "2700"]
+[Annotator "JvR"]
+[PlyCount "81"]
+[EventDate "1996.??.??"]
+[Source "ChessBase"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4 5. a4 Bf5 6. Ne5 e6 7. f3 c5 8. e4
+cxd4 9. exf5 Nc6 10. Nxc6 bxc6 11. fxe6 fxe6 12. Qe2 $1 {
+A novel move introduces a favourable endgame.} 12... dxc3 13. Qxe6+ Qe7 14.
+Bxc4 ({Or} 14. Qxe7+ $1 Bxe7) 14... Qxe6+ 15. Bxe6 cxb2 $6 ({Huebner prefers} 
+15... Bb4 16. Ke2 Nd5) 16. Bxb2 Bb4+ 17. Ke2 Ke7 18. Bc4 Rhd8 19. Rhd1 Rab8 20.
+g3 h5 21. Rd4 Ba5 $2 {
+Black should have kept the control over the diagonal a3-f8.} ({Correct is} 
+21... Kf8 $1 22. Rxd8+ Rxd8 23. Rd1 Nd5) 22. Ba3+ Ke8 $6 ({
+The last chance gives} 22... Bb4 23. Rxd8 Kxd8 24. Rb1 a5 25. Bxb4 {(Huebner)}
+25... axb4 $1 26. a5 Kc7 27. Kd3 Kd6) 23. Rad1 Rxd4 24. Rxd4 Rb1 25. Bd3 Re1+
+26. Kf2 Kf7 27. Bc5 Ra1 28. Bc4+ Ke8 29. Bd3 Kf7 30. Bxa7 Ra2+ 31. Kg1 Ra1+ 32.
+Kg2 Ra2+ 33. Kh3 Ra3 34. f4 Be1 35. Bc5 Rc3 36. Bc4+ Ke8 37. Bb4 Rc1 38. Bxe1
+Rxe1 39. a5 Ra1 40. a6 Ke7 41. Rd2 {
+Topalov and Anand joined the lead with a score of plus two.} 1-0
+
+[Event "Dos Hermanas"]
+[Site "?"]
+[Date "1996.05.27"]
+[Round "6"]
+[White "Kamsky, Gata"]
+[Black "Topalov, Veselin"]
+[Result "0-1"]
+[ECO "A62"]
+[WhiteElo "2735"]
+[BlackElo "2700"]
+[Annotator "JvR"]
+[PlyCount "98"]
+[EventDate "1996.??.??"]
+[Source "ChessBase"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 c5 4. d5 d6 5. Nc3 exd5 6. cxd5 g6 7. g3 Bg7 8. Bg2
+O-O 9. O-O Na6 10. h3 Re8 11. Nd2 Nc7 12. a4 b6 13. e4 Ba6 14. Re1 Nd7 15. Nf3
+Qe7 $5 16. Bf4 Qf8 17. Qc2 h6 18. Rab1 g5 19. Bd2 Bb7 20. Nh2 Ne5 21. Ng4 Nc4
+22. Ne3 Nxe3 23. Bxe3 Na6 $6 24. Nb5 Nb4 25. Qd2 Red8 26. Kh2 a6 27. Nc3 Re8
+28. f4 gxf4 29. Bxf4 $1 Bc8 30. Re2 Bd7 31. Rbe1 c4 32. e5 dxe5 33. Bxe5 Rxe5
+34. Rxe5 Nd3 $1 35. Re7 Nxe1 36. Qxe1 Rd8 37. Qe4 b5 38. d6 bxa4 39. Qxc4 Be6
+40. Qxa4 Be5 41. Ne4 Bxd6 42. Ra7 Be5 43. b3 Qg7 44. Qxa6 Rd4 $6 ({Better is} 
+44... Bxb3 {(Topalov).}) 45. b4 $2 (45. Qb5 $1 {gains a plus.}) 45... Bf5 $1
+46. Qe2 $2 (46. Ra8+ $1 Kh7 47. Qe2 Rxe4 48. Qf2 $1 {
+timely protects pawn g3 (Topalov).}) 46... Bxe4 $1 47. Ra3 ({The point is} 47.
+Bxe4 {(no check)} 47... Qxg3+ 48. Kh1 Rd1+ $1 49. Qxd1 Qh2#) 47... Bxg2 48.
+Kxg2 Rxb4 49. Ra8+ Kh7 {Topalov led with plus three.} 0-1
+
+[Event "Dos Hermanas"]
+[Site "?"]
+[Date "1996.05.27"]
+[Round "6"]
+[White "Kasparov, Gary"]
+[Black "Kramnik, Vladimir"]
+[Result "0-1"]
+[ECO "D48"]
+[WhiteElo "2775"]
+[BlackElo "2775"]
+[Annotator "JvR"]
+[PlyCount "70"]
+[EventDate "1996.??.??"]
+[Source "ChessBase"]
+
+1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. Nf3 e6 5. e3 Nbd7 6. Bd3 dxc4 7. Bxc4 b5 8. Bd3
+Bb7 9. O-O a6 10. e4 c5 11. d5 c4 12. Bc2 Qc7 13. Nd4 Nc5 14. b4 $5 cxb3 15.
+axb3 b4 16. Na4 Ncxe4 17. Bxe4 $1 {Kasparov's novelty leads to sharp play.}
+17... Nxe4 18. dxe6 Bd6 $1 (18... fxe6 $2 19. Nxe6 Qe5 20. Nxf8 {
+gives unfavourable complications for Black.}) 19. exf7+ Qxf7 $1 20. f3 Qh5 $2
+21. g3 O-O $2 (21... Nxg3 $1 22. hxg3 O-O $1 23. Ra2 $1 Bxg3 24. Rg2 Be5 {
+brings an unclear position (Kramnik).}) 22. fxe4 Qh3 23. Nf3 $2 (23. Qe2 $1
+Bxg3 {(Kramnik)} 24. Nf5 $1 Be5 25. Bb2 {wins for White.}) 23... Bxg3 $1 {
+Vladimir delivers a sacrifice festival.} 24. Nc5 $2 (24. Qe2 $1 Rxf3 $1 25.
+Rxf3 Bxh2+ {(Kramnik)} 26. Qxh2 Qxf3 27. Qg2 Qd1+ 28. Kh2 Qh5+ {
+leads to perpetual check.}) 24... Rxf3 $1 25. Rxf3 Qxh2+ 26. Kf1 Bc6 $1 27. Bg5
+Bb5+ $1 28. Nd3 Re8 $1 29. Ra2 Qh1+ (29... Bxd3+ $1 30. Rxd3 Qh1+ 31. Ke2 Qg2+
+32. Ke3 Rxe4# {wins more quickly.}) 30. Ke2 Rxe4+ 31. Kd2 Qg2+ 32. Kc1 Qxa2 33.
+Rxg3 Qa1+ 34. Kc2 Qc3+ 35. Kb1 Rd4 {
+Kramnik had defeated the world champion with Black.} 0-1
+
+[Event "Dos Hermanas"]
+[Site "?"]
+[Date "1996.05.29"]
+[Round "7"]
+[White "Polgar, Judit"]
+[Black "Kasparov, Gary"]
+[Result "0-1"]
+[ECO "B82"]
+[WhiteElo "2675"]
+[BlackElo "2775"]
+[Annotator "JvR"]
+[PlyCount "180"]
+[EventDate "1996.??.??"]
+[Source "ChessBase"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f4 e6 7. Qf3 Qb6 8. a3
+Nc6 9. Nxc6 bxc6 10. b3 Bb7 11. Bb2 d5 12. Bd3 c5 13. exd5 exd5 14. O-O-O O-O-O
+15. Na4 Qc7 16. Bf5+ Kb8 17. Be5 Bd6 18. Qc3 d4 19. Bxd6 Qxd6 20. Qxc5 Qxf4+
+21. Kb1 Rd5 22. Rdf1 Qe5 23. Qc4 Rb5 24. Qxf7 Bd5 $2 ({He misses} 24... Bxg2
+25. Qxg7 (25. Bd3 Rb7 26. Qc4 {(Kasparov)} 26... Rc8 27. Re1 Rxc4 28. Rxe5 Rxa4
+) 25... Rg8 26. Qh6 Bxh1 27. Bd3 Be4 28. Rxf6 Rxb3+ $1) 25. Qxg7 Rg8 26. Qh6
+Bxb3 27. cxb3 Rxb3+ 28. Kc1 Qc7+ 29. Bc2 d3 30. Qf4 Rc8 31. Qxc7+ Rxc7 32. Rf2
+Ne4 $2 {Gary misses the win for the second time.} ({Correct is} 32... dxc2 33.
+Rxc2 Rxa3 34. Nc5 Rxc5 $1 35. Rxc5 Ra1+ 36. Kb2 Rxh1 {(Kasparov).}) 33. Rf8+
+Ka7 34. Rf7 Rbb7 35. Rxc7 Rxc7 36. Rd1 Rxc2+ 37. Kb1 Rxg2 38. Rxd3 Rxh2 39.
+Rd7+ Kb8 40. Re7 Nd2+ 41. Kc1 Nb3+ 42. Kd1 h5 43. Re3 Nd4 44. Nc5 a5 45. Nb3
+Nc6 46. Rc3 Kb7 47. Ke1 Kb6 48. Kf1 Rh4 49. Kg2 Nd4 50. Nxa5 Kxa5 51. Rc5+ Kb6
+52. Re5 Kc6 53. Kg3 Rh1 54. Kg2 Kd6 55. Ra5 Rh4 56. Kg3 Rg4+ 57. Kh3 Ne2 58.
+Rxh5 Rg3+ 59. Kh4 Rxa3 {The frustrated Kasparov continues in a drawn endgame.}
+60. Kg4 Ke6 61. Rb5 Rg3+ 62. Kh4 Rg1 63. Rg5 Rf1 64. Ra5 Kf6 65. Ra8 Rg1 66.
+Rf8+ Ke5 67. Re8+ Kf4 68. Rf8+ Ke4 69. Re8+ Kf3 70. Kh5 ({
+A nice end would have been} 70. Rf8+ Nf4 71. Rg8 $1 Rh1+ 72. Kg5 Rg1+ 73. Kh4
+Rxg8 {stalemate.}) 70... Ng3+ 71. Kh6 Nf5+ 72. Kh7 Kf4 73. Rb8 Rg7+ 74. Kh8 Rd7
+75. Re8 Kg5 76. Re6 Nd4 77. Re1 Kf6 78. Rd1 $6 Rd5 $1 {
+Black has been allowed to make progress.} 79. Ra1 $4 ({Theory is} 79. Rf1+ $1
+Nf5 80. Rf2 Rd4 81. Kg8 $1 {drawn.}) 79... Ne6 $1 80. Ra6 Kf7 81. Ra7+ Kg6 82.
+Ra8 Rd7 83. Rb8 Rc7 84. Kg8 Rc5 85. Ra8 Rb5 86. Kh8 Rb7 87. Rc8 Nc7 88. Rg8+
+Kh6 89. Rg1 $6 Rb8+ 90. Rg8 Ne8 $1 (90... Ne8 91. Rf8 Kg6 92. Rg8+ Kf7 {
+and the knight will go to f6.
+Kasparov grabbed his third chance.}) 0-1
+
+[Event "Dos Hermanas"]
+[Site "?"]
+[Date "1996.05.30"]
+[Round "8"]
+[White "Anand, Viswanathan"]
+[Black "Gelfand, Boris"]
+[Result "1-0"]
+[ECO "B90"]
+[WhiteElo "2725"]
+[BlackElo "2700"]
+[Annotator "JvR"]
+[PlyCount "83"]
+[EventDate "1996.??.??"]
+[Source "ChessBase"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e5 7. Nf3 Be7 8. Bc4
+O-O 9. O-O Nc6 10. Bg5 Be6 11. Bb3 Na5 12. Bxf6 Bxf6 13. Nd5 Bg5 14. Qd3 Rc8
+15. Rfd1 Kh8 16. Nc3 Be7 17. Nd5 Bg5 18. Kh1 Bh6 19. Nc3 Nxb3 20. axb3 Qb6 21.
+Kg1 Rc6 22. Qe2 Qc7 23. Ne1 f5 24. Nd3 fxe4 25. Qxe4 Qf7 26. Qe2 Qg6 27. f3 Bf5
+28. Nb4 Rc7 29. Nbd5 Rcf7 30. Ne4 Bg5 31. Ndc3 Be7 32. Rd3 Rc8 33. Rad1 Rc6 34.
+Nd5 Bf8 35. Rc3 h5 36. Kh1 h4 37. h3 Kg8 38. Rc4 Qh5 39. Ne3 {
+Anand has little lust to play but he wins anyway.} 39... d5 $2 ({Correct is} 
+39... Bd7 $1 40. Rxc6 Bxc6 41. Nxd6 Bxd6 42. Rxd6 e4 $1) 40. Nxd5 Bxh3 $2 41.
+gxh3 Rxf3 42. Nef6+ ({The purpose is} 42. Nef6+ gxf6 43. Rg4+ {(Anand).}) 1-0
+
+[Event "Dos Hermanas"]
+[Site "?"]
+[Date "1996.05.30"]
+[Round "8"]
+[White "Ivanchuk, Vassily"]
+[Black "Kramnik, Vladimir"]
+[Result "0-1"]
+[ECO "B66"]
+[WhiteElo "2735"]
+[BlackElo "2775"]
+[Annotator "JvR"]
+[PlyCount "64"]
+[EventDate "1996.??.??"]
+[Source "ChessBase"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6 7. Qd2 a6 8.
+O-O-O h6 9. Be3 Be7 10. f4 Nxd4 11. Bxd4 b5 12. Qe3 Qc7 13. e5 dxe5 14. Bxe5
+Ng4 $5 {The exchange is sacrificed by a novelty.} 15. Qf3 Nxe5 16. Qxa8 Nd7 $5
+17. g3 $2 {White should not open the long diagonal.} ({Better is} 17. Qf3 Bb7 {
+(Kramnik).}) 17... Nb6 18. Qf3 Bb7 19. Ne4 f5 20. Qh5+ Kf8 21. Nf2 Bf6 $1 ({
+Kramnik avoids} 21... Bc5 $2 22. Nh3 $3 Bxh1 23. Ng5 hxg5 24. Qxh8+ Kf7 25.
+Qh5+ {and perpetual check.}) 22. Bd3 Na4 23. Rhe1 Bxb2+ 24. Kb1 Bd5 $3 25. Bxb5
+$1 ({Or} 25. Bxf5 Bxa2+ $1 26. Kxa2 Qc4+ 27. Kb1 Nc3+ $1 28. Kxb2 Qb4+ 29. Kc1
+Na2# {(Kramnik).}) 25... Bxa2+ $1 26. Kxa2 axb5 27. Kb1 Qa5 $2 {
+The position has become razor-sharp.} ({Right is} 27... Qe7 $1 28. Rd3 Qb4 $1
+29. Rd8+ Ke7 {(Kramnik).}) 28. Nd3 $2 ({Best is} 28. c3 $1 Nxc3+ $1 29. Kxb2
+Na4+ $1 30. Ka2 $1 Qb4 $1 31. Rd8+ Ke7 32. Re8+ $1 Rxe8 33. Rxe6+ Kxe6 34.
+Qxe8+ Qe7 {(Kramnik)} 35. Qxe7+ Kxe7 36. Kb3 Kd6 37. Kb4 Nb2 $1 38. Kxb5 Kd5 {
+and Black might win the knight ending.}) 28... Ba3 $1 29. Ka2 Nc3+ 30. Kb3 Nd5
+31. Ka2 Bb4+ 32. Kb1 Bc3 {
+Kramnik, Topalov and Anand were the leaders with a score of plus three.} 0-1
+
+[Event "Dos Hermanas"]
+[Site "?"]
+[Date "1996.06.01"]
+[Round "9"]
+[White "Gelfand, Boris"]
+[Black "Kasparov, Gary"]
+[Result "0-1"]
+[ECO "A34"]
+[WhiteElo "2700"]
+[BlackElo "2775"]
+[Annotator "JvR"]
+[PlyCount "114"]
+[EventDate "1996.??.??"]
+[Source "ChessBase"]
+
+1. Nf3 c5 2. c4 Nc6 3. Nc3 e5 4. e3 Nf6 5. d4 cxd4 6. exd4 e4 7. Ng5 Bb4 8. d5
+Ne5 9. Qb3 a5 $5 10. Bd2 O-O 11. O-O-O d6 12. Ngxe4 Nxe4 13. Nxe4 Bf5 14. Ng3
+Bd7 $5 15. Kb1 Qe8 $6 ({Better is} 15... Bxd2 16. Rxd2 Rc8) 16. Bxb4 Ba4 17.
+Qe3 axb4 18. b3 Bd7 19. Be2 Qc8 20. Rd2 Re8 21. Qb6 Bf5+ 22. Ka1 Nd7 23. Qxb4
+Nc5 {Black has an attack as compensation for the two pawns.} 24. Kb2 Bg6 25.
+Qc3 Qc7 26. f4 Qb6 27. Kc1 Be4 28. Bd1 Nd3+ $1 29. Rxd3 Bxd3 30. Qxd3 Rxa2 31.
+Bc2 g6 $2 ({Right is} 31... Re3 $3 32. Qxh7+ Kf8 33. Qh8+ Ke7 34. Nf5+ Kd7 35.
+Nxe3 Qxe3+ 36. Kb1 Rxc2 $1 37. Kxc2 Qe2+ {drawn (Kasparov).}) 32. Ne4 Ra1+ 33.
+Bb1 Rxe4 34. Qxe4 Qxb3 35. Qc2 Qe3+ 36. Kd1 Qxf4 37. Re1 Qd4+ 38. Ke2 Qf6 39.
+Qd2 Qe5+ {Boris has never won of Gary.} 40. Kf1 $4 (40. Kf2 $1 Rxb1 41. Rxe5 {
+(Gelfand) would have led to the first victory.}) 40... Rxb1 $1 41. Rxb1 Qf5+
+42. Ke2 Qxb1 43. Qf4 Qc2+ 44. Kf1 Qb1+ 45. Ke2 Qb4 46. Kf3 Qc3+ 47. Ke2 Qe5+
+48. Qxe5 dxe5 49. c5 Kf8 50. Kd3 f5 51. Kc4 e4 52. Kb5 e3 53. c6 bxc6+ 54. dxc6
+Ke7 55. Kb6 e2 56. c7 e1=Q 57. c8=Q Qe6+ {
+Only the highlights of the blunders have been shown.} 0-1
+
+[Event "Dos Hermanas"]
+[Site "?"]
+[Date "1996.06.01"]
+[Round "9"]
+[White "Kamsky, Gata"]
+[Black "Anand, Viswanathan"]
+[Result "1-0"]
+[ECO "B17"]
+[WhiteElo "2735"]
+[BlackElo "2725"]
+[Annotator "JvR"]
+[PlyCount "71"]
+[EventDate "1996.??.??"]
+[Source "ChessBase"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. Ng5 Ngf6 6. Bd3 e6 7. N1f3 Bd6 8.
+Qe2 h6 9. Ne4 Nxe4 10. Bxe4 Nf6 11. Bd3 Qc7 12. Bd2 b6 13. Ne5 c5 $5 {
+Anand plays a novelty.} 14. Bb5+ $1 Ke7 $1 15. c3 Bb7 16. O-O Rhd8 17. f4 Ne4
+18. Be3 Kf8 19. Rae1 Kg8 20. Qg4 Nf6 21. Qg3 cxd4 22. cxd4 Nd5 23. Bd2 a6 24.
+Bd3 f5 $2 ({Anand should have simplified by} 24... Bb4 25. Re2 Bxd2 26. Rxd2
+Ne7) 25. Qg6 $1 Re8 26. g4 $1 {The defence line is crushed.} 26... Nf6 27. gxf5
+Bxe5 28. fxe5 Qc6 29. Re3 $5 Qh1+ 30. Kf2 Qxh2+ 31. Ke1 Ne4 32. Bxe4 Qh4+ 33.
+Kd1 Bxe4 34. Be1 Qh2 35. Rxe4 Qh3 36. Ke2 {Kramnik became winner on the
+Sonneborn-Berger score. Topalov scored 6 points too. Anand and Kasparov shared
+the third place.} 1-0
+

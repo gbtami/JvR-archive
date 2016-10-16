@@ -1,0 +1,592 @@
+[Event "Bled"]
+[Site "?"]
+[Date "1931.??.??"]
+[Round "1"]
+[White "Stoltz, Goesta"]
+[Black "Alekhine, Alexander"]
+[Result "0-1"]
+[ECO "C71"]
+[Annotator "JvR"]
+[PlyCount "80"]
+[EventDate "1931.??.??"]
+
+{Games from Alekhine in Bled 1931 are presented in this file. Jan van Reek.
+CYCLE ONE.} 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 d6 5. d4 b5 6. Bb3 Nxd4 7.
+Nxd4 exd4 8. Bd5 Rb8 9. Bc6+ ({A plus keeps} 9. Qxd4 Nf6 10. O-O {
+(Tereshchenko-Gregory, St. Petersburg 1909).}) 9... Bd7 10. Bxd7+ Qxd7 11. Qxd4
+Nf6 12. Nc3 Be7 13. O-O O-O 14. Bd2 Rfe8 15. Qd3 b4 16. Ne2 ({Less shy is} 16.
+Nd5 $1 Nxd5 17. exd5 $1) 16... Qc6 17. f3 $2 ({Correct is} 17. Ng3 {(Kmoch).})
+17... d5 $1 18. exd5 Nxd5 19. Rae1 Bf6 20. c4 Qc5+ 21. Rf2 Ne3 $1 22. b3 ({
+Insufficient resistance offers} 22. Ng3 Bd4 $1 23. Ne4 Rxe4 $1 24. Qxe4 Nxc4
+25. Qe8+ Qf8) 22... Rbd8 23. Bxe3 Rxe3 24. Qc2 Bh4 $1 25. g3 Rxf3 26. Ref1 Bg5
+27. Kg2 Rxf2+ 28. Rxf2 Qc6+ 29. Kh3 Be3 30. Rf1 Rd5 31. Nf4 Qd7+ 32. g4 Rd4 33.
+Qg2 c6 34. Nh5 Bg5 35. Qe2 g6 36. Ng3 h5 37. Ne4 Qxg4+ 38. Qxg4 hxg4+ 39. Kxg4
+Rxe4+ 40. Kxg5 Kg7 0-1
+
+[Event "Bled"]
+[Site "?"]
+[Date "1931.??.??"]
+[Round "2"]
+[White "Alekhine, Alexander"]
+[Black "Tartakower, Savielly"]
+[Result "1-0"]
+[ECO "B12"]
+[Annotator "JvR"]
+[PlyCount "121"]
+[EventDate "1931.??.??"]
+
+1. e4 c6 2. d4 Nf6 $5 3. Bd3 {Alekhine avoids a transfer to the Alekhine.} 3...
+d6 4. Nf3 e5 5. Nc3 Qc7 6. h3 h6 7. Be3 Be7 8. a4 Nbd7 9. Qd2 a6 10. a5 exd4
+11. Nxd4 Nc5 12. O-O Nxd3 13. cxd3 O-O 14. Na4 c5 $6 ({
+The pressure is lessened by} 14... d5 $1 15. Nb6 Rb8 16. exd5 Nxd5 17. Nxd5
+cxd5 18. Rac1 Qd8) 15. Rac1 Qd8 16. Ne2 Bd7 17. Nb6 Rb8 18. Ng3 Kh7 19. d4 cxd4
+20. Bxd4 Bc6 21. Rfe1 g6 22. Bc3 Ne8 23. Rcd1 Bf6 24. Bb4 Rg8 25. Nc4 Ba4 26.
+Ra1 Bb5 27. Nb6 Bc6 28. Ra3 Qc7 29. Rf3 Rd8 30. Nd5 Bxd5 31. Qxd5 Rd7 32. Bc3
+Bxc3 33. Rxc3 Qd8 34. Rf3 Qe7 35. e5 $5 {Contemporaries praise this move.}
+35... Nc7 $1 36. Qxb7 dxe5 37. Qc6 f5 38. Rb3 $1 Rgd8 39. Rb6 {
+But Black can survive.} 39... Rd6 $2 ({After} 39... Qg7 $1 40. Rb7 Rf7 41. h4
+h5 42. Rc1 Rdd7 {
+the black pieces apply consolidation and are ready for counteraction.}) 40. Qc5
+Re6 ({The attractive} 40... e4 {fails due to} 41. Nxf5 $1 gxf5 42. Qxf5+) 41.
+Qxe7+ Rxe7 42. Rc1 Red7 43. Kh2 e4 44. Ne2 Nd5 $5 ({
+Black perishes by restriction in} 44... Rg7 45. Nf4 Rd2 46. Kg1) 45. Rxa6 e3
+46. fxe3 Nxe3 47. Re6 Nd5 48. Rcc6 Ne7 49. Ra6 Rb8 50. Nf4 Rxb2 51. Nxg6 Nxg6
+52. Rxg6 f4 53. Rxh6+ Kg8 54. Rag6+ Rg7 55. Kg1 Ra2 56. a6 Rxg6 57. Rxg6+ Kf7
+58. Rg4 f3 59. Rf4+ Kg6 60. Rxf3 Rxa6 61. Kh2 1-0
+
+[Event "Bled"]
+[Site "?"]
+[Date "1931.??.??"]
+[Round "3"]
+[White "Asztalos, Lajos"]
+[Black "Alekhine, Alexander"]
+[Result "1/2-1/2"]
+[ECO "C11"]
+[Annotator "JvR"]
+[PlyCount "103"]
+[EventDate "1931.??.??"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 dxe4 5. Nxe4 Be7 6. Bxf6 gxf6 7. Nf3 b6 8.
+Bb5+ c6 9. Bd3 Bb7 10. Qe2 Qc7 11. O-O-O a6 $6 ({Correct is} 11... Nd7 {
+(Eliskases-Luckis, Montevideo 1941).}) 12. Rhe1 Nd7 13. Kb1 c5 14. dxc5 bxc5
+15. Ng3 Nb6 16. Nh5 c4 17. Be4 Na4 18. Qe3 h6 $2 ({
+The right answer to the threat 19.Ng7+ Kf8 20.Qh6 gives} 18... Rg8 $1 19. Bxh7
+Rxg2) 19. Bxb7 Qxb7 20. Qd4 Rb8 21. b3 Qc6 22. Nxf6+ Bxf6 23. Qxf6 cxb3 {
+Black is horribly lost.} 24. axb3 (24. Qxh8+ Ke7 25. Rd7+ $1 Kxd7 26. Ne5+ Kc7
+27. Qxb8+ {wins immediately (Alekhine).}) 24... Nc3+ 25. Kc1 Rf8 26. Rd3 (26.
+Nd4 $1 {and Nxe6 wins (Alekhine).}) 26... Nd5 27. Qe5 Rc8 28. Re2 Nb4 29. Rd6
+Qc5 30. Qxc5 Rxc5 31. Kb2 Ke7 32. Rb6 a5 33. Ne5 Rfc8 34. Rb7+ R8c7 35. Rxc7+
+Rxc7 36. g3 f6 37. Nf3 e5 38. Rd2 Ke6 39. Ne1 Nd5 40. c4 Ne7 41. Ka3 Kf5 42.
+Rd6 Nc6 43. Nc2 Ke4 44. Rxf6 Nd4 45. Kb2 a4 46. Kc3 $2 ({White still wins by} 
+46. Nxd4 exd4 47. bxa4 Rxc4 48. a5 Ra4 49. a6) 46... axb3 47. Nxd4 exd4+ 48.
+Kxb3 Kd3 49. Rf3+ Ke2 50. Rf4 Kd3 $1 51. Rf3+ Ke2 52. Rf4 1/2-1/2
+
+[Event "Bled"]
+[Site "?"]
+[Date "1931.??.??"]
+[Round "4"]
+[White "Alekhine, Alexander"]
+[Black "Vidmar, Milan"]
+[Result "1-0"]
+[ECO "D55"]
+[Annotator "JvR"]
+[PlyCount "131"]
+[EventDate "1931.??.??"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 c6 4. Nc3 e6 5. Bg5 Be7 6. e3 O-O 7. Qc2 Ne4 8. Bxe7
+Qxe7 9. Bd3 Nxc3 10. bxc3 Kh8 $6 ({Wiser is} 10... h6 {
+(Geller-Klovans, Leningrad 1963).}) 11. cxd5 exd5 12. O-O Bg4 $2 (12... Nd7 13.
+Rab1 Nf6 {defends properly.}) 13. Ne5 Bh5 14. Bxh7 $1 g6 15. g4 (15. Bxg6 $1
+Bxg6 16. Qxg6 fxg6 17. Nxg6+ Kg7 18. Nxe7 Kf6 19. Nxd5+ cxd5 20. Rab1 {
+is even better.}) 15... Bxg4 16. Nxg4 Qg5 17. h3 Kxh7 18. f4 Qh4 19. Kh2 Nd7
+20. Rab1 b6 21. Rg1 Nf6 22. Ne5 Ne4 23. Rbf1 Kg7 24. Rg4 Qh6 25. f5 $1 {
+The attack has a terrific strength.} 25... Qxe3 $1 ({
+An insufficient defence provides} 25... g5 26. Rxe4 $1 dxe4 27. f6+ $1 Kh8 28.
+Qxe4 {(Alekhine).}) 26. Qg2 Qd2 (26... Rh8 $2 27. Rxg6+ $1) 27. f6+ $1 Kg8 28.
+Nxc6 Qxg2+ 29. Kxg2 Rfe8 30. Ne7+ Rxe7 $1 31. fxe7 Re8 32. c4 $1 Rxe7 33. cxd5
+Nc3 34. d6 Rd7 35. Rc1 Nb5 $2 ({Blockade applies} 35... Nd5 $1 36. Kf3 Rxd6 {
+A win will be difficult to achieve for White.}) 36. Rg5 Nxd6 37. Rd5 $1 Kf8 38.
+Re1 Rd8 39. Kf3 Rd7 40. Kf4 Kg7 41. Re8 Kf6 42. h4 Kg7 43. a4 Kf6 44. Rc8 Ke6
+45. Re5+ Kf6 46. Rc6 Rd8 47. a5 b5 48. Rxb5 Ke6 49. Re5+ Kf6 50. Ra6 Rd7 51.
+Kg4 Rd8 52. Kf3 Rd7 53. Kf4 Rd8 54. h5 gxh5 55. Rxh5 Rd7 56. Re5 Rd8 57. Rxa7
+Nc4 58. Ra6+ Kg7 59. Rg5+ Kf8 60. Ke4 Ke7 61. Rc5 Nd6+ 62. Kd3 Ke6 63. Rcc6 Kd5
+64. Rxd6+ Rxd6 65. Rxd6+ Kxd6 66. a6 ({The last point is} 66. a6 Kc6 67. d5+ $1
+) 1-0
+
+[Event "Bled"]
+[Site "?"]
+[Date "1931.??.??"]
+[Round "5"]
+[White "Colle, Edgar"]
+[Black "Alekhine, Alexander"]
+[Result "0-1"]
+[ECO "D34"]
+[Annotator "JvR"]
+[PlyCount "66"]
+[EventDate "1931.??.??"]
+
+1. d4 d5 2. Nf3 c5 3. c4 e6 4. cxd5 exd5 5. Nc3 Nc6 6. g3 Nf6 7. Bg2 Be7 8. O-O
+O-O 9. dxc5 d4 10. Nb5 Bxc5 11. Bg5 Bb6 12. Nd2 h6 13. Bxf6 Qxf6 14. Nc4 Bc5
+15. Nc7 Rb8 16. Nd5 Qd8 17. Rc1 Re8 18. a3 a5 19. e3 Bf5 20. exd4 Bxd4 21. Re1
+Be6 22. b4 $6 axb4 23. axb4 Bxd5 24. Rxe8+ Qxe8 25. Bxd5 Rd8 26. Qf3 Nxb4 {
+White has to find an incredibly difficult escape.} 27. Bxb7 $2 ({Right is} 27.
+Nd6 $1 Qd7 $1 (27... Rxd6 $2 28. Bxf7+ $1) 28. Bxf7+ Kh8 {(Kmoch) and now} 29.
+Ne4 $1 Rf8 30. Be6 $1) 27... Nd3 28. Nd6 (28. Rf1 Nxf2 $1 29. Rxf2 Qe6 $1)
+28... Rxd6 29. Rc8 Bxf2+ 30. Kf1 Rd8 31. Rxd8 Qxd8 32. Be4 Nc5 33. Kxf2 Qd4+
+0-1
+
+[Event "Bled"]
+[Site "?"]
+[Date "1931.??.??"]
+[Round "6"]
+[White "Alekhine, Alexander"]
+[Black "Nimzowitsch, Aaron"]
+[Result "1-0"]
+[ECO "C15"]
+[Annotator "JvR"]
+[PlyCount "37"]
+[EventDate "1931.??.??"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. Nge2 dxe4 5. a3 Bxc3+ 6. Nxc3 f5 $6 7. f3 $1 {
+A novelty offers another pawn.} 7... exf3 8. Qxf3 Qxd4 {
+Nimzowitsch shook his head and spoke: "He treats us like patzers!} ({
+Alekhine finds} 8... Qh4+ 9. g3 Qxd4 10. Nb5 $1 {nasty for Black.}) 9. Qg3 $1
+Nf6 ({Quickly loses} 9... Nc6 10. Nb5 Qe4+ 11. Be3 $1 {
+(Nudelman-Boehm, Stockholm 1976).}) 10. Qxg7 Qe5+ (10... Rg8 11. Qxc7 Nc6 12.
+Bf4 $1 {(Alekhine).}) 11. Be2 Rg8 12. Qh6 Rg6 13. Qh4 Bd7 14. Bg5 $1 {
+White has pressure for a pawn.} 14... Bc6 $2 ({Correct is} 14... Nc6 $1 15.
+O-O-O O-O-O 16. Rhe1 h6 $1 17. Bxh6 Ng4 $1 18. Bxg4 Rxg4 {
+and White only has a plus (Kmoch).}) 15. O-O-O Bxg2 ({Awful is} 15... Nbd7 16.
+Rhe1 $1 Be4 17. Bh5 $1 Nxh5 18. Qxh5) 16. Rhe1 Be4 17. Bh5 Nxh5 18. Rd8+ Kf7
+19. Qxh5 {Nimzo had tears in his eyes.} 1-0
+
+[Event "Bled"]
+[Site "?"]
+[Date "1931.??.??"]
+[Round "7"]
+[White "Pirc, Vasja"]
+[Black "Alekhine, Alexander"]
+[Result "0-1"]
+[ECO "D32"]
+[Annotator "JvR"]
+[PlyCount "48"]
+[EventDate "1931.??.??"]
+
+1. d4 d5 2. c4 e6 3. Nc3 c5 4. cxd5 cxd4 $5 5. Qa4+ Bd7 6. Qxd4 exd5 7. Qxd5
+Nc6 8. Bg5 Nf6 9. Qd2 h6 10. Bxf6 Qxf6 11. e3 $6 ({A plus keeps} 11. Nd5 $1 Qd6
+12. e4) 11... O-O-O 12. O-O-O $2 ({Properly defends} 12. Nd5 $1 Qf5 13. Qd3 Qe5
+14. Nc3 Bf5 15. Qb5) 12... Bg4 13. Nd5 {This time Pirc is treated as a
+'patzer'. Alekhine finds a great combination in the Shara-Hennig Gambit.} 13...
+Rxd5 $1 14. Qxd5 Ba3 $1 15. Qb3 (15. bxa3 Rd8 16. Qxd8+ Nxd8 $19) 15... Bxd1
+16. Qxa3 Qxf2 17. Qd3 Bg4 18. Nf3 Bxf3 19. Qf5+ Kb8 20. Qxf3 Qe1+ 21. Kc2 Rc8
+22. Qg3+ Ne5+ 23. Kb3 Qd1+ 24. Ka3 Rc5 0-1
+
+[Event "Bled"]
+[Site "?"]
+[Date "1931.??.??"]
+[Round "8"]
+[White "Alekhine, Alexander"]
+[Black "Flohr, Salo"]
+[Result "1-0"]
+[ECO "D28"]
+[Annotator "JvR"]
+[PlyCount "57"]
+[EventDate "1931.??.??"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 Nf6 4. e3 e6 5. Bxc4 c5 6. O-O Nc6 7. Qe2 a6 8. Rd1
+b5 9. dxc5 Qc7 10. Bd3 Bxc5 11. a4 b4 $2 ({Theory will become} 11... bxa4 $1
+12. Nc3 Nb4 {(Pirc-Flohr, Sliac 1932).}) 12. Nbd2 O-O 13. Nb3 $6 ({
+Even better is} 13. b3 Ne5 14. Ne4 {(Flohr-Horowitz, radio match 1945).}) 13...
+Be7 $6 ({A proper fight for the square e5 delivers} 13... Bd6 $1 14. e4 Ng4 {
+(Johansson-Clarke, Leipzig 1960).}) 14. e4 Nd7 15. Be3 Nde5 16. Nxe5 Nxe5 $6 ({
+Alekhine prefers} 16... Bb7 17. Rac1 Qb8) 17. Rac1 Qb8 18. Bc5 Bxc5 19. Nxc5
+Qb6 20. Qh5 Nd7 21. Be2 g6 22. Qg5 Nxc5 23. Rxc5 a5 24. h4 Ba6 25. Bf3 f6 26.
+Qe3 Rad8 27. Rxd8 Rxd8 28. e5 $1 f5 ({Awful is} 28... fxe5 29. Qxe5) 29. Rc8 $1
+{A nice move decides the game.} 1-0
+
+[Event "Bled"]
+[Site "?"]
+[Date "1931.??.??"]
+[Round "9"]
+[White "Bogoljubow, Efim"]
+[Black "Alekhine, Alexander"]
+[Result "0-1"]
+[ECO "E33"]
+[Annotator "JvR"]
+[PlyCount "110"]
+[EventDate "1931.??.??"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 d5 5. a3 Bxc3+ 6. Qxc3 Nc6 7. Nf3 dxc4 8.
+Qxc4 O-O $5 ({More solid is} 8... Qd5 {(Alatortsev-Yudovich, Leningrad 1934).})
+9. Bg5 h6 10. Bh4 g5 $5 11. Bg3 g4 12. Ne5 Qxd4 13. Qxd4 Nxd4 14. Rc1 ({
+Alekhine prefers} 14. O-O-O Nf5 15. Bf4 {but} 15... h5 {answers well.}) 14...
+Nf5 15. Rxc7 h5 16. e3 Nd5 17. Rc1 f6 18. Ng6 Rd8 19. e4 Nxg3 20. hxg3 Kg7 $1
+21. Nf4 Nxf4 22. gxf4 Kg6 23. f3 Bd7 24. fxg4 hxg4 25. Rh4 e5 26. f5+ $6 Kg5
+27. g3 Bc6 28. Be2 $4 ({White escapes by} 28. Rxc6 $1 bxc6 29. Be2 Rg8 {
+(Alekhine)} 30. b4) 28... Bxe4 29. Rc7 Bf3 30. Bxf3 gxf3 31. Rc3 Kxf5 32. Rxf3+
+Kg6 33. Rg4+ Kf7 34. Rh4 Rh8 35. Rb4 b6 36. a4 Rac8 37. a5 bxa5 38. Rb5 Rh2 39.
+Kd1 Kg6 40. Rxa5 Rxb2 41. Ra6 Rf8 42. Rxa7 Rh8 43. Kc1 Rg2 44. Rd7 e4 45. Rf1
+f5 46. Rd5 Rf8 47. Rd6+ Rf6 48. Rd8 Kf7 49. Rd7+ Ke6 50. Rg7 Ke5 51. Rd1 Rc6+
+52. Kb1 Rc3 53. Rf1 Rf3 54. Rc1 Rb3+ 55. Ka1 Rbxg3 0-1
+
+[Event "Bled"]
+[Site "?"]
+[Date "1931.??.??"]
+[Round "10"]
+[White "Alekhine, Alexander"]
+[Black "Kashdan, Isaac"]
+[Result "1/2-1/2"]
+[ECO "D52"]
+[Annotator "JvR"]
+[PlyCount "147"]
+[EventDate "1931.??.??"]
+
+1. d4 Nf6 2. c4 c6 3. Nf3 d5 4. Nc3 e6 5. Bg5 Nbd7 6. e3 Qa5 7. Nd2 dxc4 8.
+Bxf6 Nxf6 9. Nxc4 Qc7 10. Bd3 Be7 11. O-O O-O 12. Rc1 Rd8 13. Qe2 Bd7 14. Ne5
+Be8 15. f4 c5 $1 16. dxc5 Qxc5 17. Ne4 Qa5 18. Ng5 $6 Rac8 19. a3 b5 20. h3 Qb6
+21. Kh1 h6 22. Rxc8 Rxc8 23. Ngf3 Bc5 24. Nd4 $2 ({The pawn protects} 24. Re1
+Nd5 25. Be4 $1 {due to} 25... Nxe3 $4 26. b4) 24... Bxd4 25. exd4 Qxd4 26. f5
+Nh5 $1 27. Qxh5 Qxe5 28. Qg4 exf5 29. Bxf5 Rc4 30. Qd1 Rf4 $6 (30... g6 {
+avoids exchanges.}) 31. Rxf4 Qxf4 32. Bd7 $1 Bxd7 33. Qxd7 Qb8 34. Qd4 g6 35.
+a4 bxa4 36. Qxa4 Qb6 37. Qe8+ Kg7 38. Qe5+ Qf6 39. Qc5 a6 40. b4 Qf1+ 41. Kh2
+h5 42. Qd4+ Kh7 43. Qe5 Qb5 44. Qf6 Kg8 45. Qd6 Qc4 46. Kg1 Kg7 47. Kf2 Qe6 48.
+Qb8 Kf6 49. Qa7 Qc4 50. Ke3 Ke6 51. Qb6+ Kd7 52. Qb7+ Kd6 53. g3 g5 54. Qb8+
+Ke7 55. Qh8 Qc1+ 56. Ke2 Qc4+ 57. Kf2 g4 58. Qxh5 Qd4+ 59. Ke2 Qe4+ 60. Kd1
+Qd3+ 61. Kc1 Qf1+ 62. Kd2 Qg2+ 63. Kd1 Qf1+ 64. Kd2 gxh3 65. Qc5+ $2 (65. Qe5+
+{delivers perpetual check.}) 65... Ke6 66. Qc7 Kf6 67. Ke3 Qe1+ 68. Kf3 Qe6 69.
+Qc3+ Kg6 70. g4 Qf6+ $2 (70... Qd5+ $1 71. Kg3 Qg2+ 72. Kh4 h2 73. Qd3+ Kg7 74.
+Qc3+ f6 75. Qc7+ Kg6 {(Alekhine).}) 71. Qxf6+ Kxf6 72. Kg3 Ke5 73. Kxh3 Kd4 74.
+Kh4 1/2-1/2
+
+[Event "Bled"]
+[Site "?"]
+[Date "1931.??.??"]
+[Round "11"]
+[White "Maroczy, Geza"]
+[Black "Alekhine, Alexander"]
+[Result "0-1"]
+[ECO "B13"]
+[Annotator "JvR"]
+[PlyCount "100"]
+[EventDate "1931.??.??"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. Bd3 Nc6 5. c3 Nf6 6. Bf4 Bg4 7. Ne2 Qd7 8. h3
+Bf5 9. Ng3 Bxd3 10. Qxd3 e6 11. Nd2 h5 12. Nf3 h4 13. Nf1 Nh5 14. Qe3 f6 15.
+Bh2 g5 16. g4 $2 {This crude activity has a disastrous effect.} ({Correct is} 
+16. Qe2 Bd6 17. Bxd6 Qxd6 18. Ne3 Nf4 19. Qc2) 16... hxg3 17. Bxg3 O-O-O 18.
+Qe2 Bd6 19. O-O-O Nf4 20. Bxf4 Bxf4+ 21. Ne3 e5 22. dxe5 fxe5 23. Kb1 d4 24.
+cxd4 exd4 25. Ng4 Qd5 26. Nd2 Kb8 27. Qe4 Qf7 28. a3 d3 29. Ne3 Rhe8 30. Qg2
+Qh7 31. h4 gxh4 32. Qg4 Bxe3 33. fxe3 Rh8 34. Rh3 Qc7 35. Rxh4 Ne5 36. Qf4 Rhf8
+37. Qa4 Rf2 38. Rc1 Qb6 39. Rb4 Qxe3 40. Qb5 b6 41. Re4 Qg5 42. Nc4 Nf3 43.
+Qxg5 Nxg5 44. Rg4 Nf3 45. Rd1 b5 46. Na5 Kc7 47. Ka2 Kb6 48. Nb3 d2 49. Rf4 Rd3
+50. Nxd2 Rfxd2 0-1
+
+[Event "Bled"]
+[Site "?"]
+[Date "1931.??.??"]
+[Round "12"]
+[White "Spielmann, Rudolf"]
+[Black "Alekhine, Alexander"]
+[Result "1/2-1/2"]
+[ECO "D36"]
+[PlyCount "45"]
+[EventDate "1931.??.??"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. Bg5 Nbd7 6. cxd5 exd5 7. e3 Be7 8.
+Bd3 O-O 9. Qc2 Re8 10. O-O Nf8 11. h3 Nh5 12. Bxe7 Qxe7 13. Bf5 Bxf5 14. Qxf5
+g6 15. Qd3 Nd7 16. Rfc1 f5 17. g3 Rf8 18. Na4 Qd6 19. Qa3 Qxa3 20. bxa3 Nhf6
+21. Rab1 Rab8 22. Nc5 Nxc5 23. Rxc5 1/2-1/2
+
+[Event "Bled"]
+[Site "?"]
+[Date "1931.??.??"]
+[Round "13"]
+[White "Alekhine, Alexander"]
+[Black "Kostic, Boris"]
+[Result "1-0"]
+[ECO "D04"]
+[Annotator "JvR"]
+[PlyCount "93"]
+[EventDate "1931.??.??"]
+
+1. d4 d5 2. Nf3 Nf6 3. e3 Bf5 4. Bd3 e6 5. Bxf5 exf5 6. Qd3 Qc8 7. O-O Bd6 8.
+b3 O-O 9. c4 c6 10. Nc3 b6 $6 ({A weak c-file avoids} 10... Na6 $1) 11. cxd5 $1
+Nxd5 12. Nxd5 cxd5 13. Bb2 g6 14. Rfc1 Qa6 15. Qc3 Rd8 16. Ne5 Nd7 17. b4 Nf6
+$6 ({Equality keeps} 17... b5 $1 {and 18...Nb6 (Alekhine).}) 18. Qb3 b5 19. Rc6
+Qb7 20. Rac1 a5 21. Ba3 {Kostic achieves a lost position in one move.} 21...
+Rac8 $2 (21... a4 $1 22. Qc2 {(Alekhine)} 22... Ra6 23. Rxa6 Qxa6 {is ok.}) 22.
+bxa5 b4 23. a6 $1 Qa8 24. Qc2 Rxc6 25. Nxc6 Rd7 26. Bxb4 Qxa6 27. Nb8 Bxb8 28.
+Qc8+ Qxc8 29. Rxc8+ Kg7 30. Bf8+ Kh8 31. Rxb8 h5 32. Bd6+ Kh7 33. Be5 Ng8 34.
+h4 f6 35. Bf4 Ra7 36. Rb5 Nh6 37. a4 Nf7 38. a5 Nd8 39. Bb8 Rd7 40. a6 Nc6 41.
+Rb6 Nxb8 42. Rxb8 Kh6 43. Rb7 Rd6 44. a7 Ra6 45. f4 Ra2 46. Kf1 g5 47. g3 {
+Alekhine scored 11 1/2 out of 13 and had the incredible lead of four points on
+number two, Kashdan.} 1-0
+
+[Event "Bled"]
+[Site "?"]
+[Date "1931.??.??"]
+[Round "14"]
+[White "Alekhine, Alexander"]
+[Black "Stoltz, Goesta"]
+[Result "1-0"]
+[ECO "D17"]
+[Annotator "JvR"]
+[PlyCount "73"]
+[EventDate "1931.??.??"]
+
+{CYCLE TWO.} 1. d4 d5 2. Nf3 Nf6 3. c4 dxc4 4. Nc3 c6 5. a4 Bf5 6. Nh4 e6 7.
+Nxf5 exf5 8. e3 Nbd7 9. Bxc4 Nb6 10. Bb3 Bd6 11. Qf3 Qd7 12. h3 $1 Nc8 $6 ({
+More active is} 12... Nbd5) 13. a5 $1 Ne7 14. Bd2 Rb8 15. g4 $5 {
+Alekhine wants activity on both flanks and Stoltz chickens out.} 15... b5 ({
+Sufficient counteraction gives} 15... fxg4 $1 16. hxg4 Qxg4 17. Qxg4 Nxg4 18.
+Rg1 h5 $1 19. f3 Nh6 20. Rxg7 Nef5 {(Alekhine).}) 16. gxf5 Qxf5 17. Qxf5 Nxf5
+18. Bc2 $1 Nh4 19. Ke2 O-O 20. Ne4 Nxe4 21. Bxe4 c5 22. dxc5 Bxc5 23. Rac1 Bd6
+24. Rc6 Rbd8 ({An essential pawn loses} 24... Be5 25. Ra6 Bxb2 26. Rxa7) 25.
+Ra6 Rfe8 26. Bc6 Re7 27. Rd1 $1 Nf5 28. Bb4 g6 29. Bc5 Bxc5 30. Rxd8+ Kg7 31.
+Rd5 Bd4 32. Rd7 Re5 33. Kd3 Bxb2 34. Raxa7 Rc5 35. Rxf7+ Kh6 36. Rxh7+ Kg5 37.
+Raf7 1-0
+
+[Event "Bled"]
+[Site "?"]
+[Date "1931.??.??"]
+[Round "15"]
+[White "Tartakower, Savielly"]
+[Black "Alekhine, Alexander"]
+[Result "1/2-1/2"]
+[ECO "C77"]
+[Annotator "JvR"]
+[PlyCount "197"]
+[EventDate "1931.??.??"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. Nc3 d6 6. d3 Be7 7. h3 O-O 8. Be3
+b5 9. Bb3 Na5 10. Ne2 c5 11. O-O c4 12. dxc4 bxc4 13. Ba4 Nxe4 14. b4 cxb3 15.
+axb3 Bb7 16. Qd3 Qc7 17. Rfd1 d5 18. Bd2 Nxd2 19. Qxd2 d4 20. Ng3 Nc6 21. c3
+Rad8 22. Rdc1 d3 23. Qe3 f5 24. Bxc6 Qxc6 25. Qxe5 Bf6 26. Qf4 d2 27. Rd1 Qxc3
+28. Ra2 Bxf3 29. gxf3 Rd4 30. Qxf5 Bh4 31. Qe6+ Kh8 32. Qe2 Bxg3 33. fxg3 Rd3
+34. Kh2 Rdxf3 35. Qxd2 Qxb3 36. Rg1 h6 37. Rg2 R8f6 38. Rb2 Qa3 39. Rb8+ Rf8
+40. Rb6 R3f6 41. Rxf6 Rxf6 42. Rf2 Rxf2+ 43. Qxf2 a5 44. Qc2 Qf8 45. Qa2 Qa8
+46. Qa4 Qd5 47. h4 h5 48. Qe8+ Kh7 49. Qa4 Qd2+ 50. Kh3 Qd5 51. Kh2 Qe5 52.
+Qc2+ Kh6 53. Qc6+ Kh7 54. Qc2+ g6 55. Qc4 Kg7 56. Kg2 Qb2+ 57. Kh3 Qb7 58. Kh2
+Qa7 59. Qa4 Qf2+ 60. Kh3 Qf1+ 61. Kh2 Qe2+ 62. Kh1 Qd2 63. Kg1 Qc3 64. Kh2 Qc5
+65. Qd7+ Kh6 66. Qd2+ g5 67. hxg5+ Kg6 68. Qd3+ Kxg5 69. Qd8+ Kf5 70. Qd7+ Ke4
+71. Qa4+ Ke3 72. Qb3+ Kd2 73. Qa2+ Kd3 74. Qb3+ Qc3 75. Qd5+ Kc2 76. Qf5+ Kc1
+77. Kh3 Qe1 78. Qc5+ Kb2 79. Qb5+ Ka3 80. Qc5+ Ka4 81. Qc6+ Kb4 82. Qb6+ Kc4
+83. Qc6+ Kb3 84. Qd5+ Kc2 85. Qa2+ Kd1 86. Qd5+ Kc1 87. Qc5+ Kb1 88. Qb5+ Kc2
+89. Qf5+ Kb3 90. Qd5+ Kb2 91. Qb5+ Qb4 92. Qe5+ Qc3 93. Qe2+ Kb3 94. Qxh5 Qc8+
+95. Kh2 a4 96. Qb5+ Ka3 97. Qd3+ Kb4 98. Qb1+ Ka5 99. Qe1+ {
+Alekhine failed to win a won game.} 1/2-1/2
+
+[Event "Bled"]
+[Site "?"]
+[Date "1931.??.??"]
+[Round "16"]
+[White "Alekhine, Alexander"]
+[Black "Asztalos, Lajos"]
+[Result "1/2-1/2"]
+[ECO "D60"]
+[PlyCount "46"]
+[EventDate "1931.??.??"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 e6 4. Nc3 Nbd7 5. Bg5 Be7 6. e3 O-O 7. a3 c5 8. Qc2
+b6 9. Rd1 cxd4 10. Nxd4 Bb7 11. cxd5 Nxd5 12. Nxd5 Bxg5 13. Nc3 a6 14. Bd3 h6
+15. Bh7+ Kh8 16. Be4 Qc7 17. O-O Rac8 18. Qe2 Be7 19. f4 Nf6 20. Bxb7 Qxb7 21.
+Rd3 Rfd8 22. Rfd1 b5 23. Qf3 Qb6 1/2-1/2
+
+[Event "Bled"]
+[Site "?"]
+[Date "1931.??.??"]
+[Round "17"]
+[White "Vidmar, Milan"]
+[Black "Alekhine, Alexander"]
+[Result "1/2-1/2"]
+[ECO "D46"]
+[PlyCount "40"]
+[EventDate "1931.??.??"]
+
+1. d4 Nf6 2. c4 c6 3. Nf3 d5 4. e3 e6 5. Bd3 Nbd7 6. O-O dxc4 7. Bxc4 Bd6 8.
+Nc3 O-O 9. e4 e5 10. Bg5 Qe7 11. d5 Nb6 12. Bb3 h6 13. Bxf6 Qxf6 14. h3 Bd7 15.
+Qe2 Qg6 16. Nh4 Qg5 17. Nf5 Bxf5 18. exf5 cxd5 19. Nxd5 Qxf5 20. Bc2 e4 1/2-1/2
+
+[Event "Bled"]
+[Site "?"]
+[Date "1931.??.??"]
+[Round "18"]
+[White "Alekhine, Alexander"]
+[Black "Colle, Edgar"]
+[Result "1-0"]
+[ECO "D51"]
+[Annotator "JvR"]
+[PlyCount "72"]
+[EventDate "1931.??.??"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. Bg5 Nbd7 5. Nf3 c6 6. e4 $5 dxe4 7. Nxe4 Qb6 8.
+Bd3 $5 Qxb2 $2 ({Right is} 8... Nxe4 9. Bxe4 Qb4+ 10. Nd2 Qxb2 {
+(Flohr & Spielmann - Euwe & Speyer, Amsterdam 1932).}) 9. O-O Nxe4 10. Bxe4 Nf6
+11. Bd3 Qb6 12. Re1 Be7 13. Qc2 h6 {
+Black has to weaken his kingside in order to continue his development.} 14. Bd2
+c5 15. Bc3 cxd4 16. Nxd4 O-O 17. Nf5 $1 Qd8 18. Nxe7+ Qxe7 19. Rab1 $1 {
+The pressure on both flanks sufficiently compensates the pawn.} 19... Rd8 20.
+Re3 b6 21. Qe2 Bb7 22. Rg3 $1 {Black experiences great danger.} 22... Ne8 $6 ({
+The last chance gives} 22... Rac8 $1 {(Alekhine)} 23. Qe3 Kh8 24. Rb5 Rc5 25.
+Bb4 Nd7) 23. Re1 Kf8 24. Qb2 f6 (24... Kg8 25. Bb1 $1 f6 26. Qc2 f5 27. Qc1 {
+ruins Black's kingside.}) 25. Bb4 Nd6 26. Rge3 Kf7 27. f4 Qd7 28. Qe2 Re8 29.
+Qh5+ Kg8 30. Qg6 f5 31. Bxd6 Qxd6 32. Bxf5 Qxf4 33. Qh7+ Kf8 34. Bg6 Qd4 35.
+Bxe8 Rxe8 36. Kh1 Qf6 1-0
+
+[Event "Bled"]
+[Site "Ljubljana"]
+[Date "1931.??.??"]
+[Round "19"]
+[White "Nimzowitsch, Aaron"]
+[Black "Alekhine, Alexander"]
+[Result "0-1"]
+[ECO "B13"]
+[Annotator "JvR"]
+[PlyCount "72"]
+[EventDate "1931.??.??"]
+
+1. c4 c6 2. e4 d5 3. exd5 cxd5 4. d4 Nf6 5. Nc3 Nc6 6. Nf3 Bg4 7. cxd5 Nxd5 8.
+Bb5 Qa5 $5 9. Qb3 Bxf3 $1 10. gxf3 Nxc3 11. Bxc6+ bxc6 12. Qb7 $4 Nd5+ $1 13.
+Bd2 Qb6 $1 14. Qxa8+ Kd7 {Nimzowitsch will lose his queen.} 15. O-O Nc7 $1 16.
+Ba5 Nxa8 17. Bxb6 Nxb6 18. Rfc1 e6 19. Rc2 Be7 20. Rac1 Bg5 21. Rd1 Rb8 22. Rc5
+Nd5 23. Ra5 Rb7 24. Rd3 Bd8 25. Rb3 Rxb3 26. Rxa7+ Nc7 27. axb3 Bf6 28. Rb7
+Bxd4 29. Rb8 Bxb2 30. h3 f5 31. Kf1 Nd5 32. Kg2 Be5 33. Ra8 Nf4+ 34. Kh2 Nd3+
+35. Kg1 Ne1 36. Ra7+ Bc7 {
+A large audience attended at Ljubljana. They saw how their prof. Vidmar lost.}
+0-1
+
+[Event "Bled"]
+[Site "?"]
+[Date "1931.??.??"]
+[Round "20"]
+[White "Alekhine, Alexander"]
+[Black "Pirc, Vasja"]
+[Result "1-0"]
+[ECO "D30"]
+[Annotator "JvR"]
+[PlyCount "76"]
+[EventDate "1931.??.??"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. e3 c6 5. Bd3 Nbd7 6. Nbd2 Be7 7. O-O O-O 8. e4
+dxc4 9. Nxc4 c5 10. Bc2 b5 11. Ne3 Bb7 12. e5 Nd5 $5 13. Qd3 f5 14. exf6 $5
+N7xf6 15. Qxb5 {The missing pawn should have been sacrificed.} 15... Qc7 $2 ({
+Payoff gives} 15... Rb8 $1 16. Qc4 Nc7 $1 17. Rd1 Bxf3 18. gxf3 cxd4 19. Qxd4
+Qxd4 20. Rxd4 Ncd5) 16. Bb3 Nf4 17. Nf5 N6d5 18. Bxd5 Nxd5 19. Nxe7+ Qxe7 20.
+Bg5 Nf6 21. Qxc5 Qe8 22. Bxf6 Rxf6 23. Ne5 Qh5 24. f3 Qg5 25. Ng4 Rf5 26. Qc1
+Rf4 27. Qe3 Bd5 28. Ne5 Qf6 29. Rac1 h5 30. Rc7 Rf5 31. Rfc1 h4 32. Rc8+ Rxc8
+33. Rxc8+ Kh7 34. b3 h3 35. g4 Rf4 36. Qd3+ g6 37. Rc7+ Kh6 38. Qe3 Bxf3 1-0
+
+[Event "Bled"]
+[Site "?"]
+[Date "1931.??.??"]
+[Round "21"]
+[White "Flohr, Salo"]
+[Black "Alekhine, Alexander"]
+[Result "1/2-1/2"]
+[ECO "C13"]
+[PlyCount "29"]
+[EventDate "1931.??.??"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Be7 5. e5 Ne4 6. Bxe7 Qxe7 7. Nxe4 dxe4 8.
+Qe2 b6 9. O-O-O Bb7 10. g3 c5 11. Bg2 cxd4 12. Bxe4 Nc6 13. f4 O-O-O 14. Nf3
+Qc5 15. Kb1 1/2-1/2
+
+[Event "Bled"]
+[Site "?"]
+[Date "1931.??.??"]
+[Round "22"]
+[White "Alekhine, Alexander"]
+[Black "Bogoljubow, Efim"]
+[Result "1/2-1/2"]
+[ECO "D70"]
+[Annotator "JvR"]
+[PlyCount "73"]
+[EventDate "1931.??.??"]
+
+1. d4 Nf6 2. c4 g6 3. f3 d5 4. cxd5 Nxd5 5. e4 Nb6 6. Nc3 Bg7 7. Be3 O-O 8. Qd2
+Nc6 9. d5 $2 ({Theory will become} 9. O-O-O e5 10. d5 Nd4 {
+(Enevoldsen-Bolbochan, Dubrovnik 1950).}) 9... Ne5 10. Bg5 c6 11. Rd1 cxd5 12.
+exd5 Bf5 13. g4 Bd7 14. d6 f6 15. Bh6 Bc6 16. Bxg7 Kxg7 17. Qf4 exd6 18. Be2
+Qe7 19. Kf2 g5 20. Qd4 f5 21. h4 fxg4 22. hxg5 {Alekhine has made a number of
+bad and provoking moves. Now Bogoljubow takes over.} 22... Qxg5 $2 (22... gxf3
+23. Bf1 Qxg5 {increase the advantage to three pawns.}) 23. Ne4 Qf4 24. Nxd6
+Qxd4+ 25. Rxd4 Kg6 26. Rh4 Rad8 ({Better is} 26... Bxf3 $1 27. Nxf3 h5) 27. f4
+Nd5 $2 ({The last winning chance offers} 27... Nc8 28. Ke1 Rxf4 29. Rxf4 Nxd6)
+28. Kg3 Nxf4 29. Rxf4 Rxf4 30. Kxf4 Rxd6 31. Kxe5 Rd5+ 32. Ke6 h5 33. Bxg4 $1
+hxg4 34. Rxg4+ Kh5 35. Rg3 Rd2 36. Nf3 $1 Rxb2 37. Nd4 $1 1/2-1/2
+
+[Event "Bled"]
+[Site "?"]
+[Date "1931.??.??"]
+[Round "23"]
+[White "Kashdan, Isaac"]
+[Black "Alekhine, Alexander"]
+[Result "1/2-1/2"]
+[ECO "C48"]
+[PlyCount "97"]
+[EventDate "1931.??.??"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. Bb5 Nd4 5. Nxd4 exd4 6. e5 dxc3 7. exf6 Qxf6
+8. dxc3 Bc5 9. Qe2+ Qe6 10. Bc4 Qxe2+ 11. Kxe2 d6 12. Be3 Bxe3 13. Kxe3 Be6 14.
+Bxe6 fxe6 15. f4 Rf8 16. Rhf1 Kd7 17. Rf3 Rae8 18. Raf1 Rf5 19. g4 Ra5 20. a3
+Ra4 21. Rh3 h6 22. g5 hxg5 23. fxg5 Rg4 24. Rh5 e5 25. Rf7+ Re7 26. Rxe7+ Kxe7
+27. h4 d5 28. Rh8 c5 29. Ra8 Rxh4 30. Rxa7 Rh3+ 31. Ke2 e4 32. Rxb7+ Ke6 33. a4
+d4 34. cxd4 cxd4 35. Rb5 Rh2+ 36. Kd1 Rh1+ 37. Ke2 Rh2+ 38. Kd1 e3 39. a5 Rd2+
+40. Kc1 d3 41. cxd3 Rxd3 42. Rb8 Kd7 43. Rh8 Rd5 44. b4 Rd4 45. a6 e2 46. Rh1
+Rxb4 47. Re1 Ra4 48. Rxe2 Rxa6 49. Re5 1/2-1/2
+
+[Event "Bled"]
+[Site "?"]
+[Date "1931.??.??"]
+[Round "24"]
+[White "Alekhine, Alexander"]
+[Black "Maroczy, Geza"]
+[Result "1-0"]
+[ECO "D66"]
+[Annotator "JvR"]
+[PlyCount "55"]
+[EventDate "1931.??.??"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 e6 4. Bg5 Nbd7 5. e3 h6 6. Bh4 Be7 7. Nc3 O-O 8. Rc1
+c6 9. Bd3 a6 10. O-O dxc4 11. Bxc4 c5 12. a4 Qa5 13. Qe2 cxd4 $1 14. exd4 Nb6
+15. Bd3 Bd7 16. Ne5 Rfd8 17. f4 Be8 18. Ng4 Rxd4 $5 ({More prudently responds} 
+18... Nfd5 19. Bxe7 Nxe7) 19. Bxf6 Bxf6 20. Nxf6+ gxf6 21. Ne4 Rad8 $2 ({
+Correct is} 21... f5 22. Nf6+ Kf8 {(Alekhine).}) 22. Nxf6+ Kf8 23. Nh7+ $2 ({
+White misses the combination} 23. f5 $1 Rxd3 24. fxe6 Nc8 25. Rxc8 $1 Rxc8 26.
+e7+ Kg7 27. Qg4+) 23... Ke7 24. f5 R8d6 25. b4 $1 Qxb4 26. Qe5 Nd7 27. Qh8 $1 {
+Alekhine attacks from behind.} 27... Rxd3 $2 ({Forced is} 27... Rc6 $1 28. Rxc6
+$1 bxc6 29. fxe6 fxe6 30. Nf6 Bf7 31. Nxd7 Rxd7 32. Qf6+ Kd6 {
+White only has a plus.}) 28. f6+ $1 ({The pointes are} 28. f6+ Nxf6 (28... Kd8
+29. Qxe8+ $1 Kxe8 30. Rc8#) 29. Qxf6+ Kd7 30. Nf8#) 1-0
+
+[Event "Bled"]
+[Site "?"]
+[Date "1931.??.??"]
+[Round "25"]
+[White "Kostic, Boris"]
+[Black "Alekhine, Alexander"]
+[Result "1/2-1/2"]
+[ECO "C45"]
+[PlyCount "30"]
+[EventDate "1931.??.??"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Bc5 5. Be3 Qf6 6. c3 Nge7 7. Nc2 d6 8.
+Nd2 O-O 9. Bxc5 dxc5 10. Qf3 Qxf3 11. Nxf3 Bg4 12. Be2 Ng6 13. Ne3 Bxf3 14.
+Bxf3 Rad8 15. g3 Rd6 1/2-1/2
+
+[Event "Bled"]
+[Site "?"]
+[Date "1931.??.??"]
+[Round "26"]
+[White "Alekhine, Alexander"]
+[Black "Spielmann, Rudolf"]
+[Result "1/2-1/2"]
+[ECO "D55"]
+[PlyCount "38"]
+[EventDate "1931.??.??"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 e6 4. Nc3 Be7 5. Bg5 O-O 6. e3 Ne4 7. Bxe7 Qxe7 8.
+Qc2 Nxc3 9. Qxc3 c6 10. Bd3 dxc4 11. Bxc4 Nd7 12. O-O b6 13. Qd3 c5 14. Qe4 Rb8
+15. Bd3 g6 16. Qf4 Bb7 17. Be4 cxd4 18. Bxb7 Rxb7 19. Qxd4 Rc7 {In the second
+cycle Alekhine made 9 points, before Bogoljubow and Stoltz with 8.} 1/2-1/2
+

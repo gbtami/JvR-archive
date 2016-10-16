@@ -1,0 +1,939 @@
+[Event "URS-ch29 Baku"]
+[Site "?"]
+[Date "1961.??.??"]
+[Round "1"]
+[White "Kots, Yury"]
+[Black "Spassky, Boris"]
+[Result "0-1"]
+[ECO "C87"]
+[Annotator "JvR"]
+[PlyCount "48"]
+[EventDate "1961.??.??"]
+
+{The game of the top duo of the 29th Soviet championship have been analysed. 
+ Jan van Reek} 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 d6 7.
+c3 Bg4 8. h3 Bh5 9. d3 Qd7 10. Nbd2 ({Known is} 10. Bxc6 Qxc6 {
+(Lasker-Janowsky, New York 1924).}) 10... g5 $1 {
+Black starts an attack immediately.} 11. g4 Bg6 12. Nf1 h5 13. N3h2 hxg4 14.
+hxg4 O-O-O 15. Bxc6 ({White managed to survive in} 15. Qe2 Rh3 16. f3 Rdh8 {
+(Campora-A. Petrosian, Sarajevo 1986).}) 15... Qxc6 16. Bxg5 Qd7 17. Be3 Nxg4
+$5 (17... d5 $1 18. f3 Rh3 {charges without a piece sacrifice.}) 18. Qxg4 $6 ({
+More resistance offers} 18. Nxg4 $1 f5 19. exf5 Bxf5 20. f3 Rdg8 21. Nfh2 Bh4
+22. Bf2 Bxf2+ 23. Kxf2 Qe7) 18... f5 19. exf5 Bxf5 20. Qe2 $6 {
+White wastes time.} ({Better is} 20. Qf3 Rdg8+ 21. Ng3 Bxd3) 20... Rdg8+ 21.
+Ng3 Bh4 22. Qf3 (22. Nhf1 Qc6 23. Rad1 Bxg3 24. Nxg3 Rh1#) 22... Bxd3 23. Bd2
+Bxg3 24. Qxd3 Qh3 0-1
+
+[Event "URS-ch29 Baku"]
+[Site "?"]
+[Date "1961.??.??"]
+[Round "1"]
+[White "Smyslov, Vasily"]
+[Black "Polugaevsky, Lev"]
+[Result "1-0"]
+[ECO "C26"]
+[Annotator "JvR"]
+[PlyCount "83"]
+[EventDate "1961.??.??"]
+
+1. e4 e5 2. Nc3 Nf6 3. g3 d5 4. exd5 Nxd5 5. Bg2 Be6 6. Nf3 Nc6 7. O-O Be7 8.
+Re1 Bf6 9. Ne4 O-O 10. d3 Be7 11. a3 $5 {Smyslov plans a slow advance.} 11...
+Nb6 12. b4 Bg4 13. c3 a6 14. h3 Bh5 15. Nc5 Rb8 16. Bb2 Bd6 17. Qb3 Nd7 18. d4
+Re8 19. Re3 exd4 $6 ({Equality keeps} 19... Bxc5 20. bxc5 b6 $1 21. cxb6 Nxb6
+22. Nxe5 Nxe5 23. dxe5 Nd7 24. Qc2 Nxe5) 20. cxd4 Rxe3 21. Qxe3 a5 ({
+Material costs} 21... Nb6 22. Nxb7 $1 Rxb7 23. Qe4) 22. b5 Ne7 23. Re1 Nd5 24.
+Qb3 N5f6 25. Nd3 Nb6 26. Nfe5 a4 27. Qc2 Bg6 28. Nxg6 hxg6 29. Ne5 Nbd5 $2 (
+29... Qe8 30. Qe2 Qe6 {avoids a catastrophe.}) 30. Qxa4 b6 31. Nd3 (31. Qb3 $1
+{wins immediately.}) 31... Bf8 32. Ne5 Qd6 33. Nc6 Re8 34. Re5 Ne7 35. Qc4 Nf5
+36. Rxe8 Nxe8 37. Ne5 Qe7 {White finishes the game neatly.} 38. Nxf7 $1 Qe1+
+39. Bf1 Nxg3 40. Ne5+ Kh7 41. fxg3 Qxg3+ 42. Kh1 {
+Spassky led and stayed on top for the rest of the tournament.} 1-0
+
+[Event "URS-ch29 Baku"]
+[Site "?"]
+[Date "1961.??.??"]
+[Round "2"]
+[White "Polugaevsky, Lev"]
+[Black "Kholmov, Ratmir"]
+[Result "1/2-1/2"]
+[ECO "E42"]
+[Annotator "JvR"]
+[PlyCount "83"]
+[EventDate "1961.??.??"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Nge2 cxd4 6. exd4 O-O 7. a3 Be7 8. d5
+exd5 9. cxd5 Re8 10. g3 Bc5 11. Na4 Bf8 12. Bg2 d6 13. O-O Nbd7 14. Be3 Ne5 15.
+Bd4 Bg4 16. f3 Bd7 17. Nac3 g6 18. b3 Nh5 $5 {
+Black's activity leads to a plus for White.} 19. Qd2 f5 20. f4 Nf7 21. Bf2 Bg7
+22. Nd4 Rc8 23. b4 Qf6 24. Rac1 g5 25. Nce2 gxf4 26. gxf4 Qg6 27. Rxc8 Bxc8 28.
+Kh1 Qh6 $6 {White brings a temporary sacrifice.} 29. Ne6 $6 (29. Rc1 $1 {
+starts an attack.}) 29... Bxe6 30. dxe6 Qxe6 31. Nd4 Qd7 32. Bh3 Nh6 33. Nxf5
+Nxf5 34. Qd5+ Kh8 35. Bxf5 Qc7 36. Qf3 Qf7 37. Be4 b6 38. Bh4 Rf8 39. Qd3 (39.
+f5 $1 Nf6 40. Bc6 {is better.}) 39... Nxf4 40. Qxd6 Qc4 41. Bg2 Ng6 42. Rxf8+
+1/2-1/2
+
+[Event "URS-ch29 Baku"]
+[Site "?"]
+[Date "1961.??.??"]
+[Round "2"]
+[White "Spassky, Boris"]
+[Black "Gipslis, Aivars"]
+[Result "1-0"]
+[ECO "B25"]
+[Annotator "JvR"]
+[PlyCount "59"]
+[EventDate "1961.??.??"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 d6 6. Nge2 Nf6 7. h3 O-O 8. O-O
+Nd4 9. Nxd4 cxd4 10. Ne2 Nd7 11. f4 f5 $6 {White gets a target.} ({
+A neutral move is} 11... Qa5) 12. Kh2 Kh8 13. exf5 gxf5 14. c3 dxc3 15. bxc3
+Qa5 16. Be3 $1 Nc5 ({The pointe is} 16... Bxc3 $2 17. Nxc3 Qxc3 18. Rc1 Qg7 19.
+Rc7) 17. Bd4 e5 18. Be3 Be6 19. Rb1 Rad8 20. d4 Ne4 21. Rxb7 Qxa2 22. Rb4 Bd5
+23. Rg1 Ba8 24. Ra4 Qb2 25. Rb4 Qa2 26. Ra4 Qb2 27. Rxa7 Nxc3 28. Nxc3 Qxc3 29.
+Qh5 $5 exd4 $4 {Gipslis has missed something.} (29... Qxe3 30. Qg5 Rg8 31. Rxg7
+e4 {is correct.}) 30. Rxg7 $1 (30. Rxg7 Kxg7 31. Rc1 Qxc1 32. Bxd4+ $18) 1-0
+
+[Event "URS-ch29 Baku"]
+[Site "?"]
+[Date "1961.??.??"]
+[Round "3"]
+[White "Bronstein, David"]
+[Black "Polugaevsky, Lev"]
+[Result "1/2-1/2"]
+[ECO "E15"]
+[Annotator "JvR"]
+[PlyCount "42"]
+[EventDate "1961.??.??"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 b6 4. g3 Bb4+ 5. Bd2 Bxd2+ 6. Qxd2 Ba6 7. b3 c6 8.
+Bg2 d5 9. O-O O-O 10. Rc1 Nbd7 11. a4 Rc8 12. Na3 Qe7 13. Qb2 c5 14. Nb5 Nb8
+15. Ne5 {Black feels pressure and starts to exchange towards tranquility.}
+15... dxc4 16. bxc4 cxd4 17. Nxd4 Bb7 18. Bxb7 Qxb7 19. a5 Nbd7 20. Nxd7 Nxd7
+21. axb6 axb6 1/2-1/2
+
+[Event "URS-ch29 Baku"]
+[Site "?"]
+[Date "1961.??.??"]
+[Round "3"]
+[White "Savon, Vladimir"]
+[Black "Spassky, Boris"]
+[Result "0-1"]
+[ECO "A08"]
+[Annotator "JvR"]
+[PlyCount "88"]
+[EventDate "1961.??.??"]
+
+1. Nf3 d5 2. g3 c5 3. Bg2 Nc6 4. O-O e5 5. d3 f6 $5 6. e4 d4 7. Nh4 Be6 8. f4
+Qd7 9. Nd2 O-O-O 10. a4 ({More active is} 10. f5 $1 Bf7 11. Bf3 {
+(Petrosian-Spassky, Moscow 1957).}) 10... Bd6 11. Nc4 Bc7 12. Bd2 Nge7 13. f5
+Bxc4 $1 14. dxc4 Ba5 15. Rf2 $6 (15. Bc1 $5 {keeps the strong bishop.}) 15...
+Bxd2 16. Rxd2 Kb8 17. Qf3 Qc7 18. Bf1 Nc8 19. g4 $2 {
+Black gets a target on the kingside.} 19... Nd6 20. Rg2 Qf7 21. Qe2 g6 22. fxg6
+hxg6 23. Nf3 g5 24. Rf2 Qe6 25. Ne1 Rh6 26. b3 Qe7 27. Nd3 Ne8 28. Bg2 Nc7 29.
+Re1 Ne6 30. Rf5 Rdh8 31. h3 Nb4 32. Ref1 Nxd3 33. Qxd3 Nf4 $1 {
+The positional humiliation has been completed.} 34. R1xf4 gxf4 35. Kf2 Qc7 36.
+Qd2 Rg8 37. Ke2 Rg5 38. Rxg5 fxg5 39. Kf3 Qb6 40. Bf1 Qb4 41. Qxb4 cxb4 42. Kg2
+d3 43. Bxd3 Kc7 44. Bf1 Kd6 0-1
+
+[Event "URS-ch29 Baku"]
+[Site "?"]
+[Date "1961.??.??"]
+[Round "4"]
+[White "Spassky, Boris"]
+[Black "Keres, Paul"]
+[Result "1/2-1/2"]
+[ECO "C92"]
+[Annotator "JvR"]
+[PlyCount "139"]
+[EventDate "1961.??.??"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+O-O 9. h3 a5 $5 10. d4 exd4 $5 11. cxd4 a4 12. Bc2 Nb4 {So far, the players
+follow Thomas-Stolz, Warsaw 1935. Spassky's new move hinders the development
+of the black queenside.} 13. d5 $1 Nd7 14. Na3 Bf6 $2 {
+Black loses a pawn without payoff.} (14... Nxc2 15. Qxc2 b4 16. Nb5 Ne5 $1 {
+is better.}) 15. Nxb5 Nc5 16. Nbd4 Ba6 17. Re3 Nxc2 18. Qxc2 Re8 19. Nc6 Qd7
+20. e5 $1 Be7 {Keres has waived the battle for the centre.} 21. Bd2 Bf8 22. Bb4
+h6 23. Rd1 Bb7 24. Nfd4 Ra6 25. Bxc5 dxc5 26. e6 $1 {
+Spassky continues the attack in an elegant manner.} 26... fxe6 ({
+An exchange costs} 26... Qxd5 27. Re5 $1 Qxa2 28. e7 cxd4 29. exf8=Q+ Rxf8 30.
+Nb4 Qb3 31. Qxb3 axb3 32. Nxa6 Bxa6 33. Rxd4) 27. Ne5 Qd6 (27... Qxd5 28. Ndf3
+Qxa2 29. Ra3 {wins the queen.}) 28. Nxe6 Bxd5 29. Rxd5 $1 Qxe6 30. Ng6 Qf7 31.
+Rxe8 Qxe8 32. Nxf8 Kxf8 33. Qxc5+ Kg8 34. Qxc7 Qe1+ 35. Kh2 Qxf2 $1 36. Qc4 Kh7
+37. Qe4+ ({The forced variation} 37. Qxa6 $2 Qf4+ 38. Kg1 Qe3+ 39. Kf1 Qf4+ 40.
+Ke2 Qe4+ 41. Kd2 Qxg2+ $1 42. Qe2 Qxd5+ 43. Qd3+ Qxd3+ 44. Kxd3 g5 {draws.})
+37... Rg6 38. Rb5 Qg3+ 39. Kh1 Qf2 40. Rb4 a3 41. bxa3 Qf1+ 42. Kh2 Qf6 43. Qb1
+h5 44. Rb5 Qf4+ 45. Kh1 Kh6 46. Qd1 Rg5 47. a4 Rf5 48. Rb3 (48. Rxf5 Qxf5 49.
+Qd2+ Kg6 50. Qd6+ Kh7 51. Qc7 $18) 48... Rc5 49. Rb6+ g6 50. Rb1 Rc3 51. a5 Ra3
+52. Qd5 Qc7 53. Qd2+ Kh7 54. Rc1 Qxa5 55. Qd6 $2 ({The win} 55. Qd7+ $1 Kh6 56.
+Qd6 Rxa2 57. Qf4+ Kg7 58. Rc7+ {is missed this time.}) 55... Rc3 56. Qd7+ Kg8
+57. Rd1 Qe5 58. a4 Re3 59. Qc8+ Kg7 60. Qb7+ Kh6 61. Qb4 Re2 62. a5 $6 Ra2 63.
+Qf8+ Kg5 64. h4+ Kxh4 65. Qd8+ Kg4 66. Qg8 Ra1 $1 67. Qxg6+ Kh4 68. Rxa1 Qxa1+
+69. Kh2 {Finally Keres escapes.} 69... Qh1+ $1 70. Kxh1 {stalemate.} 1/2-1/2
+
+[Event "URS-ch29 Baku"]
+[Site "?"]
+[Date "1961.??.??"]
+[Round "5"]
+[White "Polugaevsky, Lev"]
+[Black "Lein, Anatoly"]
+[Result "1/2-1/2"]
+[ECO "D36"]
+[Annotator "JvR"]
+[PlyCount "133"]
+[EventDate "1961.??.??"]
+
+1. d4 d5 2. Nf3 e6 3. c4 Nf6 4. cxd5 exd5 5. Qc2 c6 6. Nc3 Bg4 7. Bg5 Be7 8. e3
+Nbd7 9. Bd3 Bh5 10. O-O-O Nf8 11. h3 Ne6 12. g4 Nxg5 13. Nxg5 Bg6 14. Bxg6 hxg6
+15. Kb1 Bb4 16. Ne2 Qe7 17. Nf4 Bd6 18. Nd3 Ne4 19. Nxe4 Qxe4 20. Qe2 O-O-O 21.
+f3 Qe7 22. e4 dxe4 23. fxe4 Bc7 24. Nc5 Bb6 25. Nb3 a5 26. Qc2 Rhe8 27. Rhe1 a4
+28. Nc1 Rxd4 29. Rxd4 Bxd4 30. Qxa4 Rd8 31. Nb3 Be5 32. a3 Kb8 33. Rc1 Bd4 34.
+Ka2 Bb6 35. Rc4 Qg5 36. Qb4 Kc7 37. a4 Qe5 38. a5 Be3 39. a6 b6 40. Rc3 Bg5 41.
+Qc4 Qe6 42. Qxe6 $6 (42. Qa4 Bf6 43. Rc4 {keeps the initiative.}) 42... fxe6 {
+Black has a better ending by his active bishop.} 43. Rf3 Ra8 44. Rf7+ Kd6 45.
+Rxg7 (45. a7 $1 Be3 46. h4 b5 47. Rxg7 Rxa7+ 48. Rxa7 Bxa7 49. Na5 Be3 50. b4
+$11) 45... Rxa6+ 46. Kb1 Ra4 47. Rxg6 Bf4 48. Nc1 Rxe4 49. Nd3 Bg3 50. Rg8 Re2
+51. g5 Rg2 52. Rh8 (52. g6 $1 Bh4 53. Nf4 {gives a fine alternative.}) 52... c5
+53. g6 Bh2 54. Rg8 Ke7 55. h4 e5 56. h5 e4 57. Ne1 ({Or} 57. h6 $5 exd3 58. h7
+Be5 59. g7 Rxg7 60. h8=Q Rg1+ 61. Rxg1 Bxh8 62. b3 $11) 57... Rg1 58. h6 Be5
+59. g7 Rxe1+ 60. Kc2 Bxg7 61. hxg7 Rg1 62. Rb8 Rxg7 63. Rxb6 Rg2+ 64. Kc3 e3
+65. Kd3 e2 66. Kd2 Kd7 67. b3 1/2-1/2
+
+[Event "URS-ch29 Baku"]
+[Site "?"]
+[Date "1961.??.??"]
+[Round "5"]
+[White "Smyslov, Vasily"]
+[Black "Spassky, Boris"]
+[Result "0-1"]
+[ECO "A05"]
+[Annotator "JvR"]
+[PlyCount "76"]
+[EventDate "1961.??.??"]
+
+1. Nf3 d5 2. g3 Nf6 3. Bg2 g6 4. b4 Bg7 5. Bb2 O-O 6. O-O Bg4 7. c4 c6 8. Na3
+Nbd7 9. Rc1 a5 10. b5 a4 11. d3 e5 $1 12. bxc6 ({Unfavourable is} 12. Nxe5 $6
+Nxe5 13. Bxe5 Qe7 14. Bb2 Qxe2) 12... bxc6 13. cxd5 cxd5 14. Nc2 e4 15. dxe4
+dxe4 16. Nd2 Rb8 17. Ba3 Re8 18. Ne3 Ne5 19. Nxg4 Nexg4 20. Nc4 e3 $1 21. f3
+Nf2 {Confusion rules on the kingside.} 22. Qxa4 Nd5 23. f4 Nc3 24. Qc2 Qd4 25.
+Ne5 Bxe5 26. fxe5 Rec8 27. Bf3 Qd2 28. Kg2 Qd7 29. Bd6 Nce4 30. e6 $6 ({
+White draws by} 30. Bxb8 $1 Rxc2 31. Rxc2 Qh3+ 32. Kg1 Nxg3 33. hxg3 Ng4 34.
+Bxg4 Qxg3+ 35. Kh1 Qh4+ 36. Kg2 Qxg4+ 37. Kh2 $11 {(Euwe).}) 30... Qxe6 31.
+Bxb8 Rxc2 32. Rxc2 g5 33. Kg1 $2 ({The escape} 33. Ba7 $1 Qh3+ 34. Kg1 Nxg3 {
+is missed.}) 33... Nd2 34. Rfc1 Nxf3+ 35. exf3 Nd3 36. Rc6 Qxa2 37. R6c2 Qa4
+38. Rc8+ Kg7 {(White overstepped the time limit in a lost position). Spassky
+defeated the co-leader.} 0-1
+
+[Event "URS-ch29 Baku"]
+[Site "?"]
+[Date "1961.??.??"]
+[Round "6"]
+[White "Nezhmetdinov, Rashid"]
+[Black "Polugaevsky, Lev"]
+[Result "0-1"]
+[ECO "B96"]
+[Annotator "JvR"]
+[PlyCount "68"]
+[EventDate "1961.??.??"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 b5 $1 8. e5
+{Polugaevsky plays his variation.} 8... dxe5 9. fxe5 Qc7 10. exf6 Qe5+ 11. Ne4
+$6 Qxe4+ 12. Ne2 Nc6 13. Qd2 h6 $1 {
+Black improves on Nezhmetdinov-Polugaevsky, Solnecnoje 1959).} 14. Be3 Bb7 15.
+Ng3 Qe5 16. fxg7 Bxg7 17. Bd3 Nb4 18. O-O Nxd3 19. Qxd3 Rd8 20. Qe2 h5 $6 ({
+The risky} 20... Qxb2 $5 21. Qf2 f5 22. Nxf5 O-O 23. Ne7+ Kh7 24. Qg3 Qxc2 {
+plays for a win.}) 21. Rae1 $2 ({Correct is} 21. Qf2 $1 Qxe3 22. Qxe3 Bd4 23.
+Qxd4 Rxd4 {(Polugaevsky).}) 21... h4 22. Qf2 Rd7 $1 23. Ne2 h3 24. gxh3 Rxh3
+25. Ng3 Qd5 26. Bb6 Be5 27. Rxe5 Qxe5 28. Re1 Qg5 29. Be3 Qg4 30. Rf1 f5 31.
+Bf4 Rd1 32. c3 Rh4 33. Bc7 f4 34. Qxf4 Qxf4 0-1
+
+[Event "URS-ch29 Baku"]
+[Site "?"]
+[Date "1961.??.??"]
+[Round "6"]
+[White "Spassky, Boris"]
+[Black "Kholmov, Ratmir"]
+[Result "1/2-1/2"]
+[ECO "C63"]
+[Annotator "JvR"]
+[PlyCount "104"]
+[EventDate "1961.??.??"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 f5 $5 4. Nc3 fxe4 5. Nxe4 d5 6. Nxe5 dxe4 7. Nxc6
+Qd5 $5 8. c4 Qd6 9. Nxa7+ Bd7 10. Bxd7+ Qxd7 11. Nb5 (11. Qh5+ $5 g6 12. Qe5+
+Kf7 13. Nb5 {is even sharper.}) 11... Nf6 12. O-O c6 13. Nc3 Bc5 14. d4 exd3
+15. Re1+ Kf7 16. Be3 Bxe3 17. Rxe3 Rad8 18. Qf3 ({White has to avoid} 18. Qd2
+Rhe8 19. Rae1 Rxe3 20. Rxe3 Qd4 21. b3 $4 Qxc3 $1 22. Qxc3 d2 {
+(Smyslov-Bronstein, blitz game 1952).}) 18... Rhe8 19. Ne4 Qd4 20. Nxf6 Rxe3
+21. fxe3 Qxf6 22. Kf2 Ke6 23. Qxf6+ gxf6 24. Ke1 $1 Rg8 $2 ({
+More counteraction for a pawn gives} 24... h5 $1 25. Kd2 h4 $1) 25. g3 Rg5 26.
+Rd1 Rh5 27. h4 Rf5 28. Rxd3 Rf3 29. g4 Rh3 30. h5 Rg3 31. Rb3 Rxg4 32. Rxb7
+Rxc4 33. Rxh7 Rc2 34. h6 Rxb2 35. Ra7 Rh2 36. h7 c5 37. a4 Kd5 {
+The win is difficult to find.} 38. Rf7 $2 ({A decisive tempo gains} 38. Rc7 $1
+Kd6 39. Rf7 $1 Ke6 40. Rb7 $1 c4 41. a5) 38... c4 $1 39. a5 c3 40. Kd1 Kc4 41.
+a6 c2+ 42. Kc1 Kb3 43. Rb7+ Kc3 44. Rc7+ Kb3 45. a7 Rh1+ 46. Kd2 Rd1+ $1 47.
+Ke2 Rd8 48. e4 Kb2 49. Rb7+ Kc3 50. Rb8 c1=Q 51. Rxd8 Qh1 $1 52. Rc8+ Kb3 (
+52... Kb3 53. h8=Q (53. a8=Q Qg2+ 54. Ke3 Qg3+ 55. Kd4 Qe5+) 53... Qg2+ $1 54.
+Ke3 Qg3+ 55. Kd4 Qe5+ {leads to perpetual check.}) 1/2-1/2
+
+[Event "URS-ch29 Baku"]
+[Site "?"]
+[Date "1961.??.??"]
+[Round "7"]
+[White "Bronstein, David"]
+[Black "Spassky, Boris"]
+[Result "1/2-1/2"]
+[ECO "E44"]
+[PlyCount "34"]
+[EventDate "1961.??.??"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 b6 5. Nge2 Bb7 6. a3 Bxc3+ 7. Nxc3 d5 8. b4
+O-O 9. cxd5 Nxd5 10. Qc2 c5 11. dxc5 bxc5 12. Nxd5 Qxd5 13. b5 a6 14. bxa6 Bxa6
+15. e4 Qd6 16. Bxa6 Qxa6 17. Qe2 Nc6 1/2-1/2
+
+[Event "URS-ch29 Baku"]
+[Site "?"]
+[Date "1961.??.??"]
+[Round "7"]
+[White "Polugaevsky, Lev"]
+[Black "Gurgenidze, Bukhuti"]
+[Result "1-0"]
+[ECO "E61"]
+[Annotator "JvR"]
+[PlyCount "77"]
+[EventDate "1961.??.??"]
+
+1. d4 Nf6 2. c4 d6 3. Nc3 Bf5 $5 4. Nf3 g6 5. d5 $5 {White gains territory.}
+5... Bg7 6. Nd4 Bd7 7. e4 O-O 8. Be2 e6 9. Bg5 h6 10. Bh4 exd5 11. cxd5 Re8 12.
+f3 c5 13. Nb3 a6 14. a4 b6 15. Nd2 $1 Bc8 $5 {The bishop has returned in three
+moves. Overprotection of d6 is the intention of the last move.} 16. Nc4 Ra7 17.
+O-O Rb7 18. Kh1 (18. Qc2 $1 {prepares f3-f4.}) 18... g5 19. Bf2 Ree7 20. Bg3
+Rbd7 21. f4 $5 (21. Qb3 $1 {wins a pawn.}) 21... Nxe4 $1 22. Nxe4 Rxe4 23. fxg5
+hxg5 24. Bd3 Rd4 25. Qf3 Bb7 26. Qf5 Bxd5 27. Qh7+ Kf8 28. Ne3 {
+Black has a last resort.} 28... Bb7 $2 ({The strong bishop eliminates} 28...
+Rxd3 $1 29. Qxd3 Be6 30. Rae1 Kg8) 29. Nf5 Qf6 30. Nxd4 Qxd4 31. Rad1 Qxb2 32.
+Rf2 Qd4 33. Bc2 Qc3 34. Bf5 Qb3 35. Rdf1 Rd8 36. Bc2 Qd5 ({Nicely ends} 36...
+Qe6 37. Bg6 f6 38. Re2 Qxe2 39. Rxf6+ Bxf6 40. Qf7#) 37. Bg6 Rd7 38. Bxd6+ Ke8
+39. Qg8+ 1-0
+
+[Event "URS-ch29 Baku"]
+[Site "?"]
+[Date "1961.??.??"]
+[Round "8"]
+[White "Spassky, Boris"]
+[Black "Polugaevsky, Lev"]
+[Result "1-0"]
+[ECO "E13"]
+[Annotator "JvR"]
+[PlyCount "83"]
+[EventDate "1961.??.??"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. Nc3 Bb7 5. Bg5 Bb4 6. e3 h6 7. Bh4 g5 8. Bg3
+Ne4 9. Qc2 Bxc3+ 10. bxc3 d6 11. Bd3 Nxg3 12. fxg3 $5 {
+White accepts a slight weakening for pressure on the f-file.} 12... g4 13. Nh4
+Qg5 14. O-O $5 Qxe3+ $5 15. Kh1 Nd7 $1 {Black has to castle on the queenside.}
+({Disaster brings} 15... O-O $2 16. Bh7+ Kg7 17. Rxf7+ $1 Kxf7 18. Qg6+ Ke7 19.
+Qg7+ Rf7 20. Ng6+) 16. Rf4 $1 Rg8 17. Raf1 O-O-O 18. R1f2 Qe1+ 19. Rf1 Qe3 20.
+Rxf7 Rdf8 21. Qe2 Qxe2 22. Bxe2 h5 23. Kg1 Be4 24. Rxf8+ Nxf8 $5 (24... Rxf8
+25. Rxf8+ Nxf8 26. h3 c5 $1 {presents an acceptable alternative.}) 25. Kf2 Ng6
+26. Ke3 Bc6 27. Rf6 Nxh4 28. gxh4 g3 $5 (28... Bxg2 {is okay.}) 29. hxg3 Rxg3+
+30. Kf4 Rxg2 31. Bxh5 Rxa2 32. Rxe6 a5 $6 (32... Rf2+ 33. Kg5 Rg2+ 34. Kf4 Rf2+
+{gives a perpetual.}) 33. Bg4 Kd8 34. h5 Rh2 $2 {
+An exchange of moves becomes fatal.} (34... Bd7 $1 35. Rg6 Bxg4 36. Kxg4 Rh2
+37. h6 a4 {Black will survive.}) 35. h6 Bd7 36. Kg3 $3 Rh1 37. Bf3 {
+An endgame study composer will comment: "The rook is dominated on the h-file".}
+37... Rg1+ (37... Bxe6 38. Bxh1 Bg8 39. Be4 a4 40. h7 Bxh7 41. Bxh7 a3 42. Bb1
+{White is just in time.}) 38. Bg2 $1 Rc1 39. h7 Rxc3+ 40. Kh2 Bxe6 41. h8=Q+
+Ke7 42. d5 {Boris had scored three points more than Polu.} 1-0
+
+[Event "URS-ch29 Baku"]
+[Site "?"]
+[Date "1961.??.??"]
+[Round "9"]
+[White "Lein, Anatoly"]
+[Black "Spassky, Boris"]
+[Result "1/2-1/2"]
+[ECO "C71"]
+[Annotator "JvR"]
+[PlyCount "79"]
+[EventDate "1961.??.??"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 d6 5. d4 b5 6. Bb3 Nxd4 7. Nxd4 exd4 8. c3
+$5 d3 $5 {Spassky avoids the gambit.} 9. a4 Bd7 10. O-O Nf6 11. Qxd3 Be7 12.
+axb5 axb5 13. Rxa8 Qxa8 14. Bg5 h6 (14... Qxe4 $1 15. Qxe4 Nxe4 16. Bxe7 Nc5
+17. Bxd6 cxd6 {easily draws.}) 15. Bxf6 Bxf6 16. f4 Qc6 17. Nd2 ({
+More interesting is} 17. e5 $1 dxe5 18. Bxf7+ $1 Kxf7 19. fxe5 Qc5+ 20. Kh1
+Qxe5 21. Qxd7+ Kg6 $1) 17... O-O 18. Nf3 b4 19. e5 dxe5 20. fxe5 Be7 21. Nd4
+Qb6 22. Kh1 bxc3 23. bxc3 c5 24. Bc2 g6 25. Rb1 Qd8 26. e6 Bxe6 27. Nxe6 Qxd3
+28. Bxd3 fxe6 29. Bc4 $5 Rf6 30. g3 Kf7 31. Rb6 h5 32. Kg2 Bf8 33. Rc6 g5 34.
+h3 h4 35. Bb3 Be7 36. Bc4 Bd8 37. gxh4 gxh4 38. Rxc5 Bb6 39. Re5 Ke7 40. Re4
+1/2-1/2
+
+[Event "URS-ch29 Baku"]
+[Site "?"]
+[Date "1961.??.??"]
+[Round "9"]
+[White "Polugaevsky, Lev"]
+[Black "Khasin, Abram"]
+[Result "1-0"]
+[ECO "D34"]
+[Annotator "JvR"]
+[PlyCount "125"]
+[EventDate "1961.??.??"]
+
+1. d4 d5 2. Nf3 c5 3. c4 e6 4. cxd5 exd5 5. g3 Nc6 6. Bg2 Nf6 7. O-O Be7 8. Nc3
+O-O 9. Bg5 cxd4 10. Nxd4 Qb6 11. Nxc6 bxc6 12. Na4 Qa5 13. Qc2 Be6 14. Rfc1
+Rac8 15. Nc5 Bxc5 16. Qxc5 Qxc5 17. Rxc5 Ne4 18. Bxe4 dxe4 19. Kf1 Rb8 $2 ({
+Correct is} 19... f6 $1 20. Be3 Rfd8) 20. b3 Rb5 21. Rac1 Rfb8 22. Bf4 Rxc5 23.
+Rxc5 Rc8 24. Ke1 Kf8 25. Ra5 Ra8 26. Ra6 Bd5 27. Kd2 Ke7 28. Kc3 Kd7 29. Kd4 f6
+30. Kc5 g5 31. Be3 Kc7 32. g4 Kb7 33. Ra4 Rd8 34. Kb4 a6 35. Ka5 c5 $5 36. Bxc5
+Kc6 37. Be7 Rb8 38. Rd4 {Polugaevsky shows his great ability in the endgame.}
+38... Re8 $2 ({Black's last chance is} 38... Rb5+ $1 39. Ka4 (39. Kxa6 Rb8)
+39... Rb7 40. Bxf6 Rf7 41. Bxg5 Rxf2) 39. Bxf6 Rf8 40. Bxg5 Rxf2 41. Rd2 Rxh2
+42. Kxa6 Rg2 43. Bf4 e3 44. Rc2+ Kd7 45. g5 Be4 46. Rb2 Kc6 47. Bxe3 Bd3+ 48.
+Ka5 Kb7 49. a4 Rxe2 50. Rxe2 Bxe2 51. b4 Bd1 52. b5 Be2 53. Kb4 Kc7 54. Kc5 Bf1
+55. a5 Kb7 56. a6+ Ka7 57. Kc6+ Kb8 58. Kb6 Bg2 59. Ka5 Kc7 60. Bf4+ Kc8 61. b6
+Bf3 62. Kb4 Bg2 63. Kc5 1-0
+
+[Event "URS-ch29 Baku"]
+[Site "?"]
+[Date "1961.??.??"]
+[Round "10"]
+[White "Spassky, Boris"]
+[Black "Nezhmetdinov, Rashid"]
+[Result "1/2-1/2"]
+[ECO "E83"]
+[Annotator "JvR"]
+[PlyCount "81"]
+[EventDate "1961.??.??"]
+
+1. d4 Nf6 2. c4 d6 3. Nc3 g6 4. e4 Bg7 5. f3 O-O 6. Be3 Nc6 7. Nge2 a6 8. a3 $5
+{White decides to attack on the queenside.} 8... Bd7 9. b4 Re8 10. g3 b5 11.
+cxb5 axb5 12. Bg2 e5 13. d5 Ne7 14. O-O c6 15. Qd3 cxd5 16. exd5 Qb8 17. Kh1 h6
+18. Bg1 h5 $5 19. Ra2 h4 $5 20. gxh4 Qb7 (20... Bf5 $1 21. Qxb5 Nfxd5 22. Qxb8
+Rexb8 {starts an attack.}) 21. f4 e4 $2 (21... Nf5 22. fxe5 dxe5 {is correct.})
+22. Nxe4 Nxe4 23. Bxe4 Nf5 24. Ng3 Nxg3+ 25. hxg3 Rac8 26. Rc2 Rc4 $1 27. Rxc4
+bxc4 28. Qf3 Qc8 $2 (28... Bh3 $1 29. Rf2 f5 30. Bb1 Bg4 {
+continues the counteraction.}) 29. Rc1 $2 (29. f5 $1 {utilises the error.})
+29... Bg4 30. Qg2 c3 31. Bd3 Qa8 $1 32. b5 ({The pointe is} 32. Ra1 c2 $1)
+32... Qxa3 33. Rb1 {Black has sufficient compensation for the pawn.} 33... c2
+$2 (33... Bf3 $3 34. Qxf3 c2 $1 35. Rf1 c1=Q 36. Rxc1 Qxc1 {saves the game.})
+34. Qxc2 $1 ({Maybe, Black expected} 34. Bxc2 $4 Bf3) 34... Rc8 35. Qb3 Qa5 36.
+Be4 Rc3 37. Qb4 Qa2 38. Rb2 Qa1 39. Rb1 Qa2 40. Rb2 Qa1 41. Rb1 $4 {
+Again Spassky misses a win.} (41. Rb1 $4 Qa2 $1 {and Black can claim a draw.})
+(41. Kh2 $1 Rxg3 42. Kxg3 Bxb2 43. Be3 $18) 1/2-1/2
+
+[Event "URS-ch29 Baku"]
+[Site "?"]
+[Date "1961.??.??"]
+[Round "10"]
+[White "Taimanov, Mark"]
+[Black "Polugaevsky, Lev"]
+[Result "1/2-1/2"]
+[ECO "A27"]
+[PlyCount "39"]
+[EventDate "1961.??.??"]
+
+1. c4 e5 2. Nc3 Nc6 3. Nf3 f5 4. d4 e4 5. d5 exf3 6. dxc6 fxg2 7. cxd7+ Qxd7 8.
+Qxd7+ Bxd7 9. Bxg2 c6 10. O-O Nf6 11. Be3 Be6 12. b3 Bd6 13. Rad1 Be5 14. Bd4
+Bxd4 15. Rxd4 Rd8 16. e3 Ke7 17. Ne2 g6 18. Nf4 Bf7 19. Rfd1 Nd7 20. Kf1
+1/2-1/2
+
+[Event "URS-ch29 Baku"]
+[Site "?"]
+[Date "1961.??.??"]
+[Round "11"]
+[White "Gurgenidze, Bukhuti"]
+[Black "Spassky, Boris"]
+[Result "0-1"]
+[ECO "C73"]
+[Annotator "JvR"]
+[PlyCount "120"]
+[EventDate "1961.??.??"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O d6 6. Bxc6+ bxc6 7. d4 Be7 8.
+dxe5 Nxe4 $1 9. Nbd2 Nxd2 10. Bxd2 Bg4 11. Bc3 d5 12. h3 Bh5 13. Qd3 c5 14. Ba5
+c4 15. Qe3 Qd7 16. Nd4 O-O 17. e6 $1 fxe6 18. Qxe6+ $2 ({Equality keeps} 18.
+Nxe6 Rf7 19. Nxc7 Rb8 20. Qe5 Rf5 21. Qe6+ Qxe6 22. Nxe6 Rf6 23. Nd4 Rxb2 24.
+Bc3 {with blockades.}) 18... Qxe6 19. Nxe6 Rfc8 20. Rae1 ({Material costs} 20.
+Nxc7 $2 Bd8 $1 21. Nxa8 Bxa5 22. b4 Bd8) 20... Bd6 21. Bc3 Bg6 22. f4 $5 Bxc2
+23. f5 $5 Re8 24. g4 Re7 25. g5 {
+Black has a positional advantage in the centre.} 25... Rae8 (25... Be4 $1 26.
+Bd4 c6 {is even better.}) 26. f6 gxf6 27. gxf6 Rd7 28. f7+ Rxf7 29. Rxf7 Kxf7
+30. Ng5+ Kf8 31. Bg7+ Kxg7 32. Rxe8 a5 33. Kf2 a4 34. a3 Kf6 35. Nf3 c5 36. Rd8
+Ke6 37. Re8+ Kd7 38. Re2 Bf5 39. h4 Kc6 40. Ne5+ Kb5 41. Nf7 Bh2 42. Kg2 Bc7
+43. Re7 Kc6 44. Ne5+ Kd6 45. Rf7 Be4+ 46. Kf2 Ba5 47. Ra7 Bd2 ({
+Another road to the win goes by} 47... c3 48. bxc3 Bxc3) 48. Nf7+ Kc6 49. Ra6+
+Kb7 50. Rxa4 Bf4 51. Nd8+ Kb6 52. Ne6 Be5 53. Ra8 Bf5 54. Re8 Bxb2 55. Rb8+ Ka5
+56. Nc7 $5 c3 57. Nxd5 c2 58. a4 Kxa4 ({The last trap} 58... c1=Q 59. Ra8# {
+is avoided.}) 59. Nb6+ Kb3 60. Nd5+ Ka2 0-1
+
+[Event "URS-ch29 Baku"]
+[Site "?"]
+[Date "1961.??.??"]
+[Round "11"]
+[White "Polugaevsky, Lev"]
+[Black "Vladimirov, Boris"]
+[Result "1-0"]
+[ECO "B42"]
+[Annotator "JvR"]
+[PlyCount "71"]
+[EventDate "1961.??.??"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Bd3 Nc6 6. Nxc6 bxc6 7. c4 e5 8.
+O-O Bc5 9. Nd2 Qh4 $6 ({Useful development gives} 9... Nf6 10. Qa4 Qc7) 10. Qa4
+Rb8 11. a3 Nf6 12. Nf3 Qh5 13. b4 Bb6 14. c5 Bc7 15. Bb2 $6 (15. Bg5 $1 {
+attacks the kingside.}) 15... O-O 16. Qc2 Re8 17. Rad1 Qg4 18. h3 Qh5 19. Rfe1
+a5 20. Bc3 g5 $4 {Vladimirov has no ability for solid play.} ({
+An acceptable defence provides} 20... d5 $1 21. cxd6 Bxd6 22. Ba6 $1 axb4 23.
+Bxc8 Rbxc8 24. Rxd6 bxc3 25. Qxc3 c5 $1) 21. Be2 Qg6 22. Qb2 axb4 23. axb4 g4
+24. Nxe5 Bxe5 25. Bxe5 gxh3 26. Bf3 {
+White threatens to capture a rook or a knight.} 26... Rxb4 27. Qxb4 Rxe5 28.
+Qb8 Rg5 29. g3 Kg7 30. Kh2 Ba6 31. Rd6 Rxc5 32. Qb2 Rb5 33. Qc3 Qg5 34. e5 Ng4+
+35. Bxg4 Kf8 36. e6 1-0
+
+[Event "URS-ch29 Baku"]
+[Site "?"]
+[Date "1961.??.??"]
+[Round "12"]
+[White "Shamkovich, Leonid"]
+[Black "Polugaevsky, Lev"]
+[Result "0-1"]
+[ECO "B82"]
+[Annotator "JvR"]
+[PlyCount "74"]
+[EventDate "1961.??.??"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Nc3 Qc7 6. Bd3 Nf6 7. f4 d6 8. O-O
+Nbd7 9. Kh1 b5 {Polugaevsky could apply his variation against Nezhmetdinov.
+This time he plays a similar line.} 10. a3 Bb7 11. Qe2 Be7 12. Bd2 O-O 13. b4 (
+13. Rae1 $1 Nc5 14. e5 dxe5 15. fxe5 Nxd3 {(Shamkovich)} 16. Qxd3 Nd7 17. Qg3)
+13... Nb6 14. e5 dxe5 15. fxe5 Nfd7 16. Rae1 Rad8 $1 17. Rf4 $6 ({The sacrifice
+} 17. Bxh7+ $2 Kxh7 18. Qh5+ Kg8 19. Re3 {is refuted by} 19... Nxe5 $1 20. Rh3
+f6 21. Nxe6 Bxg2+ $1 22. Kg1 Bxh3 23. Nxc7 Bg4 $1 24. Qh4 Rxd2) ({
+The initiative keeps} 17. Qh5 g6 18. Qh3 Nxe5 19. Nxe6 fxe6 20. Qxe6+ Kg7)
+17... Nc4 18. Ndxb5 $5 axb5 19. Nxb5 Qc6 $1 ({Avoids} 19... Qxe5 $2 20. Bxc4)
+20. Bxc4 $5 Nxe5 $1 21. Bc3 Nxc4 22. Rg4 e5 23. Qxc4 h5 $1 24. Rge4 Qg6 25.
+R4e2 Bd5 {Black has built a strong attack.} 26. Qc7 $2 ({
+According to analysts, Black wins by} 26. Qd3 $1 Qc6 $1 {
+due to the threats ..Bc4 and ..Bxg2+. However,} 27. Qg3 $1 h4 $1 28. Qxe5 Bf6
+29. Qe3 Qxb5 30. Bxf6 gxf6 31. Qf4 {
+gives White sufficient positional and material compensation for the bishop.})
+26... Bh4 27. Rg1 Rc8 28. Qxe5 Bc4 29. Re4 (29. Nd6 Bxe2 30. Nxc8 Rxc8 $19)
+29... Bf6 30. Qf4 Bg5 31. Qe5 Bxb5 32. Qxg7+ Qxg7 33. Bxg7 Rfe8 34. Rxe8+ Rxe8
+35. Bd4 Re2 36. h3 Rxc2 37. Re1 Bc6 {
+Polugaevsky showed himself as the master of counterattack.} 0-1
+
+[Event "URS-ch29 Baku"]
+[Site "?"]
+[Date "1961.??.??"]
+[Round "13"]
+[White "Polugaevsky, Lev"]
+[Black "Tal, Mikhail"]
+[Result "1/2-1/2"]
+[ECO "A43"]
+[Annotator "JvR"]
+[PlyCount "81"]
+[EventDate "1961.??.??"]
+
+1. d4 c5 2. d5 d6 3. e4 g6 4. Nf3 Bg7 5. Nc3 Na6 6. Bb5+ Bd7 7. Bxd7+ Qxd7 8.
+O-O Nf6 9. a4 O-O 10. Bg5 Nc7 11. Qd3 h6 12. Bf4 Nh5 13. Bd2 Na6 14. Qe2 Nb4
+15. Rac1 e6 16. dxe6 Qxe6 $5 17. Nb5 {Tal is allowed a trick.} 17... Rfc8 ({
+The first pun is} 17... Nd5 $5 18. Rce1 Ndf4 19. Bxf4 Nxf4 20. Qe3 g5) 18. Nfd4
+$5 {Now Polu rallies.} 18... cxd4 19. Bxb4 Rc4 20. Bxd6 a6 21. Na3 (21. Nc7 $2
+Qxd6 22. Nxa8 Rc8 {(Khalifman).}) 21... d3 $1 22. Qf3 $1 d2 (22... Rxa4 23. e5
+d2 24. Qxb7 Rd8 25. Rcd1 Bxe5 26. Bxe5 Qxe5 {is more aggressive.}) 23. Rcd1
+Rxe4 24. Rxd2 Bxb2 25. Qb3 Rd8 26. Qxb2 Rxd6 27. Rxd6 Qxd6 28. Qxb7 Rxa4 29.
+Qc8+ Kg7 30. Nc4 Qd4 31. Ne3 Nf6 32. g3 Ne4 33. Qg4 Qe5 34. Qe2 Rd4 35. Qxa6
+Nd2 36. Rd1 Nf3+ 37. Kg2 Rxd1 38. Nxd1 Qe4 39. Ne3 Nd4+ 40. Kg1 Nf3+ 41. Kg2
+1/2-1/2
+
+[Event "URS-ch29 Baku"]
+[Site "?"]
+[Date "1961.??.??"]
+[Round "13"]
+[White "Spassky, Boris"]
+[Black "Khasin, Abram"]
+[Result "1/2-1/2"]
+[ECO "E30"]
+[Annotator "JvR"]
+[PlyCount "83"]
+[EventDate "1961.??.??"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Bg5 c5 5. d5 exd5 6. cxd5 d6 7. e3 Nbd7 8. Bb5
+Qa5 9. Bxd7+ Nxd7 10. Nge2 Ne5 11. O-O Bxc3 12. Nxc3 f6 13. Bf4 O-O 14. Ne4 Qd8
+15. Qd2 Re8 16. f3 f5 17. Nf2 Bd7 18. Rfc1 b5 19. Nd3 Nxd3 20. Qxd3 Qb6 21. h4
+a5 22. a3 c4 23. Qd2 Rac8 24. Kf2 Rc7 25. Qd4 $5 Qxd4 $6 26. exd4 Bc8 27. Bxd6
+Rd7 28. Bc5 Rxd5 29. a4 $1 {White wins a pawn in the endgame.} 29... b4 30.
+Rxc4 f4 31. Rcc1 Bd7 32. Re1 Rh5 33. Rxe8+ Bxe8 34. Re1 $1 Bxa4 35. Ra1 Bc6 36.
+Rxa5 b3 37. Ra3 Bd5 38. Bd6 Rh6 $1 39. Bxf4 Rc6 40. Ra8+ Kf7 41. Ra7+ Ke6 42.
+Rxg7 {White has to fight for a draw, despite the three extra pawns.} (42. Rxg7
+Rc2+ 43. Ke3 $1 Rxb2 44. Rg8 $1 Rc2 45. Rb8 $1 Rxg2 {
+Black threatens .. b2 and ..Ba2.} 46. Rb6+ Kf7 47. Bd6 Rg6 48. Kd3 Rh6 49. Bc7
+Rxb6 50. Bxb6 Bxf3 $11) 1/2-1/2
+
+[Event "URS-ch29 Baku"]
+[Site "?"]
+[Date "1961.??.??"]
+[Round "14"]
+[White "Bagirov, Vladimir"]
+[Black "Polugaevsky, Lev"]
+[Result "0-1"]
+[ECO "B43"]
+[Annotator "JvR"]
+[PlyCount "116"]
+[EventDate "1961.??.??"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Nc3 Qc7 6. a3 b5 7. Be2 Bb7 8. O-O
+Nf6 9. Bf3 d6 10. Re1 Nbd7 11. a4 $6 {
+White's action on the queenside will have a poor result.} 11... b4 12. Na2 Ne5
+$1 13. Bg5 ({The pointe is} 13. Nxb4 $2 d5 $1) 13... Nxf3+ 14. Qxf3 Be7 15. Bd2
+a5 16. Qd3 O-O 17. c3 d5 18. Nb5 $6 ({Less problems causes} 18. e5 $1 bxc3 19.
+Nxc3 Ne4 20. Nxe4 dxe4) 18... Qc6 19. cxb4 dxe4 {
+White's position looks confused.} 20. Qf1 $2 ({Correct is} 20. Qe2 $1 Qc2 21.
+Qd1 $1) 20... Qc2 21. Bc3 Qxa4 22. b3 Qxb3 23. Reb1 Qc2 24. bxa5 Ba6 25. Qe1
+Nd5 26. Nd4 Qd3 27. Nc6 Bd6 28. Ne5 Qe2 29. Qxe2 Bxe2 30. Nd7 Bc4 31. Bd4 (31.
+Nxf8 Bxa2 32. Rxa2 Nxc3 $19) 31... Rfc8 32. Nb6 Nxb6 33. Rxb6 Bc7 34. Rc6 Bxa2
+35. Rxa2 Bxh2+ 36. Kxh2 Rxc6 37. Rb2 Rc4 38. Be3 f5 39. Bb6 Ra4 40. Rb5 Kf7 41.
+Rc5 Kf6 42. g3 g5 43. Rc7 R8xa5 44. Bxa5 Rxa5 45. Rxh7 e3 46. fxe3 Ra2+ 47. Kg1
+Re2 48. Ra7 Rxe3 49. Kf2 f4 50. gxf4 gxf4 51. Ra5 e5 52. Ra8 Kf5 53. Ra7 Rd3
+54. Ke2 Ke4 55. Ra4+ Rd4 56. Ra3 f3+ 57. Kf2 Rd2+ 58. Ke1 Rb2 0-1
+
+[Event "URS-ch29 Baku"]
+[Site "?"]
+[Date "1961.??.??"]
+[Round "14"]
+[White "Taimanov, Mark"]
+[Black "Spassky, Boris"]
+[Result "1/2-1/2"]
+[ECO "E45"]
+[Annotator "JvR"]
+[PlyCount "30"]
+[EventDate "1961.??.??"]
+
+1. c4 e6 2. d4 Nf6 3. Nc3 Bb4 4. e3 b6 5. Nge2 Ba6 6. a3 Bxc3+ 7. Nxc3 d5 8.
+Qf3 O-O 9. Be2 c5 10. dxc5 Nbd7 11. cxd5 ({Taimanov avoids the adventure of} 
+11. cxb6 $5 Bxc4 12. bxa7 Bxe2 13. Qxe2 Rxa7) 11... Bxe2 12. Qxe2 Nxc5 13. b4
+Nb3 14. Rb1 Nxc1 15. Rxc1 Nxd5 1/2-1/2
+
+[Event "URS-ch29 Baku"]
+[Site "?"]
+[Date "1961.??.??"]
+[Round "15"]
+[White "Polugaevsky, Lev"]
+[Black "Shianovsky, Vladislav"]
+[Result "1-0"]
+[ECO "E81"]
+[Annotator "JvR"]
+[PlyCount "77"]
+[EventDate "1961.??.??"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 O-O 5. Be3 d6 6. f3 c6 7. Qd2 a6 8. O-O-O
+b5 9. Bh6 {Black shall attack on the queenside.} 9... bxc4 $2 ({
+This variation had its debut with} 9... Qa5 10. h4 $2 b4 $1 11. Nb1 c5 $1 {
+(Tarasov-Buslaev, Tbilisi 1956).}) 10. h4 d5 11. h5 Bxh6 12. Qxh6 g5 13. Nh3
+Bxh3 14. gxh3 Kh8 15. Rg1 Rg8 16. e5 Ne8 17. h4 Nc7 18. Rxg5 ({
+A favourable endgame results from} 18. hxg5 Qf8 19. Qxf8 Rxf8 20. Bh3) 18...
+Ne6 19. Rxg8+ Qxg8 20. Bh3 Nd7 21. Bxe6 fxe6 22. Ne2 $1 {
+White threatens Rg1 and Nf4-g6+.} 22... Qf8 23. Qxe6 Qxf3 24. Nc3 Qe3+ 25. Rd2
+Rg8 $5 26. Qxd7 Rg2 27. Qe8+ Kg7 28. Qxe7+ Kg8 29. Qe8+ Kg7 30. h6+ Kxh6 31.
+Qf8+ Kh5 32. Qf5+ Kh6 33. Ne2 Rf2 (33... Rxe2 34. Qg5+ $18) 34. Qg4 c5 35. Qg5+
+Qxg5 36. hxg5+ Kxg5 37. dxc5 h5 38. c6 h4 39. Nd4 1-0
+
+[Event "URS-ch29 Baku"]
+[Site "?"]
+[Date "1961.??.??"]
+[Round "15"]
+[White "Spassky, Boris"]
+[Black "Vladimirov, Boris"]
+[Result "1-0"]
+[ECO "B94"]
+[Annotator "JvR"]
+[PlyCount "49"]
+[EventDate "1961.??.??"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 Nbd7 7. f4 Qc7 8.
+Qf3 g6 9. O-O-O Bg7 10. Be2 h6 11. Bh4 e5 $5 {
+Black takes a risk in an unusual variation. White answers in style.} 12. Ndb5
+$1 axb5 13. Nxb5 Qa5 14. Nxd6+ Kf8 15. Bc4 $5 (15. Qb3 Qxa2 16. Qxa2 Rxa2 17.
+Nxc8 exf4 {is less interesting.}) 15... exf4 16. Nxf7 Qc7 17. Bb3 (17. Nxh8
+Bxh8 {discontinues the attack.}) 17... Ne5 18. Nxe5 Qxe5 19. Rd8+ Ne8 20. c3 {
+Again Vladimirov chooses a clumsy advance of the g-pawn.} 20... g5 $2 ({
+Correct is} 20... Bf6 $1 21. Bxf6 Qxf6 22. Rhd1 Bg4 $1 23. Rxe8+ Rxe8 24. Qxg4
+Rxe4) 21. Qh5 $1 Qe7 22. Bf2 Bg4 23. Rxe8+ (23. Qxe8+ $1 Qxe8 24. Bc5#) 23...
+Rxe8 24. Qxg4 Be5 25. Rd1 1-0
+
+[Event "URS-ch29 Baku"]
+[Site "?"]
+[Date "1961.??.??"]
+[Round "16"]
+[White "Averbakh, Yury"]
+[Black "Polugaevsky, Lev"]
+[Result "0-1"]
+[ECO "E70"]
+[Annotator "JvR"]
+[PlyCount "50"]
+[EventDate "1961.??.??"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 O-O 5. Bg5 c5 6. d5 d6 7. Nge2 e6 8. Ng3 h6
+9. Bd2 exd5 10. exd5 Ng4 11. Be2 Qh4 12. Qb3 f5 13. Bxg4 fxg4 14. Nce4 Nd7 15.
+O-O-O ({Avoids} 15. Nxd6 $6 Qe7+ 16. Nde4 Nf6 17. Qe3 Nxe4 18. Qxe4 Qf6) 15...
+Qe7 16. Rhe1 Ne5 17. Bc3 Rb8 18. Qc2 Bd7 19. Kb1 b5 20. cxb5 Bxb5 $2 ({
+Correct is} 20... Rxb5) 21. Nxc5 $1 Rfc8 $1 (21... dxc5 $2 22. Bxe5 Bxe5 23.
+Qxg6+ Qg7 24. Qe6+ {(Lutikov).}) 22. Ne6 $2 {Averbakh collapses.} ({
+Great confusion starts} 22. Bxe5 $1 Rxc5 23. Qxc5 $1 Bd3+ $1 24. Ka1 dxc5 25.
+Bxb8 Qb7 26. Be5 Qxd5) 22... Bd3 $1 23. Rxd3 Nxd3 24. Nxg7 ({Lutikov analyses} 
+24. Qxd3 Rxc3 25. Qxg6 Rxb2+ 26. Kxb2 Qb7+ 27. Ka1 Rc1#) 24... Qxe1+ 25. Bxe1
+Rxc2 0-1
+
+[Event "URS-ch29 Baku"]
+[Site "?"]
+[Date "1961.??.??"]
+[Round "16"]
+[White "Shamkovich, Leonid"]
+[Black "Spassky, Boris"]
+[Result "1-0"]
+[ECO "C87"]
+[Annotator "JvR"]
+[PlyCount "123"]
+[EventDate "1961.??.??"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 d6 7. c3 Bg4 8. h3
+Bh5 9. Bxc6+ bxc6 10. d4 exd4 11. cxd4 O-O 12. Nbd2 Re8 13. Qc2 c5 $5 {
+He liberates his position with force.} 14. dxc5 d5 15. e5 Bg6 16. Qc3 Ne4 17.
+Nxe4 dxe4 18. Nd4 Qd5 19. Nb3 a5 20. Be3 Qd3 21. Rac1 Red8 22. Nd4 Rd5 23. Ne2
+Qxc3 24. Rxc3 Rxe5 {
+Black has won the pawn back, but White has a better endgame.} 25. Rd1 Bf6 26.
+Ra3 Ree8 27. b3 Bf5 28. Ra4 h5 29. Nf4 h4 30. Nd5 Be5 31. Bf4 Bxf4 32. Nxf4 Kf8
+33. Rd5 g6 34. c6 Ra6 35. Rc5 Rd8 36. Nd5 Rd6 37. Raxa5 Rxa5 38. Rxa5 Rxc6 39.
+Kf1 Ke8 40. Ke2 Kd7 41. Kd2 Rd6 42. Kc1 $5 Re6 43. a4 Re5 44. Nb6+ Ke6 45.
+Rxe5+ Kxe5 46. Nc4+ Kd4 47. Kd2 Be6 48. a5 $5 f5 $2 ({
+The intended attack prevents} 48... Bc8 $1 49. Na3 Ba6) 49. a6 f4 50. a7 Bd5
+51. Ke2 g5 52. g3 $3 {White creates chaces in a brilliant way.} 52... hxg3 $2 (
+{Ample counteraction provides} 52... g4 $3 53. gxf4 gxh3 {(Flohr)} 54. Ne3 h2
+55. Nxd5 h1=Q 56. a8=Q Qf3+) 53. fxg3 e3 54. gxf4 gxf4 55. Nxe3 $1 fxe3 56. h4
+Bb7 57. h5 Ke5 58. b4 Kf5 59. Kxe3 Bc6 60. Kd4 Kf6 61. h6 Kg6 62. Ke5 {
+Super duo: Boris and Polu 10 1/2 out of 15. Lev has closed the gap.} 1-0
+
+[Event "URS-ch29 Baku"]
+[Site "?"]
+[Date "1961.??.??"]
+[Round "17"]
+[White "Polugaevsky, Lev"]
+[Black "Vasiukov, Evgeny"]
+[Result "1-0"]
+[ECO "E92"]
+[Annotator "JvR"]
+[PlyCount "113"]
+[EventDate "1961.??.??"]
+
+1. d4 Nf6 2. c4 c5 3. d5 d6 4. Nc3 g6 5. e4 Bg7 6. Nf3 O-O 7. Be2 e5 8. Bg5 h6
+9. Bh4 g5 10. Bg3 Nh5 11. Nd2 Nf4 12. O-O Nd7 13. Bg4 $1 Nf6 14. Bxc8 Qxc8 {
+White has gained a lasting plus.} 15. f3 Kh8 16. a3 b6 17. b4 h5 18. Bf2 Bh6
+19. bxc5 bxc5 20. Ne2 Ne8 21. Ng3 Ng7 22. Qc2 g4 23. Nf5 Nxf5 24. exf5 Rg8 25.
+Kh1 gxf3 26. g3 Nh3 27. Nxf3 Rg4 28. Be1 e4 $6 ({A stronger defence brings} 
+28... Qa6 29. Bd2 Bxd2 30. Qxd2 Kh7) 29. Bd2 Bg7 30. f6 $1 {
+Polugaevsky attacks subtly.} 30... Bxf6 31. Bc3 exf3 $2 ({
+Better chances provides} 31... Bxc3 32. Qxc3+ Kg8 33. Nh4 Qd7) 32. Bxf6+ Kg8
+33. Rxf3 Ng5 34. Rf5 Nh7 35. Raf1 Nxf6 36. Rxf6 Rg7 37. Rxd6 h4 38. Rc6 Qh3 39.
+Qg2 Qg4 40. Rf4 Qd1+ 41. Qf1 Qd2 42. Rxh4 Re8 43. Rch6 Kf8 44. Re6 Rxe6 45.
+dxe6 Ke8 46. Qf3 Qc1+ 47. Kg2 Qb2+ 48. Kh3 Qb6 49. exf7+ Rxf7 50. Qa8+ Kd7 51.
+Qd5+ Ke7 52. Re4+ Kf8 53. Qa8+ Kg7 54. Rg4+ Kf6 55. Qh8+ Ke7 56. Re4+ Kd6 57.
+Qe5+ 1-0
+
+[Event "URS-ch29 Baku"]
+[Site "?"]
+[Date "1961.??.??"]
+[Round "17"]
+[White "Spassky, Boris"]
+[Black "Tal, Mikhail"]
+[Result "1-0"]
+[ECO "E65"]
+[Annotator "JvR"]
+[PlyCount "69"]
+[EventDate "1961.??.??"]
+
+1. d4 Nf6 2. Nf3 g6 3. g3 Bg7 4. Bg2 c5 5. c4 O-O 6. O-O d6 7. Nc3 Nc6 8. dxc5
+$5 {Spassky avoids Tal's Ben-Oni.} 8... dxc5 9. Be3 Be6 10. Bxc5 Qa5 11. Ba3
+Bxc4 12. Nd4 Nxd4 13. Qxd4 Rac8 14. Qf4 ({Risky is} 14. Bxe7 $6 Nd5 15. Qh4
+Nxe7 16. Qxe7 b5 17. a3 Rfe8 {(Foisor-Arakhamia, Juniors 1985).}) 14... g5 ({
+A draw forces} 14... Nh5 15. Qe3 Bxc3 16. Qxc3 Qxc3 17. bxc3 Rc7 {
+(Morovic-Bowden, London 1985).}) 15. Qe3 Rc7 16. Rad1 Re8 17. Rd4 b5 $2 ({
+Correct is} 17... h6 18. Rfd1 b5) 18. Qxg5 h6 19. Qd2 $1 b4 20. Nb1 Nd5 21. Rg4
+h5 22. Rg5 Rc5 23. b3 $1 {Tal suffers a tactical defeat.} 23... Nc3 ({
+The pointe is} 23... bxa3 24. Qxa5 Rxa5 25. bxc4) 24. Rxc5 Qxc5 25. Nxc3 bxc3
+26. Bxc5 cxd2 27. bxc4 Rb8 28. Bxa7 Rb2 29. e3 Rxa2 30. Bc5 e5 31. Bf3 h4 32.
+Rd1 hxg3 33. hxg3 Rc2 34. Be2 Rb2 35. Bd3 1-0
+
+[Event "URS-ch29 Baku"]
+[Site "?"]
+[Date "1961.??.??"]
+[Round "18"]
+[White "Bagirov, Vladimir"]
+[Black "Spassky, Boris"]
+[Result "0-1"]
+[ECO "C73"]
+[Annotator "JvR"]
+[PlyCount "144"]
+[EventDate "1961.??.??"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 d6 5. Bxc6+ bxc6 6. d4 f6 7. c4 Ne7 8. Be3
+Ng6 9. h3 Be7 10. Nc3 O-O 11. g4 a5 12. d5 Qe8 13. dxc6 Qxc6 14. Qd5+ Qxd5 15.
+cxd5 Bd7 16. O-O-O Kf7 17. Rd2 Rh8 18. Rc2 h5 19. Rg1 hxg4 20. hxg4 Rh3 21. Ne1
+Nh4 22. Ne2 Bd8 23. Rc3 a4 24. Bd2 Rh2 25. Be3 Rb8 26. Ng3 Rc8 27. Ba7 c5 28.
+dxc6 Rxc6 29. Rxc6 Bxc6 30. Nc2 Bd7 31. Nf1 Rg2 32. Rxg2 Nxg2 33. Nfe3 Nf4 34.
+f3 Ke6 35. b3 Ne2+ 36. Kd2 Ng1 37. Nf5 Nxf3+ 38. Ke3 Nh2 39. Nxg7+ Kf7 40. Nf5
+axb3 41. axb3 Be7 $5 42. Bb8 $2 (42. Nb4 Nxg4+ 43. Kf3 Nh2+ 44. Kg2 $11) 42...
+Nxg4+ 43. Kf3 d5 $1 {Boris closes the trap.} 44. Nxe7 ({The pointe is} 44. Kxg4
+dxe4 45. Ba7 Kg6 46. Nce3 Bb4 47. Bb6 Bd2 {Black wins material.}) 44... dxe4+
+45. Kxe4 Kxe7 46. Ne3 Nf2+ 47. Kf3 Nh3 48. b4 Ng5+ 49. Kg3 Ke6 50. Kg4 Ne4 51.
+Kh5 Be8+ 52. Kg4 Nf2+ 53. Kf3 Nd3 54. Ba7 Bh5+ 55. Kg3 Nxb4 56. Kh4 Be2 57. Kg3
+Nd3 58. Ng2 f5 59. Bb8 f4+ 60. Nxf4+ Nxf4 61. Kf2 Kd5 62. Ke3 Bh5 63. Kd2 Ne6
+64. Bxe5 Kxe5 65. Kc3 Kd5 66. Kd3 Bg6+ 67. Kc3 Nc5 68. Kb2 Kc4 69. Ka1 Kc3 70.
+Ka2 Nb3 71. Ka3 Bb1 72. Ka4 Nd4 0-1
+
+[Event "URS-ch29 Baku"]
+[Site "?"]
+[Date "1961.??.??"]
+[Round "18"]
+[White "Kots, Yury"]
+[Black "Polugaevsky, Lev"]
+[Result "1/2-1/2"]
+[ECO "B41"]
+[Annotator "JvR"]
+[PlyCount "141"]
+[EventDate "1961.??.??"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. g3 d5 6. e5 Nc6 7. Nxc6 bxc6 8. Bg2
+Qc7 9. Qe2 a5 10. c4 Ba6 11. b3 Bc5 12. O-O Ne7 13. Bb2 O-O 14. Nd2 a4 15. Rab1
+Rfb8 16. Rfc1 Nf5 17. Bh3 axb3 18. axb3 Nd4 19. Bxd4 Bxd4 20. Nf3 Bc5 21. Qc2
+dxc4 22. bxc4 h6 23. Bf1 Rxb1 24. Rxb1 Rb8 25. Ra1 Qb6 26. Bd3 Bc8 27. Qe2 Bd7
+28. Rf1 Be8 29. Qe4 Kf8 $5 30. Qh7 Qb3 31. Ne1 Bb4 32. Ng2 Qc3 33. Qe4 Rd8 34.
+Bb1 Bc5 35. Nf4 Qd4 36. Qe2 $6 Bb4 37. Bc2 Qc3 38. Rd1 Rxd1+ 39. Bxd1 Qd4 40.
+Bb3 Bc5 41. Kg2 Bd7 42. Ba4 Bb6 43. Nh3 Ke7 44. f4 Qa1 45. Bc2 Bd4 46. Nf2 c5
+47. Be4 Ba4 48. Bf3 Bb3 49. Ne4 Qc1 50. Nd2 Ba4 51. Ne4 Bb3 52. Nd2 Ba2 53. Qd3
+g5 54. Kh3 gxf4 55. gxf4 Kf8 56. Nb3 $4 (56. Qh7 $1 Qxd2 57. Qh8+ Ke7 58. Qf6+
+Kf8 {leads to perpetual check.}) 56... Qxf4 $4 (56... Bxb3 57. Qxb3 Qxf4 $19)
+57. Nxd4 Qxd4 58. Qxd4 cxd4 59. c5 d3 60. Bd1 Ke7 61. Kg3 Bb1 62. Bf3 d2 63.
+Bd1 Kd7 64. Ba4+ Kc7 65. Kf4 Bd3 66. Ke3 Bb5 67. Bd1 Kc6 68. Kd4 Bf1 69. Ba4+
+Kc7 70. Ke3 Bb5 71. Bd1 {Spassky became the sole leader again.} 1/2-1/2
+
+[Event "URS-ch29 Baku"]
+[Site "?"]
+[Date "1961.??.??"]
+[Round "19"]
+[White "Polugaevsky, Lev"]
+[Black "Gipslis, Aivars"]
+[Result "1/2-1/2"]
+[ECO "B48"]
+[Annotator "JvR"]
+[PlyCount "42"]
+[EventDate "1961.??.??"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e6 5. Nc3 Qc7 6. Be3 a6 7. a3 b5 8. Nxc6
+Qxc6 9. Be2 Bb7 10. O-O Rc8 11. Bd4 Qc7 12. Qd2 (12. f4 $1 {
+shows more ambition.}) 12... e5 $1 13. Be3 Nf6 14. f3 Bc5 15. Rfd1 Bxe3+ 16.
+Qxe3 Qc5 17. Qxc5 Rxc5 18. Rd6 Ke7 19. Rb6 Rb8 20. a4 Rc6 21. Rxc6 dxc6 1/2-1/2
+
+[Event "URS-ch29 Baku"]
+[Site "?"]
+[Date "1961.??.??"]
+[Round "19"]
+[White "Spassky, Boris"]
+[Black "Shianovsky, Vladislav"]
+[Result "1-0"]
+[ECO "A49"]
+[Annotator "JvR"]
+[PlyCount "61"]
+[EventDate "1961.??.??"]
+
+1. d4 Nf6 2. Nf3 g6 3. g3 Bg7 4. Bg2 O-O 5. O-O c6 6. a4 $5 d5 7. b3 Ne4 8. Bb2
+c5 9. e3 Nc6 10. Nbd2 Bf5 11. Ne5 Nxe5 12. dxe5 Qa5 13. Nxe4 dxe4 14. Qd5 Qc7
+$6 (14... Qb4 15. Ba3 Qc3 16. Qxb7 Qxe5 {keeps equality.}) 15. Bxe4 {
+White has captured one pawn and threatens to take another.} 15... Rad8 $2 {
+Black moves the wrong rook.} ({Correct is} 15... Rfd8 $1 16. Qxb7 Qxb7 17. Bxb7
+Rab8 18. Bg2 Rd2 19. Rac1 Rxc2) 16. Qxb7 Qxb7 17. Bxb7 Bxc2 18. Rfc1 Bxb3 19.
+Rxc5 Rd7 20. Bc8 Rd5 21. Rxd5 Bxd5 22. Rc1 Bf3 23. a5 Rd8 24. Bd4 Rd5 25. Bb7
+Rxd4 26. exd4 Bxb7 27. Rc7 Bf3 28. Rxa7 e6 29. a6 Bh6 30. Rc7 Bd2 31. a7 1-0
+
+[Event "URS-ch29 Baku"]
+[Site "?"]
+[Date "1961.??.??"]
+[Round "20"]
+[White "Averbakh, Yury"]
+[Black "Spassky, Boris"]
+[Result "1/2-1/2"]
+[ECO "E14"]
+[Annotator "JvR"]
+[PlyCount "37"]
+[EventDate "1961.??.??"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 b6 4. e3 Bb7 5. Bd3 Be7 6. O-O O-O 7. b3 c5 8. Bb2
+cxd4 9. Nxd4 Nc6 10. Nxc6 Bxc6 11. Nc3 Qc7 12. Qe2 Bd6 $2 (12... a6 {
+avoids troubles.}) 13. Nb5 Bxb5 14. Bxf6 gxf6 15. Qg4+ $2 (15. cxb5 $1 Rac8 $1
+16. Qh5 f5 17. g4 $1 {starts a ferocious attack.}) 15... Kh8 16. Qh4 Bxh2+ 17.
+Kh1 f5 18. Qf6+ Kg8 19. Qg5+ 1/2-1/2
+
+[Event "URS-ch29 Baku"]
+[Site "?"]
+[Date "1961.??.??"]
+[Round "20"]
+[White "Savon, Vladimir"]
+[Black "Polugaevsky, Lev"]
+[Result "0-1"]
+[ECO "A37"]
+[Annotator "JvR"]
+[PlyCount "143"]
+[EventDate "1961.??.??"]
+
+1. Nf3 c5 2. g3 Nc6 3. Bg2 g6 4. O-O Bg7 5. c4 e5 6. Nc3 Nge7 7. d3 d6 8. a3
+O-O 9. Rb1 a5 10. Ne1 Be6 11. Nc2 d5 12. cxd5 Nxd5 13. Ne4 (13. Ne3 $1 {
+keeps equal chances.}) 13... Qb6 $1 14. Ne3 Nxe3 15. Bxe3 Nd4 16. Bxd4 exd4 17.
+Qc2 Rac8 18. Nd2 Qa6 19. a4 b6 20. Nc4 Qa7 21. Qd2 Qc7 22. h4 Rce8 23. b3 Re7
+24. Bf3 f5 25. Kg2 Bf6 26. Rh1 Ref7 27. Rbg1 Bd8 28. Qh6 Qe7 29. Qc1 Bc7 30.
+Re1 Qf6 31. Qh6 Rd8 32. Nd2 Qg7 33. Qxg7+ Kxg7 34. Reg1 Rb8 35. Nc4 Re7 36. Re1
+Kf6 37. Bc6 Rc8 38. Bb7 Rd8 39. Bc6 Bc8 40. Bf3 Rg7 41. Reg1 Re7 42. Kf1 h5 43.
+Ke1 Bd7 44. Kd2 Rb8 45. Kc2 Ree8 46. Ra1 Kg7 47. Rhg1 Re6 48. Rae1 Ree8 49. Ra1
+Re6 50. Rae1 Rbe8 51. Kd2 Rf6 52. Kc2 Kf8 53. Nd2 Rfe6 54. Nc4 Kg7 55. Kd2 Rb8
+56. Kc2 {This position occurs for the third time. Nevertheless, the
+'Sitzkrieg' of long manoeuvring in a closed game continues.} 56... Kf6 57. Ra1
+Re7 58. Kd2 Ree8 59. Na3 Re6 60. Nc4 b5 61. axb5 Rxb5 62. Ra3 Ra6 63. Rga1 f4
+64. gxf4 Bxf4+ 65. Kc2 Bc7 66. Be4 Be8 67. Rg1 Kg7 68. Raa1 Bd8 69. Rh1 Rb4 70.
+Bd5 a4 71. bxa4 Raxa4 72. Rxa4 {
+White overstepped the third time control in a defendable position.} 0-1
+
+[Event "URS-ch29 Baku"]
+[Site "?"]
+[Date "1961.??.??"]
+[Round "21"]
+[White "Polugaevsky, Lev"]
+[Black "Keres, Paul"]
+[Result "1/2-1/2"]
+[ECO "C11"]
+[Annotator "JvR"]
+[PlyCount "41"]
+[EventDate "1961.??.??"]
+
+1. d4 e6 2. e4 d5 3. Nc3 Nf6 4. Bg5 dxe4 5. Nxe4 Be7 6. Bxf6 Bxf6 7. Nf3 Bd7 $5
+8. Bd3 Bc6 9. c3 Nd7 10. Qe2 Be7 11. O-O O-O 12. Rad1 Nf6 13. c4 $5 {
+Polugaevsky needs a win, but Keres draws easily.} 13... Bxe4 14. Bxe4 c6 15.
+Bb1 Qc7 16. Ne5 Rad8 17. Rd3 c5 18. dxc5 Qxc5 19. b3 Rxd3 20. Nxd3 Qc7 21. Rd1
+1/2-1/2
+
+[Event "URS-ch29 Baku"]
+[Site "?"]
+[Date "1961.??.??"]
+[Round "21"]
+[White "Spassky, Boris"]
+[Black "Vasiukov, Evgeny"]
+[Result "1/2-1/2"]
+[ECO "C48"]
+[Annotator "JvR"]
+[PlyCount "30"]
+[EventDate "1961.??.??"]
+
+1. e4 {Vasiukov provokes.} 1... Nc6 2. Nf3 e5 3. Bb5 Nf6 4. Nc3 Nd4 5. Nxd4 {
+But Spassky wants to draw.} 5... exd4 6. e5 dxc3 7. exf6 Qxf6 8. dxc3 Qe5+ 9.
+Qe2 Qxe2+ 10. Bxe2 d5 11. Bf4 c6 12. O-O-O Be6 13. Rhe1 O-O-O 14. Bd3 Bd6 15.
+Bxd6 Rxd6 {Super duo: Boris 14 1/2 and Polu 14.} 1/2-1/2
+

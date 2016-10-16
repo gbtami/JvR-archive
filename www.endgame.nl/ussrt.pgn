@@ -1,0 +1,534 @@
+[Event "USSR team championship"]
+[Site "Moscow"]
+[Date "1966.??.??"]
+[Round "?"]
+[White "Botvinnik, Mikhail"]
+[Black "Geller, Efim"]
+[Result "1/2-1/2"]
+[ECO "A26"]
+[PlyCount "117"]
+[EventDate "1966.??.??"]
+[Source "ChessBase"]
+
+1. c4 g6 2. g3 Bg7 3. Bg2 e5 4. Nc3 d6 5. d3 Ne7 6. e4 O-O 7. Nge2 Nbc6 8. O-O
+Be6 9. Nd5 Qd7 10. Be3 Nd4 11. Nxd4 exd4 12. Bh6 c5 13. Bxg7 Kxg7 14. Qd2 Nxd5
+15. cxd5 Bh3 16. Bxh3 Qxh3 17. f4 Qd7 18. f5 f6 19. h4 Qe7 20. Rf3 Qe5 21. Kg2
+Rac8 22. b3 b5 23. a4 c4 24. axb5 cxd3 25. Rxa7+ Rf7 26. Rxf7+ Kxf7 27. fxg6+
+hxg6 28. Qxd3 Rc3 29. Qe2 Rc7 30. b6 Rb7 31. Qa6 Qe7 32. Kh2 Kg7 33. Rd3 g5 34.
+hxg5 Kg6 35. Rxd4 Qe5 36. Qd3 fxg5 37. Kg2 Rxb6 38. Qe3 Rxb3 39. Qxb3 Qxd4 40.
+Qf3 Qb2+ 41. Qf2 Qe5 42. Qe2 Qd4 43. Kf3 Qf6+ 44. Ke3 Qc3+ 45. Kf2 Qf6+ 46. Kg1
+Qa1+ 47. Kg2 Qd4 48. Qf3 Qb2+ 49. Qf2 Qe5 50. Qe1 g4 51. Qb4 Qf6 52. Qa3 Kh5
+53. Qe3 Kg6 54. Qe2 Kg5 55. Qf2 Qe5 56. Qe3+ Kg6 57. Kf1 Qf6+ 58. Ke2 Qb2+ 59.
+Qd2 1/2-1/2
+
+[Event "USSR team championship"]
+[Site "Moscow"]
+[Date "1966.??.??"]
+[Round "?"]
+[White "Botvinnik, Mikhail"]
+[Black "Keres, Paul"]
+[Result "1-0"]
+[ECO "A29"]
+[Annotator "JvR"]
+[PlyCount "53"]
+[EventDate "1966.??.??"]
+[Source "ChessBase"]
+[SourceDate "2000.11.22"]
+
+1. c4 Nf6 2. Nc3 e5 3. Nf3 Nc6 4. g3 Bc5 5. Nxe5 $5 Bxf2+ 6. Kxf2 Nxe5 7. e4 c5
+8. d3 (8. Kg2 {was played in Longer-Nikolac, Sarajevo 1951.}) 8... d6 9. h3 h5
+$6 ({Botvinnik prefers} 9... O-O) 10. Be2 Nh7 11. Kg2 h4 12. g4 Ng5 13. Be3 Bd7
+14. Qd2 Ne6 15. b4 b6 16. Rab1 Bc6 17. Rhf1 Bb7 18. Kg1 Nc6 19. Nd5 Ncd4 20.
+Bd1 f6 $2 {Keres ruins his position.} ({He should have played} 20... O-O {
+at last.}) 21. Kh2 Bc6 22. a4 a5 23. bxa5 bxa5 24. Qf2 $1 Ra7 25. g5 $1 O-O 26.
+g6 $1 f5 ({Or} 26... Be8 27. Qg1 $1 f5 28. exf5 Rxf5 29. Rxf5 Nxf5 30. Qg4) 27.
+Rb8 $1 {White wins the queen or delivers mate.} 1-0
+
+[Event "USSR team championship"]
+[Site "Moscow"]
+[Date "1966.??.??"]
+[Round "?"]
+[White "Botvinnik, Mikhail"]
+[Black "Petrosian, Tigran V"]
+[Result "0-1"]
+[ECO "A26"]
+[Annotator "JvR"]
+[PlyCount "68"]
+[EventDate "1966.??.??"]
+[Source "ChessBase"]
+
+1. c4 g6 2. g3 Bg7 3. Bg2 d6 4. Nc3 e5 5. d3 Ne7 6. e4 O-O 7. Nge2 Nbc6 8. O-O
+f5 9. Nd5 Kh8 $5 10. Be3 Be6 11. Qd2 Qd7 12. Rae1 Rae8 13. f4 exf4 $6 ({
+Better is} 13... fxe4 14. dxe4 Bg4) 14. Nexf4 Bg8 15. Nxe7 Nxe7 16. Bh3 b5 $5
+17. b3 (17. Bxa7 $2 c5 $1 {favours Black.}) 17... c5 18. d4 Qc6 19. cxb5 Qxb5
+20. dxc5 dxc5 21. Rc1 Rd8 22. Qe2 Qxe2 23. Nxe2 c4 $2 ({Correct is} 23... Rfe8
+24. Bxc5 Nc6) 24. bxc4 Nc6 $6 25. Bg5 fxe4 $5 {Tigran seems to be desperate.}
+26. Bxd8 Rxd8 27. Bg2 Nd4 28. Nxd4 Bxd4+ 29. Kh1 e3 30. Rfe1 Bc5 31. Bf3 Be6
+32. Kg2 Rd2+ 33. Re2 Bf5 34. Rc3 $4 ({Right is} 34. Rce1) 34... Be4 $1 ({
+The pointe is} 34... Be4 35. Rcxe3 Bxe3 36. Rxd2 Bxf3+ 37. Kxf3 Bxd2 {
+and Black has won a piece.}) 0-1
+
+[Event "USSR team championship"]
+[Site "Moscow"]
+[Date "1966.??.??"]
+[Round "?"]
+[White "Botvinnik, Mikhail"]
+[Black "Smyslov, Vassily"]
+[Result "1-0"]
+[ECO "A25"]
+[Annotator "JvR"]
+[PlyCount "109"]
+[EventDate "1966.??.??"]
+[Source "ChessBase"]
+
+1. c4 e5 2. Nc3 d6 3. g3 Nc6 4. Bg2 Nf6 5. d3 g6 6. f4 Bg7 7. Nf3 O-O 8. O-O
+exf4 9. Bxf4 Bg4 $5 {Black prepares an attack that proves to be fatal.} 10. Qd2
+Re8 11. Rae1 Rb8 $6 (11... d5 $1 12. cxd5 Nxd5 {
+leads to counter-play in the centre.}) 12. Bg5 Bxf3 $2 ({Botvinnik analyses} 
+12... Qd7 13. Bxf6 Bxf6 14. Ng5 {and White attacks f7, but} 14... Qd8 15. Nce4
+Bxg5 16. Nxg5 Be6 17. Qf4 Qe7 18. Qh4 h5 {gives a proper defence in my view.})
+13. Bxf3 Ne5 14. Qf4 {
+Black has to give a pawn. Otherwise he will lose the king's knight.} 14... h6
+15. Bxh6 Bxh6 16. Qxh6 c6 17. Kh1 Re6 18. Qd2 Kg7 19. b3 Qh8 20. d4 Neg4 21. e4
+Qh3 22. Kg1 Rh8 23. Re2 c5 24. dxc5 dxc5 25. Nd5 Nxd5 26. Bxg4 Qxg4 27. cxd5
+Rxe4 28. Qc3+ Rd4 29. Qxc5 Qxe2 30. Qxd4+ Kg8 31. Rf2 Qe1+ 32. Kg2 Rh5 33. d6
+Qe6 34. Rd2 Qd7 35. Kg1 b6 36. Rc2 Kh7 37. Rc7 Qf5 38. Qf4 Qxf4 39. gxf4 Kg7
+40. Rxa7 Rd5 41. d7 Kf6 42. Kf2 Ke7 43. Ke3 Kd8 44. Ke4 Rh5 45. a4 Rxh2 46. Ke5
+Ke7 47. d8=Q+ Kxd8 48. Rxf7 Rb2 49. Kd6 Ke8 50. Re7+ Kd8 51. Rb7 Rd2+ 52. Kc6
+Rd4 53. Rxb6 Rxf4 54. Rb8+ Ke7 55. a5 1-0
+
+[Event "USSR team championship"]
+[Site "Moscow"]
+[Date "1966.??.??"]
+[Round "?"]
+[White "Botvinnik, Mikhail"]
+[Black "Stein, Leonid"]
+[Result "1/2-1/2"]
+[ECO "A36"]
+[PlyCount "71"]
+[EventDate "1966.??.??"]
+[Source "ChessBase"]
+
+1. c4 g6 2. g3 Bg7 3. Bg2 c5 4. Nc3 Nc6 5. e3 e6 6. Nge2 Nge7 7. O-O O-O 8. d4
+cxd4 9. Nxd4 d5 10. cxd5 Nxd5 11. Nxd5 exd5 12. Ne2 d4 13. Nxd4 Nxd4 14. exd4
+Qxd4 15. Qxd4 Bxd4 16. Rd1 Bg7 17. Be3 Bxb2 18. Rab1 Bc3 19. Bxb7 Bxb7 20. Rxb7
+a5 21. Rd3 Rac8 22. Bh6 Bg7 23. Bxg7 Kxg7 24. Rb5 Rc7 25. Rxa5 Rb8 26. Kg2 Rb2
+27. Rf3 h5 28. Rf4 Rd7 29. h3 Rc2 30. g4 hxg4 31. hxg4 Rdd2 32. Kg3 Rc3+ 33.
+Kg2 Rc1 34. a4 Rc8 35. Kg3 Rc1 36. Ra6 1/2-1/2
+
+[Event "USSR team championship"]
+[Site "Moscow"]
+[Date "1966.??.??"]
+[Round "?"]
+[White "Geller, Efim"]
+[Black "Keres, Paul"]
+[Result "1/2-1/2"]
+[ECO "D41"]
+[PlyCount "28"]
+[EventDate "1966.??.??"]
+[Source "ChessBase"]
+
+1. Nf3 Nf6 2. c4 e6 3. Nc3 c5 4. g3 d5 5. cxd5 Nxd5 6. Bg2 Be7 7. O-O O-O 8. d4
+Nc6 9. Nxd5 exd5 10. dxc5 Bxc5 11. Bf4 Bf5 12. Nd2 Bb6 13. e4 dxe4 14. Nxe4
+Qxd1 1/2-1/2
+
+[Event "USSR team championship"]
+[Site "Moscow"]
+[Date "1966.??.??"]
+[Round "?"]
+[White "Geller, Efim"]
+[Black "Tal, Mihail"]
+[Result "1/2-1/2"]
+[ECO "D43"]
+[PlyCount "78"]
+[EventDate "1966.??.??"]
+[Source "ChessBase"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Bg5 h6 5. Bxf6 Qxf6 6. Nc3 c6 7. e3 Nd7 8. Bd3
+Bd6 9. O-O Qe7 10. c5 Bc7 11. b4 e5 12. e4 dxe4 13. Bxe4 exd4 14. Re1 Ne5 15.
+Qxd4 Nxf3+ 16. Bxf3 Be6 17. Bg4 O-O 18. Bxe6 fxe6 19. Qc4 Rf4 20. Ne4 Rd8 21.
+g3 Rf5 22. Re2 Qf7 23. Rae1 Kh8 24. Qc2 Rf3 25. Nd2 Rfd3 26. Nc4 Qf5 27. Ne3
+Qf6 28. Ng2 Rc3 29. Qb1 e5 30. Nh4 Rcd3 31. f4 g5 32. fxe5 Qe6 33. Ng2 R3d5 34.
+Qb2 Re8 35. Ne3 Rxe5 36. Ng4 Qxg4 37. Rxe5 Bxe5 38. Rxe5 Rxe5 39. Qxe5+ Kh7
+1/2-1/2
+
+[Event "USSR team championship"]
+[Site "Moscow"]
+[Date "1966.??.??"]
+[Round "?"]
+[White "Keres, Paul"]
+[Black "Spassky, Boris"]
+[Result "1/2-1/2"]
+[ECO "E19"]
+[PlyCount "46"]
+[EventDate "1966.??.??"]
+[Source "ChessBase"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Bb7 5. Bg2 Be7 6. O-O O-O 7. Nc3 Ne4 8. Qc2
+Nxc3 9. Qxc3 d6 10. b3 Nd7 11. Bb2 Nf6 12. Rfd1 c5 13. Ne1 Bxg2 14. Nxg2 cxd4
+15. Rxd4 Qc7 16. Rad1 Rfd8 17. Qf3 Rac8 18. Ne3 Qc6 19. Qxc6 Rxc6 20. Kg2 Kf8
+21. f4 Rc7 22. Kf3 Rcd7 23. R4d3 Ne8 1/2-1/2
+
+[Event "USSR team championship"]
+[Site "Moscow"]
+[Date "1966.??.??"]
+[Round "?"]
+[White "Keres, Paul"]
+[Black "Tal, Mihail"]
+[Result "1/2-1/2"]
+[ECO "C49"]
+[PlyCount "34"]
+[EventDate "1966.??.??"]
+[Source "ChessBase"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. Bb5 Bb4 5. O-O O-O 6. d3 d6 7. Bg5 Bxc3 8.
+bxc3 Qe7 9. Bxc6 bxc6 10. Rb1 h6 11. Bxf6 Qxf6 12. Nd2 Be6 13. c4 Rfb8 14. Qe2
+c5 15. Rb3 Rb6 16. Rfb1 Rab8 17. Nf1 Qe7 1/2-1/2
+
+[Event "USSR team championship"]
+[Site "Moscow"]
+[Date "1966.??.??"]
+[Round "?"]
+[White "Petrosian, Tigran V"]
+[Black "Geller, Efim"]
+[Result "1/2-1/2"]
+[ECO "A36"]
+[PlyCount "54"]
+[EventDate "1966.??.??"]
+[Source "ChessBase"]
+
+1. c4 g6 2. g3 Bg7 3. Bg2 c5 4. Nc3 Nc6 5. Nf3 e6 6. O-O Nge7 7. e3 O-O 8. d4
+cxd4 9. Nxd4 d5 10. cxd5 Nxd5 11. Re1 Nxd4 12. exd4 Qb6 13. Bxd5 exd5 14. Nxd5
+Qxd4 15. Qxd4 Bxd4 16. Nc7 Rb8 17. Nb5 Bb6 18. Bh6 Rd8 19. Bg5 f6 20. Bf4 Ra8
+21. Nc7 Bxc7 22. Bxc7 Rd7 23. Ba5 b6 24. Bc3 Kf7 25. Rad1 Rxd1 26. Rxd1 Be6 27.
+a3 Rc8 1/2-1/2
+
+[Event "USSR team championship"]
+[Site "Moscow"]
+[Date "1966.??.??"]
+[Round "?"]
+[White "Petrosian, Tigran V"]
+[Black "Keres, Paul"]
+[Result "1/2-1/2"]
+[ECO "D41"]
+[PlyCount "60"]
+[EventDate "1966.??.??"]
+[Source "ChessBase"]
+
+1. c4 Nf6 2. Nf3 e6 3. Nc3 c5 4. g3 d5 5. cxd5 Nxd5 6. Bg2 Nc6 7. O-O Be7 8.
+Nxd5 exd5 9. d4 O-O 10. dxc5 Bxc5 11. Bg5 f6 12. Rc1 Bb6 13. Bf4 Be6 14. Ne1
+Re8 15. Nd3 Bf7 16. Re1 Rc8 17. a3 Qe7 18. Bd2 d4 19. Qa4 Qd6 20. Qb5 Red8 21.
+a4 Be8 22. Qf5 Ne7 23. Qf4 Qxf4 24. Nxf4 Bxa4 25. Bxb7 Rxc1 26. Rxc1 Kf7 27.
+Ba6 Bb3 28. Bc4+ Bxc4 29. Rxc4 Ng6 30. Nd3 Ne5 1/2-1/2
+
+[Event "USSR team championship"]
+[Site "Moscow"]
+[Date "1966.??.??"]
+[Round "?"]
+[White "Petrosian, Tigran V"]
+[Black "Stein, Leonid"]
+[Result "1/2-1/2"]
+[ECO "D03"]
+[PlyCount "25"]
+[EventDate "1966.??.??"]
+[Source "ChessBase"]
+
+1. d4 Nf6 2. Nf3 g6 3. Bg5 Bg7 4. Nbd2 d5 5. e3 O-O 6. c3 Bf5 7. Be2 c6 8. O-O
+Nbd7 9. Qb3 Qb6 10. h3 Rfe8 11. Bf4 Ne4 12. Rad1 Qxb3 13. axb3 1/2-1/2
+
+[Event "USSR team championship"]
+[Site "Moscow"]
+[Date "1966.??.??"]
+[Round "?"]
+[White "Smyslov, Vassily"]
+[Black "Geller, Efim"]
+[Result "1/2-1/2"]
+[ECO "E61"]
+[PlyCount "32"]
+[EventDate "1966.??.??"]
+[Source "ChessBase"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. Bg5 c5 5. e3 Qa5 6. Qd2 d6 7. Nf3 Bg4 8. Be2
+O-O 9. O-O Nbd7 10. h3 Bxf3 11. Bxf3 Rac8 12. Bxb7 cxd4 13. exd4 Rxc4 14. Nd5
+Qxd2 15. Nxe7+ Kh8 16. Bxd2 Rb8 1/2-1/2
+
+[Event "USSR team championship"]
+[Site "Moscow"]
+[Date "1966.??.??"]
+[Round "?"]
+[White "Smyslov, Vassily"]
+[Black "Keres, Paul"]
+[Result "1/2-1/2"]
+[ECO "E18"]
+[PlyCount "39"]
+[EventDate "1966.??.??"]
+[Source "ChessBase"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Bb7 5. Bg2 Be7 6. O-O O-O 7. Nc3 Ne4 8. Nxe4
+Bxe4 9. Ne1 Bxg2 10. Nxg2 d5 11. Qa4 dxc4 12. Qxc4 c5 13. dxc5 Bxc5 14. Be3 Nd7
+15. Rfd1 Qe7 16. Rac1 Rfd8 17. Bxc5 Nxc5 18. Ne3 Rxd1+ 19. Rxd1 Rd8 20. Qc2
+1/2-1/2
+
+[Event "USSR team championship"]
+[Site "Moscow"]
+[Date "1966.??.??"]
+[Round "?"]
+[White "Smyslov, Vassily"]
+[Black "Petrosian, Tigran V"]
+[Result "1/2-1/2"]
+[ECO "E18"]
+[PlyCount "31"]
+[EventDate "1966.??.??"]
+[Source "ChessBase"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Bb7 5. Bg2 Be7 6. O-O O-O 7. Nc3 Ne4 8. Nxe4
+Bxe4 9. Ne1 Bxg2 10. Nxg2 d5 11. Qa4 Qd7 12. Qxd7 Nxd7 13. cxd5 exd5 14. Nf4
+Nf6 15. Rd1 Rfd8 16. Bd2 1/2-1/2
+
+[Event "USSR team championship"]
+[Site "Moscow"]
+[Date "1966.??.??"]
+[Round "?"]
+[White "Smyslov, Vassily"]
+[Black "Stein, Leonid"]
+[Result "1/2-1/2"]
+[ECO "A32"]
+[PlyCount "40"]
+[EventDate "1966.??.??"]
+[Source "ChessBase"]
+
+1. d4 Nf6 2. c4 c5 3. Nf3 cxd4 4. Nxd4 e6 5. Nc3 Bb4 6. Bd2 Nc6 7. Nxc6 bxc6 8.
+e3 O-O 9. Be2 d5 10. O-O Bd6 11. Rc1 Qe7 12. cxd5 exd5 13. Bf3 h5 14. Ne2 Bd7
+15. Bc3 Ng4 16. g3 h4 17. Nf4 Ne5 18. Bxe5 Bxe5 19. Nd3 Bd6 20. Re1 Rad8
+1/2-1/2
+
+[Event "USSR team championship"]
+[Site "Moscow"]
+[Date "1966.??.??"]
+[Round "?"]
+[White "Spassky, Boris"]
+[Black "Botvinnik, Mikhail"]
+[Result "0-1"]
+[ECO "B19"]
+[Annotator "JvR"]
+[PlyCount "136"]
+[EventDate "1966.??.??"]
+[Source "ChessBase"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. h4 h6 7. Nf3 Nd7 8. h5
+Bh7 9. Bd3 Bxd3 10. Qxd3 Ngf6 11. Bd2 Qc7 12. O-O-O O-O-O 13. Qe2 e6 14. Ne5
+Nxe5 15. dxe5 Nd5 16. f4 c5 17. c4 Nb4 18. Bxb4 Rxd1+ 19. Rxd1 cxb4 20. Ne4 Be7
+21. Nd6+ Kb8 22. Nxf7 Rf8 23. Nd6 Rxf4 24. g3 Rf8 25. Qg4 Qd7 26. Kb1 Bg5 $6
+27. Nb5 $6 (27. c5 $1 {gains an advantage.}) 27... Rf1 28. Kc2 Rxd1 29. Qxd1
+Qxd1+ 30. Kxd1 Be3 31. Ke2 $2 ({Botvinnik mentions} 31. b3 $2 Bc5 $1) ({
+Right is} 31. Kc2 $1 Bf2 32. g4 Bg3 33. Nd4 Bxe5 34. Nxe6 {drawn.}) 31... Bc1
+32. b3 Bb2 33. Nd6 Bxe5 34. Ne4 Kc7 35. g4 Kc6 36. Kd3 b5 37. cxb5+ Kd5 $1 38.
+g5 hxg5 39. Nxg5 Bf4 40. Ne4 Bh6 41. Nf2 Bg5 42. Ng4 Bf4 43. Nf2 Bd6 44. Ng4
+Bc5 45. h6 gxh6 46. Nxh6 e5 47. Nf5 e4+ 48. Ke2 Ke5 49. Nh4 Kd4 50. Nf5+ Kd5 {
+Black postpones ..Kc5.} 51. Nh6 Be7 52. Ng4 Bg5 53. Nf2 Kd4 54. Nd1 Bc1 55. Nf2
+Kd5 56. Ng4 Bg5 57. Nf2 Bf6 58. Ng4 Bd4 59. Nh2 Bc5 60. Nf1 Kd4 61. Nd2 Bb6 62.
+Nc4 $2 ({Right is} 62. Nf1 Kc3 63. Ng3 e3 64. Kd1 $1 Kb2 65. Ne2 Kxa2 66. Kc2 {
+and Black cannot make progress (Botvinnik).}) 62... Kc3 63. Kd1 Bd4 64. Ke2 e3
+65. Na5 Kb2 66. Nc6 Bc5 67. Ne5 Kxa2 68. Nd3 Be7 0-1
+
+[Event "USSR team championship"]
+[Site "Moscow"]
+[Date "1966.??.??"]
+[Round "?"]
+[White "Spassky, Boris"]
+[Black "Geller, Efim"]
+[Result "1/2-1/2"]
+[ECO "D54"]
+[PlyCount "36"]
+[EventDate "1966.??.??"]
+[Source "ChessBase"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Be7 5. e3 O-O 6. Rc1 h6 7. Bh4 b6 8. cxd5
+Nxd5 9. Bxe7 Qxe7 10. Nxd5 exd5 11. Be2 c5 12. Bf3 Rd8 13. Ne2 Bb7 14. O-O Nd7
+15. Nf4 Nf6 16. dxc5 bxc5 17. Qa4 d4 18. Bxb7 Qxb7 1/2-1/2
+
+[Event "USSR team championship"]
+[Site "Moscow"]
+[Date "1966.??.??"]
+[Round "?"]
+[White "Spassky, Boris"]
+[Black "Petrosian, Tigran V"]
+[Result "1/2-1/2"]
+[ECO "D53"]
+[PlyCount "43"]
+[EventDate "1966.??.??"]
+[Source "ChessBase"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Be7 4. Nf3 Nf6 5. Bg5 h6 6. Bxf6 Bxf6 7. e3 c6 8. Bd3
+O-O 9. O-O Nd7 10. Qe2 dxc4 11. Bxc4 e5 12. d5 cxd5 13. Bxd5 Nb6 14. Bb3 Qe7
+15. Ne4 Bd7 16. Rfd1 Bc6 17. Nxf6+ Qxf6 18. Rd2 Rad8 19. Rad1 Rxd2 20. Rxd2 g6
+21. h3 Kg7 22. Qd1 1/2-1/2
+
+[Event "USSR team championship"]
+[Site "Moscow"]
+[Date "1966.??.??"]
+[Round "?"]
+[White "Spassky, Boris"]
+[Black "Smyslov, Vassily"]
+[Result "1/2-1/2"]
+[ECO "C68"]
+[PlyCount "44"]
+[EventDate "1966.??.??"]
+[Source "ChessBase"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. Nc3 f6 6. d4 exd4 7. Qxd4 Qxd4 8.
+Nxd4 Bd7 9. Bf4 O-O-O 10. O-O-O Bd6 11. Bxd6 cxd6 12. Rd2 Nh6 13. Rhd1 Kc7 14.
+f3 Rhe8 15. b3 f5 16. a4 Bc8 17. Kb2 fxe4 18. Nxe4 Nf7 19. c4 d5 20. cxd5 Rxd5
+21. Ne2 Rxd2+ 22. Rxd2 a5 1/2-1/2
+
+[Event "USSR team championship"]
+[Site "Moscow"]
+[Date "1966.??.??"]
+[Round "?"]
+[White "Spassky, Boris"]
+[Black "Stein, Leonid"]
+[Result "1/2-1/2"]
+[ECO "C42"]
+[PlyCount "35"]
+[EventDate "1966.??.??"]
+[Source "ChessBase"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. Qe2 Qe7 6. Nc3 Nxc3 7. dxc3 Qxe2+
+8. Bxe2 Nc6 9. Bg5 Be7 10. Bxe7 Kxe7 11. Nd4 Nxd4 12. cxd4 Bd7 13. Kd2 Rhe8 14.
+Bf3 Bc6 15. Bxc6 bxc6 16. Rhe1+ Kf6 17. Re3 Rxe3 18. fxe3 1/2-1/2
+
+[Event "USSR team championship"]
+[Site "Moscow"]
+[Date "1966.??.??"]
+[Round "?"]
+[White "Stein, Leonid"]
+[Black "Geller, Efim"]
+[Result "0-1"]
+[ECO "E70"]
+[Annotator "JvR"]
+[PlyCount "46"]
+[EventDate "1966.??.??"]
+[Source "ChessBase"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Bg5 h6 6. Bh4 c5 7. d5 Qa5 8. Bd3 $6
+(8. Qd2 {favours Black (Geller).}) 8... g5 9. Bg3 Nxe4 $1 10. Bxe4 Bxc3+ 11.
+bxc3 Qxc3+ 12. Kf1 f5 13. Ne2 $6 ({Geller recommends} 13. Rc1 Qf6 14. h4 {
+The best answer} 14... g4 $1 {will be played in Spassky-Fischer, Belgrade 1992.
+}) 13... Qf6 14. Bc2 f4 15. h4 Rf8 16. hxg5 hxg5 17. Nxf4 $6 ({Or} 17. Qe1 fxg3
+18. Nxg3 Qd4 19. Rh7 Rxf2+ 20. Qxf2 Qxa1+) 17... gxf4 18. Bh2 Nd7 19. g3 Ne5
+20. Qh5+ Kd8 21. gxf4 Ng4 22. Re1 Rh8 23. Bh7 {
+Efim better on Buisguier - Perez Perez, Utrecht 1961 with his next move.} 23...
+Qg7 $1 {Geller showed the use of preparation.} (23... Qg7 24. Bg3 Nf6 {
+wins material.}) 0-1
+
+[Event "USSR team championship"]
+[Site "Moscow"]
+[Date "1966.??.??"]
+[Round "?"]
+[White "Stein, Leonid"]
+[Black "Keres, Paul"]
+[Result "1/2-1/2"]
+[ECO "D34"]
+[PlyCount "85"]
+[EventDate "1966.??.??"]
+[Source "ChessBase"]
+
+1. c4 Nf6 2. Nc3 e6 3. Nf3 c5 4. g3 d5 5. cxd5 exd5 6. d4 Nc6 7. Bg2 Be7 8. O-O
+O-O 9. dxc5 Bxc5 10. Na4 Bb6 11. b3 Bf5 12. Bb2 Be4 13. Nxb6 axb6 14. Qd2 Qe7
+15. Rfc1 Rfe8 16. Qf4 h6 17. Bf1 Bxf3 18. exf3 Nh7 19. Bb5 Ng5 20. Qg4 Qe6 21.
+Qxe6 Rxe6 22. f4 Ne4 23. Rd1 Rd6 24. a3 Rad8 25. b4 d4 26. Rd3 Na7 27. Ba4 b5
+28. Bb3 Nc6 29. Rc1 b6 30. Re1 Nf6 31. Bd1 Nd5 32. Bf3 Kf8 33. Rc1 Nde7 34. Kf1
+R8d7 35. h4 Nd8 36. h5 f5 37. Re1 Ndc6 38. Red1 Kf7 39. Be2 Rd5 40. R3d2 Rd8
+41. Bf3 R5d6 42. Be2 Rd5 43. Ra1 1/2-1/2
+
+[Event "USSR team championship"]
+[Site "Moscow"]
+[Date "1966.??.??"]
+[Round "?"]
+[White "Stein, Leonid"]
+[Black "Tal, Mihail"]
+[Result "1/2-1/2"]
+[ECO "E16"]
+[PlyCount "31"]
+[EventDate "1966.??.??"]
+[Source "ChessBase"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Bb4+ 5. Bd2 Bxd2+ 6. Nbxd2 Bb7 7. Bg2 O-O 8.
+O-O c5 9. Rc1 Nc6 10. Nb1 Nxd4 11. Nxd4 Bxg2 12. Kxg2 cxd4 13. Qxd4 d5 14. cxd5
+Qxd5+ 15. Qxd5 Nxd5 16. Nc3 1/2-1/2
+
+[Event "USSR team championship"]
+[Site "Moscow"]
+[Date "1966.??.??"]
+[Round "?"]
+[White "Tal, Mihail"]
+[Black "Botvinnik, Mikhail"]
+[Result "1-0"]
+[ECO "B14"]
+[Annotator "JvR"]
+[PlyCount "89"]
+[EventDate "1966.??.??"]
+[Source "ChessBase"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 g6 6. Qb3 Bg7 7. cxd5 O-O 8.
+Nge2 Na6 9. g3 Qb6 10. Qxb6 axb6 11. Bg2 Nb4 12. O-O Rd8 13. d6 $1 exd6 (13...
+Rxd6 {was played in Spassky-Petrosian, Moscow 1966.}) 14. Bg5 $1 Re8 15. a3 Nc6
+16. Rfe1 Bg4 17. Bxf6 Bxf6 18. Nd5 Bd8 19. Nec3 Rxe1+ 20. Rxe1 Ra5 $4 {
+Botvinnik blunders dreadfully.} ({Judovic analyses} 20... Nxd4 $1 21. Re8+ Kg7
+22. Nxb6 Rb8 23. Nc4 Bd7) 21. Ne3 $2 (21. Re8+ $1 Kg7 22. Ne3 $1 Bd7 23. Bxc6
+Bxe8 24. Bxe8 {decides the game at once.}) 21... Bd7 22. Nc4 Ra8 ({Or} 22...
+Ra6 23. Nb5 $1) 23. d5 Nd4 24. Nxd6 Rb8 25. Nce4 f6 26. Nc4 Kf8 27. h3 Nb3 28.
+Bf1 b5 29. Ncd6 f5 30. Re3 fxe4 31. Rxb3 Ke7 32. Nxe4 Rc8 33. g4 Rc1 34. Kg2
+Re1 35. f3 Rd1 36. d6+ Kf7 37. Bxb5 Be6 38. Rc3 Rd4 39. Rd3 Rxd3 40. Bxd3 Bd5
+41. Nc5 b6 42. Be4 Be6 43. Nd3 Bb3 44. f4 Ke6 45. f5+ 1-0
+
+[Event "USSR team championship"]
+[Site "Moscow"]
+[Date "1966.??.??"]
+[Round "?"]
+[White "Tal, Mihail"]
+[Black "Petrosian, Tigran V"]
+[Result "1/2-1/2"]
+[ECO "D41"]
+[PlyCount "58"]
+[EventDate "1966.??.??"]
+[Source "ChessBase"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 e6 6. Nf3 Be7 7. cxd5 Nxd5 8.
+Bc4 Nc6 9. O-O O-O 10. Re1 Bf6 11. Ne4 b6 12. a3 Bb7 13. Qd3 Rc8 14. Nfg5 Bxg5
+15. Bxg5 f6 16. Bd2 Qd7 17. Rad1 Nce7 18. Ba2 Rfe8 19. Bb1 Ng6 20. Qg3 f5 21.
+Qd6 Rcd8 22. Qxd7 Rxd7 23. Ng5 Rde7 24. Ba2 h6 25. Nf3 Rc7 26. Rc1 Rxc1 27.
+Rxc1 Rc8 28. Rxc8+ Bxc8 29. h4 Bb7 1/2-1/2
+
+[Event "USSR team championship"]
+[Site "Moscow"]
+[Date "1966.??.??"]
+[Round "?"]
+[White "Tal, Mihail"]
+[Black "Smyslov, Vassily"]
+[Result "1/2-1/2"]
+[ECO "C90"]
+[PlyCount "39"]
+[EventDate "1966.??.??"]
+[Source "ChessBase"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. a4
+b4 9. a5 d6 10. c3 Rb8 11. Bc4 bxc3 12. Nxc3 Bg4 13. h3 Bxf3 14. Qxf3 Nd4 15.
+Qd1 c6 16. Ne2 Nb5 17. d3 d5 18. exd5 cxd5 19. Bxb5 Rxb5 20. Nc3 1/2-1/2
+
+[Event "USSR team championship"]
+[Site "Moscow"]
+[Date "1966.??.??"]
+[Round "?"]
+[White "Tal, Mihail"]
+[Black "Spassky, Boris"]
+[Result "1/2-1/2"]
+[ECO "D55"]
+[PlyCount "32"]
+[EventDate "1966.??.??"]
+[Source "ChessBase"]
+
+1. Nf3 d5 2. c4 e6 3. d4 Be7 4. Nc3 Nf6 5. Bg5 h6 6. Bxf6 Bxf6 7. e3 O-O 8. Qd2
+Nc6 9. Rd1 dxc4 10. Bxc4 e5 11. d5 Ne7 12. Ne4 Nf5 13. Qe2 Nd6 14. Nfd2 Be7 15.
+O-O Bf5 16. Bd3 Bxe4 1/2-1/2
+
